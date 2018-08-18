@@ -1,0 +1,1 @@
+CREATE INDEX scheme_id_answer_index ON master_test_elements_schemes (scheme_id, answer) USING BTREE;

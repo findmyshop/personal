@@ -1,0 +1,59 @@
+<xml>
+  <Module id='0'>
+    <Heading>
+      Introduction to Clinical Trials
+    </Heading>
+    <ResponseID>pra101</ResponseID>
+    <ResponseID>pra102</ResponseID>
+    <ResponseID>pra103</ResponseID>
+    <ResponseID>pra104</ResponseID>
+    <ResponseID>pra204</ResponseID>
+  </Module>
+  <Module id='1'>
+    <Heading>
+      Participating in a Clinical Trial
+    </Heading>
+    <ResponseID>pra124</ResponseID>
+    <ResponseID>pra117</ResponseID>
+    <ResponseID>pra207</ResponseID>
+    <ResponseID>pra205</ResponseID>
+  </Module>
+  <Module id='2'>
+    <Heading>
+      Rheumatoid Arthritis (RA) and Inflammation
+    </Heading>
+    <ResponseID>prb208</ResponseID>
+    <ResponseID>prb213</ResponseID>
+    <ResponseID>prb215</ResponseID>
+    <ResponseID>prb216</ResponseID>
+  </Module>
+  <Module id='3'>
+    <Heading>
+      RA Treatments and Biosimilars
+    </Heading>
+    <ResponseID>prb222</ResponseID>
+    <ResponseID>prb224</ResponseID>
+    <ResponseID>prb225</ResponseID>
+    <ResponseID>prb190</ResponseID>
+  </Module>
+  <Module id='4'>
+    <Heading>
+      Reflections Study B538-02
+    </Heading>
+    <ResponseID>prc139</ResponseID>
+    <ResponseID>prc159</ResponseID>
+    <ResponseID>prc166</ResponseID>
+    <ResponseID>prb231</ResponseID>
+    <ResponseID>prc167</ResponseID>
+  </Module>
+  <Module id='5'>
+    <Heading>
+      Participant Information
+    </Heading>
+    <ResponseID>prb145</ResponseID>
+    <ResponseID>prb148</ResponseID>
+    <ResponseID>prb128</ResponseID>
+    <ResponseID>prb239</ResponseID>
+    <ResponseID>prb181</ResponseID>
+  </Module>
+</xml>

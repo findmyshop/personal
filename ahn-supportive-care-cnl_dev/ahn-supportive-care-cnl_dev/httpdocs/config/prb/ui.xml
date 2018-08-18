@@ -1,0 +1,3877 @@
+<xml>
+<Response id="pra001" type="null" category="offtopic">
+<LeftRail>
+<Id>main</Id>
+<Hidden>false</Hidden>
+</LeftRail>
+<VideoControls>
+<Hidden>true</Hidden>
+<PreviousId />
+<NextId />
+</VideoControls>
+<AskControls>
+<Hidden>false</Hidden>
+<Action>analyze</Action>
+</AskControls>
+<CaseName>Pfizer_PRC</CaseName>
+</Response>
+<Response id="pra002" category="shame">
+<LeftRail>
+<Id>main</Id>
+<Hidden>false</Hidden>
+</LeftRail>
+<VideoControls>
+<Hidden>true</Hidden>
+<PreviousId />
+<NextId />
+</VideoControls>
+<AskControls>
+<Hidden>false</Hidden>
+<Action>analyze</Action>
+</AskControls>
+<CaseName>Pfizer_PRC</CaseName>
+</Response>
+<Response id="pra003" category="multianswer">
+<LeftRail>
+<Id>main</Id>
+<Hidden>false</Hidden>
+</LeftRail>
+<VideoControls>
+<Hidden>true</Hidden>
+<PreviousId />
+<NextId />
+</VideoControls>
+<AskControls>
+<Hidden>false</Hidden>
+<Action>analyze</Action>
+</AskControls>
+<CaseName>Pfizer_PRC</CaseName>
+</Response>
+<Response id="pra004">
+<LeftRail>
+<Id>main</Id>
+<Hidden>false</Hidden>
+</LeftRail>
+<VideoControls>
+<Hidden>true</Hidden>
+<PreviousId />
+<NextId />
+</VideoControls>
+<AskControls>
+<Hidden>false</Hidden>
+<Action>analyze</Action>
+</AskControls>
+<CaseName>Pfizer_PRC</CaseName>
+</Response>
+<Response id="pra005">
+<LeftRail>
+<Id>main</Id>
+<Hidden>false</Hidden>
+</LeftRail>
+<VideoControls>
+<Hidden>true</Hidden>
+<PreviousId />
+<NextId />
+</VideoControls>
+<AskControls>
+<Hidden>false</Hidden>
+<Action>analyze</Action>
+</AskControls>
+<CaseName>Pfizer_PRC</CaseName>
+</Response>
+<Response id="pra006">
+<LeftRail>
+<Id>main</Id>
+<Hidden>false</Hidden>
+</LeftRail>
+<VideoControls>
+<Hidden>true</Hidden>
+<PreviousId />
+<NextId />
+</VideoControls>
+<AskControls>
+<Hidden>false</Hidden>
+<Action>analyze</Action>
+</AskControls>
+<CaseName>Pfizer_PRC</CaseName>
+</Response>
+<Response id="pra007">
+<LeftRail>
+<Id>main</Id>
+<Hidden>false</Hidden>
+</LeftRail>
+<VideoControls>
+<Hidden>true</Hidden>
+<PreviousId />
+<NextId />
+</VideoControls>
+<AskControls>
+<Hidden>false</Hidden>
+<Action>analyze</Action>
+</AskControls>
+<CaseName>Pfizer_PRC</CaseName>
+</Response>
+<Response id="pra008">
+<LeftRail>
+<Id>main</Id>
+<Hidden>false</Hidden>
+</LeftRail>
+<VideoControls>
+<Hidden>true</Hidden>
+<PreviousId />
+<NextId />
+</VideoControls>
+<AskControls>
+<Hidden>false</Hidden>
+<Action>analyze</Action>
+</AskControls>
+<CaseName>Pfizer_PRC</CaseName>
+</Response>
+<Response id="pra009">
+<LeftRail>
+<Id>main</Id>
+<Hidden>false</Hidden>
+</LeftRail>
+<VideoControls>
+<Hidden>true</Hidden>
+<PreviousId />
+<NextId />
+</VideoControls>
+<AskControls>
+<Hidden>false</Hidden>
+<Action>analyze</Action>
+</AskControls>
+<CaseName>Pfizer_PRC</CaseName>
+</Response>
+<Response id="pra010">
+<LeftRail>
+<Id>main</Id>
+<Hidden>false</Hidden>
+</LeftRail>
+<VideoControls>
+<Hidden>true</Hidden>
+<PreviousId />
+<NextId />
+</VideoControls>
+<AskControls>
+<Hidden>false</Hidden>
+<Action>analyze</Action>
+</AskControls>
+<CaseName>Pfizer_PRC</CaseName>
+</Response>
+<Response id="pra011">
+<LeftRail>
+<Id>main</Id>
+<Hidden>false</Hidden>
+</LeftRail>
+<VideoControls>
+<Hidden>true</Hidden>
+<PreviousId />
+<NextId />
+</VideoControls>
+<AskControls>
+<Hidden>false</Hidden>
+<Action>analyze</Action>
+</AskControls>
+<CaseName>Pfizer_PRC</CaseName>
+</Response>
+<Response id="pra012">
+<LeftRail>
+<Id>main</Id>
+<Hidden>false</Hidden>
+</LeftRail>
+<VideoControls>
+<Hidden>true</Hidden>
+<PreviousId />
+<NextId />
+</VideoControls>
+<AskControls>
+<Hidden>false</Hidden>
+<Action>analyze</Action>
+</AskControls>
+<CaseName>Pfizer_PRC</CaseName>
+</Response>
+<Response id="pra013">
+<LeftRail>
+<Id>main</Id>
+<Hidden>false</Hidden>
+</LeftRail>
+<VideoControls>
+<Hidden>true</Hidden>
+<PreviousId />
+<NextId />
+</VideoControls>
+<AskControls>
+<Hidden>false</Hidden>
+<Action>analyze</Action>
+</AskControls>
+<CaseName>Pfizer_PRC</CaseName>
+</Response>
+<Response id="pra014">
+<LeftRail>
+<Id>main</Id>
+<Hidden>false</Hidden>
+</LeftRail>
+<VideoControls>
+<Hidden>true</Hidden>
+<PreviousId />
+<NextId />
+</VideoControls>
+<AskControls>
+<Hidden>false</Hidden>
+<Action>analyze</Action>
+</AskControls>
+<CaseName>Pfizer_PRC</CaseName>
+</Response>
+<Response id="pra015">
+<LeftRail>
+<Id>main</Id>
+<Hidden>false</Hidden>
+</LeftRail>
+<VideoControls>
+<Hidden>true</Hidden>
+<PreviousId />
+<NextId />
+</VideoControls>
+<AskControls>
+<Hidden>false</Hidden>
+<Action>analyze</Action>
+</AskControls>
+<CaseName>Pfizer_PRC</CaseName>
+</Response>
+<Response id="pra016">
+<LeftRail>
+<Id>main</Id>
+<Hidden>false</Hidden>
+</LeftRail>
+<VideoControls>
+<Hidden>true</Hidden>
+<PreviousId />
+<NextId />
+</VideoControls>
+<AskControls>
+<Hidden>false</Hidden>
+<Action>analyze</Action>
+</AskControls>
+<CaseName>Pfizer_PRC</CaseName>
+</Response>
+<Response id="pra017">
+<LeftRail>
+<Id>main</Id>
+<Hidden>false</Hidden>
+</LeftRail>
+<VideoControls>
+<Hidden>true</Hidden>
+<PreviousId />
+<NextId />
+</VideoControls>
+<AskControls>
+<Hidden>false</Hidden>
+<Action>analyze</Action>
+</AskControls>
+<CaseName>Pfizer_PRC</CaseName>
+</Response>
+<Response id="pra018">
+<LeftRail>
+<Id>main</Id>
+<Hidden>false</Hidden>
+</LeftRail>
+<VideoControls>
+<Hidden>true</Hidden>
+<PreviousId />
+<NextId />
+</VideoControls>
+<AskControls>
+<Hidden>false</Hidden>
+<Action>analyze</Action>
+</AskControls>
+<CaseName>Pfizer_PRC</CaseName>
+</Response>
+<Response id="pra019">
+<LeftRail>
+<Id>main</Id>
+<Hidden>false</Hidden>
+</LeftRail>
+<VideoControls>
+<Hidden>true</Hidden>
+<PreviousId />
+<NextId />
+</VideoControls>
+<AskControls>
+<Hidden>false</Hidden>
+<Action>analyze</Action>
+</AskControls>
+<CaseName>Pfizer_PRC</CaseName>
+</Response>
+<Response id="pra020">
+<LeftRail>
+<Id>main</Id>
+<Hidden>false</Hidden>
+</LeftRail>
+<VideoControls>
+<Hidden>true</Hidden>
+<PreviousId />
+<NextId />
+</VideoControls>
+<AskControls>
+<Hidden>false</Hidden>
+<Action>analyze</Action>
+</AskControls>
+<CaseName>Pfizer_PRC</CaseName>
+</Response>
+<Response id="pra021">
+<LeftRail>
+<Id>main</Id>
+<Hidden>false</Hidden>
+</LeftRail>
+<VideoControls>
+<Hidden>true</Hidden>
+<PreviousId />
+<NextId />
+</VideoControls>
+<AskControls>
+<Hidden>false</Hidden>
+<Action>analyze</Action>
+</AskControls>
+<CaseName>Pfizer_PRC</CaseName>
+</Response>
+<Response id="pra022">
+<LeftRail>
+<Id>main</Id>
+<Hidden>false</Hidden>
+</LeftRail>
+<VideoControls>
+<Hidden>true</Hidden>
+<PreviousId />
+<NextId />
+</VideoControls>
+<AskControls>
+<Hidden>false</Hidden>
+<Action>analyze</Action>
+</AskControls>
+<CaseName>Pfizer_PRC</CaseName>
+</Response>
+<Response id="pra023">
+<LeftRail>
+<Id>main</Id>
+<Hidden>false</Hidden>
+</LeftRail>
+<VideoControls>
+<Hidden>true</Hidden>
+<PreviousId />
+<NextId />
+</VideoControls>
+<AskControls>
+<Hidden>false</Hidden>
+<Action>analyze</Action>
+</AskControls>
+<CaseName>Pfizer_PRC</CaseName>
+</Response>
+<Response id="pra024">
+<LeftRail>
+<Id>main</Id>
+<Hidden>false</Hidden>
+</LeftRail>
+<VideoControls>
+<Hidden>true</Hidden>
+<PreviousId />
+<NextId />
+</VideoControls>
+<AskControls>
+<Hidden>false</Hidden>
+<Action>analyze</Action>
+</AskControls>
+<CaseName>Pfizer_PRC</CaseName>
+</Response>
+<Response id="pra025">
+<LeftRail>
+<Id>main</Id>
+<Hidden>false</Hidden>
+</LeftRail>
+<VideoControls>
+<Hidden>true</Hidden>
+<PreviousId />
+<NextId />
+</VideoControls>
+<AskControls>
+<Hidden>false</Hidden>
+<Action>analyze</Action>
+</AskControls>
+<CaseName>Pfizer_PRC</CaseName>
+</Response>
+<Response id="pra026">
+<LeftRail>
+<Id>main</Id>
+<Hidden>false</Hidden>
+</LeftRail>
+<VideoControls>
+<Hidden>true</Hidden>
+<PreviousId />
+<NextId />
+</VideoControls>
+<AskControls>
+<Hidden>false</Hidden>
+<Action>analyze</Action>
+</AskControls>
+<CaseName>Pfizer_PRC</CaseName>
+</Response>
+<Response id="pra027">
+<LeftRail>
+<Id>main</Id>
+<Hidden>false</Hidden>
+</LeftRail>
+<VideoControls>
+<Hidden>true</Hidden>
+<PreviousId />
+<NextId />
+</VideoControls>
+<AskControls>
+<Hidden>false</Hidden>
+<Action>analyze</Action>
+</AskControls>
+<CaseName>Pfizer_PRC</CaseName>
+</Response>
+<Response id="pra028">
+<LeftRail>
+<Id>main</Id>
+<Hidden>false</Hidden>
+</LeftRail>
+<VideoControls>
+<Hidden>true</Hidden>
+<PreviousId />
+<NextId />
+</VideoControls>
+<AskControls>
+<Hidden>false</Hidden>
+<Action>analyze</Action>
+</AskControls>
+<CaseName>Pfizer_PRC</CaseName>
+</Response>
+<Response id="pra029">
+<LeftRail>
+<Id>main</Id>
+<Hidden>false</Hidden>
+</LeftRail>
+<VideoControls>
+<Hidden>true</Hidden>
+<PreviousId />
+<NextId />
+</VideoControls>
+<AskControls>
+<Hidden>false</Hidden>
+<Action>analyze</Action>
+</AskControls>
+<CaseName>Pfizer_PRC</CaseName>
+</Response>
+<Response id="pra030">
+<LeftRail>
+<Id>main</Id>
+<Hidden>false</Hidden>
+</LeftRail>
+<VideoControls>
+<Hidden>true</Hidden>
+<PreviousId />
+<NextId />
+</VideoControls>
+<AskControls>
+<Hidden>false</Hidden>
+<Action>analyze</Action>
+</AskControls>
+<CaseName>Pfizer_PRC</CaseName>
+</Response>
+<Response id="pra031">
+<LeftRail>
+<Id>main</Id>
+<Hidden>false</Hidden>
+</LeftRail>
+<VideoControls>
+<Hidden>true</Hidden>
+<PreviousId />
+<NextId />
+</VideoControls>
+<AskControls>
+<Hidden>false</Hidden>
+<Action>analyze</Action>
+</AskControls>
+<CaseName>Pfizer_PRC</CaseName>
+</Response>
+<Response id="pra032">
+<LeftRail>
+<Id>main</Id>
+<Hidden>false</Hidden>
+</LeftRail>
+<VideoControls>
+<Hidden>true</Hidden>
+<PreviousId />
+<NextId />
+</VideoControls>
+<AskControls>
+<Hidden>false</Hidden>
+<Action>analyze</Action>
+</AskControls>
+<CaseName>Pfizer_PRC</CaseName>
+</Response>
+<Response id="pra033">
+<LeftRail>
+<Id>main</Id>
+<Hidden>false</Hidden>
+</LeftRail>
+<VideoControls>
+<Hidden>true</Hidden>
+<PreviousId />
+<NextId />
+</VideoControls>
+<AskControls>
+<Hidden>false</Hidden>
+<Action>analyze</Action>
+</AskControls>
+<CaseName>Pfizer_PRC</CaseName>
+</Response>
+<Response id="pra034">
+<LeftRail>
+<Id>main</Id>
+<Hidden>false</Hidden>
+</LeftRail>
+<VideoControls>
+<Hidden>true</Hidden>
+<PreviousId />
+<NextId />
+</VideoControls>
+<AskControls>
+<Hidden>false</Hidden>
+<Action>analyze</Action>
+</AskControls>
+<CaseName>Pfizer_PRC</CaseName>
+</Response>
+<Response id="pra035">
+<LeftRail>
+<Id>main</Id>
+<Hidden>false</Hidden>
+</LeftRail>
+<VideoControls>
+<Hidden>true</Hidden>
+<PreviousId />
+<NextId />
+</VideoControls>
+<AskControls>
+<Hidden>false</Hidden>
+<Action>analyze</Action>
+</AskControls>
+<CaseName>Pfizer_PRC</CaseName>
+</Response>
+<Response id="pra036">
+<LeftRail>
+<Id>main</Id>
+<Hidden>false</Hidden>
+</LeftRail>
+<VideoControls>
+<Hidden>true</Hidden>
+<PreviousId />
+<NextId />
+</VideoControls>
+<AskControls>
+<Hidden>false</Hidden>
+<Action>analyze</Action>
+</AskControls>
+<CaseName>Pfizer_PRC</CaseName>
+</Response>
+<Response id="pra037">
+<LeftRail>
+<Id>main</Id>
+<Hidden>false</Hidden>
+</LeftRail>
+<VideoControls>
+<Hidden>true</Hidden>
+<PreviousId />
+<NextId />
+</VideoControls>
+<AskControls>
+<Hidden>false</Hidden>
+<Action>analyze</Action>
+</AskControls>
+<CaseName>Pfizer_PRC</CaseName>
+</Response>
+<Response id="pra038">
+<LeftRail>
+<Id>main</Id>
+<Hidden>false</Hidden>
+</LeftRail>
+<VideoControls>
+<Hidden>true</Hidden>
+<PreviousId />
+<NextId />
+</VideoControls>
+<AskControls>
+<Hidden>false</Hidden>
+<Action>analyze</Action>
+</AskControls>
+<CaseName>Pfizer_PRC</CaseName>
+</Response>
+<Response id="pra039">
+<LeftRail>
+<Id>main</Id>
+<Hidden>false</Hidden>
+</LeftRail>
+<VideoControls>
+<Hidden>true</Hidden>
+<PreviousId />
+<NextId />
+</VideoControls>
+<AskControls>
+<Hidden>false</Hidden>
+<Action>analyze</Action>
+</AskControls>
+<CaseName>Pfizer_PRC</CaseName>
+</Response>
+<Response id="pra040">
+<LeftRail>
+<Id>main</Id>
+<Hidden>false</Hidden>
+</LeftRail>
+<VideoControls>
+<Hidden>true</Hidden>
+<PreviousId />
+<NextId />
+</VideoControls>
+<AskControls>
+<Hidden>false</Hidden>
+<Action>analyze</Action>
+</AskControls>
+<CaseName>Pfizer_PRC</CaseName>
+</Response>
+<Response id="pra041">
+<LeftRail>
+<Id>main</Id>
+<Hidden>false</Hidden>
+</LeftRail>
+<VideoControls>
+<Hidden>true</Hidden>
+<PreviousId />
+<NextId />
+</VideoControls>
+<AskControls>
+<Hidden>false</Hidden>
+<Action>analyze</Action>
+</AskControls>
+<CaseName>Pfizer_PRC</CaseName>
+</Response>
+<Response id="pra042">
+<LeftRail>
+<Id>main</Id>
+<Hidden>false</Hidden>
+</LeftRail>
+<VideoControls>
+<Hidden>true</Hidden>
+<PreviousId />
+<NextId />
+</VideoControls>
+<AskControls>
+<Hidden>false</Hidden>
+<Action>analyze</Action>
+</AskControls>
+<CaseName>Pfizer_PRC</CaseName>
+</Response>
+<Response id="pra043">
+<LeftRail>
+<Id>main</Id>
+<Hidden>false</Hidden>
+</LeftRail>
+<VideoControls>
+<Hidden>true</Hidden>
+<PreviousId />
+<NextId />
+</VideoControls>
+<AskControls>
+<Hidden>false</Hidden>
+<Action>analyze</Action>
+</AskControls>
+<CaseName>Pfizer_PRC</CaseName>
+</Response>
+<Response id="pra044">
+<LeftRail>
+<Id>main</Id>
+<Hidden>false</Hidden>
+</LeftRail>
+<VideoControls>
+<Hidden>true</Hidden>
+<PreviousId />
+<NextId />
+</VideoControls>
+<AskControls>
+<Hidden>false</Hidden>
+<Action>analyze</Action>
+</AskControls>
+<CaseName>Pfizer_PRC</CaseName>
+</Response>
+<Response id="pra045">
+<LeftRail>
+<Id>main</Id>
+<Hidden>false</Hidden>
+</LeftRail>
+<VideoControls>
+<Hidden>true</Hidden>
+<PreviousId />
+<NextId />
+</VideoControls>
+<AskControls>
+<Hidden>false</Hidden>
+<Action>analyze</Action>
+</AskControls>
+<CaseName>Pfizer_PRC</CaseName>
+</Response>
+<Response id="pra046">
+<LeftRail>
+<Id>main</Id>
+<Hidden>false</Hidden>
+</LeftRail>
+<VideoControls>
+<Hidden>true</Hidden>
+<PreviousId />
+<NextId />
+</VideoControls>
+<AskControls>
+<Hidden>false</Hidden>
+<Action>analyze</Action>
+</AskControls>
+<CaseName>Pfizer_PRC</CaseName>
+</Response>
+<Response id="pra047">
+<LeftRail>
+<Id>main</Id>
+<Hidden>false</Hidden>
+</LeftRail>
+<VideoControls>
+<Hidden>true</Hidden>
+<PreviousId />
+<NextId />
+</VideoControls>
+<AskControls>
+<Hidden>false</Hidden>
+<Action>analyze</Action>
+</AskControls>
+<CaseName>Pfizer_PRC</CaseName>
+</Response>
+<Response id="pra048">
+<LeftRail>
+<Id>main</Id>
+<Hidden>false</Hidden>
+</LeftRail>
+<VideoControls>
+<Hidden>true</Hidden>
+<PreviousId />
+<NextId />
+</VideoControls>
+<AskControls>
+<Hidden>false</Hidden>
+<Action>analyze</Action>
+</AskControls>
+<CaseName>Pfizer_PRC</CaseName>
+</Response>
+<Response id="pra049">
+<LeftRail>
+<Id>main</Id>
+<Hidden>false</Hidden>
+</LeftRail>
+<VideoControls>
+<Hidden>true</Hidden>
+<PreviousId />
+<NextId />
+</VideoControls>
+<AskControls>
+<Hidden>false</Hidden>
+<Action>analyze</Action>
+</AskControls>
+<CaseName>Pfizer_PRC</CaseName>
+</Response>
+<Response id="pra050">
+<LeftRail>
+<Id>main</Id>
+<Hidden>false</Hidden>
+</LeftRail>
+<VideoControls>
+<Hidden>true</Hidden>
+<PreviousId />
+<NextId />
+</VideoControls>
+<AskControls>
+<Hidden>false</Hidden>
+<Action>analyze</Action>
+</AskControls>
+<CaseName>Pfizer_PRC</CaseName>
+</Response>
+<Response id="pra051">
+<LeftRail>
+<Id>main</Id>
+<Hidden>false</Hidden>
+</LeftRail>
+<VideoControls>
+<Hidden>true</Hidden>
+<PreviousId />
+<NextId />
+</VideoControls>
+<AskControls>
+<Hidden>false</Hidden>
+<Action>analyze</Action>
+</AskControls>
+<CaseName>Pfizer_PRC</CaseName>
+</Response>
+<Response id="pra052">
+<LeftRail>
+<Id>main</Id>
+<Hidden>false</Hidden>
+</LeftRail>
+<VideoControls>
+<Hidden>true</Hidden>
+<PreviousId />
+<NextId />
+</VideoControls>
+<AskControls>
+<Hidden>false</Hidden>
+<Action>analyze</Action>
+</AskControls>
+<CaseName>Pfizer_PRC</CaseName>
+</Response>
+<Response id="pra053">
+<LeftRail>
+<Id>main</Id>
+<Hidden>false</Hidden>
+</LeftRail>
+<VideoControls>
+<Hidden>true</Hidden>
+<PreviousId />
+<NextId />
+</VideoControls>
+<AskControls>
+<Hidden>false</Hidden>
+<Action>analyze</Action>
+</AskControls>
+<CaseName>Pfizer_PRC</CaseName>
+</Response>
+<Response id="pra054">
+<LeftRail>
+<Id>main</Id>
+<Hidden>false</Hidden>
+</LeftRail>
+<VideoControls>
+<Hidden>true</Hidden>
+<PreviousId />
+<NextId />
+</VideoControls>
+<AskControls>
+<Hidden>false</Hidden>
+<Action>analyze</Action>
+</AskControls>
+<CaseName>Pfizer_PRC</CaseName>
+</Response>
+<Response id="pra055">
+<LeftRail>
+<Id>main</Id>
+<Hidden>false</Hidden>
+</LeftRail>
+<VideoControls>
+<Hidden>true</Hidden>
+<PreviousId />
+<NextId />
+</VideoControls>
+<AskControls>
+<Hidden>false</Hidden>
+<Action>analyze</Action>
+</AskControls>
+<CaseName>Pfizer_PRC</CaseName>
+</Response>
+<Response id="pra056">
+<LeftRail>
+<Id>main</Id>
+<Hidden>false</Hidden>
+</LeftRail>
+<VideoControls>
+<Hidden>true</Hidden>
+<PreviousId />
+<NextId />
+</VideoControls>
+<AskControls>
+<Hidden>false</Hidden>
+<Action>analyze</Action>
+</AskControls>
+<CaseName>Pfizer_PRC</CaseName>
+</Response>
+<Response id="pra057">
+<LeftRail>
+<Id>main</Id>
+<Hidden>false</Hidden>
+</LeftRail>
+<VideoControls>
+<Hidden>true</Hidden>
+<PreviousId />
+<NextId />
+</VideoControls>
+<AskControls>
+<Hidden>false</Hidden>
+<Action>analyze</Action>
+</AskControls>
+<CaseName>Pfizer_PRC</CaseName>
+</Response>
+<Response id="pra058">
+<LeftRail>
+<Id>main</Id>
+<Hidden>false</Hidden>
+</LeftRail>
+<VideoControls>
+<Hidden>true</Hidden>
+<PreviousId />
+<NextId />
+</VideoControls>
+<AskControls>
+<Hidden>false</Hidden>
+<Action>analyze</Action>
+</AskControls>
+<CaseName>Pfizer_PRC</CaseName>
+</Response>
+<Response id="pra059">
+<LeftRail>
+<Id>main</Id>
+<Hidden>false</Hidden>
+</LeftRail>
+<VideoControls>
+<Hidden>true</Hidden>
+<PreviousId />
+<NextId />
+</VideoControls>
+<AskControls>
+<Hidden>false</Hidden>
+<Action>analyze</Action>
+</AskControls>
+<CaseName>Pfizer_PRC</CaseName>
+</Response>
+<Response id="pra060">
+<LeftRail>
+<Id>main</Id>
+<Hidden>false</Hidden>
+</LeftRail>
+<VideoControls>
+<Hidden>true</Hidden>
+<PreviousId />
+<NextId />
+</VideoControls>
+<AskControls>
+<Hidden>false</Hidden>
+<Action>analyze</Action>
+</AskControls>
+<CaseName>Pfizer_PRC</CaseName>
+</Response>
+<Response id="pra061">
+<LeftRail>
+<Id>main</Id>
+<Hidden>false</Hidden>
+</LeftRail>
+<VideoControls>
+<Hidden>true</Hidden>
+<PreviousId />
+<NextId />
+</VideoControls>
+<AskControls>
+<Hidden>false</Hidden>
+<Action>analyze</Action>
+</AskControls>
+<CaseName>Pfizer_PRC</CaseName>
+</Response>
+<Response id="pra062">
+<LeftRail>
+<Id>main</Id>
+<Hidden>false</Hidden>
+</LeftRail>
+<VideoControls>
+<Hidden>true</Hidden>
+<PreviousId />
+<NextId />
+</VideoControls>
+<AskControls>
+<Hidden>false</Hidden>
+<Action>analyze</Action>
+</AskControls>
+<CaseName>Pfizer_PRC</CaseName>
+</Response>
+<Response id="pra063">
+<LeftRail>
+<Id>main</Id>
+<Hidden>false</Hidden>
+</LeftRail>
+<VideoControls>
+<Hidden>true</Hidden>
+<PreviousId />
+<NextId />
+</VideoControls>
+<AskControls>
+<Hidden>false</Hidden>
+<Action>analyze</Action>
+</AskControls>
+<CaseName>Pfizer_PRC</CaseName>
+</Response>
+<Response id="pra064">
+<LeftRail>
+<Id>main</Id>
+<Hidden>false</Hidden>
+</LeftRail>
+<VideoControls>
+<Hidden>true</Hidden>
+<PreviousId />
+<NextId />
+</VideoControls>
+<AskControls>
+<Hidden>false</Hidden>
+<Action>analyze</Action>
+</AskControls>
+<CaseName>Pfizer_PRC</CaseName>
+</Response>
+<Response id="pra065">
+<LeftRail>
+<Id>main</Id>
+<Hidden>false</Hidden>
+</LeftRail>
+<VideoControls>
+<Hidden>true</Hidden>
+<PreviousId />
+<NextId />
+</VideoControls>
+<AskControls>
+<Hidden>false</Hidden>
+<Action>analyze</Action>
+</AskControls>
+<CaseName>Pfizer_PRC</CaseName>
+</Response>
+<Response id="pra066">
+<LeftRail>
+<Id>main</Id>
+<Hidden>false</Hidden>
+</LeftRail>
+<VideoControls>
+<Hidden>true</Hidden>
+<PreviousId />
+<NextId />
+</VideoControls>
+<AskControls>
+<Hidden>false</Hidden>
+<Action>analyze</Action>
+</AskControls>
+<CaseName>Pfizer_PRC</CaseName>
+</Response>
+<Response id="pra067">
+<LeftRail>
+<Id>main</Id>
+<Hidden>false</Hidden>
+</LeftRail>
+<VideoControls>
+<Hidden>true</Hidden>
+<PreviousId />
+<NextId />
+</VideoControls>
+<AskControls>
+<Hidden>false</Hidden>
+<Action>analyze</Action>
+</AskControls>
+<CaseName>Pfizer_PRC</CaseName>
+</Response>
+<Response id="pra068">
+<LeftRail>
+<Id>main</Id>
+<Hidden>false</Hidden>
+</LeftRail>
+<VideoControls>
+<Hidden>true</Hidden>
+<PreviousId />
+<NextId />
+</VideoControls>
+<AskControls>
+<Hidden>false</Hidden>
+<Action>analyze</Action>
+</AskControls>
+<CaseName>Pfizer_PRC</CaseName>
+</Response>
+<Response id="pra069">
+<LeftRail>
+<Id>main</Id>
+<Hidden>false</Hidden>
+</LeftRail>
+<VideoControls>
+<Hidden>true</Hidden>
+<PreviousId />
+<NextId />
+</VideoControls>
+<AskControls>
+<Hidden>false</Hidden>
+<Action>analyze</Action>
+</AskControls>
+<CaseName>Pfizer_PRC</CaseName>
+</Response>
+<Response id="pra070">
+<LeftRail>
+<Id>main</Id>
+<Hidden>false</Hidden>
+</LeftRail>
+<VideoControls>
+<Hidden>true</Hidden>
+<PreviousId />
+<NextId />
+</VideoControls>
+<AskControls>
+<Hidden>false</Hidden>
+<Action>analyze</Action>
+</AskControls>
+<CaseName>Pfizer_PRC</CaseName>
+</Response>
+<Response id="pra071">
+<LeftRail>
+<Id>main</Id>
+<Hidden>false</Hidden>
+</LeftRail>
+<VideoControls>
+<Hidden>true</Hidden>
+<PreviousId />
+<NextId />
+</VideoControls>
+<AskControls>
+<Hidden>false</Hidden>
+<Action>analyze</Action>
+</AskControls>
+<CaseName>Pfizer_PRC</CaseName>
+</Response>
+<Response id="pra072">
+<LeftRail>
+<Id>main</Id>
+<Hidden>false</Hidden>
+</LeftRail>
+<VideoControls>
+<Hidden>true</Hidden>
+<PreviousId />
+<NextId />
+</VideoControls>
+<AskControls>
+<Hidden>false</Hidden>
+<Action>analyze</Action>
+</AskControls>
+<CaseName>Pfizer_PRC</CaseName>
+</Response>
+<Response id="pra073">
+<LeftRail>
+<Id>main</Id>
+<Hidden>false</Hidden>
+</LeftRail>
+<VideoControls>
+<Hidden>true</Hidden>
+<PreviousId />
+<NextId />
+</VideoControls>
+<AskControls>
+<Hidden>false</Hidden>
+<Action>analyze</Action>
+</AskControls>
+<CaseName>Pfizer_PRC</CaseName>
+</Response>
+<Response id="pra074">
+<LeftRail>
+<Id>main</Id>
+<Hidden>false</Hidden>
+</LeftRail>
+<VideoControls>
+<Hidden>true</Hidden>
+<PreviousId />
+<NextId />
+</VideoControls>
+<AskControls>
+<Hidden>false</Hidden>
+<Action>analyze</Action>
+</AskControls>
+<CaseName>Pfizer_PRC</CaseName>
+</Response>
+<Response id="pra075">
+<LeftRail>
+<Id>main</Id>
+<Hidden>false</Hidden>
+</LeftRail>
+<VideoControls>
+<Hidden>true</Hidden>
+<PreviousId />
+<NextId />
+</VideoControls>
+<AskControls>
+<Hidden>false</Hidden>
+<Action>analyze</Action>
+</AskControls>
+<CaseName>Pfizer_PRC</CaseName>
+</Response>
+<Response id="pra076">
+<LeftRail>
+<Id>main</Id>
+<Hidden>false</Hidden>
+</LeftRail>
+<VideoControls>
+<Hidden>true</Hidden>
+<PreviousId />
+<NextId />
+</VideoControls>
+<AskControls>
+<Hidden>false</Hidden>
+<Action>analyze</Action>
+</AskControls>
+<CaseName>Pfizer_PRC</CaseName>
+</Response>
+<Response id="pra077">
+<LeftRail>
+<Id>main</Id>
+<Hidden>false</Hidden>
+</LeftRail>
+<VideoControls>
+<Hidden>true</Hidden>
+<PreviousId />
+<NextId />
+</VideoControls>
+<AskControls>
+<Hidden>false</Hidden>
+<Action>analyze</Action>
+</AskControls>
+<CaseName>Pfizer_PRC</CaseName>
+</Response>
+<Response id="pra078">
+<LeftRail>
+<Id>main</Id>
+<Hidden>false</Hidden>
+</LeftRail>
+<VideoControls>
+<Hidden>true</Hidden>
+<PreviousId />
+<NextId />
+</VideoControls>
+<AskControls>
+<Hidden>false</Hidden>
+<Action>analyze</Action>
+</AskControls>
+<CaseName>Pfizer_PRC</CaseName>
+</Response>
+<Response id="pra079">
+<LeftRail>
+<Id>main</Id>
+<Hidden>false</Hidden>
+</LeftRail>
+<VideoControls>
+<Hidden>true</Hidden>
+<PreviousId />
+<NextId />
+</VideoControls>
+<AskControls>
+<Hidden>false</Hidden>
+<Action>analyze</Action>
+</AskControls>
+<CaseName>Pfizer_PRC</CaseName>
+</Response>
+<Response id="pra080">
+<LeftRail>
+<Id>main</Id>
+<Hidden>false</Hidden>
+</LeftRail>
+<VideoControls>
+<Hidden>true</Hidden>
+<PreviousId />
+<NextId />
+</VideoControls>
+<AskControls>
+<Hidden>false</Hidden>
+<Action>analyze</Action>
+</AskControls>
+<CaseName>Pfizer_PRC</CaseName>
+</Response>
+<Response id="pra081">
+<LeftRail>
+<Id>main</Id>
+<Hidden>false</Hidden>
+</LeftRail>
+<VideoControls>
+<Hidden>true</Hidden>
+<PreviousId />
+<NextId />
+</VideoControls>
+<AskControls>
+<Hidden>false</Hidden>
+<Action>analyze</Action>
+</AskControls>
+<CaseName>Pfizer_PRC</CaseName>
+</Response>
+<Response id="pra082">
+<LeftRail>
+<Id>main</Id>
+<Hidden>false</Hidden>
+</LeftRail>
+<VideoControls>
+<Hidden>true</Hidden>
+<PreviousId />
+<NextId />
+</VideoControls>
+<AskControls>
+<Hidden>false</Hidden>
+<Action>analyze</Action>
+</AskControls>
+<CaseName>Pfizer_PRC</CaseName>
+</Response>
+<Response id="pra083">
+<LeftRail>
+<Id>main</Id>
+<Hidden>false</Hidden>
+</LeftRail>
+<VideoControls>
+<Hidden>true</Hidden>
+<PreviousId />
+<NextId />
+</VideoControls>
+<AskControls>
+<Hidden>false</Hidden>
+<Action>analyze</Action>
+</AskControls>
+<CaseName>Pfizer_PRC</CaseName>
+</Response>
+<Response id="pra084">
+<LeftRail>
+<Id>main</Id>
+<Hidden>false</Hidden>
+</LeftRail>
+<VideoControls>
+<Hidden>true</Hidden>
+<PreviousId />
+<NextId />
+</VideoControls>
+<AskControls>
+<Hidden>false</Hidden>
+<Action>analyze</Action>
+</AskControls>
+<CaseName>Pfizer_PRC</CaseName>
+</Response>
+<Response id="pra085">
+<LeftRail>
+<Id>main</Id>
+<Hidden>false</Hidden>
+</LeftRail>
+<VideoControls>
+<Hidden>true</Hidden>
+<PreviousId />
+<NextId />
+</VideoControls>
+<AskControls>
+<Hidden>false</Hidden>
+<Action>analyze</Action>
+</AskControls>
+<CaseName>Pfizer_PRC</CaseName>
+</Response>
+<Response id="pra086">
+<LeftRail>
+<Id>main</Id>
+<Hidden>false</Hidden>
+</LeftRail>
+<VideoControls>
+<Hidden>true</Hidden>
+<PreviousId />
+<NextId />
+</VideoControls>
+<AskControls>
+<Hidden>false</Hidden>
+<Action>analyze</Action>
+</AskControls>
+<CaseName>Pfizer_PRC</CaseName>
+</Response>
+<Response id="pra087">
+<LeftRail>
+<Id>main</Id>
+<Hidden>false</Hidden>
+</LeftRail>
+<VideoControls>
+<Hidden>true</Hidden>
+<PreviousId />
+<NextId />
+</VideoControls>
+<AskControls>
+<Hidden>false</Hidden>
+<Action>analyze</Action>
+</AskControls>
+<CaseName>Pfizer_PRC</CaseName>
+</Response>
+<Response id="pra088">
+<LeftRail>
+<Id>main</Id>
+<Hidden>false</Hidden>
+</LeftRail>
+<VideoControls>
+<Hidden>true</Hidden>
+<PreviousId />
+<NextId />
+</VideoControls>
+<AskControls>
+<Hidden>false</Hidden>
+<Action>analyze</Action>
+</AskControls>
+<CaseName>Pfizer_PRC</CaseName>
+</Response>
+<Response id="pra089">
+<LeftRail>
+<Id>main</Id>
+<Hidden>false</Hidden>
+</LeftRail>
+<VideoControls>
+<Hidden>true</Hidden>
+<PreviousId />
+<NextId />
+</VideoControls>
+<AskControls>
+<Hidden>false</Hidden>
+<Action>analyze</Action>
+</AskControls>
+<CaseName>Pfizer_PRC</CaseName>
+</Response>
+<Response id="pra090">
+<LeftRail>
+<Id>main</Id>
+<Hidden>false</Hidden>
+</LeftRail>
+<VideoControls>
+<Hidden>true</Hidden>
+<PreviousId />
+<NextId />
+</VideoControls>
+<AskControls>
+<Hidden>false</Hidden>
+<Action>analyze</Action>
+</AskControls>
+<CaseName>Pfizer_PRC</CaseName>
+</Response>
+<Response id="pra091">
+<LeftRail>
+<Id>main</Id>
+<Hidden>false</Hidden>
+</LeftRail>
+<VideoControls>
+<Hidden>true</Hidden>
+<PreviousId />
+<NextId />
+</VideoControls>
+<AskControls>
+<Hidden>false</Hidden>
+<Action>analyze</Action>
+</AskControls>
+<CaseName>Pfizer_PRC</CaseName>
+</Response>
+<Response id="pra092">
+<LeftRail>
+<Id>main</Id>
+<Hidden>false</Hidden>
+</LeftRail>
+<VideoControls>
+<Hidden>true</Hidden>
+<PreviousId />
+<NextId />
+</VideoControls>
+<AskControls>
+<Hidden>false</Hidden>
+<Action>analyze</Action>
+</AskControls>
+<CaseName>Pfizer_PRC</CaseName>
+</Response>
+<Response id="pra093">
+<LeftRail>
+<Id>main</Id>
+<Hidden>false</Hidden>
+</LeftRail>
+<VideoControls>
+<Hidden>true</Hidden>
+<PreviousId />
+<NextId />
+</VideoControls>
+<AskControls>
+<Hidden>false</Hidden>
+<Action>analyze</Action>
+</AskControls>
+<CaseName>Pfizer_PRC</CaseName>
+</Response>
+<Response id="pra094">
+<LeftRail>
+<Id>main</Id>
+<Hidden>false</Hidden>
+</LeftRail>
+<VideoControls>
+<Hidden>true</Hidden>
+<PreviousId />
+<NextId />
+</VideoControls>
+<AskControls>
+<Hidden>false</Hidden>
+<Action>analyze</Action>
+</AskControls>
+<CaseName>Pfizer_PRC</CaseName>
+</Response>
+<Response id="pra095">
+<LeftRail>
+<Id>main</Id>
+<Hidden>false</Hidden>
+</LeftRail>
+<VideoControls>
+<Hidden>true</Hidden>
+<PreviousId />
+<NextId />
+</VideoControls>
+<AskControls>
+<Hidden>false</Hidden>
+<Action>analyze</Action>
+</AskControls>
+<CaseName>Pfizer_PRC</CaseName>
+</Response>
+<Response id="pra096">
+<LeftRail>
+<Id>main</Id>
+<Hidden>false</Hidden>
+</LeftRail>
+<VideoControls>
+<Hidden>true</Hidden>
+<PreviousId />
+<NextId />
+</VideoControls>
+<AskControls>
+<Hidden>false</Hidden>
+<Action>analyze</Action>
+</AskControls>
+<CaseName>Pfizer_PRC</CaseName>
+</Response>
+<Response id="pra097">
+<LeftRail>
+<Id>main</Id>
+<Hidden>false</Hidden>
+</LeftRail>
+<VideoControls>
+<Hidden>true</Hidden>
+<PreviousId />
+<NextId />
+</VideoControls>
+<AskControls>
+<Hidden>false</Hidden>
+<Action>analyze</Action>
+</AskControls>
+<CaseName>Pfizer_PRC</CaseName>
+</Response>
+<Response id="pra098">
+<LeftRail>
+<Id>main</Id>
+<Hidden>false</Hidden>
+</LeftRail>
+<VideoControls>
+<Hidden>true</Hidden>
+<PreviousId />
+<NextId />
+</VideoControls>
+<AskControls>
+<Hidden>false</Hidden>
+<Action>analyze</Action>
+</AskControls>
+<CaseName>Pfizer_PRC</CaseName>
+</Response>
+<Response id="pra099">
+<LeftRail>
+<Id>main</Id>
+<Hidden>false</Hidden>
+</LeftRail>
+<VideoControls>
+<Hidden>true</Hidden>
+<PreviousId />
+<NextId />
+</VideoControls>
+<AskControls>
+<Hidden>false</Hidden>
+<Action>analyze</Action>
+</AskControls>
+<CaseName>Pfizer_PRC</CaseName>
+</Response>
+<Response id="pra100">
+<LeftRail>
+<Id>main</Id>
+<Hidden>false</Hidden>
+</LeftRail>
+<VideoControls>
+<Hidden>true</Hidden>
+<PreviousId />
+<NextId />
+</VideoControls>
+<AskControls>
+<Hidden>false</Hidden>
+<Action>analyze</Action>
+</AskControls>
+<CaseName>Pfizer_PRC</CaseName>
+</Response>
+<Response id="pra101">
+<LeftRail>
+<Id>main</Id>
+<Hidden>false</Hidden>
+<ModuleSelected>0</ModuleSelected>
+</LeftRail>
+<VideoControls>
+<Hidden>true</Hidden>
+<PreviousId />
+<NextId />
+</VideoControls>
+<AskControls>
+<Hidden>false</Hidden>
+<Action>analyze</Action>
+</AskControls>
+<CaseName>Pfizer_PRC</CaseName>
+</Response>
+<Response id="pra102">
+<LeftRail>
+<Id>main</Id>
+<Hidden>false</Hidden>
+<ModuleSelected>0</ModuleSelected>
+</LeftRail>
+<VideoControls>
+<Hidden>true</Hidden>
+<PreviousId />
+<NextId />
+</VideoControls>
+<AskControls>
+<Hidden>false</Hidden>
+<Action>analyze</Action>
+</AskControls>
+<CaseName>Pfizer_PRC</CaseName>
+</Response>
+<Response id="pra103">
+<LeftRail>
+<Id>main</Id>
+<Hidden>false</Hidden>
+<ModuleSelected>0</ModuleSelected>
+</LeftRail>
+<VideoControls>
+<Hidden>true</Hidden>
+<PreviousId />
+<NextId />
+</VideoControls>
+<AskControls>
+<Hidden>false</Hidden>
+<Action>analyze</Action>
+</AskControls>
+<CaseName>Pfizer_PRC</CaseName>
+</Response>
+<Response id="pra104">
+<LeftRail>
+<Id>main</Id>
+<Hidden>false</Hidden>
+<ModuleSelected>0</ModuleSelected>
+</LeftRail>
+<VideoControls>
+<Hidden>true</Hidden>
+<PreviousId />
+<NextId />
+</VideoControls>
+<AskControls>
+<Hidden>false</Hidden>
+<Action>analyze</Action>
+</AskControls>
+<CaseName>Pfizer_PRC</CaseName>
+</Response>
+<Response id="pra105">
+<LeftRail>
+<Id>main</Id>
+<Hidden>false</Hidden>
+</LeftRail>
+<VideoControls>
+<Hidden>true</Hidden>
+<PreviousId />
+<NextId />
+</VideoControls>
+<AskControls>
+<Hidden>false</Hidden>
+<Action>analyze</Action>
+</AskControls>
+<CaseName>Pfizer_PRC</CaseName>
+</Response>
+<Response id="pra106">
+<LeftRail>
+<Id>main</Id>
+<Hidden>false</Hidden>
+</LeftRail>
+<VideoControls>
+<Hidden>true</Hidden>
+<PreviousId />
+<NextId />
+</VideoControls>
+<AskControls>
+<Hidden>false</Hidden>
+<Action>analyze</Action>
+</AskControls>
+<CaseName>Pfizer_PRC</CaseName>
+</Response>
+<Response id="pra107">
+<LeftRail>
+<Id>main</Id>
+<Hidden>false</Hidden>
+</LeftRail>
+<VideoControls>
+<Hidden>true</Hidden>
+<PreviousId />
+<NextId />
+</VideoControls>
+<AskControls>
+<Hidden>false</Hidden>
+<Action>analyze</Action>
+</AskControls>
+<CaseName>Pfizer_PRC</CaseName>
+</Response>
+<Response id="pra108">
+<LeftRail>
+<Id>main</Id>
+<Hidden>false</Hidden>
+<ModuleSelected>0</ModuleSelected>
+</LeftRail>
+<VideoControls>
+<Hidden>true</Hidden>
+<PreviousId />
+<NextId />
+</VideoControls>
+<AskControls>
+<Hidden>false</Hidden>
+<Action>analyze</Action>
+</AskControls>
+<CaseName>Pfizer_PRC</CaseName>
+</Response>
+<Response id="pra109">
+<LeftRail>
+<Id>main</Id>
+<Hidden>false</Hidden>
+</LeftRail>
+<VideoControls>
+<Hidden>true</Hidden>
+<PreviousId />
+<NextId />
+</VideoControls>
+<AskControls>
+<Hidden>false</Hidden>
+<Action>analyze</Action>
+</AskControls>
+<CaseName>Pfizer_PRC</CaseName>
+</Response>
+<Response id="pra110">
+<LeftRail>
+<Id>main</Id>
+<Hidden>false</Hidden>
+<ModuleSelected>3</ModuleSelected>
+</LeftRail>
+<VideoControls>
+<Hidden>true</Hidden>
+<PreviousId />
+<NextId />
+</VideoControls>
+<AskControls>
+<Hidden>false</Hidden>
+<Action>analyze</Action>
+</AskControls>
+<CaseName>Pfizer_PRC</CaseName>
+</Response>
+<Response id="pra111">
+<LeftRail>
+<Id>main</Id>
+<Hidden>false</Hidden>
+<ModuleSelected>2</ModuleSelected>
+</LeftRail>
+<VideoControls>
+<Hidden>true</Hidden>
+<PreviousId />
+<NextId />
+</VideoControls>
+<AskControls>
+<Hidden>false</Hidden>
+<Action>analyze</Action>
+</AskControls>
+<CaseName>Pfizer_PRC</CaseName>
+</Response>
+<Response id="pra112">
+<LeftRail>
+<Id>main</Id>
+<Hidden>false</Hidden>
+<ModuleSelected>1</ModuleSelected>
+</LeftRail>
+<VideoControls>
+<Hidden>true</Hidden>
+<PreviousId />
+<NextId />
+</VideoControls>
+<AskControls>
+<Hidden>false</Hidden>
+<Action>analyze</Action>
+</AskControls>
+<CaseName>Pfizer_PRC</CaseName>
+</Response>
+<Response id="pra113">
+<LeftRail>
+<Id>main</Id>
+<Hidden>false</Hidden>
+<ModuleSelected>1</ModuleSelected>
+</LeftRail>
+<VideoControls>
+<Hidden>true</Hidden>
+<PreviousId />
+<NextId />
+</VideoControls>
+<AskControls>
+<Hidden>false</Hidden>
+<Action>analyze</Action>
+</AskControls>
+<CaseName>Pfizer_PRC</CaseName>
+</Response>
+<Response id="pra114">
+<LeftRail>
+<Id>main</Id>
+<Hidden>false</Hidden>
+<ModuleSelected>1</ModuleSelected>
+</LeftRail>
+<VideoControls>
+<Hidden>true</Hidden>
+<PreviousId />
+<NextId />
+</VideoControls>
+<AskControls>
+<Hidden>false</Hidden>
+<Action>analyze</Action>
+</AskControls>
+<CaseName>Pfizer_PRC</CaseName>
+</Response>
+<Response id="pra115">
+<LeftRail>
+<Id>main</Id>
+<Hidden>false</Hidden>
+</LeftRail>
+<VideoControls>
+<Hidden>true</Hidden>
+<PreviousId />
+<NextId />
+</VideoControls>
+<AskControls>
+<Hidden>false</Hidden>
+<Action>analyze</Action>
+</AskControls>
+<CaseName>Pfizer_PRC</CaseName>
+</Response>
+<Response id="pra116">
+<LeftRail>
+<Id>main</Id>
+<Hidden>false</Hidden>
+<ModuleSelected>1</ModuleSelected>
+</LeftRail>
+<VideoControls>
+<Hidden>true</Hidden>
+<PreviousId />
+<NextId />
+</VideoControls>
+<AskControls>
+<Hidden>false</Hidden>
+<Action>analyze</Action>
+</AskControls>
+<CaseName>Pfizer_PRC</CaseName>
+</Response>
+<Response id="pra117">
+<LeftRail>
+<Id>main</Id>
+<Hidden>false</Hidden>
+<ModuleSelected>1</ModuleSelected>
+</LeftRail>
+<VideoControls>
+<Hidden>true</Hidden>
+<PreviousId />
+<NextId />
+</VideoControls>
+<AskControls>
+<Hidden>false</Hidden>
+<Action>analyze</Action>
+</AskControls>
+<CaseName>Pfizer_PRC</CaseName>
+</Response>
+<Response id="pra118">
+<LeftRail>
+<Id>main</Id>
+<Hidden>false</Hidden>
+</LeftRail>
+<VideoControls>
+<Hidden>true</Hidden>
+<PreviousId />
+<NextId />
+</VideoControls>
+<AskControls>
+<Hidden>false</Hidden>
+<Action>analyze</Action>
+</AskControls>
+<CaseName>Pfizer_PRC</CaseName>
+</Response>
+<Response id="pra119">
+<LeftRail>
+<Id>main</Id>
+<Hidden>false</Hidden>
+<ModuleSelected>1</ModuleSelected>
+</LeftRail>
+<VideoControls>
+<Hidden>true</Hidden>
+<PreviousId />
+<NextId />
+</VideoControls>
+<AskControls>
+<Hidden>false</Hidden>
+<Action>analyze</Action>
+</AskControls>
+<CaseName>Pfizer_PRC</CaseName>
+</Response>
+<Response id="pra120">
+<LeftRail>
+<Id>main</Id>
+<Hidden>false</Hidden>
+</LeftRail>
+<VideoControls>
+<Hidden>true</Hidden>
+<PreviousId />
+<NextId />
+</VideoControls>
+<AskControls>
+<Hidden>false</Hidden>
+<Action>analyze</Action>
+</AskControls>
+<CaseName>Pfizer_PRC</CaseName>
+</Response>
+<Response id="pra121">
+<LeftRail>
+<Id>main</Id>
+<Hidden>false</Hidden>
+<ModuleSelected>1</ModuleSelected>
+</LeftRail>
+<VideoControls>
+<Hidden>true</Hidden>
+<PreviousId />
+<NextId />
+</VideoControls>
+<AskControls>
+<Hidden>false</Hidden>
+<Action>analyze</Action>
+</AskControls>
+<CaseName>Pfizer_PRC</CaseName>
+</Response>
+<Response id="pra122">
+<LeftRail>
+<Id>main</Id>
+<Hidden>false</Hidden>
+</LeftRail>
+<VideoControls>
+<Hidden>true</Hidden>
+<PreviousId />
+<NextId />
+</VideoControls>
+<AskControls>
+<Hidden>false</Hidden>
+<Action>analyze</Action>
+</AskControls>
+<CaseName>Pfizer_PRC</CaseName>
+</Response>
+<Response id="pra123">
+<LeftRail>
+<Id>main</Id>
+<Hidden>false</Hidden>
+</LeftRail>
+<VideoControls>
+<Hidden>true</Hidden>
+<PreviousId />
+<NextId />
+</VideoControls>
+<AskControls>
+<Hidden>false</Hidden>
+<Action>analyze</Action>
+</AskControls>
+<CaseName>Pfizer_PRC</CaseName>
+</Response>
+<Response id="pra124">
+<LeftRail>
+<Id>main</Id>
+<Hidden>false</Hidden>
+<ModuleSelected>1</ModuleSelected>
+</LeftRail>
+<VideoControls>
+<Hidden>true</Hidden>
+<PreviousId />
+<NextId />
+</VideoControls>
+<AskControls>
+<Hidden>false</Hidden>
+<Action>analyze</Action>
+</AskControls>
+<CaseName>Pfizer_PRC</CaseName>
+</Response>
+<Response id="pra125">
+<LeftRail>
+<Id>main</Id>
+<Hidden>false</Hidden>
+</LeftRail>
+<VideoControls>
+<Hidden>false</Hidden>
+<PreviousId />
+<NextId />
+</VideoControls>
+<AskControls>
+<Hidden>true</Hidden>
+<Action>analyze</Action>
+</AskControls>
+<CaseName>Pfizer_PRC</CaseName>
+</Response>
+<Response id="pra126">
+<LeftRail>
+<Id>main</Id>
+<Hidden>false</Hidden>
+<ModuleSelected>2</ModuleSelected>
+</LeftRail>
+<VideoControls>
+<Hidden>true</Hidden>
+<PreviousId />
+<NextId />
+</VideoControls>
+<AskControls>
+<Hidden>false</Hidden>
+<Action>analyze</Action>
+</AskControls>
+<CaseName>Pfizer_PRC</CaseName>
+</Response>
+<Response id="pra127">
+<LeftRail>
+<Id>main</Id>
+<Hidden>false</Hidden>
+<ModuleSelected>2</ModuleSelected>
+</LeftRail>
+<VideoControls>
+<Hidden>true</Hidden>
+<PreviousId />
+<NextId />
+</VideoControls>
+<AskControls>
+<Hidden>false</Hidden>
+<Action>analyze</Action>
+</AskControls>
+<CaseName>Pfizer_PRC</CaseName>
+</Response>
+<Response id="pra128">
+<LeftRail>
+<Id>main</Id>
+<Hidden>false</Hidden>
+</LeftRail>
+<VideoControls>
+<Hidden>true</Hidden>
+<PreviousId />
+<NextId />
+</VideoControls>
+<AskControls>
+<Hidden>false</Hidden>
+<Action>analyze</Action>
+</AskControls>
+<CaseName>Pfizer_PRC</CaseName>
+</Response>
+<Response id="pra129">
+<LeftRail>
+<Id>main</Id>
+<Hidden>false</Hidden>
+<ModuleSelected>3</ModuleSelected>
+</LeftRail>
+<VideoControls>
+<Hidden>false</Hidden>
+<PreviousId />
+<NextId />
+</VideoControls>
+<AskControls>
+<Hidden>true</Hidden>
+<Action>analyze</Action>
+</AskControls>
+<CaseName>Pfizer_PRC</CaseName>
+</Response>
+<Response id="pra130">
+<LeftRail>
+<Id>main</Id>
+<Hidden>true</Hidden>
+</LeftRail>
+<VideoControls>
+<Hidden>false</Hidden>
+<PreviousId />
+<NextId />
+</VideoControls>
+<AskControls>
+<Hidden>true</Hidden>
+<Action>analyze</Action>
+</AskControls>
+<CaseName>Pfizer_PRC</CaseName>
+</Response>
+<Response id="pra131">
+<LeftRail>
+<Id>main</Id>
+<Hidden>true</Hidden>
+</LeftRail>
+<VideoControls>
+<Hidden>false</Hidden>
+<PreviousId />
+<NextId />
+</VideoControls>
+<AskControls>
+<Hidden>true</Hidden>
+<Action>analyze</Action>
+</AskControls>
+<CaseName>Pfizer_PRC</CaseName>
+</Response>
+<Response id="pra132">
+<LeftRail>
+<Id>main</Id>
+<Hidden>true</Hidden>
+<ModuleSelected>2</ModuleSelected>
+</LeftRail>
+<VideoControls>
+<Hidden>false</Hidden>
+<PreviousId />
+<NextId />
+</VideoControls>
+<AskControls>
+<Hidden>true</Hidden>
+<Action>analyze</Action>
+</AskControls>
+<CaseName>Pfizer_PRC</CaseName>
+</Response>
+<Response id="pra133">
+<LeftRail>
+<Id>main</Id>
+<Hidden>true</Hidden>
+</LeftRail>
+<VideoControls>
+<Hidden>false</Hidden>
+<PreviousId />
+<NextId />
+</VideoControls>
+<AskControls>
+<Hidden>true</Hidden>
+<Action>analyze</Action>
+</AskControls>
+<CaseName>Pfizer_PRC</CaseName>
+</Response>
+<Response id="pra134">
+<LeftRail>
+<Id>main</Id>
+<Hidden>true</Hidden>
+</LeftRail>
+<VideoControls>
+<Hidden>false</Hidden>
+<PreviousId />
+<NextId />
+</VideoControls>
+<AskControls>
+<Hidden>true</Hidden>
+<Action>analyze</Action>
+</AskControls>
+<CaseName>Pfizer_PRC</CaseName>
+</Response>
+<Response id="pra135">
+<LeftRail>
+<Id>main</Id>
+<Hidden>true</Hidden>
+</LeftRail>
+<VideoControls>
+<Hidden>false</Hidden>
+<PreviousId />
+<NextId />
+</VideoControls>
+<AskControls>
+<Hidden>true</Hidden>
+<Action>analyze</Action>
+</AskControls>
+<CaseName>Pfizer_PRC</CaseName>
+</Response>
+<Response id="pra136">
+<LeftRail>
+<Id>main</Id>
+<Hidden>true</Hidden>
+</LeftRail>
+<VideoControls>
+<Hidden>true</Hidden>
+<PreviousId />
+<NextId />
+</VideoControls>
+<AskControls>
+<Hidden>false</Hidden>
+<Action>analyze</Action>
+</AskControls>
+<CaseName>Pfizer_PRC</CaseName>
+</Response>
+<Response id="pra137">
+<LeftRail>
+<Id>main</Id>
+<Hidden>true</Hidden>
+<ModuleSelected>3</ModuleSelected>
+</LeftRail>
+<VideoControls>
+<Hidden>false</Hidden>
+<PreviousId />
+<NextId />
+</VideoControls>
+<AskControls>
+<Hidden>true</Hidden>
+<Action>analyze</Action>
+</AskControls>
+<CaseName>Pfizer_PRC</CaseName>
+</Response>
+<Response id="pra138">
+<LeftRail>
+<Id>main</Id>
+<Hidden>true</Hidden>
+<ModuleSelected>3</ModuleSelected>
+</LeftRail>
+<VideoControls>
+<Hidden>false</Hidden>
+<PreviousId />
+<NextId />
+</VideoControls>
+<AskControls>
+<Hidden>true</Hidden>
+<Action>analyze</Action>
+</AskControls>
+<CaseName>Pfizer_PRC</CaseName>
+</Response>
+<Response id="pra139">
+<LeftRail>
+<Id>main</Id>
+<Hidden>true</Hidden>
+<ModuleSelected>4</ModuleSelected>
+</LeftRail>
+<VideoControls>
+<Hidden>false</Hidden>
+<PreviousId />
+<NextId />
+</VideoControls>
+<AskControls>
+<Hidden>true</Hidden>
+<Action>analyze</Action>
+</AskControls>
+<CaseName>Pfizer_PRC</CaseName>
+</Response>
+<Response id="pra140">
+<LeftRail>
+<Id>main</Id>
+<Hidden>true</Hidden>
+<ModuleSelected>4</ModuleSelected>
+</LeftRail>
+<VideoControls>
+<Hidden>false</Hidden>
+<PreviousId />
+<NextId />
+</VideoControls>
+<AskControls>
+<Hidden>true</Hidden>
+<Action>analyze</Action>
+</AskControls>
+<CaseName>Pfizer_PRC</CaseName>
+</Response>
+<Response id="pra141">
+<LeftRail>
+<Id>main</Id>
+<Hidden>true</Hidden>
+</LeftRail>
+<VideoControls>
+<Hidden>true</Hidden>
+<PreviousId />
+<NextId />
+</VideoControls>
+<AskControls>
+<Hidden>false</Hidden>
+<Action>options</Action>
+</AskControls>
+<CaseName>Pfizer_PRC</CaseName>
+</Response>
+<Response id="pra142">
+<LeftRail>
+<Id>main</Id>
+<Hidden>true</Hidden>
+<ModuleSelected>4</ModuleSelected>
+</LeftRail>
+<VideoControls>
+<Hidden>false</Hidden>
+<PreviousId />
+<NextId />
+</VideoControls>
+<AskControls>
+<Hidden>true</Hidden>
+<Action>analyze</Action>
+</AskControls>
+<CaseName>Pfizer_PRC</CaseName>
+</Response>
+<Response id="pra143">
+<LeftRail>
+<Id>prognosis</Id>
+<Hidden>false</Hidden>
+</LeftRail>
+<VideoControls>
+<Hidden>true</Hidden>
+<PreviousId />
+<NextId />
+</VideoControls>
+<AskControls>
+<Hidden>false</Hidden>
+<Action>analyze</Action>
+</AskControls>
+<CaseName>Pfizer_PRC</CaseName>
+</Response>
+<Response id="pra144">
+<LeftRail>
+<Id>support</Id>
+<Hidden>false</Hidden>
+</LeftRail>
+<VideoControls>
+<Hidden>true</Hidden>
+<PreviousId />
+<NextId />
+</VideoControls>
+<AskControls>
+<Hidden>false</Hidden>
+<Action>analyze</Action>
+</AskControls>
+<CaseName>Pfizer_PRC</CaseName>
+</Response>
+<Response id="pra145">
+<LeftRail>
+<Id>main</Id>
+<Hidden>true</Hidden>
+</LeftRail>
+<VideoControls>
+<Hidden>false</Hidden>
+<PreviousId />
+<NextId />
+</VideoControls>
+<AskControls>
+<Hidden>true</Hidden>
+<Action>analyze</Action>
+</AskControls>
+<CaseName>Pfizer_PRC</CaseName>
+</Response>
+<Response id="pra146">
+<LeftRail>
+<Id>main</Id>
+<Hidden>true</Hidden>
+<ModuleSelected>4</ModuleSelected>
+</LeftRail>
+<VideoControls>
+<Hidden>false</Hidden>
+<PreviousId />
+<NextId />
+</VideoControls>
+<AskControls>
+<Hidden>true</Hidden>
+<Action>analyze</Action>
+</AskControls>
+<CaseName>Pfizer_PRC</CaseName>
+</Response>
+<Response id="pra147">
+<LeftRail>
+<Id>main</Id>
+<Hidden>true</Hidden>
+</LeftRail>
+<VideoControls>
+<Hidden>true</Hidden>
+<PreviousId />
+<NextId />
+</VideoControls>
+<AskControls>
+<Hidden>false</Hidden>
+<Action>log</Action>
+</AskControls>
+<CaseName>Pfizer_PRC</CaseName>
+</Response>
+<Response id="pra148">
+<LeftRail>
+<Id>main</Id>
+<Hidden>true</Hidden>
+</LeftRail>
+<VideoControls>
+<Hidden>true</Hidden>
+<PreviousId />
+<NextId />
+</VideoControls>
+<AskControls>
+<Hidden>false</Hidden>
+<Action>log</Action>
+</AskControls>
+<CaseName>Pfizer_PRC</CaseName>
+</Response>
+<Response id="pra149">
+<LeftRail>
+<Id>main</Id>
+<Hidden>true</Hidden>
+</LeftRail>
+<VideoControls>
+<Hidden>true</Hidden>
+<PreviousId />
+<NextId />
+</VideoControls>
+<AskControls>
+<Hidden>false</Hidden>
+<Action>log</Action>
+</AskControls>
+<CaseName>Pfizer_PRC</CaseName>
+</Response>
+<Response id="pra150">
+<LeftRail>
+<Id>main</Id>
+<Hidden>true</Hidden>
+<ModuleSelected>5</ModuleSelected>
+</LeftRail>
+<VideoControls>
+<Hidden>true</Hidden>
+<PreviousId />
+<NextId />
+</VideoControls>
+<AskControls>
+<Hidden>false</Hidden>
+<Action>log</Action>
+</AskControls>
+<CaseName>Pfizer_PRC</CaseName>
+</Response>
+<Response id="pra151">
+<LeftRail>
+<Id>main</Id>
+<Hidden>true</Hidden>
+</LeftRail>
+<VideoControls>
+<Hidden>true</Hidden>
+<PreviousId />
+<NextId />
+</VideoControls>
+<AskControls>
+<Hidden>false</Hidden>
+<Action>log</Action>
+</AskControls>
+<CaseName>Pfizer_PRC</CaseName>
+</Response>
+<Response id="pra152">
+<LeftRail>
+<Id>main</Id>
+<Hidden>true</Hidden>
+</LeftRail>
+<VideoControls>
+<Hidden>true</Hidden>
+<PreviousId />
+<NextId />
+</VideoControls>
+<AskControls>
+<Hidden>false</Hidden>
+<Action>log</Action>
+</AskControls>
+<CaseName>Pfizer_PRC</CaseName>
+</Response>
+<Response id="pra153">
+<LeftRail>
+<Id>main</Id>
+<Hidden>true</Hidden>
+</LeftRail>
+<VideoControls>
+<Hidden>true</Hidden>
+<PreviousId />
+<NextId />
+</VideoControls>
+<AskControls>
+<Hidden>false</Hidden>
+<Action>log</Action>
+</AskControls>
+<CaseName>Pfizer_PRC</CaseName>
+</Response>
+<Response id="pra154">
+<LeftRail>
+<Id>main</Id>
+<Hidden>true</Hidden>
+<ModuleSelected>5</ModuleSelected>
+</LeftRail>
+<VideoControls>
+<Hidden>true</Hidden>
+<PreviousId />
+<NextId />
+</VideoControls>
+<AskControls>
+<Hidden>false</Hidden>
+<Action>log</Action>
+</AskControls>
+<CaseName>Pfizer_PRC</CaseName>
+</Response>
+<Response id="pra155">
+<LeftRail>
+<Id>main</Id>
+<Hidden>true</Hidden>
+<ModuleSelected>5</ModuleSelected>
+</LeftRail>
+<VideoControls>
+<Hidden>true</Hidden>
+<PreviousId />
+<NextId />
+</VideoControls>
+<AskControls>
+<Hidden>false</Hidden>
+<Action>log</Action>
+</AskControls>
+<CaseName>Pfizer_PRC</CaseName>
+</Response>
+<Response id="pra156">
+<LeftRail>
+<Id>main</Id>
+<Hidden>true</Hidden>
+</LeftRail>
+<VideoControls>
+<Hidden>true</Hidden>
+<PreviousId />
+<NextId />
+</VideoControls>
+<AskControls>
+<Hidden>false</Hidden>
+<Action>log</Action>
+</AskControls>
+<CaseName>Pfizer_PRC</CaseName>
+</Response>
+<Response id="pra157">
+<LeftRail>
+<Id>main</Id>
+<Hidden>true</Hidden>
+</LeftRail>
+<VideoControls>
+<Hidden>true</Hidden>
+<PreviousId />
+<NextId />
+</VideoControls>
+<AskControls>
+<Hidden>false</Hidden>
+<Action>log</Action>
+</AskControls>
+<CaseName>Pfizer_PRC</CaseName>
+</Response>
+<Response id="pra158">
+<LeftRail>
+<Id>main</Id>
+<Hidden>true</Hidden>
+<ModuleSelected>4</ModuleSelected>
+</LeftRail>
+<VideoControls>
+<Hidden>true</Hidden>
+<PreviousId />
+<NextId />
+</VideoControls>
+<AskControls>
+<Hidden>false</Hidden>
+<Action>log</Action>
+</AskControls>
+<CaseName>Pfizer_PRC</CaseName>
+</Response>
+<Response id="pra159">
+<LeftRail>
+<Id>main</Id>
+<Hidden>true</Hidden>
+</LeftRail>
+<VideoControls>
+<Hidden>false</Hidden>
+<PreviousId />
+<NextId />
+</VideoControls>
+<AskControls>
+<Hidden>true</Hidden>
+<Action>analyze</Action>
+</AskControls>
+<CaseName>Pfizer_PRC</CaseName>
+</Response>
+<Response id="pra160">
+<LeftRail>
+<Id>main</Id>
+<Hidden>true</Hidden>
+</LeftRail>
+<VideoControls>
+<Hidden>false</Hidden>
+<PreviousId />
+<NextId />
+</VideoControls>
+<AskControls>
+<Hidden>true</Hidden>
+<Action>analyze</Action>
+</AskControls>
+<CaseName>Pfizer_PRC</CaseName>
+</Response>
+<Response id="pra161">
+<LeftRail>
+<Id>main</Id>
+<Hidden>true</Hidden>
+</LeftRail>
+<VideoControls>
+<Hidden>true</Hidden>
+<PreviousId />
+<NextId />
+</VideoControls>
+<AskControls>
+<Hidden>false</Hidden>
+<Action>log</Action>
+</AskControls>
+<CaseName>Pfizer_PRC</CaseName>
+</Response>
+<Response id="pra162">
+<LeftRail>
+<Id>main</Id>
+<Hidden>true</Hidden>
+</LeftRail>
+<VideoControls>
+<Hidden>true</Hidden>
+<PreviousId />
+<NextId />
+</VideoControls>
+<AskControls>
+<Hidden>false</Hidden>
+<Action>log</Action>
+</AskControls>
+<CaseName>Pfizer_PRC</CaseName>
+</Response>
+<Response id="pra163">
+<LeftRail>
+<Id>main</Id>
+<Hidden>true</Hidden>
+</LeftRail>
+<VideoControls>
+<Hidden>true</Hidden>
+<PreviousId />
+<NextId />
+</VideoControls>
+<AskControls>
+<Hidden>false</Hidden>
+<Action>log</Action>
+</AskControls>
+<CaseName>Pfizer_PRC</CaseName>
+</Response>
+<Response id="pra164">
+<LeftRail>
+<Id>main</Id>
+<Hidden>true</Hidden>
+</LeftRail>
+<VideoControls>
+<Hidden>true</Hidden>
+<PreviousId />
+<NextId />
+</VideoControls>
+<AskControls>
+<Hidden>false</Hidden>
+<Action>log</Action>
+</AskControls>
+<CaseName>Pfizer_PRC</CaseName>
+</Response>
+<Response id="pra165">
+<LeftRail>
+<Id>main</Id>
+<Hidden>true</Hidden>
+</LeftRail>
+<VideoControls>
+<Hidden>true</Hidden>
+<PreviousId />
+<NextId />
+</VideoControls>
+<AskControls>
+<Hidden>false</Hidden>
+<Action>log</Action>
+</AskControls>
+<CaseName>Pfizer_PRC</CaseName>
+</Response>
+<Response id="pra166">
+<LeftRail>
+<Id>main</Id>
+<Hidden>true</Hidden>
+<ModuleSelected>4</ModuleSelected>
+</LeftRail>
+<VideoControls>
+<Hidden>true</Hidden>
+<PreviousId />
+<NextId />
+</VideoControls>
+<AskControls>
+<Hidden>false</Hidden>
+<Action>log</Action>
+</AskControls>
+<CaseName>Pfizer_PRC</CaseName>
+</Response>
+<Response id="pra167">
+<LeftRail>
+<Id>main</Id>
+<Hidden>true</Hidden>
+<ModuleSelected>4</ModuleSelected>
+</LeftRail>
+<VideoControls>
+<Hidden>false</Hidden>
+<PreviousId />
+<NextId />
+</VideoControls>
+<AskControls>
+<Hidden>true</Hidden>
+<Action>analyze</Action>
+</AskControls>
+<CaseName>Pfizer_PRC</CaseName>
+</Response>
+<Response id="pra168">
+<LeftRail>
+<Id>main</Id>
+<Hidden>true</Hidden>
+</LeftRail>
+<VideoControls>
+<Hidden>true</Hidden>
+<PreviousId />
+<NextId />
+</VideoControls>
+<AskControls>
+<Hidden>false</Hidden>
+<Action>analyze</Action>
+</AskControls>
+<CaseName>Pfizer_PRC</CaseName>
+</Response>
+<Response id="pra169">
+<LeftRail>
+<Id>main</Id>
+<Hidden>false</Hidden>
+<ModuleSelected>4</ModuleSelected>
+</LeftRail>
+<VideoControls>
+<Hidden>true</Hidden>
+<PreviousId />
+<NextId />
+</VideoControls>
+<AskControls>
+<Hidden>false</Hidden>
+<Action>analyze</Action>
+</AskControls>
+<CaseName>Pfizer_PRC</CaseName>
+</Response>
+<Response id="pra170">
+<LeftRail>
+<Id>legal</Id>
+<Hidden>false</Hidden>
+</LeftRail>
+<VideoControls>
+<Hidden>true</Hidden>
+<PreviousId />
+<NextId />
+</VideoControls>
+<AskControls>
+<Hidden>false</Hidden>
+<Action>analyze</Action>
+</AskControls>
+<CaseName>Pfizer_PRC</CaseName>
+</Response>
+<Response id="pra171">
+<LeftRail>
+<Id>main</Id>
+<Hidden>false</Hidden>
+</LeftRail>
+<VideoControls>
+<Hidden>true</Hidden>
+<PreviousId />
+<NextId />
+</VideoControls>
+<AskControls>
+<Hidden>false</Hidden>
+<Action>analyze</Action>
+</AskControls>
+<CaseName>Pfizer_PRC</CaseName>
+</Response>
+<Response id="pra172">
+<LeftRail>
+<Id>main</Id>
+<Hidden>false</Hidden>
+</LeftRail>
+<VideoControls>
+<Hidden>true</Hidden>
+<PreviousId />
+<NextId />
+</VideoControls>
+<AskControls>
+<Hidden>false</Hidden>
+<Action>analyze</Action>
+</AskControls>
+<CaseName>Pfizer_PRC</CaseName>
+</Response>
+<Response id="pra173">
+<LeftRail>
+<Id>support</Id>
+<Hidden>false</Hidden>
+</LeftRail>
+<VideoControls>
+<Hidden>true</Hidden>
+<PreviousId />
+<NextId />
+</VideoControls>
+<AskControls>
+<Hidden>false</Hidden>
+<Action>analyze</Action>
+</AskControls>
+<CaseName>Pfizer_PRC</CaseName>
+</Response>
+<Response id="pra174">
+<LeftRail>
+<Id>main</Id>
+<Hidden>false</Hidden>
+</LeftRail>
+<VideoControls>
+<Hidden>true</Hidden>
+<PreviousId />
+<NextId />
+</VideoControls>
+<AskControls>
+<Hidden>false</Hidden>
+<Action>analyze</Action>
+</AskControls>
+<CaseName>Pfizer_PRC</CaseName>
+</Response>
+<Response id="pra175">
+<LeftRail>
+<Id>main</Id>
+<Hidden>false</Hidden>
+</LeftRail>
+<VideoControls>
+<Hidden>true</Hidden>
+<PreviousId />
+<NextId />
+</VideoControls>
+<AskControls>
+<Hidden>false</Hidden>
+<Action>analyze</Action>
+</AskControls>
+<CaseName>Pfizer_PRC</CaseName>
+</Response>
+<Response id="pra176">
+<LeftRail>
+<Id>main</Id>
+<Hidden>false</Hidden>
+</LeftRail>
+<VideoControls>
+<Hidden>true</Hidden>
+<PreviousId />
+<NextId />
+</VideoControls>
+<AskControls>
+<Hidden>false</Hidden>
+<Action>analyze</Action>
+</AskControls>
+<CaseName>Pfizer_PRC</CaseName>
+</Response>
+<Response id="pra177">
+<LeftRail>
+<Id>main</Id>
+<Hidden>false</Hidden>
+</LeftRail>
+<VideoControls>
+<Hidden>true</Hidden>
+<PreviousId />
+<NextId />
+</VideoControls>
+<AskControls>
+<Hidden>false</Hidden>
+<Action>analyze</Action>
+</AskControls>
+<CaseName>Pfizer_PRC</CaseName>
+</Response>
+<Response id="pra178">
+<LeftRail>
+<Id>main</Id>
+<Hidden>false</Hidden>
+</LeftRail>
+<VideoControls>
+<Hidden>true</Hidden>
+<PreviousId />
+<NextId />
+</VideoControls>
+<AskControls>
+<Hidden>false</Hidden>
+<Action>analyze</Action>
+</AskControls>
+<CaseName>Pfizer_PRC</CaseName>
+</Response>
+<Response id="pra179">
+<LeftRail>
+<Id>main</Id>
+<Hidden>true</Hidden>
+</LeftRail>
+<VideoControls>
+<Hidden>true</Hidden>
+<PreviousId />
+<NextId />
+</VideoControls>
+<AskControls>
+<Hidden>false</Hidden>
+<Action>fb-intro</Action>
+</AskControls>
+<CaseName>Pfizer_PRC</CaseName>
+</Response>
+<Response id="pra180">
+<LeftRail>
+<Id>main</Id>
+<Hidden>true</Hidden>
+</LeftRail>
+<VideoControls>
+<Hidden>true</Hidden>
+<PreviousId />
+<NextId />
+</VideoControls>
+<AskControls>
+<Hidden>false</Hidden>
+<Action>fb-1</Action>
+</AskControls>
+<CaseName>Pfizer_PRC</CaseName>
+</Response>
+<Response id="pra181">
+<LeftRail>
+<Id>main</Id>
+<Hidden>true</Hidden>
+<ModuleSelected>1</ModuleSelected>
+</LeftRail>
+<VideoControls>
+<Hidden>true</Hidden>
+<PreviousId />
+<NextId />
+</VideoControls>
+<AskControls>
+<Hidden>false</Hidden>
+<Action>fb-2</Action>
+</AskControls>
+<CaseName>Pfizer_PRC</CaseName>
+</Response>
+<Response id="pra182">
+<LeftRail>
+<Id>main</Id>
+<Hidden>true</Hidden>
+</LeftRail>
+<VideoControls>
+<Hidden>true</Hidden>
+<PreviousId />
+<NextId />
+</VideoControls>
+<AskControls>
+<Hidden>false</Hidden>
+<Action>fb-3</Action>
+</AskControls>
+<CaseName>Pfizer_PRC</CaseName>
+</Response>
+<Response id="pra183">
+<LeftRail>
+<Id>main</Id>
+<Hidden>true</Hidden>
+</LeftRail>
+<VideoControls>
+<Hidden>true</Hidden>
+<PreviousId />
+<NextId />
+</VideoControls>
+<AskControls>
+<Hidden>false</Hidden>
+<Action>fb-4</Action>
+</AskControls>
+<CaseName>Pfizer_PRC</CaseName>
+</Response>
+<Response id="pra184">
+<LeftRail>
+<Id>main</Id>
+<Hidden>true</Hidden>
+</LeftRail>
+<VideoControls>
+<Hidden>true</Hidden>
+<PreviousId />
+<NextId />
+</VideoControls>
+<AskControls>
+<Hidden>false</Hidden>
+<Action>fb-5</Action>
+</AskControls>
+<CaseName>Pfizer_PRC</CaseName>
+</Response>
+<Response id="pra185">
+<LeftRail>
+<Id>main</Id>
+<Hidden>true</Hidden>
+</LeftRail>
+<VideoControls>
+<Hidden>true</Hidden>
+<PreviousId />
+<NextId />
+</VideoControls>
+<AskControls>
+<Hidden>false</Hidden>
+<Action>fb-6</Action>
+</AskControls>
+<CaseName>Pfizer_PRC</CaseName>
+</Response>
+<Response id="pra186">
+<LeftRail>
+<Id>main</Id>
+<Hidden>true</Hidden>
+</LeftRail>
+<VideoControls>
+<Hidden>false</Hidden>
+<PreviousId />
+<NextId />
+</VideoControls>
+<AskControls>
+<Hidden>true</Hidden>
+<Action>analyze</Action>
+</AskControls>
+<CaseName>Pfizer_PRC</CaseName>
+</Response>
+<Response id="pra187">
+<LeftRail>
+<Id>main</Id>
+<Hidden>false</Hidden>
+</LeftRail>
+<VideoControls>
+<Hidden>true</Hidden>
+<PreviousId />
+<NextId />
+</VideoControls>
+<AskControls>
+<Hidden>false</Hidden>
+<Action>analyze</Action>
+</AskControls>
+<CaseName>Pfizer_PRC</CaseName>
+</Response>
+<Response id="pra188">
+<LeftRail>
+<Id>main</Id>
+<Hidden>false</Hidden>
+</LeftRail>
+<VideoControls>
+<Hidden>true</Hidden>
+<PreviousId />
+<NextId />
+</VideoControls>
+<AskControls>
+<Hidden>false</Hidden>
+<Action>analyze</Action>
+</AskControls>
+<CaseName>Pfizer_PRC</CaseName>
+</Response>
+<Response id="pra189">
+<LeftRail>
+<Id>main</Id>
+<Hidden>false</Hidden>
+</LeftRail>
+<VideoControls>
+<Hidden>true</Hidden>
+<PreviousId />
+<NextId />
+</VideoControls>
+<AskControls>
+<Hidden>false</Hidden>
+<Action>analyze</Action>
+</AskControls>
+<CaseName>Pfizer_PRC</CaseName>
+</Response>
+<Response id="pra190">
+<LeftRail>
+<Id>main</Id>
+<Hidden>false</Hidden>
+<ModuleSelected>4</ModuleSelected>
+</LeftRail>
+<VideoControls>
+<Hidden>true</Hidden>
+<PreviousId />
+<NextId />
+</VideoControls>
+<AskControls>
+<Hidden>false</Hidden>
+<Action>analyze</Action>
+</AskControls>
+<CaseName>Pfizer_PRC</CaseName>
+</Response>
+<Response id="pra191">
+<LeftRail>
+<Id>main</Id>
+<Hidden>false</Hidden>
+</LeftRail>
+<VideoControls>
+<Hidden>true</Hidden>
+<PreviousId />
+<NextId />
+</VideoControls>
+<AskControls>
+<Hidden>false</Hidden>
+<Action>analyze</Action>
+</AskControls>
+<CaseName>Pfizer_PRC</CaseName>
+</Response>
+<Response id="pra192">
+<LeftRail>
+<Id>main</Id>
+<Hidden>false</Hidden>
+</LeftRail>
+<VideoControls>
+<Hidden>true</Hidden>
+<PreviousId />
+<NextId />
+</VideoControls>
+<AskControls>
+<Hidden>false</Hidden>
+<Action>analyze</Action>
+</AskControls>
+<CaseName>Pfizer_PRC</CaseName>
+</Response>
+<Response id="pra193">
+<LeftRail>
+<Id>main</Id>
+<Hidden>false</Hidden>
+</LeftRail>
+<VideoControls>
+<Hidden>true</Hidden>
+<PreviousId />
+<NextId />
+</VideoControls>
+<AskControls>
+<Hidden>false</Hidden>
+<Action>analyze</Action>
+</AskControls>
+<CaseName>Pfizer_PRC</CaseName>
+</Response>
+<Response id="pra194">
+<LeftRail>
+<Id>main</Id>
+<Hidden>false</Hidden>
+</LeftRail>
+<VideoControls>
+<Hidden>true</Hidden>
+<PreviousId />
+<NextId />
+</VideoControls>
+<AskControls>
+<Hidden>false</Hidden>
+<Action>analyze</Action>
+</AskControls>
+<CaseName>Pfizer_PRC</CaseName>
+</Response>
+<Response id="pra195">
+<LeftRail>
+<Id>main</Id>
+<Hidden>false</Hidden>
+</LeftRail>
+<VideoControls>
+<Hidden>true</Hidden>
+<PreviousId />
+<NextId />
+</VideoControls>
+<AskControls>
+<Hidden>false</Hidden>
+<Action>analyze</Action>
+</AskControls>
+<CaseName>Pfizer_PRC</CaseName>
+</Response>
+<Response id="pra196">
+<LeftRail>
+<Id>main</Id>
+<Hidden>false</Hidden>
+</LeftRail>
+<VideoControls>
+<Hidden>true</Hidden>
+<PreviousId />
+<NextId />
+</VideoControls>
+<AskControls>
+<Hidden>false</Hidden>
+<Action>analyze</Action>
+</AskControls>
+<CaseName>Pfizer_PRC</CaseName>
+</Response>
+<Response id="pra197">
+<LeftRail>
+<Id>main</Id>
+<Hidden>false</Hidden>
+</LeftRail>
+<VideoControls>
+<Hidden>true</Hidden>
+<PreviousId />
+<NextId />
+</VideoControls>
+<AskControls>
+<Hidden>false</Hidden>
+<Action>analyze</Action>
+</AskControls>
+<CaseName>Pfizer_PRC</CaseName>
+</Response>
+<Response id="pra198">
+<LeftRail>
+<Id>main</Id>
+<Hidden>false</Hidden>
+</LeftRail>
+<VideoControls>
+<Hidden>true</Hidden>
+<PreviousId />
+<NextId />
+</VideoControls>
+<AskControls>
+<Hidden>false</Hidden>
+<Action>log</Action>
+</AskControls>
+<CaseName>Pfizer_PRC</CaseName>
+</Response>
+<Response id="pra199">
+<LeftRail>
+<Id>main</Id>
+<Hidden>false</Hidden>
+</LeftRail>
+<VideoControls>
+<Hidden>true</Hidden>
+<PreviousId />
+<NextId />
+</VideoControls>
+<AskControls>
+<Hidden>false</Hidden>
+<Action>log</Action>
+</AskControls>
+<CaseName>Pfizer_PRC</CaseName>
+</Response>
+<Response id="pra200">
+<LeftRail>
+<Id>main</Id>
+<Hidden>false</Hidden>
+</LeftRail>
+<VideoControls>
+<Hidden>true</Hidden>
+<PreviousId />
+<NextId />
+</VideoControls>
+<AskControls>
+<Hidden>false</Hidden>
+<Action>log</Action>
+</AskControls>
+<CaseName>Pfizer_PRC</CaseName>
+</Response>
+<Response id="pra201">
+<LeftRail>
+<Id>main</Id>
+<Hidden>false</Hidden>
+</LeftRail>
+<VideoControls>
+<Hidden>true</Hidden>
+<PreviousId />
+<NextId />
+</VideoControls>
+<AskControls>
+<Hidden>false</Hidden>
+<Action>log</Action>
+</AskControls>
+<CaseName>Pfizer_PRC</CaseName>
+</Response>
+<Response id="pra202">
+<LeftRail>
+<Id>main</Id>
+<Hidden>false</Hidden>
+</LeftRail>
+<VideoControls>
+<Hidden>true</Hidden>
+<PreviousId />
+<NextId />
+</VideoControls>
+<AskControls>
+<Hidden>false</Hidden>
+<Action>log</Action>
+</AskControls>
+<CaseName>Pfizer_PRC</CaseName>
+</Response>
+<Response id="pra203">
+<LeftRail>
+<Id>main</Id>
+<Hidden>false</Hidden>
+</LeftRail>
+<VideoControls>
+<Hidden>true</Hidden>
+<PreviousId />
+<NextId />
+</VideoControls>
+<AskControls>
+<Hidden>false</Hidden>
+<Action>analyze</Action>
+</AskControls>
+<CaseName>Pfizer_PRC</CaseName>
+</Response>
+<Response id="pra204">
+<LeftRail>
+<Id>main</Id>
+<Hidden>false</Hidden>
+<ModuleSelected>0</ModuleSelected>
+</LeftRail>
+<VideoControls>
+<Hidden>true</Hidden>
+<PreviousId />
+<NextId />
+</VideoControls>
+<AskControls>
+<Hidden>false</Hidden>
+<Action>analyze</Action>
+</AskControls>
+<CaseName>Pfizer_PRC</CaseName>
+</Response>
+<Response id="pra205">
+<LeftRail>
+<Id>main</Id>
+<Hidden>false</Hidden>
+<ModuleSelected>1</ModuleSelected>
+</LeftRail>
+<VideoControls>
+<Hidden>true</Hidden>
+<PreviousId />
+<NextId />
+</VideoControls>
+<AskControls>
+<Hidden>false</Hidden>
+<Action>log</Action>
+</AskControls>
+<CaseName>Pfizer_PRC</CaseName>
+</Response>
+<Response id="pra206">
+<LeftRail>
+<Id>main</Id>
+<Hidden>false</Hidden>
+<ModuleSelected>4</ModuleSelected>
+</LeftRail>
+<VideoControls>
+<Hidden>true</Hidden>
+<PreviousId />
+<NextId />
+</VideoControls>
+<AskControls>
+<Hidden>false</Hidden>
+<Action>analyze</Action>
+</AskControls>
+<CaseName>Pfizer_PRC</CaseName>
+</Response>
+<Response id="pra207">
+<LeftRail>
+<Id>main</Id>
+<Hidden>false</Hidden>
+<ModuleSelected>1</ModuleSelected>
+</LeftRail>
+<VideoControls>
+<Hidden>true</Hidden>
+<PreviousId />
+<NextId />
+</VideoControls>
+<AskControls>
+<Hidden>false</Hidden>
+<Action>analyze</Action>
+</AskControls>
+<CaseName>Pfizer_PRC</CaseName>
+</Response>
+<Response id="pra208">
+<LeftRail>
+<Id>main</Id>
+<Hidden>true</Hidden>
+</LeftRail>
+<VideoControls>
+<Hidden>false</Hidden>
+<PreviousId />
+<NextId />
+</VideoControls>
+<AskControls>
+<Hidden>true</Hidden>
+<Action>analyze</Action>
+</AskControls>
+<CaseName>Pfizer_PRC</CaseName>
+</Response>
+<Response id="pra209">
+<LeftRail>
+<Id>main</Id>
+<Hidden>false</Hidden>
+</LeftRail>
+<VideoControls>
+<Hidden>true</Hidden>
+<PreviousId />
+<NextId />
+</VideoControls>
+<AskControls>
+<Hidden>false</Hidden>
+<Action>log</Action>
+</AskControls>
+<CaseName>Pfizer_PRC</CaseName>
+</Response>
+<Response id="pra210">
+<LeftRail>
+<Id>main</Id>
+<Hidden>false</Hidden>
+</LeftRail>
+<VideoControls>
+<Hidden>true</Hidden>
+<PreviousId />
+<NextId />
+</VideoControls>
+<AskControls>
+<Hidden>false</Hidden>
+<Action>analyze</Action>
+</AskControls>
+<CaseName>Pfizer_PRC</CaseName>
+</Response>
+<Response id="pra211">
+<LeftRail>
+<Id>main</Id>
+<Hidden>false</Hidden>
+</LeftRail>
+<VideoControls>
+<Hidden>true</Hidden>
+<PreviousId />
+<NextId />
+</VideoControls>
+<AskControls>
+<Hidden>false</Hidden>
+<Action>analyze</Action>
+</AskControls>
+<CaseName>Pfizer_PRC</CaseName>
+</Response>
+<Response id="pra212">
+<LeftRail>
+<Id>main</Id>
+<Hidden>false</Hidden>
+</LeftRail>
+<VideoControls>
+<Hidden>true</Hidden>
+<PreviousId />
+<NextId />
+</VideoControls>
+<AskControls>
+<Hidden>false</Hidden>
+<Action>analyze</Action>
+</AskControls>
+<CaseName>Pfizer_PRC</CaseName>
+</Response>
+<Response id="pra213">
+<LeftRail>
+<Id>main</Id>
+<Hidden>true</Hidden>
+</LeftRail>
+<VideoControls>
+<Hidden>false</Hidden>
+<PreviousId />
+<NextId />
+</VideoControls>
+<AskControls>
+<Hidden>true</Hidden>
+<Action>analyze</Action>
+</AskControls>
+<CaseName>Pfizer_PRC</CaseName>
+</Response>
+<Response id="pra250">
+<LeftRail>
+<Id>main</Id>
+<Hidden>false</Hidden>
+</LeftRail>
+<VideoControls>
+<Hidden>true</Hidden>
+<PreviousId />
+<NextId />
+</VideoControls>
+<AskControls>
+<Hidden>false</Hidden>
+<Action>analyze</Action>
+</AskControls>
+<CaseName>Pfizer_PRC</CaseName>
+</Response>
+<Response id="pra251">
+<LeftRail>
+<Id>main</Id>
+<Hidden>true</Hidden>
+</LeftRail>
+<VideoControls>
+<Hidden>true</Hidden>
+<PreviousId />
+<NextId />
+</VideoControls>
+<AskControls>
+<Hidden>false</Hidden>
+<Action>options</Action>
+</AskControls>
+<CaseName>Pfizer_PRC</CaseName>
+</Response>
+<!-- ################################## -->
+<!-- ############## PRB ############### -->
+<!-- ################################## -->
+<Response id="prb139">
+<LeftRail>
+<Id>main</Id>
+<Hidden>true</Hidden>
+<ModuleSelected>4</ModuleSelected>
+</LeftRail>
+<VideoControls>
+<Hidden>false</Hidden>
+<PreviousId />
+<NextId />
+</VideoControls>
+<AskControls>
+<Hidden>true</Hidden>
+<Action>analyze</Action>
+</AskControls>
+<CaseName>Pfizer_PRC</CaseName>
+</Response>
+<Response id="prb139">
+<LeftRail>
+<Id>main</Id>
+<Hidden>true</Hidden>
+<ModuleSelected>4</ModuleSelected>
+</LeftRail>
+<VideoControls>
+<Hidden>false</Hidden>
+<PreviousId />
+<NextId />
+</VideoControls>
+<AskControls>
+<Hidden>true</Hidden>
+<Action>analyze</Action>
+</AskControls>
+<CaseName>Pfizer_PRC</CaseName>
+</Response>
+<Response id="prb166">
+<LeftRail>
+<Id>main</Id>
+<Hidden>true</Hidden>
+<ModuleSelected>4</ModuleSelected>
+</LeftRail>
+<VideoControls>
+<Hidden>false</Hidden>
+<PreviousId />
+<NextId />
+</VideoControls>
+<AskControls>
+<Hidden>true</Hidden>
+<Action>analyze</Action>
+</AskControls>
+<CaseName>Pfizer_PRC</CaseName>
+</Response>
+<Response id="prb167">
+<LeftRail>
+<Id>main</Id>
+<Hidden>true</Hidden>
+<ModuleSelected>4</ModuleSelected>
+</LeftRail>
+<VideoControls>
+<Hidden>false</Hidden>
+<PreviousId />
+<NextId />
+</VideoControls>
+<AskControls>
+<Hidden>true</Hidden>
+<Action>analyze</Action>
+</AskControls>
+<CaseName>Pfizer_PRC</CaseName>
+</Response>
+<Response id="prb158">
+<LeftRail>
+<Id>main</Id>
+<Hidden>true</Hidden>
+<ModuleSelected>4</ModuleSelected>
+</LeftRail>
+<VideoControls>
+<Hidden>false</Hidden>
+<PreviousId />
+<NextId />
+</VideoControls>
+<AskControls>
+<Hidden>true</Hidden>
+<Action>analyze</Action>
+</AskControls>
+<CaseName>Pfizer_PRC</CaseName>
+</Response>
+<Response id="prb239">
+<LeftRail>
+<Id>main</Id>
+<Hidden>true</Hidden>
+<ModuleSelected>5</ModuleSelected>
+</LeftRail>
+<VideoControls>
+<Hidden>false</Hidden>
+<PreviousId />
+<NextId />
+</VideoControls>
+<AskControls>
+<Hidden>true</Hidden>
+<Action>analyze</Action>
+</AskControls>
+<CaseName>Pfizer_PRC</CaseName>
+</Response>
+<Response id="prb181">
+<LeftRail>
+<Id>main</Id>
+<Hidden>true</Hidden>
+<ModuleSelected>5</ModuleSelected>
+</LeftRail>
+<VideoControls>
+<Hidden>false</Hidden>
+<PreviousId />
+<NextId />
+</VideoControls>
+<AskControls>
+<Hidden>true</Hidden>
+<Action>analyze</Action>
+</AskControls>
+<CaseName>Pfizer_PRC</CaseName>
+</Response>
+<Response id="prb145">
+<LeftRail>
+<Id>main</Id>
+<Hidden>true</Hidden>
+<ModuleSelected>5</ModuleSelected>
+</LeftRail>
+<VideoControls>
+<Hidden>false</Hidden>
+<PreviousId />
+<NextId />
+</VideoControls>
+<AskControls>
+<Hidden>true</Hidden>
+<Action>analyze</Action>
+</AskControls>
+<CaseName>Pfizer_PRC</CaseName>
+</Response>
+<Response id="prb148">
+<LeftRail>
+<Id>main</Id>
+<Hidden>true</Hidden>
+<ModuleSelected>5</ModuleSelected>
+</LeftRail>
+<VideoControls>
+<Hidden>false</Hidden>
+<PreviousId />
+<NextId />
+</VideoControls>
+<AskControls>
+<Hidden>true</Hidden>
+<Action>analyze</Action>
+</AskControls>
+<CaseName>Pfizer_PRC</CaseName>
+</Response>
+<Response id="prb128">
+<LeftRail>
+<Id>main</Id>
+<Hidden>true</Hidden>
+<ModuleSelected>5</ModuleSelected>
+</LeftRail>
+<VideoControls>
+<Hidden>false</Hidden>
+<PreviousId />
+<NextId />
+</VideoControls>
+<AskControls>
+<Hidden>true</Hidden>
+<Action>analyze</Action>
+</AskControls>
+<CaseName>Pfizer_PRC</CaseName>
+</Response>
+<Response id="prb208">
+<LeftRail>
+<Id>main</Id>
+<Hidden>true</Hidden>
+<ModuleSelected>2</ModuleSelected>
+</LeftRail>
+<VideoControls>
+<Hidden>false</Hidden>
+<PreviousId />
+<NextId />
+</VideoControls>
+<AskControls>
+<Hidden>true</Hidden>
+<Action>analyze</Action>
+</AskControls>
+<CaseName>Pfizer_PRC</CaseName>
+</Response>
+<Response id="prb213">
+<LeftRail>
+<Id>main</Id>
+<Hidden>true</Hidden>
+<ModuleSelected>2</ModuleSelected>
+</LeftRail>
+<VideoControls>
+<Hidden>false</Hidden>
+<PreviousId />
+<NextId />
+</VideoControls>
+<AskControls>
+<Hidden>true</Hidden>
+<Action>analyze</Action>
+</AskControls>
+<CaseName>Pfizer_PRC</CaseName>
+</Response>
+<Response id="prb215">
+<LeftRail>
+<Id>main</Id>
+<Hidden>true</Hidden>
+<ModuleSelected>2</ModuleSelected>
+</LeftRail>
+<VideoControls>
+<Hidden>false</Hidden>
+<PreviousId />
+<NextId />
+</VideoControls>
+<AskControls>
+<Hidden>true</Hidden>
+<Action>analyze</Action>
+</AskControls>
+<CaseName>Pfizer_PRC</CaseName>
+</Response>
+<Response id="prb216">
+<LeftRail>
+<Id>main</Id>
+<Hidden>true</Hidden>
+<ModuleSelected>2</ModuleSelected>
+</LeftRail>
+<VideoControls>
+<Hidden>false</Hidden>
+<PreviousId />
+<NextId />
+</VideoControls>
+<AskControls>
+<Hidden>true</Hidden>
+<Action>analyze</Action>
+</AskControls>
+<CaseName>Pfizer_PRC</CaseName>
+</Response>
+<Response id="prb222">
+<LeftRail>
+<Id>main</Id>
+<Hidden>true</Hidden>
+<ModuleSelected>3</ModuleSelected>
+</LeftRail>
+<VideoControls>
+<Hidden>false</Hidden>
+<PreviousId />
+<NextId />
+</VideoControls>
+<AskControls>
+<Hidden>true</Hidden>
+<Action>analyze</Action>
+</AskControls>
+<CaseName>Pfizer_PRC</CaseName>
+</Response>
+<Response id="prb224">
+<LeftRail>
+<Id>main</Id>
+<Hidden>true</Hidden>
+<ModuleSelected>3</ModuleSelected>
+</LeftRail>
+<VideoControls>
+<Hidden>false</Hidden>
+<PreviousId />
+<NextId />
+</VideoControls>
+<AskControls>
+<Hidden>true</Hidden>
+<Action>analyze</Action>
+</AskControls>
+<CaseName>Pfizer_PRC</CaseName>
+</Response>
+<Response id="prb225">
+<LeftRail>
+<Id>main</Id>
+<Hidden>true</Hidden>
+<ModuleSelected>3</ModuleSelected>
+</LeftRail>
+<VideoControls>
+<Hidden>false</Hidden>
+<PreviousId />
+<NextId />
+</VideoControls>
+<AskControls>
+<Hidden>true</Hidden>
+<Action>analyze</Action>
+</AskControls>
+<CaseName>Pfizer_PRC</CaseName>
+</Response>
+<Response id="prb231">
+<LeftRail>
+<Id>main</Id>
+<Hidden>true</Hidden>
+<ModuleSelected>4</ModuleSelected>
+</LeftRail>
+<VideoControls>
+<Hidden>false</Hidden>
+<PreviousId />
+<NextId />
+</VideoControls>
+<AskControls>
+<Hidden>true</Hidden>
+<Action>analyze</Action>
+</AskControls>
+<CaseName>Pfizer_PRC</CaseName>
+</Response>
+<Response id="prb190">
+<LeftRail>
+<Id>main</Id>
+<Hidden>true</Hidden>
+<ModuleSelected>3</ModuleSelected>
+</LeftRail>
+<VideoControls>
+<Hidden>false</Hidden>
+<PreviousId />
+<NextId />
+</VideoControls>
+<AskControls>
+<Hidden>true</Hidden>
+<Action>analyze</Action>
+</AskControls>
+<CaseName>Pfizer_PRC</CaseName>
+</Response>
+<!-- ################################## -->
+<!-- ############## PRC ############### -->
+<!-- ################################## -->
+<Response id="prc139">
+<LeftRail>
+<Id>main</Id>
+<Hidden>true</Hidden>
+<ModuleSelected>4</ModuleSelected>
+</LeftRail>
+<VideoControls>
+<Hidden>false</Hidden>
+<PreviousId />
+<NextId />
+</VideoControls>
+<AskControls>
+<Hidden>true</Hidden>
+<Action>analyze</Action>
+</AskControls>
+<CaseName>Pfizer_PRC</CaseName>
+</Response>
+<Response id="prc159">
+<LeftRail>
+<Id>main</Id>
+<Hidden>true</Hidden>
+<ModuleSelected>4</ModuleSelected>
+</LeftRail>
+<VideoControls>
+<Hidden>false</Hidden>
+<PreviousId />
+<NextId />
+</VideoControls>
+<AskControls>
+<Hidden>true</Hidden>
+<Action>analyze</Action>
+</AskControls>
+<CaseName>Pfizer_PRC</CaseName>
+</Response>
+<Response id="prc166">
+<LeftRail>
+<Id>main</Id>
+<Hidden>true</Hidden>
+<ModuleSelected>4</ModuleSelected>
+</LeftRail>
+<VideoControls>
+<Hidden>false</Hidden>
+<PreviousId />
+<NextId />
+</VideoControls>
+<AskControls>
+<Hidden>true</Hidden>
+<Action>analyze</Action>
+</AskControls>
+<CaseName>Pfizer_PRC</CaseName>
+</Response>
+<Response id="prc167">
+<LeftRail>
+<Id>main</Id>
+<Hidden>true</Hidden>
+<ModuleSelected>4</ModuleSelected>
+</LeftRail>
+<VideoControls>
+<Hidden>false</Hidden>
+<PreviousId />
+<NextId />
+</VideoControls>
+<AskControls>
+<Hidden>true</Hidden>
+<Action>analyze</Action>
+</AskControls>
+<CaseName>Pfizer_PRC</CaseName>
+</Response>
+</xml>

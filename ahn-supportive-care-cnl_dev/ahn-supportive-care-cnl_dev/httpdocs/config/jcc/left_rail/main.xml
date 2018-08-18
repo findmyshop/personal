@@ -1,0 +1,67 @@
+<xml>
+  <Module id='0'>
+    <Heading>
+      Introduction to Clinical Trials
+    </Heading>
+    <ResponseID>jcc101</ResponseID>
+    <ResponseID>jcc103</ResponseID>
+    <ResponseID>jcc104</ResponseID>
+    <ResponseID>jcc108</ResponseID>
+  </Module>
+  <Module id='1'>
+    <Heading>
+      Participating in a Clinical Trial
+    </Heading>
+    <ResponseID>jcc116</ResponseID>
+    <ResponseID>jcc117</ResponseID>
+    <ResponseID>jcc119</ResponseID>
+    <ResponseID>jcc121</ResponseID>
+    <ResponseID>jcc181</ResponseID>
+  </Module>
+  <Module id='2'>
+    <Heading>
+      Rights and Responsibilities
+    </Heading>
+    <ResponseID>jcc124</ResponseID>
+    <ResponseID>jcc126</ResponseID>
+    <ResponseID>jcc127</ResponseID>
+    <ResponseID>jcc132</ResponseID>
+  </Module>
+  <Module id='3'>
+    <Heading>
+      Privacy
+    </Heading>
+    <ResponseID>jcc138</ResponseID>
+    <ResponseID>jcc137</ResponseID>
+  </Module>
+  <Module id='4'>
+    <Heading>
+      About the Juniper Study
+    </Heading>
+    <ResponseID>jcc139</ResponseID>
+    <ResponseID>jcc158</ResponseID>
+    <ResponseID>jcc140</ResponseID>
+    <ResponseID>jcc190</ResponseID>
+    <ResponseID>jcc142</ResponseID>
+    <ResponseID>jcc146</ResponseID>
+    <ResponseID>jcc166</ResponseID>
+    <ResponseID>jcc167</ResponseID>
+    <ResponseID>jcc169</ResponseID>
+  </Module>
+  <Module id='5'>
+    <Heading>
+      Costs &amp; Compensation
+    </Heading>
+    <ResponseID>jcc155</ResponseID>
+    <ResponseID>jcc150</ResponseID>
+    <ResponseID>jcc154</ResponseID>
+  </Module>
+</xml>
+
+
+
+
+
+
+
+

@@ -1,0 +1,37 @@
+# base CI rules from github setup
+*/config/development
+*/logs/log-*.php
+*/logs/!index.html
+*/cache/*
+*/cache/!index.html
+
+# CI rules from distibution
+application/cache/*
+!application/cache/index.html
+!application/cache/.htaccess
+application/logs/*
+codeigniter/application/logs/*
+!application/logs/index.html
+
+# Maintenance Lock
+.maintenance_lock
+
+# Merge Scripts
+/scripts/bash/merge_master_into_product_uat_branches.sh
+/scripts/bash/promote_uat_product_branches_to_master_product_branches.sh
+
+# Misc stuff
+.metadata
+.metadata/*
+.settings
+.settings/*
+.buildpath
+.buildpath/*
+.project
+.Ds_Store
+*.sublime-*
+httpdocs/scss/.sass-cache/*
+*sftp-config.json
+sftp-config*
+/nbproject/private/
+.idea

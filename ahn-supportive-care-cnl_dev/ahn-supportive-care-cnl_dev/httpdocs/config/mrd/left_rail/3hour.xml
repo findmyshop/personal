@@ -1,0 +1,58 @@
+<xml>
+  <Module id='1' status='locked'>
+    <Heading>
+      Module 1: Background
+    </Heading>
+  </Module>
+  <Module id='2' status='locked'>
+    <Heading>
+      Module 2: Screening
+    </Heading>
+  </Module>
+  <Module id='3' status='locked'>
+    <Heading>
+      Module 3: Brief Intervention
+    </Heading>
+  </Module>
+  <Module id='4' status='locked'>
+    <Heading>
+      Module 4: Raising the Subject and Building Rapport
+    </Heading>
+  </Module>
+  <Module id='5' status='locked'>
+    <Heading>
+      Module 5: Providing Feedback
+    </Heading>
+  </Module>
+  <Module id='6'>
+    <Heading>
+      Module 6: Enhancing Motivation using OARS
+    </Heading>
+    <ResponseID>asb3_mod6_sp1intro</ResponseID>
+  </Module>
+  <Module id='7' status='locked'>
+    <Heading>
+      Module 7: Eliciting Change Talk
+    </Heading>
+  </Module>
+  <Module id='8' status='locked'>
+    <Heading>
+      Module 8: Confidence Statements
+    </Heading>
+  </Module>
+  <Module id='9' status='locked'>
+    <Heading>
+      Module 9: Negotiating and Advising
+    </Heading>
+  </Module>
+  <Module id='10' status='locked'>
+    <Heading>
+      Module 10: Referral to Treatment
+    </Heading>
+  </Module>
+ <Module id='11' status='locked'>
+    <Heading>
+      Module 11: Patient Simulation
+    </Heading>
+  </Module>
+</xml>

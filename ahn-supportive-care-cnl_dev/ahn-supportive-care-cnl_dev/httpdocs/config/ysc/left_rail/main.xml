@@ -1,0 +1,46 @@
+<xml>
+  <Module id='0'>
+    <Heading>
+      Introduction to Clinical Trials
+    </Heading>
+    <ResponseID>ysc101</ResponseID>
+    <ResponseID>ysc102</ResponseID>
+    <ResponseID>ysc103</ResponseID>
+    <ResponseID>ysc104</ResponseID>
+    <ResponseID>ysc204</ResponseID>
+  </Module>
+  <Module id='1'>
+    <Heading>
+      Participating in a Clinical Trial
+    </Heading>
+    <ResponseID>ysc112</ResponseID>
+    <ResponseID>ysc113</ResponseID>
+    <ResponseID>ysc114</ResponseID>
+    <ResponseID>ysc116</ResponseID>
+  </Module>
+  <Module id='2'>
+    <Heading>
+      Patient Rights and Responsibilities
+    </Heading>
+    <ResponseID>ysc127</ResponseID>
+    <ResponseID>ysc124</ResponseID>
+    <ResponseID>ysc126</ResponseID>
+    <ResponseID>ysc111</ResponseID>
+  </Module>
+  <Module id='3'>
+    <Heading>
+      Ethics and Privacy
+    </Heading>
+    <ResponseID>ysc138</ResponseID>
+    <ResponseID>ysc205</ResponseID>
+    <ResponseID>ysc110</ResponseID>
+    <ResponseID>ysc129</ResponseID>
+  </Module>
+  <Module id='4'>
+    <Heading>
+      Risks and Benefits
+    </Heading>
+    <ResponseID>ysc117</ResponseID>
+    <ResponseID>ysc206</ResponseID>
+  </Module>
+</xml>

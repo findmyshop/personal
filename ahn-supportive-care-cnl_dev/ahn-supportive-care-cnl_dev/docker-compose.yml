@@ -1,0 +1,18 @@
+version: '2'
+services:
+    app:
+        build:
+            context: .
+            dockerfile: docker/Dockerfile
+        ports:
+            - 80:80
+            - 443:443
+        depends_on:
+            - mysql
+
+    mysql:
+        build:
+            context: .
+            dockerfile: docker/Dockerfilemysql
+        ports:
+            - 3306:3306/tcp

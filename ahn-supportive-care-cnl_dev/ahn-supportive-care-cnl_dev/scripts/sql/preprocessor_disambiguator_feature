@@ -1,0 +1,31 @@
+INSERT INTO `master_features` (
+    `name`,
+    `admin`,
+    `site_admin`,
+    `user`,
+    `unauthenticated`
+) VALUES (
+    'preprocessor_disambiguator',
+    0,
+    0,
+    0,
+    0
+);
+
+DROP TABLE `master_preprocessor_clause_segmenter_runs`;
+
+TRUNCATE TABLE `master_preprocessor_clause_segments`;
+
+ALTER TABLE `master_preprocessor_clause_segments` CHANGE COLUMN `run_id` `preprocessor_run_id` INT(11) NOT NULL;
+
+CREATE TABLE `master_preprocessor_runs` (
+  `id` int(11) unsigned NOT NULL AUTO_INCREMENT,
+  `string` text NOT NULL,
+  `disambiguated_string` text COMMENT 'NULL when string dsiambiguation isn''t attempted',
+  `curl_request_succeeded` tinyint(1) NOT NULL,
+  `curl_request_milliseconds` int(11) NOT NULL,
+  `curl_error_message` text,
+  `timestamp_created` timestamp NOT NULL DEFAULT CURRENT_TIMESTAMP,
+  PRIMARY KEY (`id`)
+) ENGINE=InnoDB DEFAULT CHARSET=utf8;
+

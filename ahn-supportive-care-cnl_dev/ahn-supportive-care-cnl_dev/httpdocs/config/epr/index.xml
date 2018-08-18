@@ -1,0 +1,3331 @@
+<xml>
+<Response id="epr001">
+<ResponseID id="0">epr001</ResponseID>
+<BaseQuestion id="0">How can I calculate my due date?</BaseQuestion>
+<Content id="0">If you have a regular 28 day menstrual cycle, your due date is calculated by adding 280 days, or 40 weeks, to the first day of your last menstrual period.  Your menstrual period and ovulation are counted as the first two weeks of pregnancy.
+Your due date is only an estimate. On average only 5% of births take place exactly on the estimated due date. Most babies are born within a week before or after the estimated due date and a normal pregnancy can last anywhere between 38 and 42 weeks.
+
+Every pregnancy is unique and your baby will come when it's ready. Be sure to talk to your health care provider about your due date.  If you don't have a regular 28 day menstrual cycle your doctor can help determine your due date.  For a due date calculator, see the link in the Resource Area.</Content>
+<Actor id="0">CurlyHair</Actor>
+<ActorDefaultRelativeStillPath id="0"><![CDATA[/Stills/epr-curlyhair.png]]></ActorDefaultRelativeStillPath>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">epr004</ResponseID>
+<BaseQuestion id="1">What are the common early pregnancy symptoms?</BaseQuestion>
+</RQ>
+<RQ id="1">
+<ResponseID id="2">epr006</ResponseID>
+<BaseQuestion id="2">Does breast tenderness mean that I am pregnant?</BaseQuestion>
+</RQ>
+<RQ id="2">
+<ResponseID id="3">epr019</ResponseID>
+<BaseQuestion id="3">How do I know when my last menstrual cycle was?</BaseQuestion>
+</RQ>
+<RQ id="3">
+<ResponseID id="4">epr033</ResponseID>
+<BaseQuestion id="4">When are ultrasounds done?</BaseQuestion>
+</RQ>
+</RQs>
+<MediaList id="0">
+<Media id="0">
+<ListOrder id="0">1</ListOrder>
+<Description id="0">Due Date Calcuator</Description>
+<Location id="0"><![CDATA[http://www.mayoclinic.org/healthy-lifestyle/getting-pregnant/in-depth/due-date-calculator/itt-20084955]]></Location>
+<MediaType id="0">Link</MediaType>
+<FileSize id="0"></FileSize>
+</Media>
+</MediaList>
+</Response>
+<Response id="epr002">
+<ResponseID id="0">epr002</ResponseID>
+<BaseQuestion id="0">Do ovulation predictor kits work?</BaseQuestion>
+<Content id="0">When taken correctly, ovulation tests are approximately 99% accurate in detecting the hormone surge that happens just before ovulation. However, these tests cannot confirm whether ovulation actually occurs a day or two later.
+
+Ovulation tests uses a sample of your urine to detect the increase in a specific hormone, called luteinizing hormone, or LH, that typically happens about one day before ovulation.
+
+Test your urine with the ovulation predictor kit each day beginning about ten days after the first day of your period. The day the kit reads "positive" is the best time to try to become pregnant.</Content>
+<Actor id="0">CurlyHair</Actor>
+<ActorDefaultRelativeStillPath id="0"><![CDATA[/Stills/epr-curlyhair.png]]></ActorDefaultRelativeStillPath>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">epr003</ResponseID>
+<BaseQuestion id="1">I am thinking about trying to conceive, what should I do?</BaseQuestion>
+</RQ>
+<RQ id="1">
+<ResponseID id="2">epr004</ResponseID>
+<BaseQuestion id="2">What are the common early pregnancy symptoms?</BaseQuestion>
+</RQ>
+<RQ id="2">
+<ResponseID id="3">epr019</ResponseID>
+<BaseQuestion id="3">How do I know when my last menstrual cycle was?</BaseQuestion>
+</RQ>
+<RQ id="3">
+<ResponseID id="4">epr020</ResponseID>
+<BaseQuestion id="4">How long after conception does the fertilized egg implant?</BaseQuestion>
+</RQ>
+</RQs>
+</Response>
+<Response id="epr003">
+<ResponseID id="0">epr003</ResponseID>
+<BaseQuestion id="0">I am thinking about trying to conceive, what should I do?</BaseQuestion>
+<Content id="0">If you're trying to get pregnant there are many benefits to planning ahead.
+
+Eat a healthy diet and take your vitamins, especially folic acid as it is essential for your baby's development and can help prevent some birth defects.  Limit caffeine intake, and eliminate alcohol to increase the likelihood of becoming pregnant.
+
+Before you try to get pregnant. Talk to your doctor about any medications you are taking, including over the counter medicines as some of them can make it difficult to conceive or may negatively affect the baby after conception.  Some over-the-counter vaginal lubricants can decrease fertility, as can saliva. If you need a lubricant, consider mineral oil or canola oil  or ask your doctor for other suggestions
+
+Try to maintain a healthy weight and get moderate exercise, but don't overdo it.  Five hours or more a week of vigorous exercise can impair fertility in women who are not overweight.  Managing your stress levels can also help you get pregnant.</Content>
+<Actor id="0">NoVideo</Actor>
+<ActorDefaultRelativeStillPath id="0"><![CDATA[/Stills/epr-nv.png]]></ActorDefaultRelativeStillPath>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">epr004</ResponseID>
+<BaseQuestion id="1">What are the common early pregnancy symptoms?</BaseQuestion>
+</RQ>
+<RQ id="1">
+<ResponseID id="2">epr002</ResponseID>
+<BaseQuestion id="2">Do ovulation predictor kits work?</BaseQuestion>
+</RQ>
+<RQ id="2">
+<ResponseID id="3">epr019</ResponseID>
+<BaseQuestion id="3">How do I know when my last menstrual cycle was?</BaseQuestion>
+</RQ>
+<RQ id="3">
+<ResponseID id="4">epr013</ResponseID>
+<BaseQuestion id="4">If I have missed my period does that mean I am pregnant?</BaseQuestion>
+</RQ>
+</RQs>
+</Response>
+<Response id="epr004">
+<ResponseID id="0">epr004</ResponseID>
+<BaseQuestion id="0">What are the common early pregnancy symptoms?</BaseQuestion>
+<Content id="0">Most likely the earliest symptom of pregnancy that you will experience will be a missed period when you are about 4 weeks pregnant.  At this time you may also begin to experience mild cramping and blood spotting, which could be mistaken for your period. In this case, you may not realize that you're pregnant.  However, in week four, a pregnancy test will be able to detect levels of hCG, the pregnancy hormone, in your urine. Other symptoms of pregnancy you might have during this week include fatigue, nausea, tingling or aching breasts, frequent urination, and feeling bloated.</Content>
+<Actor id="0">CurlyHair</Actor>
+<ActorDefaultRelativeStillPath id="0"><![CDATA[/Stills/epr-curlyhair.png]]></ActorDefaultRelativeStillPath>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">epr006</ResponseID>
+<BaseQuestion id="1">Does breast tenderness mean that I am pregnant?</BaseQuestion>
+</RQ>
+<RQ id="1">
+<ResponseID id="2">epr013</ResponseID>
+<BaseQuestion id="2">If I have missed my period does that mean I am pregnant?</BaseQuestion>
+</RQ>
+<RQ id="2">
+<ResponseID id="3">epr047</ResponseID>
+<BaseQuestion id="3">What symptoms should I expect?</BaseQuestion>
+</RQ>
+</RQs>
+</Response>
+<Response id="epr005">
+<ResponseID id="0">epr005</ResponseID>
+<BaseQuestion id="0">How do I know if I am a high risk pregnancy?</BaseQuestion>
+<Content id="0">There are many factors that can make a pregnancy high risk, including pre-existing conditions and conditions that develop during pregnancy.  Talk to your doctor to find out how the following risk factors may affect your pregnancy and what you can do to reduce your risks.
+&#8226;	Pregnancy risks are higher for mothers age 35 and older.
+&#8226;	Smoking cigarettes, drinking alcohol and using illegal drugs can put a pregnancy at risk.
+&#8226;	A prior C-section, low birth weight baby or birth before 37 weeks of pregnancy might increase the risk of complications in future pregnancies.
+&#8226;	A family history of genetic conditions or history of pregnancy loss or the death of a baby shortly after birth signals in increased risk of complications as well.
+&#8226;	Chronic conditions such as diabetes, high blood pressure and epilepsy increase pregnancy risks as can anemia, infections or mental health conditions.
+&#8226;	Pregnancies can become high risk due to complications that develop during pregnancy such as problems with parts of the reproductive system. Other concerns might include too much or too little amniotic fluid, if the baby is too small for how far along the pregnancy is, or if a mother with Rh negative blood is having a baby with Rh positive blood.
+&#8226;	Also, pregnancy risks are higher for women carrying two or more babies.</Content>
+<Actor id="0">CurlyHair</Actor>
+<ActorDefaultRelativeStillPath id="0"><![CDATA[/Stills/epr-curlyhair.png]]></ActorDefaultRelativeStillPath>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">epr116</ResponseID>
+<BaseQuestion id="1">Is bleeding during pregnancy cause for alarm?</BaseQuestion>
+</RQ>
+<RQ id="1">
+<ResponseID id="2">epr121</ResponseID>
+<BaseQuestion id="2">What do preeclampsia symptoms mean and what can I do?</BaseQuestion>
+</RQ>
+<RQ id="2">
+<ResponseID id="3">epr120</ResponseID>
+<BaseQuestion id="3">What is placenta abruption and placenta previa?</BaseQuestion>
+</RQ>
+<RQ id="3">
+<ResponseID id="4">epr125</ResponseID>
+<BaseQuestion id="4">What are the signs of miscarriage?</BaseQuestion>
+</RQ>
+<RQ id="4">
+<ResponseID id="5">epr126</ResponseID>
+<BaseQuestion id="5">When should I call the doctor if I am worried?</BaseQuestion>
+</RQ>
+<RQ id="5">
+<ResponseID id="6">epr131</ResponseID>
+<BaseQuestion id="6">What are symptoms of an ectopic pregnancy?</BaseQuestion>
+</RQ>
+</RQs>
+</Response>
+<Response id="epr006">
+<ResponseID id="0">epr006</ResponseID>
+<BaseQuestion id="0">Does breast tenderness mean that I am pregnant?</BaseQuestion>
+<Content id="0">Breasts can feel tender and sore before and during your menstrual cycle, during ovulation or during pregnancy, so having breast tenderness does not necessarily mean that you are pregnant. If this continues, please call your healthcare provider.</Content>
+<Actor id="0">CurlyHair</Actor>
+<ActorDefaultRelativeStillPath id="0"><![CDATA[/Stills/epr-curlyhair.png]]></ActorDefaultRelativeStillPath>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">epr004</ResponseID>
+<BaseQuestion id="1">What are the common early pregnancy symptoms?</BaseQuestion>
+</RQ>
+<RQ id="1">
+<ResponseID id="2">epr113</ResponseID>
+<BaseQuestion id="2">How do I get a breast pump?</BaseQuestion>
+</RQ>
+<RQ id="2">
+<ResponseID id="3">epr048</ResponseID>
+<BaseQuestion id="3">Are my breasts supposed to be sore and swollen?</BaseQuestion>
+</RQ>
+</RQs>
+</Response>
+<Response id="epr007">
+<ResponseID id="0">epr007</ResponseID>
+<BaseQuestion id="0">Are pregnancy food cravings and aversions for real?</BaseQuestion>
+<Content id="0">Having food cravings or a strong dislike for specific foods during pregnancy is very common.   Cravings usually start during the first trimester and peak during the second, but they can happen at any time.  One theory is that cravings are caused by your body's need for certain nutrients.  Strong dislike for certain foods is often the result of hormonal changes that affect the senses of smell and taste.  These food aversions can contribute to nausea and vomiting during pregnancy.</Content>
+<Actor id="0">NoVideo</Actor>
+<ActorDefaultRelativeStillPath id="0"><![CDATA[/Stills/epr-nv.png]]></ActorDefaultRelativeStillPath>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">epr015</ResponseID>
+<BaseQuestion id="1">What is morning sickness?</BaseQuestion>
+</RQ>
+<RQ id="1">
+<ResponseID id="2">epr016</ResponseID>
+<BaseQuestion id="2">What food should I avoid during pregnancy?</BaseQuestion>
+</RQ>
+<RQ id="2">
+<ResponseID id="3">epr050</ResponseID>
+<BaseQuestion id="3">How long does morning sickness last?</BaseQuestion>
+</RQ>
+<RQ id="3">
+<ResponseID id="4">epr123</ResponseID>
+<BaseQuestion id="4">When will this morning sickness and nausea end?</BaseQuestion>
+</RQ>
+</RQs>
+</Response>
+<Response id="epr008">
+<ResponseID id="0">epr008</ResponseID>
+<BaseQuestion id="0">Is dizziness common in pregnancy?</BaseQuestion>
+<Content id="0">Feeling dizzy or faint is very common during pregnancy. It is most common during the first trimester, but it can happen anytime during pregnancy. Most often dizziness or fainting does not mean something is wrong. It is often caused by a drop in blood pressure. Hormones released during pregnancy relax the body's blood vessels, lowering the amount of blood being pumped up to the brain. When this happens, you may feel faint. Fainting is not dangerous to you or your baby unless you fall or hurt yourself. To prevent dizziness, avoid standing for long periods of time. Get up slowly after lying or sitting down. If you start to feel dizzy while you're driving, pull over. If you're standing when dizziness hits, lie down on your left side. Seek prompt care if the dizziness is severe and occurs with abdominal pain or vaginal bleeding. This could indicate that the fertilized egg has implanted outside the uterus. This is called an ectopic pregnancy. To prevent life-threatening complications, ectopic pregnancies cannot be continued and must be surgically removed.</Content>
+<Actor id="0">CurlyHair</Actor>
+<ActorDefaultRelativeStillPath id="0"><![CDATA[/Stills/epr-curlyhair.png]]></ActorDefaultRelativeStillPath>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">epr131</ResponseID>
+<BaseQuestion id="1">What are symptoms of an ectopic pregnancy?</BaseQuestion>
+</RQ>
+<RQ id="1">
+<ResponseID id="2">epr126</ResponseID>
+<BaseQuestion id="2">When should I call the doctor if I am worried?</BaseQuestion>
+</RQ>
+<RQ id="2">
+<ResponseID id="3">epr021</ResponseID>
+<BaseQuestion id="3">Is cramping normal during pregnancy?</BaseQuestion>
+</RQ>
+</RQs>
+</Response>
+<Response id="epr009">
+<ResponseID id="0">epr009</ResponseID>
+<BaseQuestion id="0">Is there a reason I have so much pregnancy fatigue?</BaseQuestion>
+<Content id="0">Fatigue, or tiredness, is common in the first trimester. During the first three months of pregnancy, levels of the hormone progesterone increase and this can make you feel very tired. You should watch your diet to make sure you are getting enough iron and protein, and include physical activity, such as a brisk walk, in your daily routine. But there is not really much you can do to prevent this tiredness, so get your rest while you can.</Content>
+<Actor id="0">CurlyHair</Actor>
+<ActorDefaultRelativeStillPath id="0"><![CDATA[/Stills/epr-curlyhair.png]]></ActorDefaultRelativeStillPath>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">epr133</ResponseID>
+<BaseQuestion id="1">Where can I find pregnancy diet and fitness tips?</BaseQuestion>
+</RQ>
+<RQ id="1">
+<ResponseID id="2">epr134</ResponseID>
+<BaseQuestion id="2">What is the best level of pregnancy fitness?</BaseQuestion>
+</RQ>
+<RQ id="2">
+<ResponseID id="3">epr137</ResponseID>
+<BaseQuestion id="3">Can I work out during my pregnancy?</BaseQuestion>
+</RQ>
+<RQ id="3">
+<ResponseID id="4">epr010</ResponseID>
+<BaseQuestion id="4">Why am I having these headaches during pregnancy?</BaseQuestion>
+</RQ>
+</RQs>
+</Response>
+<Response id="epr010">
+<ResponseID id="0">epr010</ResponseID>
+<BaseQuestion id="0">Why am I having these headaches during pregnancy?</BaseQuestion>
+<Content id="0">Headaches are very common in early pregnancy. The hormone progesterone helps to relax the blood vessels in your body and can cause them to dilate or get bigger. The blood moving through the dilated veins in your head and neck can cause headaches. Changes in your blood pressure may trigger tension-type headaches.</Content>
+<Actor id="0">CurlyHair</Actor>
+<ActorDefaultRelativeStillPath id="0"><![CDATA[/Stills/epr-curlyhair.png]]></ActorDefaultRelativeStillPath>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">epr009</ResponseID>
+<BaseQuestion id="1">Is there a reason I have so much pregnancy fatigue?</BaseQuestion>
+</RQ>
+</RQs>
+</Response>
+<Response id="epr011">
+<ResponseID id="0">epr011</ResponseID>
+<BaseQuestion id="0">Are urinary changes common in pregnancy?</BaseQuestion>
+<Content id="0">You might find yourself urinating more often than usual when you're pregnant. Your uterus is enlarging as the baby grows and putting pressure on your bladder.  This might cause you to leak urine when sneezing, coughing or laughing.</Content>
+<Actor id="0">CurlyHair</Actor>
+<ActorDefaultRelativeStillPath id="0"><![CDATA[/Stills/epr-curlyhair.png]]></ActorDefaultRelativeStillPath>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">epr051</ResponseID>
+<BaseQuestion id="1">How big is my baby during the first three months?</BaseQuestion>
+</RQ>
+<RQ id="1">
+<ResponseID id="2">epr088</ResponseID>
+<BaseQuestion id="2">What happens when my water breaks? How will I know?</BaseQuestion>
+</RQ>
+</RQs>
+</Response>
+<Response id="epr012">
+<ResponseID id="0">epr012</ResponseID>
+<BaseQuestion id="0">Does pregnancy really cause lower back pain?</BaseQuestion>
+<Content id="0">Pregnancy can cause lower back pain. As you gain weight more pressure is put on the nerves and blood vessels in the spine. Also as your baby grows, your center of gravity changes causing changes in your posture. Your hormones are also relaxing the ligaments in your pelvis and the muscles in your abdomen. All of this puts strain on the muscles in the lower back, causing pain. Stress can also cause muscles to tighten and spasm which can cause back pain as well.</Content>
+<Actor id="0">CurlyHair</Actor>
+<ActorDefaultRelativeStillPath id="0"><![CDATA[/Stills/epr-curlyhair.png]]></ActorDefaultRelativeStillPath>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">epr101</ResponseID>
+<BaseQuestion id="1">What is back labor?</BaseQuestion>
+</RQ>
+<RQ id="1">
+<ResponseID id="2">epr051</ResponseID>
+<BaseQuestion id="2">How big is my baby during the first three months?</BaseQuestion>
+</RQ>
+<RQ id="2">
+<ResponseID id="3">epr073</ResponseID>
+<BaseQuestion id="3">Is there anything I can do to relieve my backache?</BaseQuestion>
+</RQ>
+</RQs>
+</Response>
+<Response id="epr013">
+<ResponseID id="0">epr013</ResponseID>
+<BaseQuestion id="0">If I have missed my period does that mean I am pregnant?</BaseQuestion>
+<Content id="0">Many women miss periods now and then. Periods can be irregular for many reasons, but pregnancy is the most common cause of a missed period. Use a home pregnancy test to finding out whether you may be pregnant.  If it is positive, follow up with your doctor for a blood test to confirm your pregnancy.  Other reasons for missed periods include extreme changes in weight, eating disorders, excessive exercise, illness, and travel, some medications such as birth control pills, breastfeeding, and problems with your reproductive organs.  Unless you are pregnant, chances are your cycle will return to normal next month.</Content>
+<Actor id="0">LongHair</Actor>
+<ActorDefaultRelativeStillPath id="0"><![CDATA[/Stills/epr-longhair.png]]></ActorDefaultRelativeStillPath>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">epr019</ResponseID>
+<BaseQuestion id="1">How do I know when my last menstrual cycle was?</BaseQuestion>
+</RQ>
+<RQ id="1">
+<ResponseID id="2">epr004</ResponseID>
+<BaseQuestion id="2">What are the common early pregnancy symptoms?</BaseQuestion>
+</RQ>
+<RQ id="2">
+<ResponseID id="3">epr100</ResponseID>
+<BaseQuestion id="3">Can I get pregnant right after the birth of my baby if I have unprotected sex?</BaseQuestion>
+</RQ>
+<RQ id="3">
+<ResponseID id="4">epr130</ResponseID>
+<BaseQuestion id="4">What is implantation bleeding, and what are the symptoms?</BaseQuestion>
+</RQ>
+</RQs>
+</Response>
+<Response id="epr014">
+<ResponseID id="0">epr014</ResponseID>
+<BaseQuestion id="0">Why do I have mood swings?</BaseQuestion>
+<Content id="0">Mood swings are very common in the first trimester of pregnancy and toward the end of the third trimester. Your feelings can range from excitement, to fear to sadness and can change quickly. These mood swings are caused by changing levels of the hormones progesterone and estrogen. When your hormones levels change a lot over a short period of time, it affects brain chemicals that regulate your mood. Other things can make your mood swings worse: the fatigue of pregnancy can make it more difficult to manage your mood as can morning sickness, heartburn, and the frequent need to urinate.</Content>
+<Actor id="0">CurlyHair</Actor>
+<ActorDefaultRelativeStillPath id="0"><![CDATA[/Stills/epr-curlyhair.png]]></ActorDefaultRelativeStillPath>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">epr009</ResponseID>
+<BaseQuestion id="1">Is there a reason I have so much pregnancy fatigue?</BaseQuestion>
+</RQ>
+<RQ id="1">
+<ResponseID id="2">epr015</ResponseID>
+<BaseQuestion id="2">What is morning sickness?</BaseQuestion>
+</RQ>
+<RQ id="2">
+<ResponseID id="3">epr011</ResponseID>
+<BaseQuestion id="3">Are urinary changes common in pregnancy?</BaseQuestion>
+</RQ>
+<RQ id="3">
+<ResponseID id="4">epr025</ResponseID>
+<BaseQuestion id="4">What is postpartum depression?</BaseQuestion>
+</RQ>
+<RQ id="4">
+<ResponseID id="5">epr126</ResponseID>
+<BaseQuestion id="5">When should I call the doctor if I am worried?</BaseQuestion>
+</RQ>
+</RQs>
+</Response>
+<Response id="epr015">
+<ResponseID id="0">epr015</ResponseID>
+<BaseQuestion id="0">What is morning sickness?</BaseQuestion>
+<Content id="0">Morning sickness is nausea or vomiting that occurs during pregnancy.  It may be caused by hormone changes or lower blood sugar during early pregnancy. Emotional stress, fatigue, traveling, or some foods can make the problem worse.  Despite its name, morning sickness can happen at any time of the day.  Most pregnant women have at least some nausea, and about a third have vomiting.
+Morning sickness usually begins during the first month of pregnancy and continues through the 14th to 16th week, the 3rd or 4th month, but some women have nausea and vomiting through their entire pregnancy.
+Although morning sickness can leave you tired and drained, it is not harmful to the baby unless you lose weight from severe vomiting. A small amount of weight loss during the first trimester is not unusual when women have mild morning sickness, and is not harmful to the baby.   See your doctor if your morning sickness does not improve, or you lose more than 2 pounds or if you vomit more than 3 times per day or you cannot keep food or liquid down.
+
+Also, call your doctor immediately if you vomit blood or material that looks like coffee grounds or if you vomit more than 3 times per day or cannot keep any food or liquid down.
+
+Nausea and vomiting can continue beyond your 4th month of pregnancy. This is usually not harmful, but let your doctor know if you continue to experience morning sickness after your first trimester.</Content>
+<Actor id="0">CurlyHair</Actor>
+<ActorDefaultRelativeStillPath id="0"><![CDATA[/Stills/epr-curlyhair.png]]></ActorDefaultRelativeStillPath>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">epr050</ResponseID>
+<BaseQuestion id="1">How long does morning sickness last?</BaseQuestion>
+</RQ>
+<RQ id="1">
+<ResponseID id="2">epr123</ResponseID>
+<BaseQuestion id="2">When will this morning sickness and nausea end?</BaseQuestion>
+</RQ>
+<RQ id="2">
+<ResponseID id="3">epr007</ResponseID>
+<BaseQuestion id="3">Are pregnancy food cravings and aversions for real?</BaseQuestion>
+</RQ>
+</RQs>
+</Response>
+<Response id="epr016">
+<ResponseID id="0">epr016</ResponseID>
+<BaseQuestion id="0">What food should I avoid during pregnancy?</BaseQuestion>
+<Content id="0">Certain foods affect your baby. So you want to eat a healthy diet during your pregnancy. But even foods that are considered healthy can be harmful to your baby. For instance, some seafood is high in mercury, including swordfish, shark, king mackerel, and tilefish. Avoid these and limit albacore tuna and tuna steak to no more than 6 ounces a week. Also avoid raw, undercooked or contaminated seafood. Do not eat undercooked meat, poultry or eggs. Safe cooking instructions can be found in the Resources area. During pregnancy, you're at increased risk of bacterial food poisoning , so eat and drink only pasteurized dairy products, including milk and cheeses. Drink only pasteurized juices as well. Wash fruits and vegetables thoroughly and avoid all raw sprouts. Sprouts can be eaten if cooked thoroughly. Avoid caffeine, alcohol and even herbal teas as these can contain herbs that are harmful to your baby.</Content>
+<Actor id="0">CurlyHair</Actor>
+<ActorDefaultRelativeStillPath id="0"><![CDATA[/Stills/epr-curlyhair.png]]></ActorDefaultRelativeStillPath>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">epr027</ResponseID>
+<BaseQuestion id="1">Can I drink any alcohol during my pregnancy?</BaseQuestion>
+</RQ>
+<RQ id="1">
+<ResponseID id="2">epr018</ResponseID>
+<BaseQuestion id="2">Can I smoke while I am pregnant?</BaseQuestion>
+</RQ>
+<RQ id="2">
+<ResponseID id="3">epr007</ResponseID>
+<BaseQuestion id="3">Are pregnancy food cravings and aversions for real?</BaseQuestion>
+</RQ>
+<RQ id="3">
+<ResponseID id="4">epr046</ResponseID>
+<BaseQuestion id="4">What prenatal vitamin is safe to take?</BaseQuestion>
+</RQ>
+<RQ id="4">
+<ResponseID id="5">epr133</ResponseID>
+<BaseQuestion id="5">Where can I find pregnancy diet and fitness tips?</BaseQuestion>
+</RQ>
+<RQ id="5">
+<ResponseID id="6">epr069</ResponseID>
+<BaseQuestion id="6">How much water should I drink during pregnancy?</BaseQuestion>
+</RQ>
+</RQs>
+<MediaList id="0">
+<Media id="0">
+<ListOrder id="0">1</ListOrder>
+<Description id="0">Safe Cooking Instructions</Description>
+<Location id="0"><![CDATA[http://www.mayoclinic.org/healthy-lifestyle/pregnancy-week-by-week/in-depth/pregnancy-nutrition/art-20043844]]></Location>
+<MediaType id="0">Link</MediaType>
+<FileSize id="0"></FileSize>
+</Media>
+</MediaList>
+</Response>
+<Response id="epr017">
+<ResponseID id="0">epr017</ResponseID>
+<BaseQuestion id="0">Can I visit my dentist while pregnant?</BaseQuestion>
+<Content id="0">You should continue to visit your dentist while pregnant because during pregnancy, you are more likely to have problems with your teeth or gums. An Infection in your teeth or gums can affect your baby.  Make sure your dentist knows that you are pregnant. Procedures such as dental x-rays, fillings and root canals are safe during pregnancy as long as precautions are followed.  For precautions to take when having dental work done during pregnancy, look in the Resource Area.</Content>
+<Actor id="0">NoVideo</Actor>
+<ActorDefaultRelativeStillPath id="0"><![CDATA[/Stills/epr-nv.png]]></ActorDefaultRelativeStillPath>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">epr023</ResponseID>
+<BaseQuestion id="1">Should I continue to see my family doctor during pregnancy?</BaseQuestion>
+</RQ>
+<RQ id="1">
+<ResponseID id="2">epr024</ResponseID>
+<BaseQuestion id="2">Can I get the flu shot while I am pregnant?</BaseQuestion>
+</RQ>
+</RQs>
+<MediaList id="0">
+<Media id="0">
+<ListOrder id="0">1</ListOrder>
+<Description id="0">Dental Work Precautions</Description>
+<Location id="0"><![CDATA[http://www.midwife.org/acnm/files/ccLibraryFiles/Filename/000000003904/Dental_Care_Pregnancy.pdf]]></Location>
+<MediaType id="0">Link</MediaType>
+<FileSize id="0"></FileSize>
+</Media>
+</MediaList>
+</Response>
+<Response id="epr018">
+<ResponseID id="0">epr018</ResponseID>
+<BaseQuestion id="0">Can I smoke while I am pregnant?</BaseQuestion>
+<Content id="0">Smoking while you're pregnant can cause serious problems for your baby. These effects of smoking could cause your baby to be born too early, have a birth defect, or even die from sudden infant death syndrome (SIDS). Even second hand smoke can cause serious problems for you and your baby. It's best to quit smoking before you get pregnant. But if you're already pregnant, it's not too late to quit. Quitting can still help to protect you and your baby.</Content>
+<Actor id="0">CurlyHair</Actor>
+<ActorDefaultRelativeStillPath id="0"><![CDATA[/Stills/epr-curlyhair.png]]></ActorDefaultRelativeStillPath>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">epr027</ResponseID>
+<BaseQuestion id="1">Can I drink any alcohol during my pregnancy?</BaseQuestion>
+</RQ>
+<RQ id="1">
+<ResponseID id="2">epr003</ResponseID>
+<BaseQuestion id="2">I am thinking about trying to conceive, what should I do?</BaseQuestion>
+</RQ>
+</RQs>
+</Response>
+<Response id="epr019">
+<ResponseID id="0">epr019</ResponseID>
+<BaseQuestion id="0">How do I know when my last menstrual cycle was?</BaseQuestion>
+<Content id="0">Your last menstrual cycle should be counted from the first day of your last period.  If you have irregular periods or don't remember what the exact day was, it's okay. Your healthcare provider should be able to date your pregnancy using an ultrasound.</Content>
+<Actor id="0">LongHair</Actor>
+<ActorDefaultRelativeStillPath id="0"><![CDATA[/Stills/epr-longhair.png]]></ActorDefaultRelativeStillPath>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">epr033</ResponseID>
+<BaseQuestion id="1">When are ultrasounds done?</BaseQuestion>
+</RQ>
+<RQ id="1">
+<ResponseID id="2">epr013</ResponseID>
+<BaseQuestion id="2">If I have missed my period does that mean I am pregnant?</BaseQuestion>
+</RQ>
+<RQ id="2">
+<ResponseID id="3">epr004</ResponseID>
+<BaseQuestion id="3">What are the common early pregnancy symptoms?</BaseQuestion>
+</RQ>
+<RQ id="3">
+<ResponseID id="4">epr020</ResponseID>
+<BaseQuestion id="4">How long after conception does the fertilized egg implant?</BaseQuestion>
+</RQ>
+<RQ id="4">
+<ResponseID id="5">epr002</ResponseID>
+<BaseQuestion id="5">Do ovulation predictor kits work?</BaseQuestion>
+</RQ>
+<RQ id="5">
+<ResponseID id="6">epr130</ResponseID>
+<BaseQuestion id="6">What is implantation bleeding, and what are the symptoms?</BaseQuestion>
+</RQ>
+</RQs>
+</Response>
+<Response id="epr020">
+<ResponseID id="0">epr020</ResponseID>
+<BaseQuestion id="0">How long after conception does the fertilized egg implant?</BaseQuestion>
+<Content id="0">Implantation takes place during the fourth week of pregnancy when the fertilized egg reaches the uterus and borrows into the lining to start getting nourishment.</Content>
+<Actor id="0">LongHair</Actor>
+<ActorDefaultRelativeStillPath id="0"><![CDATA[/Stills/epr-longhair.png]]></ActorDefaultRelativeStillPath>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">epr130</ResponseID>
+<BaseQuestion id="1">What is implantation bleeding, and what are the symptoms?</BaseQuestion>
+</RQ>
+<RQ id="1">
+<ResponseID id="2">epr013</ResponseID>
+<BaseQuestion id="2">If I have missed my period does that mean I am pregnant?</BaseQuestion>
+</RQ>
+<RQ id="2">
+<ResponseID id="3">epr019</ResponseID>
+<BaseQuestion id="3">How do I know when my last menstrual cycle was?</BaseQuestion>
+</RQ>
+<RQ id="3">
+<ResponseID id="4">epr001</ResponseID>
+<BaseQuestion id="4">How can I calculate my due date?</BaseQuestion>
+</RQ>
+<RQ id="4">
+<ResponseID id="5">epr004</ResponseID>
+<BaseQuestion id="5">What are the common early pregnancy symptoms?</BaseQuestion>
+</RQ>
+</RQs>
+</Response>
+<Response id="epr021">
+<ResponseID id="0">epr021</ResponseID>
+<BaseQuestion id="0">Is cramping normal during pregnancy?</BaseQuestion>
+<Content id="0">Mild cramping is normal during pregnancy.  See your provider right away if you have constant, severe abdominal pain, possible contractions, or you have pain and bleeding or have fever. These are symptoms that can indicate more severe problems, such as: placental abruption, when the placenta separates from the uterus, preterm labor, gallbladder disease, or appendicitis.</Content>
+<Actor id="0">LongHair</Actor>
+<ActorDefaultRelativeStillPath id="0"><![CDATA[/Stills/epr-longhair.png]]></ActorDefaultRelativeStillPath>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">epr116</ResponseID>
+<BaseQuestion id="1">Is bleeding during pregnancy cause for alarm?</BaseQuestion>
+</RQ>
+<RQ id="1">
+<ResponseID id="2">epr126</ResponseID>
+<BaseQuestion id="2">When should I call the doctor if I am worried?</BaseQuestion>
+</RQ>
+<RQ id="2">
+<ResponseID id="3">epr120</ResponseID>
+<BaseQuestion id="3">What is placenta abruption and placenta previa?</BaseQuestion>
+</RQ>
+<RQ id="3">
+<ResponseID id="4">epr124</ResponseID>
+<BaseQuestion id="4">Is preterm labor dangerous for my baby?</BaseQuestion>
+</RQ>
+<RQ id="4">
+<ResponseID id="5">epr125</ResponseID>
+<BaseQuestion id="5">What are the signs of miscarriage?</BaseQuestion>
+</RQ>
+</RQs>
+</Response>
+<Response id="epr022">
+<ResponseID id="0">epr022</ResponseID>
+<BaseQuestion id="0">Will I be able to have a vaginal delivery if I have a history of genital herpes?</BaseQuestion>
+<Content id="0">It is important for you to tell your health care provider if you have a history of genital herpes. If you have frequent herpes outbreaks, you will be given a medication during the last month of pregnancy to treat the virus. This helps prevent any outbreak around the time of delivery. C-sections are recommended for pregnant women who have a new herpes sore or are in labor.</Content>
+<Actor id="0">LongHair</Actor>
+<ActorDefaultRelativeStillPath id="0"><![CDATA[/Stills/epr-longhair.png]]></ActorDefaultRelativeStillPath>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">epr029</ResponseID>
+<BaseQuestion id="1">Can I pass any STD's to my baby during pregnancy or birth?</BaseQuestion>
+</RQ>
+<RQ id="1">
+<ResponseID id="2">epr104</ResponseID>
+<BaseQuestion id="2">What is a Cesarean or C-Section birth and why would I need it?</BaseQuestion>
+</RQ>
+</RQs>
+</Response>
+<Response id="epr023">
+<ResponseID id="0">epr023</ResponseID>
+<BaseQuestion id="0">Should I continue to see my family doctor during pregnancy?</BaseQuestion>
+<Content id="0">You can continue to see your primary care physician for illnesses or injuries unrelated to your pregnancy.</Content>
+<Actor id="0">LongHair</Actor>
+<ActorDefaultRelativeStillPath id="0"><![CDATA[/Stills/epr-longhair.png]]></ActorDefaultRelativeStillPath>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">epr024</ResponseID>
+<BaseQuestion id="1">Can I get the flu shot while I am pregnant?</BaseQuestion>
+</RQ>
+<RQ id="1">
+<ResponseID id="2">epr017</ResponseID>
+<BaseQuestion id="2">Can I visit my dentist while pregnant?</BaseQuestion>
+</RQ>
+<RQ id="2">
+<ResponseID id="3">epr041</ResponseID>
+<BaseQuestion id="3">What can I expect at my first appointment?</BaseQuestion>
+</RQ>
+</RQs>
+</Response>
+<Response id="epr024">
+<ResponseID id="0">epr024</ResponseID>
+<BaseQuestion id="0">Can I get the flu shot while I am pregnant?</BaseQuestion>
+<Content id="0">Flu shots are not only safe for pregnancy women, they are recommended to keep you and your baby healthy.  The flu is more likely to cause severe illness in pregnant women than in women who are not pregnant.  And, a severe bout of the flu can raise the risk of serious complications including premature labor and delivery.</Content>
+<Actor id="0">LongHair</Actor>
+<ActorDefaultRelativeStillPath id="0"><![CDATA[/Stills/epr-longhair.png]]></ActorDefaultRelativeStillPath>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">epr023</ResponseID>
+<BaseQuestion id="1">Should I continue to see my family doctor during pregnancy?</BaseQuestion>
+</RQ>
+<RQ id="1">
+<ResponseID id="2">epr124</ResponseID>
+<BaseQuestion id="2">Is preterm labor dangerous for my baby?</BaseQuestion>
+</RQ>
+</RQs>
+</Response>
+<Response id="epr025">
+<ResponseID id="0">epr025</ResponseID>
+<BaseQuestion id="0">What is postpartum depression?</BaseQuestion>
+<Content id="0">While it is common to feel a little sad or moody during the first few days at home, if these feelings last long than 10 days or keep getting worse, they may be  a sign of postpartum depression which is a more serious concern.   Signs of depression include:  Difficulty sleeping, loss of appetite, weight loss, decreased interest in your partner or your usual activities, trouble concentrating or making decisions, feeling of despair, anxiety, hostility or self-blame.  If you feel depressed all the time or you feel as though you can't cope with daily life, please call your healthcare provider.</Content>
+<Actor id="0">LongHair</Actor>
+<ActorDefaultRelativeStillPath id="0"><![CDATA[/Stills/epr-longhair.png]]></ActorDefaultRelativeStillPath>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">epr014</ResponseID>
+<BaseQuestion id="1">Why do I have mood swings?</BaseQuestion>
+</RQ>
+<RQ id="1">
+<ResponseID id="2">epr126</ResponseID>
+<BaseQuestion id="2">When should I call the doctor if I am worried?</BaseQuestion>
+</RQ>
+</RQs>
+</Response>
+<Response id="epr026">
+<ResponseID id="0">epr026</ResponseID>
+<BaseQuestion id="0">Are there child and delivery classes available?</BaseQuestion>
+<Content id="0">Excela Health classes provide new parents with education, information and preparation.  Parents can choose from classes on childbirth and beyond, breastfeeding, and infant care.  There are even classes for siblings!  Special classes are held for parents dealing with gestational diabetes.  Family and friends can learn infant first aid.  You can even take a tour of the obstetrical department.  The link to the information on these classes are available in the Resource Area.   Classes are free of charge unless otherwise indicated.</Content>
+<Actor id="0">LongHair</Actor>
+<ActorDefaultRelativeStillPath id="0"><![CDATA[/Stills/epr-longhair.png]]></ActorDefaultRelativeStillPath>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">epr031</ResponseID>
+<BaseQuestion id="1">How do I keep track of my pregnancy weekly?</BaseQuestion>
+</RQ>
+<RQ id="1">
+<ResponseID id="2">epr041</ResponseID>
+<BaseQuestion id="2">What can I expect at my first appointment?</BaseQuestion>
+</RQ>
+<RQ id="2">
+<ResponseID id="3">epr030</ResponseID>
+<BaseQuestion id="3">What do they look at during prenatal testing?</BaseQuestion>
+</RQ>
+</RQs>
+<MediaList id="0">
+<Media id="0">
+<ListOrder id="0">1</ListOrder>
+<Description id="0">Excela Pregnancy Classes</Description>
+<Location id="0"><![CDATA[http://www.excelahealth.org/patients-and-visitors/services/women-childrens-care/education-classes-support.aspx]]></Location>
+<MediaType id="0">Link</MediaType>
+<FileSize id="0"></FileSize>
+</Media>
+</MediaList>
+</Response>
+<Response id="epr027">
+<ResponseID id="0">epr027</ResponseID>
+<BaseQuestion id="0">Can I drink any alcohol during my pregnancy?</BaseQuestion>
+<Content id="0">It is recommended that you do not drink alcohol during your pregnancy.  There is no known safe amount of alcohol use during pregnancy or while trying to get pregnant. There is also no safe time during pregnancy to drink. All types of alcohol are equally harmful, including all wines and beer.  Drinking alcohol during pregnancy can cause fetal alcohol syndrome in infants.</Content>
+<Actor id="0">LongHair</Actor>
+<ActorDefaultRelativeStillPath id="0"><![CDATA[/Stills/epr-longhair.png]]></ActorDefaultRelativeStillPath>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">epr028</ResponseID>
+<BaseQuestion id="1">What is fetal alcohol syndrome?</BaseQuestion>
+</RQ>
+<RQ id="1">
+<ResponseID id="2">epr016</ResponseID>
+<BaseQuestion id="2">What food should I avoid during pregnancy?</BaseQuestion>
+</RQ>
+<RQ id="2">
+<ResponseID id="3">epr018</ResponseID>
+<BaseQuestion id="3">Can I smoke while I am pregnant?</BaseQuestion>
+</RQ>
+</RQs>
+</Response>
+<Response id="epr028">
+<ResponseID id="0">epr028</ResponseID>
+<BaseQuestion id="0">What is fetal alcohol syndrome?</BaseQuestion>
+<Content id="0">Fetal Alcohol Syndrome, or FAS, is a group of lifelong physical, behavioral, and intellectual disabilities that affect children who have been exposed to alcohol during pregnancy.  These disabilities can include problems with behavior, attention, and memory.  Children with FAS frequently have learning disabilities and do poorly in school.  They can have speech and language delays, lower intellectual functioning and poor judgment and decision making skills.  FAS can also affect hearing and vision and may cause problems with the heart, liver and bones.</Content>
+<Actor id="0">LongHair</Actor>
+<ActorDefaultRelativeStillPath id="0"><![CDATA[/Stills/epr-longhair.png]]></ActorDefaultRelativeStillPath>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">epr027</ResponseID>
+<BaseQuestion id="1">Can I drink any alcohol during my pregnancy?</BaseQuestion>
+</RQ>
+<RQ id="1">
+<ResponseID id="2">epr018</ResponseID>
+<BaseQuestion id="2">Can I smoke while I am pregnant?</BaseQuestion>
+</RQ>
+</RQs>
+</Response>
+<Response id="epr029">
+<ResponseID id="0">epr029</ResponseID>
+<BaseQuestion id="0">Can I pass any STD's to my baby during pregnancy or birth?</BaseQuestion>
+<Content id="0">Some sexually transmitted diseases (STDs) can infect the infant during pregnancy or delivery.  It is important to be screened for STDs before becoming pregnant and during your pregnancy so that you can receive treatment and lower the risks to your baby.</Content>
+<Actor id="0">LongHair</Actor>
+<ActorDefaultRelativeStillPath id="0"><![CDATA[/Stills/epr-longhair.png]]></ActorDefaultRelativeStillPath>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">epr022</ResponseID>
+<BaseQuestion id="1">Will I be able to have a vaginal delivery if I have a history of genital herpes?</BaseQuestion>
+</RQ>
+<RQ id="1">
+<ResponseID id="2">epr104</ResponseID>
+<BaseQuestion id="2">What is a Cesarean or C-Section birth and why would I need it?</BaseQuestion>
+</RQ>
+<RQ id="2">
+<ResponseID id="3">epr042</ResponseID>
+<BaseQuestion id="3">What tests are done during my first three months of my pregnancy?</BaseQuestion>
+</RQ>
+</RQs>
+</Response>
+<Response id="epr030">
+<ResponseID id="0">epr030</ResponseID>
+<BaseQuestion id="0">What do they look at during prenatal testing?</BaseQuestion>
+<Content id="0">A number of screening tests are done during pregnancy to evaluate the health of mom and baby.  During the first trimester tests look for certain birth defects of baby's heart or chromosomal disorders, such as Down syndrome. These tests are done by drawing blood from the mom and doing an ultrasound.  In the second trimester serum blood tests measure the risk of other birth defects such as neural tube defects and chromosomal disorders.   Ultrasound is done to check that the baby is growing as expected and to look for physical birth defects or other problems with the baby.  If there is a known risk of chromosomal or other disorders or if blood tests or ultrasound indicate that there may be issues, other prenatal testing such as Chorionic Villus Sampling (CVS) or Amniocentesis may be done.</Content>
+<Actor id="0">NoVideo</Actor>
+<ActorDefaultRelativeStillPath id="0"><![CDATA[/Stills/epr-nv.png]]></ActorDefaultRelativeStillPath>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">epr033</ResponseID>
+<BaseQuestion id="1">When are ultrasounds done?</BaseQuestion>
+</RQ>
+<RQ id="1">
+<ResponseID id="2">epr034</ResponseID>
+<BaseQuestion id="2">When do I receive testing for my blood count and antibody screening?</BaseQuestion>
+</RQ>
+<RQ id="2">
+<ResponseID id="3">epr035</ResponseID>
+<BaseQuestion id="3">At what stage during the pregnancy do I get glucose screening?</BaseQuestion>
+</RQ>
+<RQ id="3">
+<ResponseID id="4">epr036</ResponseID>
+<BaseQuestion id="4">What stage of pregnancy do I get the alpha-fetoprotein test?</BaseQuestion>
+</RQ>
+<RQ id="4">
+<ResponseID id="5">epr037</ResponseID>
+<BaseQuestion id="5">At what stage during pregnancy do I get the multiple marker genetic screening?</BaseQuestion>
+</RQ>
+<RQ id="5">
+<ResponseID id="6">epr038</ResponseID>
+<BaseQuestion id="6">At what stage of pregnancy do I get the cystic fibrosis carrier screening?</BaseQuestion>
+</RQ>
+</RQs>
+</Response>
+<Response id="epr031">
+<ResponseID id="0">epr031</ResponseID>
+<BaseQuestion id="0">How do I keep track of my pregnancy weekly?</BaseQuestion>
+<Content id="0">There are many books and websites that can help you track your pregnancy and provide valuable information on the changes that are taking place as your baby grows and develops.  Look in the Resources area for a list of helpful sources.</Content>
+<Actor id="0">CurlyHair</Actor>
+<ActorDefaultRelativeStillPath id="0"><![CDATA[/Stills/epr-curlyhair.png]]></ActorDefaultRelativeStillPath>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">epr061</ResponseID>
+<BaseQuestion id="1">What happens during the 1st month of pregnancy?</BaseQuestion>
+</RQ>
+<RQ id="1">
+<ResponseID id="2">epr062</ResponseID>
+<BaseQuestion id="2">What happens during my pregnancy in month 2?</BaseQuestion>
+</RQ>
+<RQ id="2">
+<ResponseID id="3">epr063</ResponseID>
+<BaseQuestion id="3">What is important for my pregnancy in month 3?</BaseQuestion>
+</RQ>
+<RQ id="3">
+<ResponseID id="4">epr064</ResponseID>
+<BaseQuestion id="4">How developed is my baby during the first 4-6 months?</BaseQuestion>
+</RQ>
+</RQs>
+<MediaList id="0">
+<Media id="0">
+<ListOrder id="0">1</ListOrder>
+<Description id="0">Pregnancy Trackers</Description>
+<Location id="0"><![CDATA[http://www.mayoclinic.org/apps/mayo-clinic]]></Location>
+<MediaType id="0">Link</MediaType>
+<FileSize id="0"></FileSize>
+</Media>
+<Media id="1">
+<ListOrder id="0">2</ListOrder>
+<Description id="0">Healthline's Top Ten Pregnancy Tracker Sites</Description>
+<Location id="0"><![CDATA[http://www.healthline.com/health/pregnancy/top-iphone-android-apps]]></Location>
+<MediaType id="0">Link</MediaType>
+<FileSize id="0"></FileSize>
+</Media>
+</MediaList>
+</Response>
+<Response id="epr032">
+<ResponseID id="0">epr032</ResponseID>
+<BaseQuestion id="0">Why are ultrasounds done?</BaseQuestion>
+<Content id="0">Ultrasounds, also called sonograms, use sound to create pictures of your baby in the womb.  They are done to make sure your baby's development and growth are on track, that the baby's heart is working properly and that all the organs are developing normally.  Ultrasounds can also help determine a woman's due date and screen for any issues with the placenta and mom's uterus, fallopian tubes or ovaries.  If tests such as Chorionic Villus Sampling are done, an ultrasound may be used to help guide your healthcare provider as they perform the test.</Content>
+<Actor id="0">NoVideo</Actor>
+<ActorDefaultRelativeStillPath id="0"><![CDATA[/Stills/epr-nv.png]]></ActorDefaultRelativeStillPath>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">epr033</ResponseID>
+<BaseQuestion id="1">When are ultrasounds done?</BaseQuestion>
+</RQ>
+<RQ id="1">
+<ResponseID id="2">epr030</ResponseID>
+<BaseQuestion id="2">What do they look at during prenatal testing?</BaseQuestion>
+</RQ>
+</RQs>
+</Response>
+<Response id="epr033">
+<ResponseID id="0">epr033</ResponseID>
+<BaseQuestion id="0">When are ultrasounds done?</BaseQuestion>
+<Content id="0">Most women get an ultrasound in their second trimester at 18 to 20 weeks of pregnancy. Some also get a first-trimester ultrasound before 14 weeks of pregnancy.  Your healthcare provider will determine when an ultrasound is necessary.</Content>
+<Actor id="0">CurlyHair</Actor>
+<ActorDefaultRelativeStillPath id="0"><![CDATA[/Stills/epr-curlyhair.png]]></ActorDefaultRelativeStillPath>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">epr032</ResponseID>
+<BaseQuestion id="1">Why are ultrasounds done?</BaseQuestion>
+</RQ>
+<RQ id="1">
+<ResponseID id="2">epr030</ResponseID>
+<BaseQuestion id="2">What do they look at during prenatal testing?</BaseQuestion>
+</RQ>
+</RQs>
+</Response>
+<Response id="epr034">
+<ResponseID id="0">epr034</ResponseID>
+<BaseQuestion id="0">When do I receive testing for my blood count and antibody screening?</BaseQuestion>
+<Content id="0">If you're Rh negative, you might need to have an antibody screen during your first trimester and again during week 28 of pregnancy. The antibody screen is used to detect antibodies to Rh positive blood.  Complete blood counts, called CBCs, are done in the second trimester of pregnancy.</Content>
+<Actor id="0">NoVideo</Actor>
+<ActorDefaultRelativeStillPath id="0"><![CDATA[/Stills/epr-nv.png]]></ActorDefaultRelativeStillPath>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">epr030</ResponseID>
+<BaseQuestion id="1">What do they look at during prenatal testing?</BaseQuestion>
+</RQ>
+</RQs>
+</Response>
+<Response id="epr035">
+<ResponseID id="0">epr035</ResponseID>
+<BaseQuestion id="0">At what stage during the pregnancy do I get glucose screening?</BaseQuestion>
+<Content id="0">A glucose screening is done between 24 and 28 weeks unless you have risk factors for diabetes or have had gestational diabetes in the past you may be tested during the first trimester.</Content>
+<Actor id="0">CurlyHair</Actor>
+<ActorDefaultRelativeStillPath id="0"><![CDATA[/Stills/epr-curlyhair.png]]></ActorDefaultRelativeStillPath>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">epr118</ResponseID>
+<BaseQuestion id="1">Can my gestational diabetes symptoms mean something else?</BaseQuestion>
+</RQ>
+<RQ id="1">
+<ResponseID id="2">epr030</ResponseID>
+<BaseQuestion id="2">What do they look at during prenatal testing?</BaseQuestion>
+</RQ>
+</RQs>
+</Response>
+<Response id="epr036">
+<ResponseID id="0">epr036</ResponseID>
+<BaseQuestion id="0">What stage of pregnancy do I get the alpha-fetoprotein test?</BaseQuestion>
+<Content id="0">The alpha-fetoprotein test is done during the second trimester to screen for possible birth defects.</Content>
+<Actor id="0">NoVideo</Actor>
+<ActorDefaultRelativeStillPath id="0"><![CDATA[/Stills/epr-nv.png]]></ActorDefaultRelativeStillPath>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">epr030</ResponseID>
+<BaseQuestion id="1">What do they look at during prenatal testing?</BaseQuestion>
+</RQ>
+<RQ id="1">
+<ResponseID id="2">epr037</ResponseID>
+<BaseQuestion id="2">At what stage during pregnancy do I get the multiple marker genetic screening?</BaseQuestion>
+</RQ>
+<RQ id="2">
+<ResponseID id="3">epr032</ResponseID>
+<BaseQuestion id="3">Why are ultrasounds done?</BaseQuestion>
+</RQ>
+<RQ id="3">
+<ResponseID id="4">epr038</ResponseID>
+<BaseQuestion id="4">At what stage of pregnancy do I get the cystic fibrosis carrier screening?</BaseQuestion>
+</RQ>
+</RQs>
+</Response>
+<Response id="epr037">
+<ResponseID id="0">epr037</ResponseID>
+<BaseQuestion id="0">At what stage during pregnancy do I get the multiple marker genetic screening?</BaseQuestion>
+<Content id="0">The multiple marker genetic screening, sometimes called the triple or quad marker screening, is done in the second trimester of pregnancy, between 15 and 20 weeks.</Content>
+<Actor id="0">CurlyHair</Actor>
+<ActorDefaultRelativeStillPath id="0"><![CDATA[/Stills/epr-curlyhair.png]]></ActorDefaultRelativeStillPath>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">epr030</ResponseID>
+<BaseQuestion id="1">What do they look at during prenatal testing?</BaseQuestion>
+</RQ>
+<RQ id="1">
+<ResponseID id="2">epr036</ResponseID>
+<BaseQuestion id="2">What stage of pregnancy do I get the alpha-fetoprotein test?</BaseQuestion>
+</RQ>
+<RQ id="2">
+<ResponseID id="3">epr038</ResponseID>
+<BaseQuestion id="3">At what stage of pregnancy do I get the cystic fibrosis carrier screening?</BaseQuestion>
+</RQ>
+<RQ id="3">
+<ResponseID id="4">epr032</ResponseID>
+<BaseQuestion id="4">Why are ultrasounds done?</BaseQuestion>
+</RQ>
+</RQs>
+</Response>
+<Response id="epr038">
+<ResponseID id="0">epr038</ResponseID>
+<BaseQuestion id="0">At what stage of pregnancy do I get the cystic fibrosis carrier screening?</BaseQuestion>
+<Content id="0">Parents can have a blood test done to determine whether they are cystic fibrosis carriers at any time before or during pregnancy.  If one or both parents are positive for CF, Chorionic Villus Sampling can be done to detect CF in the baby after 9 weeks or amniocentesis between 15 and 20 weeks.</Content>
+<Actor id="0">NoVideo</Actor>
+<ActorDefaultRelativeStillPath id="0"><![CDATA[/Stills/epr-nv.png]]></ActorDefaultRelativeStillPath>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">epr030</ResponseID>
+<BaseQuestion id="1">What do they look at during prenatal testing?</BaseQuestion>
+</RQ>
+<RQ id="1">
+<ResponseID id="2">epr036</ResponseID>
+<BaseQuestion id="2">What stage of pregnancy do I get the alpha-fetoprotein test?</BaseQuestion>
+</RQ>
+<RQ id="2">
+<ResponseID id="3">epr037</ResponseID>
+<BaseQuestion id="3">At what stage during pregnancy do I get the multiple marker genetic screening?</BaseQuestion>
+</RQ>
+</RQs>
+</Response>
+<Response id="epr039">
+<ResponseID id="0">epr039</ResponseID>
+<BaseQuestion id="0">Is it normal to lose weight during my pregnancy?</BaseQuestion>
+<Content id="0">During the first trimester of pregnancy, nausea and vomiting can cause a small amount of weight loss; but, if weight loss is significant, your healthcare provider may prescribe medication to help ease your morning sickness.</Content>
+<Actor id="0">CurlyHair</Actor>
+<ActorDefaultRelativeStillPath id="0"><![CDATA[/Stills/epr-curlyhair.png]]></ActorDefaultRelativeStillPath>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">epr136</ResponseID>
+<BaseQuestion id="1">How much weight should I gain during my pregnancy? And at what rate?</BaseQuestion>
+</RQ>
+<RQ id="1">
+<ResponseID id="2">epr123</ResponseID>
+<BaseQuestion id="2">When will this morning sickness and nausea end?</BaseQuestion>
+</RQ>
+<RQ id="2">
+<ResponseID id="3">epr133</ResponseID>
+<BaseQuestion id="3">Where can I find pregnancy diet and fitness tips?</BaseQuestion>
+</RQ>
+<RQ id="3">
+<ResponseID id="4">epr137</ResponseID>
+<BaseQuestion id="4">Can I work out during my pregnancy?</BaseQuestion>
+</RQ>
+</RQs>
+</Response>
+<Response id="epr040">
+<ResponseID id="0">epr040</ResponseID>
+<BaseQuestion id="0">How much weight should I gain during pregnancy?</BaseQuestion>
+<Content id="0">Typically women gain between 25 and 30 pounds during pregnancy.  If you are underweight at the start of your pregnancy, a weight gain of 40 pounds is recommended.  Moms who are overweight want to limit their weight gain to 15 to 26 pounds.</Content>
+<Actor id="0">CurlyHair</Actor>
+<ActorDefaultRelativeStillPath id="0"><![CDATA[/Stills/epr-curlyhair.png]]></ActorDefaultRelativeStillPath>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">epr039</ResponseID>
+<BaseQuestion id="1">Is it normal to lose weight during my pregnancy?</BaseQuestion>
+</RQ>
+<RQ id="1">
+<ResponseID id="2">epr136</ResponseID>
+<BaseQuestion id="2">How much weight should I gain during my pregnancy? And at what rate?</BaseQuestion>
+</RQ>
+<RQ id="2">
+<ResponseID id="3">epr133</ResponseID>
+<BaseQuestion id="3">Where can I find pregnancy diet and fitness tips?</BaseQuestion>
+</RQ>
+<RQ id="3">
+<ResponseID id="4">epr137</ResponseID>
+<BaseQuestion id="4">Can I work out during my pregnancy?</BaseQuestion>
+</RQ>
+</RQs>
+</Response>
+<Response id="epr041">
+<ResponseID id="0">epr041</ResponseID>
+<BaseQuestion id="0">What can I expect at my first appointment?</BaseQuestion>
+<Content id="0">At your first prenatal visit your healthcare provider will take a medical history and do a general medical exam that includes measuring your height and weight, taking your pulse, temperature and blood pressure.   A gynecological exam will also be performed to examine the vagina and cervix.  A blood sample will be taken and other screening tests will be discussed depending on your medical history.</Content>
+<Actor id="0">Mick</Actor>
+<ActorDefaultRelativeStillPath id="0"><![CDATA[/Stills/epr-mick.png]]></ActorDefaultRelativeStillPath>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">epr030</ResponseID>
+<BaseQuestion id="1">What do they look at during prenatal testing?</BaseQuestion>
+</RQ>
+<RQ id="1">
+<ResponseID id="2">epr034</ResponseID>
+<BaseQuestion id="2">When do I receive testing for my blood count and antibody screening?</BaseQuestion>
+</RQ>
+<RQ id="2">
+<ResponseID id="3">epr042</ResponseID>
+<BaseQuestion id="3">What tests are done during my first three months of my pregnancy?</BaseQuestion>
+</RQ>
+<RQ id="3">
+<ResponseID id="4">epr045</ResponseID>
+<BaseQuestion id="4">Is it normal to have spotting after my first exam?</BaseQuestion>
+</RQ>
+</RQs>
+</Response>
+<Response id="epr042">
+<ResponseID id="0">epr042</ResponseID>
+<BaseQuestion id="0">What tests are done during my first three months of my pregnancy?</BaseQuestion>
+<Content id="0">During the first trimester blood tests will be done to determine your  blood type and Rh factor, screen for anemia, check for immunity to rubella (German measles), and test for hepatitis B, syphilis, HIV and other sexually transmitted diseases.
+Depending on your risk factors and medical history, you may be offered tests and genetic counseling to assess risks for diseases such as Tay-Sachs, cystic fibrosis, and sickle cell anemia.  Tests for exposure to viruses such as toxoplasmosis and the chicken pox virus may also be done. Your health care provider may also check your levels of hCG, and progesterone, which are hormones that are important during pregnancy.
+Urine tests look for kidney infection and detect glucose and albumin, the protein that indicates preeclampsia, which is pregnancy-induced high blood pressure.</Content>
+<Actor id="0">NoVideo</Actor>
+<ActorDefaultRelativeStillPath id="0"><![CDATA[/Stills/epr-nv.png]]></ActorDefaultRelativeStillPath>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">epr034</ResponseID>
+<BaseQuestion id="1">When do I receive testing for my blood count and antibody screening?</BaseQuestion>
+</RQ>
+<RQ id="1">
+<ResponseID id="2">epr035</ResponseID>
+<BaseQuestion id="2">At what stage during the pregnancy do I get glucose screening?</BaseQuestion>
+</RQ>
+<RQ id="2">
+<ResponseID id="3">epr036</ResponseID>
+<BaseQuestion id="3">What stage of pregnancy do I get the alpha-fetoprotein test?</BaseQuestion>
+</RQ>
+<RQ id="3">
+<ResponseID id="4">epr037</ResponseID>
+<BaseQuestion id="4">At what stage during pregnancy do I get the multiple marker genetic screening?</BaseQuestion>
+</RQ>
+<RQ id="4">
+<ResponseID id="5">epr038</ResponseID>
+<BaseQuestion id="5">At what stage of pregnancy do I get the cystic fibrosis carrier screening?</BaseQuestion>
+</RQ>
+<RQ id="5">
+<ResponseID id="6">epr033</ResponseID>
+<BaseQuestion id="6">When are ultrasounds done?</BaseQuestion>
+</RQ>
+<RQ id="6">
+<ResponseID id="7">epr121</ResponseID>
+<BaseQuestion id="7">What do preeclampsia symptoms mean and what can I do?</BaseQuestion>
+</RQ>
+</RQs>
+</Response>
+<Response id="epr043">
+<ResponseID id="0">epr043</ResponseID>
+<BaseQuestion id="0">Is it safe to have sex?</BaseQuestion>
+<Content id="0">It is safe to have sex in the first trimester in a normal pregnancy. However, your gynecologist may advise you to not have sex if you have a history or threat of miscarriage or if you have unexplained vaginal bleeding or spotting.</Content>
+<Actor id="0">Mick</Actor>
+<ActorDefaultRelativeStillPath id="0"><![CDATA[/Stills/epr-mick.png]]></ActorDefaultRelativeStillPath>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">epr045</ResponseID>
+<BaseQuestion id="1">Is it normal to have spotting after my first exam?</BaseQuestion>
+</RQ>
+<RQ id="1">
+<ResponseID id="2">epr116</ResponseID>
+<BaseQuestion id="2">Is bleeding during pregnancy cause for alarm?</BaseQuestion>
+</RQ>
+<RQ id="2">
+<ResponseID id="3">epr125</ResponseID>
+<BaseQuestion id="3">What are the signs of miscarriage?</BaseQuestion>
+</RQ>
+<RQ id="3">
+<ResponseID id="4">epr021</ResponseID>
+<BaseQuestion id="4">Is cramping normal during pregnancy?</BaseQuestion>
+</RQ>
+</RQs>
+</Response>
+<Response id="epr044">
+<ResponseID id="0">epr044</ResponseID>
+<BaseQuestion id="0">Can I drink caffeine?</BaseQuestion>
+<Content id="0">A moderate amount of caffeine, 200 mg or less a day, is ok during pregnancy.  Too much caffeine may increase the risk of miscarriage or other problems.  Remember that caffeine is found in tea, some soft drinks and chocolate as well as coffee, so make sure that your total consumption does not go over the recommended limit.</Content>
+<Actor id="0">Mick</Actor>
+<ActorDefaultRelativeStillPath id="0"><![CDATA[/Stills/epr-mick.png]]></ActorDefaultRelativeStillPath>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">epr016</ResponseID>
+<BaseQuestion id="1">What food should I avoid during pregnancy?</BaseQuestion>
+</RQ>
+<RQ id="1">
+<ResponseID id="2">epr133</ResponseID>
+<BaseQuestion id="2">Where can I find pregnancy diet and fitness tips?</BaseQuestion>
+</RQ>
+<RQ id="2">
+<ResponseID id="3">epr027</ResponseID>
+<BaseQuestion id="3">Can I drink any alcohol during my pregnancy?</BaseQuestion>
+</RQ>
+<RQ id="3">
+<ResponseID id="4">epr018</ResponseID>
+<BaseQuestion id="4">Can I smoke while I am pregnant?</BaseQuestion>
+</RQ>
+<RQ id="4">
+<ResponseID id="5">epr069</ResponseID>
+<BaseQuestion id="5">How much water should I drink during pregnancy?</BaseQuestion>
+</RQ>
+</RQs>
+</Response>
+<Response id="epr045">
+<ResponseID id="0">epr045</ResponseID>
+<BaseQuestion id="0">Is it normal to have spotting after my first exam?</BaseQuestion>
+<Content id="0">Many women have spotting or bleeding after a gynecological exam in the first trimester because the cervix is very sensitive to touch during pregnancy.</Content>
+<Actor id="0">Mick</Actor>
+<ActorDefaultRelativeStillPath id="0"><![CDATA[/Stills/epr-mick.png]]></ActorDefaultRelativeStillPath>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">epr125</ResponseID>
+<BaseQuestion id="1">What are the signs of miscarriage?</BaseQuestion>
+</RQ>
+<RQ id="1">
+<ResponseID id="2">epr126</ResponseID>
+<BaseQuestion id="2">When should I call the doctor if I am worried?</BaseQuestion>
+</RQ>
+<RQ id="2">
+<ResponseID id="3">epr130</ResponseID>
+<BaseQuestion id="3">What is implantation bleeding, and what are the symptoms?</BaseQuestion>
+</RQ>
+<RQ id="3">
+<ResponseID id="4">epr120</ResponseID>
+<BaseQuestion id="4">What is placenta abruption and placenta previa?</BaseQuestion>
+</RQ>
+</RQs>
+</Response>
+<Response id="epr046">
+<ResponseID id="0">epr046</ResponseID>
+<BaseQuestion id="0">What prenatal vitamin is safe to take?</BaseQuestion>
+<Content id="0">Your healthcare provider might recommend a specific brand of prenatal vitamins but generally you want to look for a prenatal vitamin that contains folic acid, calcium and iron as well as vitamin D, vitamin C, vitamin A, vitamin E, zinc and copper.</Content>
+<Actor id="0">Mick</Actor>
+<ActorDefaultRelativeStillPath id="0"><![CDATA[/Stills/epr-mick.png]]></ActorDefaultRelativeStillPath>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">epr007</ResponseID>
+<BaseQuestion id="1">Are pregnancy food cravings and aversions for real?</BaseQuestion>
+</RQ>
+<RQ id="1">
+<ResponseID id="2">epr016</ResponseID>
+<BaseQuestion id="2">What food should I avoid during pregnancy?</BaseQuestion>
+</RQ>
+<RQ id="2">
+<ResponseID id="3">epr133</ResponseID>
+<BaseQuestion id="3">Where can I find pregnancy diet and fitness tips?</BaseQuestion>
+</RQ>
+</RQs>
+</Response>
+<Response id="epr047">
+<ResponseID id="0">epr047</ResponseID>
+<BaseQuestion id="0">What symptoms should I expect?</BaseQuestion>
+<Content id="0">During your first trimester, expect to feel fatigue and nausea, as well as tingling or aching breasts.  You may crave specific and sometimes unusual foods. Occasional dizziness is common in the first trimester due to changes in blood pressure.  Your uterus is growing so you may need to urinate frequently and feel bloated or have heartburn.  You may also experience moodiness, including bouts of elation and weeping.</Content>
+<Actor id="0">NoVideo</Actor>
+<ActorDefaultRelativeStillPath id="0"><![CDATA[/Stills/epr-nv.png]]></ActorDefaultRelativeStillPath>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">epr008</ResponseID>
+<BaseQuestion id="1">Is dizziness common in pregnancy?</BaseQuestion>
+</RQ>
+<RQ id="1">
+<ResponseID id="2">epr009</ResponseID>
+<BaseQuestion id="2">Is there a reason I have so much pregnancy fatigue?</BaseQuestion>
+</RQ>
+<RQ id="2">
+<ResponseID id="3">epr015</ResponseID>
+<BaseQuestion id="3">What is morning sickness?</BaseQuestion>
+</RQ>
+<RQ id="3">
+<ResponseID id="4">epr011</ResponseID>
+<BaseQuestion id="4">Are urinary changes common in pregnancy?</BaseQuestion>
+</RQ>
+<RQ id="4">
+<ResponseID id="5">epr014</ResponseID>
+<BaseQuestion id="5">Why do I have mood swings?</BaseQuestion>
+</RQ>
+<RQ id="5">
+<ResponseID id="6">epr048</ResponseID>
+<BaseQuestion id="6">Are my breasts supposed to be sore and swollen?</BaseQuestion>
+</RQ>
+</RQs>
+</Response>
+<Response id="epr048">
+<ResponseID id="0">epr048</ResponseID>
+<BaseQuestion id="0">Are my breasts supposed to be sore and swollen?</BaseQuestion>
+<Content id="0">It is common for your breasts to swell and they may feel sore or tingling due to the hormonal changes of pregnancy.  Wearing an extra supportive bra or a sports bra may help with this discomfort.</Content>
+<Actor id="0">Mick</Actor>
+<ActorDefaultRelativeStillPath id="0"><![CDATA[/Stills/epr-mick.png]]></ActorDefaultRelativeStillPath>
+</Response>
+<Response id="epr049">
+<ResponseID id="0">epr049</ResponseID>
+<BaseQuestion id="0">Is frequent urination normal?</BaseQuestion>
+<Content id="0">Your uterus is growing and putting pressure on your bladder, so you may need to urinate more frequently.  This is completely normal and will continue or may even get worse as your pregnancy progresses.</Content>
+<Actor id="0">NoVideo</Actor>
+<ActorDefaultRelativeStillPath id="0"><![CDATA[/Stills/epr-nv.png]]></ActorDefaultRelativeStillPath>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">epr069</ResponseID>
+<BaseQuestion id="1">How much water should I drink during pregnancy?</BaseQuestion>
+</RQ>
+</RQs>
+</Response>
+<Response id="epr050">
+<ResponseID id="0">epr050</ResponseID>
+<BaseQuestion id="0">How long does morning sickness last?</BaseQuestion>
+<Content id="0">Morning sickness, despite its name, can happen at any time during the day, and while it usually eases up after the first trimester, for some women it can continue throughout pregnancy.</Content>
+<Actor id="0">Mick</Actor>
+<ActorDefaultRelativeStillPath id="0"><![CDATA[/Stills/epr-mick.png]]></ActorDefaultRelativeStillPath>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">epr123</ResponseID>
+<BaseQuestion id="1">When will this morning sickness and nausea end?</BaseQuestion>
+</RQ>
+<RQ id="1">
+<ResponseID id="2">epr015</ResponseID>
+<BaseQuestion id="2">What is morning sickness?</BaseQuestion>
+</RQ>
+</RQs>
+</Response>
+<Response id="epr051">
+<ResponseID id="0">epr051</ResponseID>
+<BaseQuestion id="0">How big is my baby during the first three months?</BaseQuestion>
+<Content id="0">At the end of the first trimester your baby will weigh about half an ounce and be about 2 and 1 half inches long.</Content>
+<Actor id="0">NoVideo</Actor>
+<ActorDefaultRelativeStillPath id="0"><![CDATA[/Stills/epr-nv.png]]></ActorDefaultRelativeStillPath>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">epr053</ResponseID>
+<BaseQuestion id="1">Is my baby moving, even though I cannot feel it?</BaseQuestion>
+</RQ>
+<RQ id="1">
+<ResponseID id="2">epr061</ResponseID>
+<BaseQuestion id="2">What happens during the 1st month of pregnancy?</BaseQuestion>
+</RQ>
+<RQ id="2">
+<ResponseID id="3">epr062</ResponseID>
+<BaseQuestion id="3">What happens during my pregnancy in month 2?</BaseQuestion>
+</RQ>
+<RQ id="3">
+<ResponseID id="4">epr063</ResponseID>
+<BaseQuestion id="4">What is important for my pregnancy in month 3?</BaseQuestion>
+</RQ>
+</RQs>
+</Response>
+<Response id="epr052">
+<ResponseID id="0">epr052</ResponseID>
+<BaseQuestion id="0">How much does my baby weigh during the first three months?    Skip -- combined with per051</BaseQuestion>
+<Content id="0"></Content>
+</Response>
+<Response id="epr053">
+<ResponseID id="0">epr053</ResponseID>
+<BaseQuestion id="0">Is my baby moving, even though I cannot feel it?</BaseQuestion>
+<Content id="0">Your baby may start moving as early as 6 to 8 weeks into your pregnancy, even though you may not be able to feel movement until after weeks 16 to 25 of your pregnancy.</Content>
+<Actor id="0">NoVideo</Actor>
+<ActorDefaultRelativeStillPath id="0"><![CDATA[/Stills/epr-nv.png]]></ActorDefaultRelativeStillPath>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">epr061</ResponseID>
+<BaseQuestion id="1">What happens during the 1st month of pregnancy?</BaseQuestion>
+</RQ>
+<RQ id="1">
+<ResponseID id="2">epr062</ResponseID>
+<BaseQuestion id="2">What happens during my pregnancy in month 2?</BaseQuestion>
+</RQ>
+<RQ id="2">
+<ResponseID id="3">epr063</ResponseID>
+<BaseQuestion id="3">What is important for my pregnancy in month 3?</BaseQuestion>
+</RQ>
+<RQ id="3">
+<ResponseID id="4">epr065</ResponseID>
+<BaseQuestion id="4">Am I going to feel my baby move soon?</BaseQuestion>
+</RQ>
+</RQs>
+</Response>
+<Response id="epr054">
+<ResponseID id="0">epr054</ResponseID>
+<BaseQuestion id="0">What is amniotic fluid?</BaseQuestion>
+<Content id="0">Amniotic fluid fills the amniotic sac and surrounds the baby during pregnancy, protecting it and making movement easier within the womb.  It also contains proteins, carbohydrates, lipids and phospholipids, and urea which contribute to the development of the baby.</Content>
+<Actor id="0">NoVideo</Actor>
+<ActorDefaultRelativeStillPath id="0"><![CDATA[/Stills/epr-nv.png]]></ActorDefaultRelativeStillPath>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">epr076</ResponseID>
+<BaseQuestion id="1">Will my water break?</BaseQuestion>
+</RQ>
+<RQ id="1">
+<ResponseID id="2">epr088</ResponseID>
+<BaseQuestion id="2">What happens when my water breaks? How will I know?</BaseQuestion>
+</RQ>
+</RQs>
+</Response>
+<Response id="epr055">
+<ResponseID id="0">epr055</ResponseID>
+<BaseQuestion id="0">Can I go in a hot tub?</BaseQuestion>
+<Content id="0">There are some studies that show elevated body temperature during pregnancy can contribute to complications and birth defects, so hot tub use during pregnancy is not recommended.  If you do plan to use a hot tub, there are precautions you should take.  Look in the Resources area for more information.</Content>
+<Actor id="0">Mick</Actor>
+<ActorDefaultRelativeStillPath id="0"><![CDATA[/Stills/epr-mick.png]]></ActorDefaultRelativeStillPath>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">epr005</ResponseID>
+<BaseQuestion id="1">How do I know if I am a high risk pregnancy?</BaseQuestion>
+</RQ>
+<RQ id="1">
+<ResponseID id="2">epr126</ResponseID>
+<BaseQuestion id="2">When should I call the doctor if I am worried?</BaseQuestion>
+</RQ>
+</RQs>
+<MediaList id="0">
+<Media id="0">
+<ListOrder id="0">1</ListOrder>
+<Description id="0">Hot Tub Precautions</Description>
+<Location id="0"><![CDATA[http://www.mayoclinic.org/healthy-lifestyle/pregnancy-week-by-week/expert-answers/pregnancy-and-hot-tubs/faq-20057844]]></Location>
+<MediaType id="0">Link</MediaType>
+<FileSize id="0"></FileSize>
+</Media>
+</MediaList>
+</Response>
+<Response id="epr056">
+<ResponseID id="0">epr056</ResponseID>
+<BaseQuestion id="0">Can I use a tanning bed?</BaseQuestion>
+<Content id="0">Pregnancy can make your skin more sensitive to UV radiation and put you at higher risk for heat related conditions and dehydration, so to play it safe, avoid all tanning while pregnant.</Content>
+<Actor id="0">Mick</Actor>
+<ActorDefaultRelativeStillPath id="0"><![CDATA[/Stills/epr-mick.png]]></ActorDefaultRelativeStillPath>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">epr069</ResponseID>
+<BaseQuestion id="1">How much water should I drink during pregnancy?</BaseQuestion>
+</RQ>
+</RQs>
+</Response>
+<Response id="epr057">
+<ResponseID id="0">epr057</ResponseID>
+<BaseQuestion id="0">Can I change a litter box during pregnancy?</BaseQuestion>
+<Content id="0">If you are pregnant you should not come into contact with cat waste.  If you must empty the litter box, wear disposable rubber gloves and wash your hands with soap and water afterwards.  Also, when gardening, make sure you wear gloves because outdoor cats may use gardens as their litter box.  Also, keep your cats indoors and do not handle stray cats or kittens while pregnant.</Content>
+<Actor id="0">NoVideo</Actor>
+<ActorDefaultRelativeStillPath id="0"><![CDATA[/Stills/epr-nv.png]]></ActorDefaultRelativeStillPath>
+</Response>
+<Response id="epr058">
+<ResponseID id="0">epr058</ResponseID>
+<BaseQuestion id="0">Is it safe to travel/fly during pregnancy?</BaseQuestion>
+<Content id="0">Normally it is completely safe to travel while pregnant, but talk to your healthcare provider before you travel, especially if you have concerns or have a high risk pregnancy. For precautions to take while traveling, look in the Resources area.  Flying is safe during pregnancy however your healthcare provider may tell you not to fly after your 36th week of pregnancy or if you have a high risk pregnancy or are at risk for early labor.  Also, check with the airline you are planning to fly with to see if they have any restrictions that might affect your plans.</Content>
+<Actor id="0">Mick</Actor>
+<ActorDefaultRelativeStillPath id="0"><![CDATA[/Stills/epr-mick.png]]></ActorDefaultRelativeStillPath>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">epr005</ResponseID>
+<BaseQuestion id="1">How do I know if I am a high risk pregnancy?</BaseQuestion>
+</RQ>
+<RQ id="1">
+<ResponseID id="2">epr124</ResponseID>
+<BaseQuestion id="2">Is preterm labor dangerous for my baby?</BaseQuestion>
+</RQ>
+</RQs>
+<MediaList id="0">
+<Media id="0">
+<ListOrder id="0">1</ListOrder>
+<Description id="0">Pregnancy &amp; Travel</Description>
+<Location id="0"><![CDATA[https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000608.htm]]></Location>
+<MediaType id="0">Link</MediaType>
+<FileSize id="0"></FileSize>
+</Media>
+<Media id="1">
+<ListOrder id="0">2</ListOrder>
+<Description id="0">Travel Precautions</Description>
+<Location id="0"><![CDATA[http://www.mayoclinic.org/healthy-lifestyle/pregnancy-week-by-week/expert-answers/air-travel-during-pregnancy/faq-20058087]]></Location>
+<MediaType id="0">Link</MediaType>
+<FileSize id="0"></FileSize>
+</Media>
+</MediaList>
+</Response>
+<Response id="epr059">
+<ResponseID id="0">epr059</ResponseID>
+<BaseQuestion id="0">Can I fly during pregnancy?   Skip -- combined with epr058</BaseQuestion>
+<Content id="0"></Content>
+<Actor id="0">NoVideo</Actor>
+<ActorDefaultRelativeStillPath id="0"><![CDATA[/Stills/epr-nv.png]]></ActorDefaultRelativeStillPath>
+</Response>
+<Response id="epr060">
+<ResponseID id="0">epr060</ResponseID>
+<BaseQuestion id="0">Is increased acne normal?</BaseQuestion>
+<Content id="0">Hormonal changes can affect your skin during pregnancy causing acne, especially if you had more acne breakouts during your menstrual periods.</Content>
+<Actor id="0">NoVideo</Actor>
+<ActorDefaultRelativeStillPath id="0"><![CDATA[/Stills/epr-nv.png]]></ActorDefaultRelativeStillPath>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">epr069</ResponseID>
+<BaseQuestion id="1">How much water should I drink during pregnancy?</BaseQuestion>
+</RQ>
+<RQ id="1">
+<ResponseID id="2">epr133</ResponseID>
+<BaseQuestion id="2">Where can I find pregnancy diet and fitness tips?</BaseQuestion>
+</RQ>
+</RQs>
+</Response>
+<Response id="epr061">
+<ResponseID id="0">epr061</ResponseID>
+<BaseQuestion id="0">What happens during the 1st month of pregnancy?</BaseQuestion>
+<Content id="0">During the first month of pregnancy, you may not even realize you're pregnant. Within the first two weeks after your period, the fertilized egg travels down the fallopian tubes and implants into the uterus. At this time you may have fatigue, bloating, frequent urination, mood swings, nausea, and tender or swollen breasts.</Content>
+<Actor id="0">Mick</Actor>
+<ActorDefaultRelativeStillPath id="0"><![CDATA[/Stills/epr-mick.png]]></ActorDefaultRelativeStillPath>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">epr020</ResponseID>
+<BaseQuestion id="1">How long after conception does the fertilized egg implant?</BaseQuestion>
+</RQ>
+<RQ id="1">
+<ResponseID id="2">epr130</ResponseID>
+<BaseQuestion id="2">What is implantation bleeding, and what are the symptoms?</BaseQuestion>
+</RQ>
+<RQ id="2">
+<ResponseID id="3">epr004</ResponseID>
+<BaseQuestion id="3">What are the common early pregnancy symptoms?</BaseQuestion>
+</RQ>
+<RQ id="3">
+<ResponseID id="4">epr014</ResponseID>
+<BaseQuestion id="4">Why do I have mood swings?</BaseQuestion>
+</RQ>
+<RQ id="4">
+<ResponseID id="5">epr131</ResponseID>
+<BaseQuestion id="5">What are symptoms of an ectopic pregnancy?</BaseQuestion>
+</RQ>
+</RQs>
+</Response>
+<Response id="epr062">
+<ResponseID id="0">epr062</ResponseID>
+<BaseQuestion id="0">What happens during my pregnancy in month 2?</BaseQuestion>
+<Content id="0">During the second month, your baby's heart and circulatory system are developing.  The arms and legs grow and fingers and toes begin to develop.  The neural tube, which will later become the spine and brain forms.  The umbilical cord begins to develop at this time as well, and the symptoms of early pregnancy become more noticeable.</Content>
+<Actor id="0">NoVideo</Actor>
+<ActorDefaultRelativeStillPath id="0"><![CDATA[/Stills/epr-nv.png]]></ActorDefaultRelativeStillPath>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">epr004</ResponseID>
+<BaseQuestion id="1">What are the common early pregnancy symptoms?</BaseQuestion>
+</RQ>
+<RQ id="1">
+<ResponseID id="2">epr051</ResponseID>
+<BaseQuestion id="2">How big is my baby during the first three months?</BaseQuestion>
+</RQ>
+<RQ id="2">
+<ResponseID id="3">epr053</ResponseID>
+<BaseQuestion id="3">Is my baby moving, even though I cannot feel it?</BaseQuestion>
+</RQ>
+<RQ id="3">
+<ResponseID id="4">epr041</ResponseID>
+<BaseQuestion id="4">What can I expect at my first appointment?</BaseQuestion>
+</RQ>
+</RQs>
+</Response>
+<Response id="epr063">
+<ResponseID id="0">epr063</ResponseID>
+<BaseQuestion id="0">What is important for my pregnancy in month 3?</BaseQuestion>
+<Content id="0">During the 3rd month of pregnancy, the umbilical cord attaches the baby to the placenta which allows nutrients to flow from the mother to the baby and carries away the baby's waste. This is also when the skin and nails develop, and bones begin to harden. The sex organs begin to appear during this period, and the kidneys begin to work.</Content>
+<Actor id="0">Mick</Actor>
+<ActorDefaultRelativeStillPath id="0"><![CDATA[/Stills/epr-mick.png]]></ActorDefaultRelativeStillPath>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">epr051</ResponseID>
+<BaseQuestion id="1">How big is my baby during the first three months?</BaseQuestion>
+</RQ>
+<RQ id="1">
+<ResponseID id="2">epr114</ResponseID>
+<BaseQuestion id="2">Will Chinese birth calendar predict a baby boy or a baby girl?</BaseQuestion>
+</RQ>
+<RQ id="2">
+<ResponseID id="3">epr053</ResponseID>
+<BaseQuestion id="3">Is my baby moving, even though I cannot feel it?</BaseQuestion>
+</RQ>
+</RQs>
+</Response>
+<Response id="epr064">
+<ResponseID id="0">epr064</ResponseID>
+<BaseQuestion id="0">How developed is my baby during the first 4-6 months?</BaseQuestion>
+<Content id="0">During the second trimester your baby will grow from about 3 to 8 inches. All of the organs are developed at this point, and the sex organs are apparent.</Content>
+<Actor id="0">LongHair</Actor>
+<ActorDefaultRelativeStillPath id="0"><![CDATA[/Stills/epr-longhair.png]]></ActorDefaultRelativeStillPath>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">epr065</ResponseID>
+<BaseQuestion id="1">Am I going to feel my baby move soon?</BaseQuestion>
+</RQ>
+<RQ id="1">
+<ResponseID id="2">epr067</ResponseID>
+<BaseQuestion id="2">What happens if my baby is born during my second trimester?</BaseQuestion>
+</RQ>
+<RQ id="2">
+<ResponseID id="3">epr068</ResponseID>
+<BaseQuestion id="3">What is important for my pregnancy months 4-6?</BaseQuestion>
+</RQ>
+</RQs>
+</Response>
+<Response id="epr065">
+<ResponseID id="0">epr065</ResponseID>
+<BaseQuestion id="0">Am I going to feel my baby move soon?</BaseQuestion>
+<Content id="0">You may feel your baby moving starting with the 14th to 26th week.  If you haven't felt anything by the 20th week, your doctor may suggest an ultrasound to see if the baby is moving.</Content>
+<Actor id="0">LongHair</Actor>
+<ActorDefaultRelativeStillPath id="0"><![CDATA[/Stills/epr-longhair.png]]></ActorDefaultRelativeStillPath>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">epr066</ResponseID>
+<BaseQuestion id="1">How often should I be feeling movement from my baby?</BaseQuestion>
+</RQ>
+<RQ id="1">
+<ResponseID id="2">epr128</ResponseID>
+<BaseQuestion id="2">My baby is not moving as frequently as before, should I be concerned?</BaseQuestion>
+</RQ>
+<RQ id="2">
+<ResponseID id="3">epr126</ResponseID>
+<BaseQuestion id="3">When should I call the doctor if I am worried?</BaseQuestion>
+</RQ>
+<RQ id="3">
+<ResponseID id="4">epr032</ResponseID>
+<BaseQuestion id="4">Why are ultrasounds done?</BaseQuestion>
+</RQ>
+</RQs>
+</Response>
+<Response id="epr066">
+<ResponseID id="0">epr066</ResponseID>
+<BaseQuestion id="0">How often should I be feeling movement from my baby?</BaseQuestion>
+<Content id="0">There is no need to be anxious if your baby doesn't seem to be moving a lot at this stage of the pregnancy. In fact, at this stage of pregnancy, many women find they didn't notice the baby's movement for up to four days at a time. The baby is actually moving constantly, but you won't always feel it depending on the position and the baby's position in the womb. However, you should let your healthcare provider know if a day goes by without your feeling any movement.</Content>
+<Actor id="0">LongHair</Actor>
+<ActorDefaultRelativeStillPath id="0"><![CDATA[/Stills/epr-longhair.png]]></ActorDefaultRelativeStillPath>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">epr128</ResponseID>
+<BaseQuestion id="1">My baby is not moving as frequently as before, should I be concerned?</BaseQuestion>
+</RQ>
+<RQ id="1">
+<ResponseID id="2">epr126</ResponseID>
+<BaseQuestion id="2">When should I call the doctor if I am worried?</BaseQuestion>
+</RQ>
+</RQs>
+</Response>
+<Response id="epr067">
+<ResponseID id="0">epr067</ResponseID>
+<BaseQuestion id="0">What happens if my baby is born during my second trimester?</BaseQuestion>
+<Content id="0">Any baby born before 37 weeks is considered premature and is at risk for having health problems that can be life-long. The earlier in pregnancy that you give birth, the more likely your baby is to have severe health problems. Some premature babies have to spend time in a hospital's neonatal intensive care unit (also called NICU). But thanks to advances in medical care, even babies born very prematurely are more likely to survive today than ever before.</Content>
+<Actor id="0">LongHair</Actor>
+<ActorDefaultRelativeStillPath id="0"><![CDATA[/Stills/epr-longhair.png]]></ActorDefaultRelativeStillPath>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">epr124</ResponseID>
+<BaseQuestion id="1">Is preterm labor dangerous for my baby?</BaseQuestion>
+</RQ>
+<RQ id="1">
+<ResponseID id="2">epr071</ResponseID>
+<BaseQuestion id="2">What do contractions feel like?</BaseQuestion>
+</RQ>
+<RQ id="2">
+<ResponseID id="3">epr086</ResponseID>
+<BaseQuestion id="3">What are the signs to be aware of to know that I am in labor?</BaseQuestion>
+</RQ>
+<RQ id="3">
+<ResponseID id="4">epr079</ResponseID>
+<BaseQuestion id="4">What are Braxton Hicks?</BaseQuestion>
+</RQ>
+</RQs>
+</Response>
+<Response id="epr068">
+<ResponseID id="0">epr068</ResponseID>
+<BaseQuestion id="0">What is important for my pregnancy months 4-6?</BaseQuestion>
+<Content id="0">During your second trimester your pregnancy will start to show, and you'll begin to put on weight in earnest, at least a pound a week is average. The fatigue and nausea of early pregnancy usually ease but not for all women. You may experience more dizziness due to the uterus pressing on nerves or due to low blood sugar. It is important to eat regularly and drink plenty of fluids during this period to support your baby's continued growth.</Content>
+<Actor id="0">LongHair</Actor>
+<ActorDefaultRelativeStillPath id="0"><![CDATA[/Stills/epr-longhair.png]]></ActorDefaultRelativeStillPath>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">epr069</ResponseID>
+<BaseQuestion id="1">How much water should I drink during pregnancy?</BaseQuestion>
+</RQ>
+<RQ id="1">
+<ResponseID id="2">epr136</ResponseID>
+<BaseQuestion id="2">How much weight should I gain during my pregnancy? And at what rate?</BaseQuestion>
+</RQ>
+<RQ id="2">
+<ResponseID id="3">epr008</ResponseID>
+<BaseQuestion id="3">Is dizziness common in pregnancy?</BaseQuestion>
+</RQ>
+<RQ id="3">
+<ResponseID id="4">epr123</ResponseID>
+<BaseQuestion id="4">When will this morning sickness and nausea end?</BaseQuestion>
+</RQ>
+<RQ id="4">
+<ResponseID id="5">epr133</ResponseID>
+<BaseQuestion id="5">Where can I find pregnancy diet and fitness tips?</BaseQuestion>
+</RQ>
+<RQ id="5">
+<ResponseID id="6">epr079</ResponseID>
+<BaseQuestion id="6">What are Braxton Hicks?</BaseQuestion>
+</RQ>
+</RQs>
+</Response>
+<Response id="epr069">
+<ResponseID id="0">epr069</ResponseID>
+<BaseQuestion id="0">How much water should I drink during pregnancy?</BaseQuestion>
+<Content id="0">You need more water during pregnancy, so it is recommended that you drink 12 to 13 eight ounce glasses each day.</Content>
+<Actor id="0">LongHair</Actor>
+<ActorDefaultRelativeStillPath id="0"><![CDATA[/Stills/epr-longhair.png]]></ActorDefaultRelativeStillPath>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">epr133</ResponseID>
+<BaseQuestion id="1">Where can I find pregnancy diet and fitness tips?</BaseQuestion>
+</RQ>
+</RQs>
+</Response>
+<Response id="epr070">
+<ResponseID id="0">epr070</ResponseID>
+<BaseQuestion id="0">What can I do about my stretch marks?</BaseQuestion>
+<Content id="0">About half of women get stretch marks during pregnancy. It is believed that heredity plays the biggest role in whether women will get stretch marks. They are caused by hormonal changes that affect skin fibers, not by the weight gain itself, and there really is no way to prevent them. However, these marks fade over time, and you can help reduce the appearance of stretch marks using over-the-counter creams.</Content>
+<Actor id="0">LongHair</Actor>
+<ActorDefaultRelativeStillPath id="0"><![CDATA[/Stills/epr-longhair.png]]></ActorDefaultRelativeStillPath>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">epr133</ResponseID>
+<BaseQuestion id="1">Where can I find pregnancy diet and fitness tips?</BaseQuestion>
+</RQ>
+<RQ id="1">
+<ResponseID id="2">epr136</ResponseID>
+<BaseQuestion id="2">How much weight should I gain during my pregnancy? And at what rate?</BaseQuestion>
+</RQ>
+</RQs>
+</Response>
+<Response id="epr071">
+<ResponseID id="0">epr071</ResponseID>
+<BaseQuestion id="0">What do contractions feel like?</BaseQuestion>
+<Content id="0">Contractions can feel like heavy menstrual cramps or lower abdominal pressure. The pain may be felt in the lower abdomen or in the lower back and abdomen, and it may also radiate down the leg. The strength of the contractions increases as labor progresses.</Content>
+<Actor id="0">LongHair</Actor>
+<ActorDefaultRelativeStillPath id="0"><![CDATA[/Stills/epr-longhair.png]]></ActorDefaultRelativeStillPath>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">epr079</ResponseID>
+<BaseQuestion id="1">What are Braxton Hicks?</BaseQuestion>
+</RQ>
+<RQ id="1">
+<ResponseID id="2">epr086</ResponseID>
+<BaseQuestion id="2">What are the signs to be aware of to know that I am in labor?</BaseQuestion>
+</RQ>
+<RQ id="2">
+<ResponseID id="3">epr072</ResponseID>
+<BaseQuestion id="3">How do I time my contractions?</BaseQuestion>
+</RQ>
+<RQ id="3">
+<ResponseID id="4">epr089</ResponseID>
+<BaseQuestion id="4">If I am bleeding and having contractions, what should I do?</BaseQuestion>
+</RQ>
+</RQs>
+</Response>
+<Response id="epr072">
+<ResponseID id="0">epr072</ResponseID>
+<BaseQuestion id="0">How do I time my contractions?</BaseQuestion>
+<Content id="0">Time your contractions from the beginning of one to the beginning of the next. When you're in labor your contractions will get progressively stronger and closer together.</Content>
+<Actor id="0">LongHair</Actor>
+<ActorDefaultRelativeStillPath id="0"><![CDATA[/Stills/epr-longhair.png]]></ActorDefaultRelativeStillPath>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">epr071</ResponseID>
+<BaseQuestion id="1">What do contractions feel like?</BaseQuestion>
+</RQ>
+<RQ id="1">
+<ResponseID id="2">epr079</ResponseID>
+<BaseQuestion id="2">What are Braxton Hicks?</BaseQuestion>
+</RQ>
+<RQ id="2">
+<ResponseID id="3">epr089</ResponseID>
+<BaseQuestion id="3">If I am bleeding and having contractions, what should I do?</BaseQuestion>
+</RQ>
+</RQs>
+</Response>
+<Response id="epr073">
+<ResponseID id="0">epr073</ResponseID>
+<BaseQuestion id="0">Is there anything I can do to relieve my backache?</BaseQuestion>
+<Content id="0">Backache is a common complaint during labor.  Back rubs and pressure applied to your hips during contractions may help.  Some women find that changing positions, taking a walk, straddling a chair or leaning forward on pillows or a birthing ball can help.  You can also try kneeling on hands and knees to take the pressure off your spine.  Lying on your side rather than your back may help as well.  Mild heat from a heating pad can also help.</Content>
+<Actor id="0">LongHair</Actor>
+<ActorDefaultRelativeStillPath id="0"><![CDATA[/Stills/epr-longhair.png]]></ActorDefaultRelativeStillPath>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">epr101</ResponseID>
+<BaseQuestion id="1">What is back labor?</BaseQuestion>
+</RQ>
+<RQ id="1">
+<ResponseID id="2">epr071</ResponseID>
+<BaseQuestion id="2">What do contractions feel like?</BaseQuestion>
+</RQ>
+<RQ id="2">
+<ResponseID id="3">epr079</ResponseID>
+<BaseQuestion id="3">What are Braxton Hicks?</BaseQuestion>
+</RQ>
+</RQs>
+</Response>
+<Response id="epr074">
+<ResponseID id="0">epr074</ResponseID>
+<BaseQuestion id="0">What is decreased fetal movement?</BaseQuestion>
+<Content id="0">There may be times when the baby does not move as much. In the third trimester there are space constraints that make movement more difficult, and your baby has developed a regular sleep and wake cycle. Sometimes a decrease in movement just means that your baby is sleeping soundly. You should be able to wake the baby up by eating a snack. However, you should pay attention to your baby's activity. Count fetal movements a few times a day and report any sudden decreases to your practitioner. If you don't feel 10 movements within two hours, contact your healthcare provider right away.</Content>
+<Actor id="0">LongHair</Actor>
+<ActorDefaultRelativeStillPath id="0"><![CDATA[/Stills/epr-longhair.png]]></ActorDefaultRelativeStillPath>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">epr128</ResponseID>
+<BaseQuestion id="1">My baby is not moving as frequently as before, should I be concerned?</BaseQuestion>
+</RQ>
+<RQ id="1">
+<ResponseID id="2">epr066</ResponseID>
+<BaseQuestion id="2">How often should I be feeling movement from my baby?</BaseQuestion>
+</RQ>
+</RQs>
+</Response>
+<Response id="epr075">
+<ResponseID id="0">epr075</ResponseID>
+<BaseQuestion id="0">How much does my baby weigh?</BaseQuestion>
+<Content id="0">When your baby is full term, it will weigh between 5 and 8 pounds.  A low birth weight is less than 5.5 pounds. A high birth weight is more than 8.8 pounds.</Content>
+<Actor id="0">LongHair</Actor>
+<ActorDefaultRelativeStillPath id="0"><![CDATA[/Stills/epr-longhair.png]]></ActorDefaultRelativeStillPath>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">epr080</ResponseID>
+<BaseQuestion id="1">When is it safe to have my baby?</BaseQuestion>
+</RQ>
+</RQs>
+</Response>
+<Response id="epr076">
+<ResponseID id="0">epr076</ResponseID>
+<BaseQuestion id="0">Will my water break?</BaseQuestion>
+<Content id="0">Your water will usually break before or during labor, but if it does not break on its own before birth, your healthcare provider may strip or break your water in order to bring on labor.</Content>
+<Actor id="0">LongHair</Actor>
+<ActorDefaultRelativeStillPath id="0"><![CDATA[/Stills/epr-longhair.png]]></ActorDefaultRelativeStillPath>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">epr088</ResponseID>
+<BaseQuestion id="1">What happens when my water breaks? How will I know?</BaseQuestion>
+</RQ>
+<RQ id="1">
+<ResponseID id="2">epr054</ResponseID>
+<BaseQuestion id="2">What is amniotic fluid?</BaseQuestion>
+</RQ>
+<RQ id="2">
+<ResponseID id="3">epr086</ResponseID>
+<BaseQuestion id="3">What are the signs to be aware of to know that I am in labor?</BaseQuestion>
+</RQ>
+</RQs>
+</Response>
+<Response id="epr077">
+<ResponseID id="0">epr077</ResponseID>
+<BaseQuestion id="0">Is it normal for my ankles/legs/hands/fingers to swell?</BaseQuestion>
+<Content id="0">Your body makes about 50% more blood and body fluids during pregnancy.  This additional fluid can cause swelling.  This swelling is called edema and can happen in your hands and face as well as your legs, ankles, and feet.</Content>
+<Actor id="0">LongHair</Actor>
+<ActorDefaultRelativeStillPath id="0"><![CDATA[/Stills/epr-longhair.png]]></ActorDefaultRelativeStillPath>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">epr121</ResponseID>
+<BaseQuestion id="1">What do preeclampsia symptoms mean and what can I do?</BaseQuestion>
+</RQ>
+<RQ id="1">
+<ResponseID id="2">epr136</ResponseID>
+<BaseQuestion id="2">How much weight should I gain during my pregnancy? And at what rate?</BaseQuestion>
+</RQ>
+<RQ id="2">
+<ResponseID id="3">epr135</ResponseID>
+<BaseQuestion id="3">How fast will my pregnancy weight gain come off?</BaseQuestion>
+</RQ>
+</RQs>
+</Response>
+<Response id="epr078">
+<ResponseID id="0">epr078</ResponseID>
+<BaseQuestion id="0">Why are my fingers swollen?   Skip -- combine with 77</BaseQuestion>
+<Content id="0"></Content>
+<Actor id="0">LongHair</Actor>
+<ActorDefaultRelativeStillPath id="0"><![CDATA[/Stills/epr-longhair.png]]></ActorDefaultRelativeStillPath>
+</Response>
+<Response id="epr079">
+<ResponseID id="0">epr079</ResponseID>
+<BaseQuestion id="0">What are Braxton Hicks?</BaseQuestion>
+<Content id="0">Braxton-Hicks contractions are mild, early contractions that can start as early as the second trimester. They are sometimes called false labor. True contractions continue regardless of your activity level or position. With false labor, the contractions might stop when you walk, rest, or change positions.</Content>
+<Actor id="0">LongHair</Actor>
+<ActorDefaultRelativeStillPath id="0"><![CDATA[/Stills/epr-longhair.png]]></ActorDefaultRelativeStillPath>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">epr086</ResponseID>
+<BaseQuestion id="1">What are the signs to be aware of to know that I am in labor?</BaseQuestion>
+</RQ>
+<RQ id="1">
+<ResponseID id="2">epr071</ResponseID>
+<BaseQuestion id="2">What do contractions feel like?</BaseQuestion>
+</RQ>
+<RQ id="2">
+<ResponseID id="3">epr072</ResponseID>
+<BaseQuestion id="3">How do I time my contractions?</BaseQuestion>
+</RQ>
+<RQ id="3">
+<ResponseID id="4">epr089</ResponseID>
+<BaseQuestion id="4">If I am bleeding and having contractions, what should I do?</BaseQuestion>
+</RQ>
+</RQs>
+</Response>
+<Response id="epr080">
+<ResponseID id="0">epr080</ResponseID>
+<BaseQuestion id="0">When is it safe to have my baby?</BaseQuestion>
+<Content id="0">It is best to allow your pregnancy to progress to full term because babies born even a few weeks early are still at higher risk for medical problems. Sometimes it is necessary for your health or the health of the baby that you deliver early. Your healthcare provider can help you assess the risks and benefits of starting labor early.</Content>
+<Actor id="0">LongHair</Actor>
+<ActorDefaultRelativeStillPath id="0"><![CDATA[/Stills/epr-longhair.png]]></ActorDefaultRelativeStillPath>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">epr124</ResponseID>
+<BaseQuestion id="1">Is preterm labor dangerous for my baby?</BaseQuestion>
+</RQ>
+<RQ id="1">
+<ResponseID id="2">epr103</ResponseID>
+<BaseQuestion id="2">When should I have a C-section?</BaseQuestion>
+</RQ>
+</RQs>
+</Response>
+<Response id="epr081">
+<ResponseID id="0">epr081</ResponseID>
+<BaseQuestion id="0">What happens if my baby is breech?</BaseQuestion>
+<Content id="0">Near the end of pregnancy, the baby normally assumes a head-down position in preparation for birth. However, about 4% of the time, the baby is in a breech position, with the buttocks closest to the cervix and the head up. When you get close to your due date, if the baby has not dropped into the head down position, your healthcare provider may try to turn the baby by pressing down on the uterus from outside the womb. If you are in labor and the baby has still not turned, your healthcare provider may recommend that you have a cesarean section.</Content>
+<Actor id="0">LongHair</Actor>
+<ActorDefaultRelativeStillPath id="0"><![CDATA[/Stills/epr-longhair.png]]></ActorDefaultRelativeStillPath>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">epr104</ResponseID>
+<BaseQuestion id="1">What is a Cesarean or C-Section birth and why would I need it?</BaseQuestion>
+</RQ>
+</RQs>
+</Response>
+<Response id="epr082">
+<ResponseID id="0">epr082</ResponseID>
+<BaseQuestion id="0">What should I expect in labor and birth?</BaseQuestion>
+<Content id="0">Labor happens in three stages. The first stage, early labor, is when the cervix starts to expand. Mild contractions may begin, and your water may break. Early labor usually lasts for 6-12 hours, and you may be able to be up and walking around, taking a shower, and preparing to go to the hospital. When your contractions are 3-4 minutes apart, you are in active labor. This is the time to go to the hospital. During active labor your cervix continues to dilate, and if your water has not already broken, it may happen during this phase as your contractions become stronger and more regular. Depending on whether you have opted for childbirth with or without pain medication, you may experience pain and pressure, especially in your back. You may have leg cramps and nausea as well. This phase of labor lasts 8 hours on average for first time mothers, but your labor may be longer or shorter. When the cervix is fully dilated at 10 centimeters and the baby begins to enter the birth canal, you'll be instructed to begin pushing. You may feel the urge to push, which can be like having a strong urge to have a bowel movement. The skin and muscles around the opening of the vagina will stretch, and you may need an episiotomy, or a small incision, to prevent the skin between the vagina and rectum from tearing. As the baby's head emerges some of the pain and pressure will be relieved. The nurse or doctor will clean out the baby's nose and mouth, then rotate the head a bit to ease passage of the baby's shoulders. Then with a final push or two, your baby is delivered.</Content>
+<Actor id="0">MaryPat</Actor>
+<ActorDefaultRelativeStillPath id="0"><![CDATA[/Stills/epr-marypat.png]]></ActorDefaultRelativeStillPath>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">epr083</ResponseID>
+<BaseQuestion id="1">What happens in the delivery room after the baby is born?</BaseQuestion>
+</RQ>
+<RQ id="1">
+<ResponseID id="2">epr071</ResponseID>
+<BaseQuestion id="2">What do contractions feel like?</BaseQuestion>
+</RQ>
+<RQ id="2">
+<ResponseID id="3">epr104</ResponseID>
+<BaseQuestion id="3">What is a Cesarean or C-Section birth and why would I need it?</BaseQuestion>
+</RQ>
+<RQ id="3">
+<ResponseID id="4">epr102</ResponseID>
+<BaseQuestion id="4">What is a natural child birth?</BaseQuestion>
+</RQ>
+<RQ id="4">
+<ResponseID id="5">epr101</ResponseID>
+<BaseQuestion id="5">What is back labor?</BaseQuestion>
+</RQ>
+</RQs>
+</Response>
+<Response id="epr083">
+<ResponseID id="0">epr083</ResponseID>
+<BaseQuestion id="0">What happens in the delivery room after the baby is born?</BaseQuestion>
+<Content id="0">After your baby is born, the placenta and amniotic sac must also be delivered.  Sometimes this happens on its own soon after birth, or it may take as long as 30 minutes.  Your healthcare provider may massage your abdomen below your belly button to help the uterus contract and ease out the delivery of the placenta.   If you've had an episiotomy your healthcare provider will stitch the incision closed.</Content>
+<Actor id="0">MaryPat</Actor>
+<ActorDefaultRelativeStillPath id="0"><![CDATA[/Stills/epr-marypat.png]]></ActorDefaultRelativeStillPath>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">epr054</ResponseID>
+<BaseQuestion id="1">What is amniotic fluid?</BaseQuestion>
+</RQ>
+<RQ id="1">
+<ResponseID id="2">epr087</ResponseID>
+<BaseQuestion id="2">How many centimeters should my cervix be dilated for labor and delivery?</BaseQuestion>
+</RQ>
+<RQ id="2">
+<ResponseID id="3">epr097</ResponseID>
+<BaseQuestion id="3">How do I care for my stitches after an episiotomy?</BaseQuestion>
+</RQ>
+</RQs>
+</Response>
+<Response id="epr084">
+<ResponseID id="0">epr084</ResponseID>
+<BaseQuestion id="0">What happens immediately after birth?</BaseQuestion>
+<Content id="0">After delivery you will be transferred with your baby to a private postpartum room after your recovery period in the Labor and Delivery Suite.  Your newborn will remain with you until discharge, although nursery care is available when needed.</Content>
+<Actor id="0">MaryPat</Actor>
+<ActorDefaultRelativeStillPath id="0"><![CDATA[/Stills/epr-marypat.png]]></ActorDefaultRelativeStillPath>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">epr090</ResponseID>
+<BaseQuestion id="1">How long will I bleed after I have my baby?</BaseQuestion>
+</RQ>
+<RQ id="1">
+<ResponseID id="2">epr092</ResponseID>
+<BaseQuestion id="2">What color should my vaginal discharge be after giving birth?</BaseQuestion>
+</RQ>
+<RQ id="2">
+<ResponseID id="3">epr091</ResponseID>
+<BaseQuestion id="3">How long will my breast tenderness last after giving birth if I am not breast feeding?</BaseQuestion>
+</RQ>
+</RQs>
+</Response>
+<Response id="epr085">
+<ResponseID id="0">epr085</ResponseID>
+<BaseQuestion id="0">How long before I can have intercourse?</BaseQuestion>
+<Content id="0">Generally you can resume sexual activity in approximately six weeks unless your doctor gives you other instructions.  Do not resume sexual activity until your vaginal bleeding has stopped.  Be aware that you can become pregnant if you do not use birth control, even if your period has not returned.</Content>
+<Actor id="0">MaryPat</Actor>
+<ActorDefaultRelativeStillPath id="0"><![CDATA[/Stills/epr-marypat.png]]></ActorDefaultRelativeStillPath>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">epr090</ResponseID>
+<BaseQuestion id="1">How long will I bleed after I have my baby?</BaseQuestion>
+</RQ>
+<RQ id="1">
+<ResponseID id="2">epr093</ResponseID>
+<BaseQuestion id="2">When will I begin my regular menstrual cycle?</BaseQuestion>
+</RQ>
+<RQ id="2">
+<ResponseID id="3">epr100</ResponseID>
+<BaseQuestion id="3">Can I get pregnant right after the birth of my baby if I have unprotected sex?</BaseQuestion>
+</RQ>
+<RQ id="3">
+<ResponseID id="4">epr106</ResponseID>
+<BaseQuestion id="4">When can I start my birth control?</BaseQuestion>
+</RQ>
+</RQs>
+</Response>
+<Response id="epr086">
+<ResponseID id="0">epr086</ResponseID>
+<BaseQuestion id="0">What are the signs to be aware of to know that I am in labor?</BaseQuestion>
+<Content id="0">True labor begins when you are having regular contractions 5 minutes apart for an hour, but even days before contractions start in earnest there can be early signs that your baby is on its way. One early sign of labor is lightening, when the baby's head drops down into position for delivery. This can occur anytime from a few weeks to a few hours before labor. You may also see what is called bloody show, which is the plug of mucus that has covered the opening to the uterus during pregnancy. This will be a brownish or slightly bloody discharge and can occur days before labor. Diarrhea or changes in your bowel habits, is common in the days leading up to labor as well. Your water may break early in labor or not until birth, and most women usually go into labor within 24 hours of their water breaking. You may experience "false labor" or Braxton-Hicks contractions starting in your second trimester, but these mild contractions are irregular and are not a sign that you are going into labor.</Content>
+<Actor id="0">MaryPat</Actor>
+<ActorDefaultRelativeStillPath id="0"><![CDATA[/Stills/epr-marypat.png]]></ActorDefaultRelativeStillPath>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">epr071</ResponseID>
+<BaseQuestion id="1">What do contractions feel like?</BaseQuestion>
+</RQ>
+<RQ id="1">
+<ResponseID id="2">epr072</ResponseID>
+<BaseQuestion id="2">How do I time my contractions?</BaseQuestion>
+</RQ>
+<RQ id="2">
+<ResponseID id="3">epr088</ResponseID>
+<BaseQuestion id="3">What happens when my water breaks? How will I know?</BaseQuestion>
+</RQ>
+<RQ id="3">
+<ResponseID id="4">epr079</ResponseID>
+<BaseQuestion id="4">What are Braxton Hicks?</BaseQuestion>
+</RQ>
+<RQ id="4">
+<ResponseID id="5">epr096</ResponseID>
+<BaseQuestion id="5">If my contractions are five minutes apart, am I in labor?</BaseQuestion>
+</RQ>
+</RQs>
+</Response>
+<Response id="epr087">
+<ResponseID id="0">epr087</ResponseID>
+<BaseQuestion id="0">How many centimeters should my cervix be dilated for labor and delivery?</BaseQuestion>
+<Content id="0">The cervix is fully dilated when it is 10 centimeters.  This signals the second phase of labor, when the baby enters the birth canal and you can begin pushing.</Content>
+<Actor id="0">MaryPat</Actor>
+<ActorDefaultRelativeStillPath id="0"><![CDATA[/Stills/epr-marypat.png]]></ActorDefaultRelativeStillPath>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">epr088</ResponseID>
+<BaseQuestion id="1">What happens when my water breaks? How will I know?</BaseQuestion>
+</RQ>
+<RQ id="1">
+<ResponseID id="2">epr071</ResponseID>
+<BaseQuestion id="2">What do contractions feel like?</BaseQuestion>
+</RQ>
+<RQ id="2">
+<ResponseID id="3">epr082</ResponseID>
+<BaseQuestion id="3">What should I expect in labor and birth?</BaseQuestion>
+</RQ>
+</RQs>
+</Response>
+<Response id="epr088">
+<ResponseID id="0">epr088</ResponseID>
+<BaseQuestion id="0">What happens when my water breaks? How will I know?</BaseQuestion>
+<Content id="0">The sac of fluid that surrounds and protects your baby during pregnancy may break early in labor or just before birth. When it breaks, sometimes there is a gush of fluid, and sometimes it is only a trickle. After the first gush of amniotic fluid, it may continue to trickle out for some time. It might be difficult to tell the difference between amniotic fluid and urine, especially if it is only a trickle. If you are uncertain whether your water has broken, please contact your healthcare provider. Most women deliver within 8 hours of their water breaking, but there is usually no need to rush to the hospital unless your contractions start coming 4 to 6 minutes apart. However, you should let your healthcare provider know if you think your water has broken. Amniotic fluid should be clear and odorless. If it is yellow, green, or brown, please contact your healthcare provider right away.</Content>
+<Actor id="0">MaryPat</Actor>
+<ActorDefaultRelativeStillPath id="0"><![CDATA[/Stills/epr-marypat.png]]></ActorDefaultRelativeStillPath>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">epr054</ResponseID>
+<BaseQuestion id="1">What is amniotic fluid?</BaseQuestion>
+</RQ>
+<RQ id="1">
+<ResponseID id="2">epr076</ResponseID>
+<BaseQuestion id="2">Will my water break?</BaseQuestion>
+</RQ>
+</RQs>
+<MediaList id="0">
+<Media id="0">
+<ListOrder id="0">1</ListOrder>
+<Description id="0">Amniotic Fluid Information</Description>
+<Location id="0"><![CDATA[http://www.marchofdimes.org/pregnancy/amniotic-fluid.aspx]]></Location>
+<MediaType id="0">Link</MediaType>
+<FileSize id="0"></FileSize>
+</Media>
+</MediaList>
+</Response>
+<Response id="epr089">
+<ResponseID id="0">epr089</ResponseID>
+<BaseQuestion id="0">If I am bleeding and having contractions, what should I do?</BaseQuestion>
+<Content id="0">Up to 10% of women have vaginal bleeding in their third trimester. Often this is a normal occurrence, but it may indicate complications. You should always report vaginal bleeding to your healthcare provider right away.</Content>
+<Actor id="0">MaryPat</Actor>
+<ActorDefaultRelativeStillPath id="0"><![CDATA[/Stills/epr-marypat.png]]></ActorDefaultRelativeStillPath>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">epr071</ResponseID>
+<BaseQuestion id="1">What do contractions feel like?</BaseQuestion>
+</RQ>
+<RQ id="1">
+<ResponseID id="2">epr125</ResponseID>
+<BaseQuestion id="2">What are the signs of miscarriage?</BaseQuestion>
+</RQ>
+<RQ id="2">
+<ResponseID id="3">epr126</ResponseID>
+<BaseQuestion id="3">When should I call the doctor if I am worried?</BaseQuestion>
+</RQ>
+</RQs>
+</Response>
+<Response id="epr090">
+<ResponseID id="0">epr090</ResponseID>
+<BaseQuestion id="0">How long will I bleed after I have my baby?</BaseQuestion>
+<Content id="0">After delivery you will have a vaginal discharge called lochia (low-key-uh) for two to six weeks. The color and amount of discharge will change over time. There may be some small clots, but don't worry--this is normal. If you see larger clots, detect a bad odor, or your bleeding increases significantly, call your doctor. For more information on lochia, look in the Resources area.</Content>
+<Actor id="0">MaryPat</Actor>
+<ActorDefaultRelativeStillPath id="0"><![CDATA[/Stills/epr-marypat.png]]></ActorDefaultRelativeStillPath>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">epr092</ResponseID>
+<BaseQuestion id="1">What color should my vaginal discharge be after giving birth?</BaseQuestion>
+</RQ>
+<RQ id="1">
+<ResponseID id="2">epr094</ResponseID>
+<BaseQuestion id="2">Can I use a tampon after having my baby?</BaseQuestion>
+</RQ>
+<RQ id="2">
+<ResponseID id="3">epr093</ResponseID>
+<BaseQuestion id="3">When will I begin my regular menstrual cycle?</BaseQuestion>
+</RQ>
+<RQ id="3">
+<ResponseID id="4">epr085</ResponseID>
+<BaseQuestion id="4">How long before I can have intercourse?</BaseQuestion>
+</RQ>
+</RQs>
+<MediaList id="0">
+<Media id="0">
+<ListOrder id="0">1</ListOrder>
+<Description id="0">Lochia Information</Description>
+<Location id="0"><![CDATA[http://www.healthline.com/health/pregnancy/is-postpartum-bleeding-normal]]></Location>
+<MediaType id="0">Link</MediaType>
+<FileSize id="0"></FileSize>
+</Media>
+</MediaList>
+</Response>
+<Response id="epr091">
+<ResponseID id="0">epr091</ResponseID>
+<BaseQuestion id="0">How long will my breast tenderness last after giving birth if I am not breast feeding?</BaseQuestion>
+<Content id="0">If you're not breastfeeding it can take 7-10 days for your milk to dry up and ease the discomfort in your breasts.  In the meantime, wear a supportive bra but do not bind your breasts, and use cool compresses or ice packs to help with pain.  You may express a small amount of milk to reduce the fullness, but keep in mind that this may increase the amount of time it takes for your milk to dry up completely.</Content>
+<Actor id="0">MaryPat</Actor>
+<ActorDefaultRelativeStillPath id="0"><![CDATA[/Stills/epr-marypat.png]]></ActorDefaultRelativeStillPath>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">epr108</ResponseID>
+<BaseQuestion id="1">How do I know if breastfeeding is for me?</BaseQuestion>
+</RQ>
+<RQ id="1">
+<ResponseID id="2">epr109</ResponseID>
+<BaseQuestion id="2">How long should I breastfeed my baby?</BaseQuestion>
+</RQ>
+<RQ id="2">
+<ResponseID id="3">epr110</ResponseID>
+<BaseQuestion id="3">What nutrients does my baby get from breastfeeding?</BaseQuestion>
+</RQ>
+<RQ id="3">
+<ResponseID id="4">epr112</ResponseID>
+<BaseQuestion id="4">Should I take a breastfeeding class?</BaseQuestion>
+</RQ>
+<RQ id="4">
+<ResponseID id="5">epr113</ResponseID>
+<BaseQuestion id="5">How do I get a breast pump?</BaseQuestion>
+</RQ>
+</RQs>
+</Response>
+<Response id="epr092">
+<ResponseID id="0">epr092</ResponseID>
+<BaseQuestion id="0">What color should my vaginal discharge be after giving birth?</BaseQuestion>
+<Content id="0">Vaginal discharge after birth, called lochia (low-key-uh), will change in amount and color over time from dark red during the first one to three days, to pink or brown in color between day 3 to 10, and yellow or white in color after 10 days. Call your doctor if your lochia turns bright red again after it has been brown or pink and the bleeding doesn't slow down or stop after you lay down. There may be some small clots, but don't worry -- this is normal. If you see large clots, detect a bad odor, or your bleeding increases significantly, please call your healthcare provider. For more information on lochia, look in the Resources area.</Content>
+<Actor id="0">MaryPat</Actor>
+<ActorDefaultRelativeStillPath id="0"><![CDATA[/Stills/epr-marypat.png]]></ActorDefaultRelativeStillPath>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">epr085</ResponseID>
+<BaseQuestion id="1">How long before I can have intercourse?</BaseQuestion>
+</RQ>
+<RQ id="1">
+<ResponseID id="2">epr094</ResponseID>
+<BaseQuestion id="2">Can I use a tampon after having my baby?</BaseQuestion>
+</RQ>
+<RQ id="2">
+<ResponseID id="3">epr093</ResponseID>
+<BaseQuestion id="3">When will I begin my regular menstrual cycle?</BaseQuestion>
+</RQ>
+</RQs>
+<MediaList id="0">
+<Media id="0">
+<ListOrder id="0">1</ListOrder>
+<Description id="0">Lochia Information</Description>
+<Location id="0"><![CDATA[http://www.healthline.com/health/pregnancy/is-postpartum-bleeding-normal]]></Location>
+<MediaType id="0">Link</MediaType>
+<FileSize id="0"></FileSize>
+</Media>
+</MediaList>
+</Response>
+<Response id="epr093">
+<ResponseID id="0">epr093</ResponseID>
+<BaseQuestion id="0">When will I begin my regular menstrual cycle?</BaseQuestion>
+<Content id="0">Your first period may start as early as four to six weeks after delivery.  Be aware that you can become pregnant even before your period returns.</Content>
+<Actor id="0">MaryPat</Actor>
+<ActorDefaultRelativeStillPath id="0"><![CDATA[/Stills/epr-marypat.png]]></ActorDefaultRelativeStillPath>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">epr094</ResponseID>
+<BaseQuestion id="1">Can I use a tampon after having my baby?</BaseQuestion>
+</RQ>
+<RQ id="1">
+<ResponseID id="2">epr106</ResponseID>
+<BaseQuestion id="2">When can I start my birth control?</BaseQuestion>
+</RQ>
+<RQ id="2">
+<ResponseID id="3">epr085</ResponseID>
+<BaseQuestion id="3">How long before I can have intercourse?</BaseQuestion>
+</RQ>
+</RQs>
+</Response>
+<Response id="epr094">
+<ResponseID id="0">epr094</ResponseID>
+<BaseQuestion id="0">Can I use a tampon after having my baby?</BaseQuestion>
+<Content id="0">You should not use a tampon for the first four to six weeks after delivery.</Content>
+<Actor id="0">MaryPat</Actor>
+<ActorDefaultRelativeStillPath id="0"><![CDATA[/Stills/epr-marypat.png]]></ActorDefaultRelativeStillPath>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">epr090</ResponseID>
+<BaseQuestion id="1">How long will I bleed after I have my baby?</BaseQuestion>
+</RQ>
+<RQ id="1">
+<ResponseID id="2">epr092</ResponseID>
+<BaseQuestion id="2">What color should my vaginal discharge be after giving birth?</BaseQuestion>
+</RQ>
+<RQ id="2">
+<ResponseID id="3">epr093</ResponseID>
+<BaseQuestion id="3">When will I begin my regular menstrual cycle?</BaseQuestion>
+</RQ>
+</RQs>
+</Response>
+<Response id="epr095">
+<ResponseID id="0">epr095</ResponseID>
+<BaseQuestion id="0">What is a sitz bath?</BaseQuestion>
+<Content id="0">A sitz bath is a warm, shallow bath that cleanses the perineum, which is the space between the rectum and the vagina. A sitz bath can provide relief from pain or itching from a healing episiotomy.    Typically a sitz bath is used for 15 to 20 minutes two or three times a day.  Follow your healthcare provider's instructions for when and how to use a sitz bath.</Content>
+<Actor id="0">MaryPat</Actor>
+<ActorDefaultRelativeStillPath id="0"><![CDATA[/Stills/epr-marypat.png]]></ActorDefaultRelativeStillPath>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">epr097</ResponseID>
+<BaseQuestion id="1">How do I care for my stitches after an episiotomy?</BaseQuestion>
+</RQ>
+<RQ id="1">
+<ResponseID id="2">epr098</ResponseID>
+<BaseQuestion id="2">If I have hemorrhoids, what do I do?</BaseQuestion>
+</RQ>
+</RQs>
+</Response>
+<Response id="epr096">
+<ResponseID id="0">epr096</ResponseID>
+<BaseQuestion id="0">If my contractions are five minutes apart, am I in labor?</BaseQuestion>
+<Content id="0">You may have Braxton-Hicks contractions starting in your second trimester, but you are not in labor until you are having regular contractions that are at least 1 minute long and happen every five minutes or less for at least an hour.</Content>
+<Actor id="0">MaryPat</Actor>
+<ActorDefaultRelativeStillPath id="0"><![CDATA[/Stills/epr-marypat.png]]></ActorDefaultRelativeStillPath>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">epr071</ResponseID>
+<BaseQuestion id="1">What do contractions feel like?</BaseQuestion>
+</RQ>
+<RQ id="1">
+<ResponseID id="2">epr072</ResponseID>
+<BaseQuestion id="2">How do I time my contractions?</BaseQuestion>
+</RQ>
+<RQ id="2">
+<ResponseID id="3">epr079</ResponseID>
+<BaseQuestion id="3">What are Braxton Hicks?</BaseQuestion>
+</RQ>
+<RQ id="3">
+<ResponseID id="4">epr086</ResponseID>
+<BaseQuestion id="4">What are the signs to be aware of to know that I am in labor?</BaseQuestion>
+</RQ>
+<RQ id="4">
+<ResponseID id="5">epr089</ResponseID>
+<BaseQuestion id="5">If I am bleeding and having contractions, what should I do?</BaseQuestion>
+</RQ>
+</RQs>
+</Response>
+<Response id="epr097">
+<ResponseID id="0">epr097</ResponseID>
+<BaseQuestion id="0">How do I care for my stitches after an episiotomy?</BaseQuestion>
+<Content id="0">To take care of your stitches and relieve pain in the perineal area, you need to keep the stitches clean. This means you need to care for them twice a day and after every bowel movement. To care for your stiches, you will need a clean sanitary pad, squirt bottle, liquid soap, dermaplast or other antibacterial pain relieving spray, and Tucks pads. Before beginning, wash your hands. Fill the squirt bottle with warm tap water. Remove your sanitary pad from front to back. Sit on the toilet and using the squirt bottle, squirt warm water from front to back between your legs so the water flows over your stitches. Blot dry from front to back using toilet tissue, then drop the tissue into the toilet. Use clean tissue if you need to dry again. Spray your stitches with the antibacterial spray. And, if desired, place a Tucks pad on the skin side of your clean sanitary pad so that it will be in contact with your stitches. Apply your clean pad, then wash your hands again. Your doctor may also want you to soak in a sitz bath to help your stitches heal. For more information on sitz baths, look in the related questions area of this page.</Content>
+<Actor id="0">MaryPat</Actor>
+<ActorDefaultRelativeStillPath id="0"><![CDATA[/Stills/epr-marypat.png]]></ActorDefaultRelativeStillPath>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">epr095</ResponseID>
+<BaseQuestion id="1">What is a sitz bath?</BaseQuestion>
+</RQ>
+<RQ id="1">
+<ResponseID id="2">epr089</ResponseID>
+<BaseQuestion id="2">If I am bleeding and having contractions, what should I do?</BaseQuestion>
+</RQ>
+</RQs>
+</Response>
+<Response id="epr098">
+<ResponseID id="0">epr098</ResponseID>
+<BaseQuestion id="0">If I have hemorrhoids, what do I do?</BaseQuestion>
+<Content id="0">Hemorrhoids are swollen, twisted veins in the rectal area.  They are common after giving birth.  Hemorrhoids usually shrink and disappear on their own within the first few weeks after delivery.  To relieve the discomfort of hemorrhoids, you can use a sitz bath, then apply a doctor recommended cream.  A pain relieving suppository may also be used to reduce pain.  A good diet can help you avoid constipation and straining during bowel movements.  Drink lots of fluids and eat fruits, vegetables, whole grain and bran products.</Content>
+<Actor id="0">MaryPat</Actor>
+<ActorDefaultRelativeStillPath id="0"><![CDATA[/Stills/epr-marypat.png]]></ActorDefaultRelativeStillPath>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">epr069</ResponseID>
+<BaseQuestion id="1">How much water should I drink during pregnancy?</BaseQuestion>
+</RQ>
+</RQs>
+</Response>
+<Response id="epr099">
+<ResponseID id="0">epr099</ResponseID>
+<BaseQuestion id="0">Can I do kegel exercises right away ?</BaseQuestion>
+<Content id="0">Due to damage to the bladder and urethra, you may occasionally leak urine when you cough, sneeze or laugh for the next few months after birth. Kegel exercises can help you regain control over these muscles and reduce this problem.   Kegel exercises strengthen the muscles of the pelvic floor. These muscles are weakened by the birth process and should be exercised right after birth. However, it may be hard to do these exercises soon after your delivery. Do as many as you can, and the tone will slowly return.    For more information on kegel exercises, look in the Resources Area.</Content>
+<Actor id="0">MaryPat</Actor>
+<ActorDefaultRelativeStillPath id="0"><![CDATA[/Stills/epr-marypat.png]]></ActorDefaultRelativeStillPath>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">epr132</ResponseID>
+<BaseQuestion id="1">When can I start postpartum fitness regimen?</BaseQuestion>
+</RQ>
+</RQs>
+<MediaList id="0">
+<Media id="0">
+<ListOrder id="0">1</ListOrder>
+<Description id="0">Kegel Exercises</Description>
+<Location id="0"><![CDATA[http://pregnancy.familyeducation.com/recovery/postpartum-exercise/40211.html]]></Location>
+<MediaType id="0">Link</MediaType>
+<FileSize id="0"></FileSize>
+</Media>
+</MediaList>
+</Response>
+<Response id="epr100">
+<ResponseID id="0">epr100</ResponseID>
+<BaseQuestion id="0">Can I get pregnant right after the birth of my baby if I have unprotected sex?</BaseQuestion>
+<Content id="0">You can get pregnant from unprotected sex even before your period returns so discuss birth control methods with your doctor before you begin having sex again after giving birth.</Content>
+<Actor id="0">MaryPat</Actor>
+<ActorDefaultRelativeStillPath id="0"><![CDATA[/Stills/epr-marypat.png]]></ActorDefaultRelativeStillPath>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">epr085</ResponseID>
+<BaseQuestion id="1">How long before I can have intercourse?</BaseQuestion>
+</RQ>
+<RQ id="1">
+<ResponseID id="2">epr090</ResponseID>
+<BaseQuestion id="2">How long will I bleed after I have my baby?</BaseQuestion>
+</RQ>
+<RQ id="2">
+<ResponseID id="3">epr106</ResponseID>
+<BaseQuestion id="3">When can I start my birth control?</BaseQuestion>
+</RQ>
+</RQs>
+</Response>
+<Response id="epr101">
+<ResponseID id="0">epr101</ResponseID>
+<BaseQuestion id="0">What is back labor?</BaseQuestion>
+<Content id="0">Back labor describes labor pain that is felt mostly in the lower back. There are things you can do to ease back pain during labor. Back rubs and pressure applied to your hips during contractions may help. Some women find that changing positions, taking a walk, straddling a chair or leaning forward on pillows or a birthing ball can also help. You can also try kneeling on hands and knees to take the pressure off your spine. Lying on your side rather than your back as well as mild heat from a heating pad may help. Epidural or spinal anesthesia can also temporarily block back pain during labor. For more suggestions on birthing positions and help for back labor, look in the Resources area.</Content>
+<Actor id="0">MaryPat</Actor>
+<ActorDefaultRelativeStillPath id="0"><![CDATA[/Stills/epr-marypat.png]]></ActorDefaultRelativeStillPath>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">epr071</ResponseID>
+<BaseQuestion id="1">What do contractions feel like?</BaseQuestion>
+</RQ>
+</RQs>
+<MediaList id="0">
+<Media id="0">
+<ListOrder id="0">1</ListOrder>
+<Description id="0">Managing Back Labor</Description>
+<Location id="0"><![CDATA[http://www.mayoclinic.org/healthy-lifestyle/labor-and-delivery/expert-answers/back-labor/faq-20058547?p=1]]></Location>
+<MediaType id="0">Link</MediaType>
+<FileSize id="0"></FileSize>
+</Media>
+</MediaList>
+</Response>
+<Response id="epr102">
+<ResponseID id="0">epr102</ResponseID>
+<BaseQuestion id="0">What is a natural child birth?</BaseQuestion>
+<Content id="0">Natural childbirth refers to vaginal birth without the use of pain medications and with limited medical interventions.   It typically involves the use of breathing and relaxation techniques.</Content>
+<Actor id="0">MaryPat</Actor>
+<ActorDefaultRelativeStillPath id="0"><![CDATA[/Stills/epr-marypat.png]]></ActorDefaultRelativeStillPath>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">epr104</ResponseID>
+<BaseQuestion id="1">What is a Cesarean or C-Section birth and why would I need it?</BaseQuestion>
+</RQ>
+<RQ id="1">
+<ResponseID id="2">epr082</ResponseID>
+<BaseQuestion id="2">What should I expect in labor and birth?</BaseQuestion>
+</RQ>
+</RQs>
+</Response>
+<Response id="epr103">
+<ResponseID id="0">epr103</ResponseID>
+<BaseQuestion id="0">When should I have a C-section?</BaseQuestion>
+<Content id="0">A c-section may be safer for medical reasons for some women and their babies.  If your pregnancy is healthy and you don't have any medical reasons to have a c-section, it's best to have your baby through vaginal birth.</Content>
+<Actor id="0">MaryPat</Actor>
+<ActorDefaultRelativeStillPath id="0"><![CDATA[/Stills/epr-marypat.png]]></ActorDefaultRelativeStillPath>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">epr104</ResponseID>
+<BaseQuestion id="1">What is a Cesarean or C-Section birth and why would I need it?</BaseQuestion>
+</RQ>
+<RQ id="1">
+<ResponseID id="2">epr081</ResponseID>
+<BaseQuestion id="2">What happens if my baby is breech?</BaseQuestion>
+</RQ>
+<RQ id="2">
+<ResponseID id="3">epr104</ResponseID>
+<BaseQuestion id="3">What is a Cesarean or C-Section birth and why would I need it?</BaseQuestion>
+</RQ>
+</RQs>
+</Response>
+<Response id="epr104">
+<ResponseID id="0">epr104</ResponseID>
+<BaseQuestion id="0">What is a Cesarean or C-Section birth and why would I need it?</BaseQuestion>
+<Content id="0">A Cesarean birth, or c-section, is when a baby is delivered through an opening that a surgeon cuts through your belly and uterus rather than through your vagina.   C-sections are usually only done for the safety of the mom and baby when there may be problems with the pregnancy or delivery.   Your healthcare provider may require you to have a c-section if you've had a previous c-section, if there are problems with the placenta, or if you have an infection like HIV or herpes.  C-sections are also sometimes recommended if you are having multiple births or you have a chronic health condition like diabetes or high blood pressure.   Even if there are no problems with your pregnancy, issues during birth may prompt your healthcare provider to perform a cesarean;  for instance, if the baby is too big to pass through your vagina or is in the wrong position for birth.  You may also need a cesarean if the umbilical cord becomes trapped in the vagina where it would be compressed during labor.  And, of course, if your baby is having problems during labor, like a slow heart rate, your healthcare provider may decide that the baby should be delivered via cesarean.   For more information on c-sections look in the Resources area.</Content>
+<Actor id="0">MaryPat</Actor>
+<ActorDefaultRelativeStillPath id="0"><![CDATA[/Stills/epr-marypat.png]]></ActorDefaultRelativeStillPath>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">epr103</ResponseID>
+<BaseQuestion id="1">When should I have a C-section?</BaseQuestion>
+</RQ>
+<RQ id="1">
+<ResponseID id="2">epr022</ResponseID>
+<BaseQuestion id="2">Will I be able to have a vaginal delivery if I have a history of genital herpes?</BaseQuestion>
+</RQ>
+<RQ id="2">
+<ResponseID id="3">epr120</ResponseID>
+<BaseQuestion id="3">What is placenta abruption and placenta previa?</BaseQuestion>
+</RQ>
+<RQ id="3">
+<ResponseID id="4">epr118</ResponseID>
+<BaseQuestion id="4">Can my gestational diabetes symptoms mean something else?</BaseQuestion>
+</RQ>
+<RQ id="4">
+<ResponseID id="5">epr121</ResponseID>
+<BaseQuestion id="5">What do preeclampsia symptoms mean and what can I do?</BaseQuestion>
+</RQ>
+</RQs>
+<MediaList id="0">
+<Media id="0">
+<ListOrder id="0">1</ListOrder>
+<Description id="0">Cesarean Section Information</Description>
+<Location id="0"><![CDATA[http://www.marchofdimes.org/pregnancy/c-section-medical-reasons.aspx]]></Location>
+<MediaType id="0">Link</MediaType>
+<FileSize id="0"></FileSize>
+</Media>
+</MediaList>
+</Response>
+<Response id="epr105">
+<ResponseID id="0">epr105</ResponseID>
+<BaseQuestion id="0">What does "post-term" pregnancy mean?</BaseQuestion>
+<Content id="0">If a pregnancy goes beyond 42 weeks, it is considered a post term pregnancy.  Normally, a full term pregnancy lasts between 38 to 40 weeks.</Content>
+<Actor id="0">MaryPat</Actor>
+<ActorDefaultRelativeStillPath id="0"><![CDATA[/Stills/epr-marypat.png]]></ActorDefaultRelativeStillPath>
+</Response>
+<Response id="epr106">
+<ResponseID id="0">epr106</ResponseID>
+<BaseQuestion id="0">When can I start my birth control?</BaseQuestion>
+<Content id="0">Your healthcare provider may suggest that you not have sex for a period of time after you give birth, but when you do resume sexual activity, you should use some form of birth control if you do not want to conceive. Your period may not start for 6-8 weeks, but it's possible that you may ovulate before having a period. Breast feeding can protect against pregnancy for a while; however, by itself, breastfeeding is not a reliable form of birth control. Estrogen lowers milk production so birth control that contains estrogen, while not harmful to the baby, may not be ideal. Estrogen is used in many hormonal birth control products like most birth control pills, patches, and vaginal rings. There are also some birth control pills that contain only progestin and which prevent pregnancy without affecting milk supply. While you are breast feeding, you can also use barrier methods of birth control like condoms or a diaphragm.</Content>
+<Actor id="0">MaryPat</Actor>
+<ActorDefaultRelativeStillPath id="0"><![CDATA[/Stills/epr-marypat.png]]></ActorDefaultRelativeStillPath>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">epr085</ResponseID>
+<BaseQuestion id="1">How long before I can have intercourse?</BaseQuestion>
+</RQ>
+<RQ id="1">
+<ResponseID id="2">epr106</ResponseID>
+<BaseQuestion id="2">When can I start my birth control?</BaseQuestion>
+</RQ>
+</RQs>
+</Response>
+<Response id="epr107">
+<ResponseID id="0">epr107</ResponseID>
+<BaseQuestion id="0">How long will I be off work after delivery?</BaseQuestion>
+<Content id="0">Your recovery time after delivery depends on the type of delivery you have, whether you have any complications and what type of work you do.  Typically women are told not to drive for two weeks after a vaginal delivery and six weeks after a c-section.  Ultimately, the decision on when to return to work is one you should discuss with your doctor, your family and your employer.</Content>
+<Actor id="0">MaryPat</Actor>
+<ActorDefaultRelativeStillPath id="0"><![CDATA[/Stills/epr-marypat.png]]></ActorDefaultRelativeStillPath>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">epr102</ResponseID>
+<BaseQuestion id="1">What is a natural child birth?</BaseQuestion>
+</RQ>
+<RQ id="1">
+<ResponseID id="2">epr104</ResponseID>
+<BaseQuestion id="2">What is a Cesarean or C-Section birth and why would I need it?</BaseQuestion>
+</RQ>
+</RQs>
+</Response>
+<Response id="epr108">
+<ResponseID id="0">epr108</ResponseID>
+<BaseQuestion id="0">How do I know if breastfeeding is for me?</BaseQuestion>
+<Content id="0">Breastfeeding is a very personal choice. If you are unsure you want to breastfeed you should discuss your concerns with your provider. You may want to take a breastfeeding class or meet with a lactation specialist to learn more about breastfeeding. This may help you with your decision. There are many benefits to breastfeeding, but you should not feel guilty if you cannot or choose not to breastfeed.</Content>
+<Actor id="0">LongHair</Actor>
+<ActorDefaultRelativeStillPath id="0"><![CDATA[/Stills/epr-longhair.png]]></ActorDefaultRelativeStillPath>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">epr109</ResponseID>
+<BaseQuestion id="1">How long should I breastfeed my baby?</BaseQuestion>
+</RQ>
+<RQ id="1">
+<ResponseID id="2">epr110</ResponseID>
+<BaseQuestion id="2">What nutrients does my baby get from breastfeeding?</BaseQuestion>
+</RQ>
+<RQ id="2">
+<ResponseID id="3">epr111</ResponseID>
+<BaseQuestion id="3">Is there a restricted diet if I am breastfeeding?</BaseQuestion>
+</RQ>
+<RQ id="3">
+<ResponseID id="4">epr112</ResponseID>
+<BaseQuestion id="4">Should I take a breastfeeding class?</BaseQuestion>
+</RQ>
+<RQ id="4">
+<ResponseID id="5">epr113</ResponseID>
+<BaseQuestion id="5">How do I get a breast pump?</BaseQuestion>
+</RQ>
+</RQs>
+</Response>
+<Response id="epr109">
+<ResponseID id="0">epr109</ResponseID>
+<BaseQuestion id="0">How long should I breastfeed my baby?</BaseQuestion>
+<Content id="0">The American Academy of Pediatrics recommends mothers breastfeed exclusively for the first six months, followed by breastfeeding in combination with introduction of complementary foods until at least 12 months, then continuing breastfeeding for as long as mutually desired by mother and baby.</Content>
+<Actor id="0">LongHair</Actor>
+<ActorDefaultRelativeStillPath id="0"><![CDATA[/Stills/epr-longhair.png]]></ActorDefaultRelativeStillPath>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">epr108</ResponseID>
+<BaseQuestion id="1">How do I know if breastfeeding is for me?</BaseQuestion>
+</RQ>
+<RQ id="1">
+<ResponseID id="2">epr110</ResponseID>
+<BaseQuestion id="2">What nutrients does my baby get from breastfeeding?</BaseQuestion>
+</RQ>
+<RQ id="2">
+<ResponseID id="3">epr111</ResponseID>
+<BaseQuestion id="3">Is there a restricted diet if I am breastfeeding?</BaseQuestion>
+</RQ>
+<RQ id="3">
+<ResponseID id="4">epr112</ResponseID>
+<BaseQuestion id="4">Should I take a breastfeeding class?</BaseQuestion>
+</RQ>
+<RQ id="4">
+<ResponseID id="5">epr113</ResponseID>
+<BaseQuestion id="5">How do I get a breast pump?</BaseQuestion>
+</RQ>
+</RQs>
+</Response>
+<Response id="epr110">
+<ResponseID id="0">epr110</ResponseID>
+<BaseQuestion id="0">What nutrients does my baby get from breastfeeding?</BaseQuestion>
+<Content id="0">Breast milk provides the perfect mix of vitamins, proteins, and fats that your baby needs to grow. The colostrum that your breasts make during the first few days after childbirth helps your newborn's digestive system grow and function.Breast milk also helps your baby's immune system fight off viruses and bacteria and is easier for your baby to digest than formula.</Content>
+<Actor id="0">LongHair</Actor>
+<ActorDefaultRelativeStillPath id="0"><![CDATA[/Stills/epr-longhair.png]]></ActorDefaultRelativeStillPath>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">epr108</ResponseID>
+<BaseQuestion id="1">How do I know if breastfeeding is for me?</BaseQuestion>
+</RQ>
+<RQ id="1">
+<ResponseID id="2">epr109</ResponseID>
+<BaseQuestion id="2">How long should I breastfeed my baby?</BaseQuestion>
+</RQ>
+<RQ id="2">
+<ResponseID id="3">epr111</ResponseID>
+<BaseQuestion id="3">Is there a restricted diet if I am breastfeeding?</BaseQuestion>
+</RQ>
+<RQ id="3">
+<ResponseID id="4">epr112</ResponseID>
+<BaseQuestion id="4">Should I take a breastfeeding class?</BaseQuestion>
+</RQ>
+<RQ id="4">
+<ResponseID id="5">epr113</ResponseID>
+<BaseQuestion id="5">How do I get a breast pump?</BaseQuestion>
+</RQ>
+</RQs>
+</Response>
+<Response id="epr111">
+<ResponseID id="0">epr111</ResponseID>
+<BaseQuestion id="0">Is there a restricted diet if I am breastfeeding?</BaseQuestion>
+<Content id="0">Most breastfeeding moms do not need a special diet. You should eat a healthy, well balanced diet and drink plenty of fluids. You'll need an extra 450 to 500 calories a day. There are some things you should avoid while breastfeeding:
+
+&#8226; 	Avoid foods that upset your baby's stomach. Common culprits are gassy foods like cabbage, and spicy foods.
+&#8226; 	Limit drinks with added sugars, such as sodas and fruit drinks
+&#8226; 	Drink caffeine in moderation, no more than 24 ounces a day
+&#8226; Avoid large amounts of alcohol. An occasional alcoholic drink is okay, but wait 2 or more hours before breastfeeding again
+&#8226; 	Avoid seafood that's high in mercury, including swordfish, king mackerel and tilefish
+&#8226; And,eat canned tuna instead of tuna steaks. It has less mercury.</Content>
+<Actor id="0">LongHair</Actor>
+<ActorDefaultRelativeStillPath id="0"><![CDATA[/Stills/epr-longhair.png]]></ActorDefaultRelativeStillPath>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">epr106</ResponseID>
+<BaseQuestion id="1">When can I start my birth control?</BaseQuestion>
+</RQ>
+<RQ id="1">
+<ResponseID id="2">epr109</ResponseID>
+<BaseQuestion id="2">How long should I breastfeed my baby?</BaseQuestion>
+</RQ>
+<RQ id="2">
+<ResponseID id="3">epr110</ResponseID>
+<BaseQuestion id="3">What nutrients does my baby get from breastfeeding?</BaseQuestion>
+</RQ>
+<RQ id="3">
+<ResponseID id="4">epr133</ResponseID>
+<BaseQuestion id="4">Where can I find pregnancy diet and fitness tips?</BaseQuestion>
+</RQ>
+</RQs>
+</Response>
+<Response id="epr112">
+<ResponseID id="0">epr112</ResponseID>
+<BaseQuestion id="0">Should I take a breastfeeding class?</BaseQuestion>
+<Content id="0">Breastfeeding is natural, but that doesn't mean it's always easy. Most new moms need a little help, especially in the beginning. Talk to your healthcare providers. They may be able to refer you to a lactation consultant. Or, sign up for Excela Health's Breastfeeding Success Class by calling 1-877-771-1234</Content>
+<Actor id="0">LongHair</Actor>
+<ActorDefaultRelativeStillPath id="0"><![CDATA[/Stills/epr-longhair.png]]></ActorDefaultRelativeStillPath>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">epr108</ResponseID>
+<BaseQuestion id="1">How do I know if breastfeeding is for me?</BaseQuestion>
+</RQ>
+<RQ id="1">
+<ResponseID id="2">epr113</ResponseID>
+<BaseQuestion id="2">How do I get a breast pump?</BaseQuestion>
+</RQ>
+<RQ id="2">
+<ResponseID id="3">epr111</ResponseID>
+<BaseQuestion id="3">Is there a restricted diet if I am breastfeeding?</BaseQuestion>
+</RQ>
+<RQ id="3">
+<ResponseID id="4">epr109</ResponseID>
+<BaseQuestion id="4">How long should I breastfeed my baby?</BaseQuestion>
+</RQ>
+</RQs>
+</Response>
+<Response id="epr113">
+<ResponseID id="0">epr113</ResponseID>
+<BaseQuestion id="0">How do I get a breast pump?</BaseQuestion>
+<Content id="0">You can buy a breast pump at many retail stores or online. Check with your health insurance company to see if it helps with the cost for a breast pump. Many hospitals, lactation consultants and specialty medical supply stores also rent breast pumps.</Content>
+<Actor id="0">LongHair</Actor>
+<ActorDefaultRelativeStillPath id="0"><![CDATA[/Stills/epr-longhair.png]]></ActorDefaultRelativeStillPath>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">epr112</ResponseID>
+<BaseQuestion id="1">Should I take a breastfeeding class?</BaseQuestion>
+</RQ>
+<RQ id="1">
+<ResponseID id="2">epr108</ResponseID>
+<BaseQuestion id="2">How do I know if breastfeeding is for me?</BaseQuestion>
+</RQ>
+<RQ id="2">
+<ResponseID id="3">epr109</ResponseID>
+<BaseQuestion id="3">How long should I breastfeed my baby?</BaseQuestion>
+</RQ>
+</RQs>
+</Response>
+<Response id="epr114">
+<ResponseID id="0">epr114</ResponseID>
+<BaseQuestion id="0">Will Chinese birth calendar predict a baby boy or a baby girl?</BaseQuestion>
+<Content id="0">The Chinese Birth Calendar technique for predicting the sex of a baby involves converting the mother's age and the month of conception to the dates on the Chinese lunar calendar, then plugging those dates into a chart that claims to predict the baby's sex. Conversion tables and Chinese birth charts are available on numerous websites.</Content>
+<Actor id="0">LongHair</Actor>
+<ActorDefaultRelativeStillPath id="0"><![CDATA[/Stills/epr-longhair.png]]></ActorDefaultRelativeStillPath>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">epr115</ResponseID>
+<BaseQuestion id="1">Is the Chinese pregnancy calendar really accurate?</BaseQuestion>
+</RQ>
+</RQs>
+</Response>
+<Response id="epr115">
+<ResponseID id="0">epr115</ResponseID>
+<BaseQuestion id="0">Is the Chinese pregnancy calendar really accurate?</BaseQuestion>
+<Content id="0">While the Chinese Calendar method boasts of a having an over 90% accuracy rate, studies have shown this method of predicting a baby's sex is no more accurate than flipping a coin. Researchers reviewed almost 3 million births in Sweden to test the accuracy of the Chinese chart. They found the Chinese Calendar method had an accuracy rate of just 50 percent.</Content>
+<Actor id="0">LongHair</Actor>
+<ActorDefaultRelativeStillPath id="0"><![CDATA[/Stills/epr-longhair.png]]></ActorDefaultRelativeStillPath>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">epr114</ResponseID>
+<BaseQuestion id="1">Will Chinese birth calendar predict a baby boy or a baby girl?</BaseQuestion>
+</RQ>
+</RQs>
+</Response>
+<Response id="epr116">
+<ResponseID id="0">epr116</ResponseID>
+<BaseQuestion id="0">Is bleeding during pregnancy cause for alarm?</BaseQuestion>
+<Content id="0">Up to half of pregnant women have some bleeding during their pregnancy. It doesn't always mean there is something wrong, but it could possibly be a sign of a serious complication. If you have any bleeding or spotting you should call the doctor, even if the bleeding stops. Keep track of your bleeding and note if it gets heavier or lighter, how many pads you are using and the color of the blood. And, don't use a tampon or have sex while you are bleeding. Call your doctor or go to the emergency room immediately if you have heavy bleeding that requires you to change your sanitary pad once an hour or more, if you have bleeding with pain, cramping or dizziness, or if you have pain in your belly or pelvis.</Content>
+<Actor id="0">RedShirt</Actor>
+<ActorDefaultRelativeStillPath id="0"><![CDATA[/Stills/epr-redshirt.png]]></ActorDefaultRelativeStillPath>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">epr125</ResponseID>
+<BaseQuestion id="1">What are the signs of miscarriage?</BaseQuestion>
+</RQ>
+<RQ id="1">
+<ResponseID id="2">epr126</ResponseID>
+<BaseQuestion id="2">When should I call the doctor if I am worried?</BaseQuestion>
+</RQ>
+<RQ id="2">
+<ResponseID id="3">epr116</ResponseID>
+<BaseQuestion id="3">Is bleeding during pregnancy cause for alarm?</BaseQuestion>
+</RQ>
+<RQ id="3">
+<ResponseID id="4">epr045</ResponseID>
+<BaseQuestion id="4">Is it normal to have spotting after my first exam?</BaseQuestion>
+</RQ>
+</RQs>
+</Response>
+<Response id="epr117">
+<ResponseID id="0">epr117</ResponseID>
+<BaseQuestion id="0">What are the stages of cervical dilation?</BaseQuestion>
+<Content id="0">During pregnancy, your cervix is closed; it is plugged with mucus to keep out infection. It is long and firm and should point slightly toward your back. In the last weeks of pregnancy, before labor begins, the cervix begins to stretch and thin. This is called effacement and dilation. Days or hours before labor starts, your cervix may start to change position, pointing more towards the front. It will also soften, thin and shorten a little bit. As a result of these changes the mucus in your cervix may come out. This is called a bloody show. It looks jelly-like and may be stained with blood. During early labor, your cervix continues to open and widen, going from being closed to being 3 to 4 centimeters dilated. As you move into the active stage of labor, your cervix opens up even more, widening from 3 centimeters to about 7 centimeters. In the transitional or pushing phase, which is the final stage of labor, the cervix goes from about 8 centimeters and ends when it is fully dilated at 10 centimeters. This is one of the most painful parts of labor.</Content>
+<Actor id="0">RedShirt</Actor>
+<ActorDefaultRelativeStillPath id="0"><![CDATA[/Stills/epr-redshirt.png]]></ActorDefaultRelativeStillPath>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">epr089</ResponseID>
+<BaseQuestion id="1">If I am bleeding and having contractions, what should I do?</BaseQuestion>
+</RQ>
+<RQ id="1">
+<ResponseID id="2">epr071</ResponseID>
+<BaseQuestion id="2">What do contractions feel like?</BaseQuestion>
+</RQ>
+<RQ id="2">
+<ResponseID id="3">epr082</ResponseID>
+<BaseQuestion id="3">What should I expect in labor and birth?</BaseQuestion>
+</RQ>
+</RQs>
+</Response>
+<Response id="epr118">
+<ResponseID id="0">epr118</ResponseID>
+<BaseQuestion id="0">Can my gestational diabetes symptoms mean something else?</BaseQuestion>
+<Content id="0">Gestational diabetes is a form of diabetes that happens during pregnancy. If untreated it can cause serious complications for mother and baby. Pregnant women are routinely tested for gestational diabetes between 24 to 28 weeks of pregnancy because it usually does not cause any noticeable symptoms. When symptoms are present they may include blurred vision, fatigue, and frequent infections, including those of the bladder, vagina, and skin. Women with gestational diabetes may also have increased thirst and increased urination. Some women also experience nausea and vomiting and weight loss despite having an increased appetite. If you have any of these symptoms, you should tell your doctor.</Content>
+<Actor id="0">RedShirt</Actor>
+<ActorDefaultRelativeStillPath id="0"><![CDATA[/Stills/epr-redshirt.png]]></ActorDefaultRelativeStillPath>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">epr008</ResponseID>
+<BaseQuestion id="1">Is dizziness common in pregnancy?</BaseQuestion>
+</RQ>
+<RQ id="1">
+<ResponseID id="2">epr035</ResponseID>
+<BaseQuestion id="2">At what stage during the pregnancy do I get glucose screening?</BaseQuestion>
+</RQ>
+<RQ id="2">
+<ResponseID id="3">epr040</ResponseID>
+<BaseQuestion id="3">How much weight should I gain during pregnancy?</BaseQuestion>
+</RQ>
+<RQ id="3">
+<ResponseID id="4">epr039</ResponseID>
+<BaseQuestion id="4">Is it normal to lose weight during my pregnancy?</BaseQuestion>
+</RQ>
+</RQs>
+</Response>
+<Response id="epr119">
+<ResponseID id="0">epr119</ResponseID>
+<BaseQuestion id="0">Can I stop intrauterine growth retardation or restriction (IUGR)?</BaseQuestion>
+<Content id="0">Intrauterine growth retardation or restriction refers to poor growth of a baby while in the womb. A baby with this condition grows more slowly than usual and is smaller than normal at birth. It is ordinarily diagnosed during pregnancy through an ultrasound.
+
+Although it is not possible to reverse intrauterine growth restriction you may be able to slow or minimize the effects by improving your nutrition and staying on bed rest to help improve the circulation to the fetus.
+
+If the baby's health is in danger, the doctor may decide to deliver the baby early.
+
+Many different things can lead to intrauterine growth restriction. Some risk factors that may contribute to this condition include:
+
+&#8226; Alcohol abuse
+&#8226; Smoking
+&#8226; Drug addiction
+&#8226; Clotting disorders
+&#8226; High blood pressure or heart disease
+&#8226; 	Kidney disease
+&#8226; and poor nutrition</Content>
+<Actor id="0">NoVideo</Actor>
+<ActorDefaultRelativeStillPath id="0"><![CDATA[/Stills/epr-nv.png]]></ActorDefaultRelativeStillPath>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">epr133</ResponseID>
+<BaseQuestion id="1">Where can I find pregnancy diet and fitness tips?</BaseQuestion>
+</RQ>
+<RQ id="1">
+<ResponseID id="2">epr027</ResponseID>
+<BaseQuestion id="2">Can I drink any alcohol during my pregnancy?</BaseQuestion>
+</RQ>
+<RQ id="2">
+<ResponseID id="3">epr018</ResponseID>
+<BaseQuestion id="3">Can I smoke while I am pregnant?</BaseQuestion>
+</RQ>
+<RQ id="3">
+<ResponseID id="4">epr118</ResponseID>
+<BaseQuestion id="4">Can my gestational diabetes symptoms mean something else?</BaseQuestion>
+</RQ>
+</RQs>
+</Response>
+<Response id="epr120">
+<ResponseID id="0">epr120</ResponseID>
+<BaseQuestion id="0">What is placenta abruption and placenta previa?</BaseQuestion>
+<Content id="0">Placenta previa is when the placenta lies very low in the uterus and covers all or part of the cervix. It can cause painless bleeding during the second and third trimesters. Your doctor may recommend bed rest, and hospitalization may be required if bleeding is heavy or keeps occurring.
+
+Placental abruption is when the placenta separates from the wall of the uterus before birth. This separation, or abruption, can be mild, moderate, or severe. If severe, the fetus cannot get adequate oxygenation and nutrients needed to survive. Placental abruption can cause bleeding, cramping, or uterine tenderness. Treatment depends upon the severity of the abruption and how far along the pregnancy is. Severe cases may require early delivery.</Content>
+<Actor id="0">RedShirt</Actor>
+<ActorDefaultRelativeStillPath id="0"><![CDATA[/Stills/epr-redshirt.png]]></ActorDefaultRelativeStillPath>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">epr116</ResponseID>
+<BaseQuestion id="1">Is bleeding during pregnancy cause for alarm?</BaseQuestion>
+</RQ>
+<RQ id="1">
+<ResponseID id="2">epr089</ResponseID>
+<BaseQuestion id="2">If I am bleeding and having contractions, what should I do?</BaseQuestion>
+</RQ>
+<RQ id="2">
+<ResponseID id="3">epr021</ResponseID>
+<BaseQuestion id="3">Is cramping normal during pregnancy?</BaseQuestion>
+</RQ>
+</RQs>
+</Response>
+<Response id="epr121">
+<ResponseID id="0">epr121</ResponseID>
+<BaseQuestion id="0">What do preeclampsia symptoms mean and what can I do?</BaseQuestion>
+<Content id="0">Preeclampsia is when a pregnant woman has high blood pressure and signs that some of her organs may not be working properly.  This is a serious condition that can happen after the 20th week of pregnancy.
+
+Most women with preeclampsia have healthy babies.  But if it's not treated, it can cause severe health problems for mom and baby.
+
+The symptoms of preeclampsia include high blood pressure, protein in the urine,
+severe headaches, and changes in vision, like blurriness, flashing lights, or being sensitive to light.
+
+Other symptoms of preeclampsia are pain in the upper right belly area, nausea or vomiting, dizziness, sudden eight gain of 2 to 5 pounds in a week, and swelling in the legs, hands, and face.
+
+If you have severe headaches, blurred vision or severe upper belly pain, call your doctor right away.
+
+Most women with mild preeclampsia after 37 weeks of pregnancy don't have serious health problems, but your healthcare provider will usually want to deliver the baby to avoid further complications.
+
+If you have mild preeclampsia before 37 weeks, your provider will check your blood pressure and urine regularly to make sure your preeclampsia doesn't get worse. You may be able to stay at home, or your provider may want you to stay in the hospital.
+
+If you have severe preeclampsia before 34 weeks of pregnancy, you will need to stay in the hospital for close monitoring. Your provider may treat you with medicines to help speed up your baby's lung development and to control your blood pressure.
+
+Currently, there is no sure way to prevent preeclampsia, but you should get good pre-natal care and follower your doctor's instructions about diet and exercise to minimize your risks.</Content>
+<Actor id="0">NoVideo</Actor>
+<ActorDefaultRelativeStillPath id="0"><![CDATA[/Stills/epr-nv.png]]></ActorDefaultRelativeStillPath>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">epr008</ResponseID>
+<BaseQuestion id="1">Is dizziness common in pregnancy?</BaseQuestion>
+</RQ>
+<RQ id="1">
+<ResponseID id="2">epr040</ResponseID>
+<BaseQuestion id="2">How much weight should I gain during pregnancy?</BaseQuestion>
+</RQ>
+<RQ id="2">
+<ResponseID id="3">epr015</ResponseID>
+<BaseQuestion id="3">What is morning sickness?</BaseQuestion>
+</RQ>
+<RQ id="3">
+<ResponseID id="4">epr077</ResponseID>
+<BaseQuestion id="4">Is it normal for my ankles/legs/hands/fingers to swell?</BaseQuestion>
+</RQ>
+<RQ id="4">
+<ResponseID id="5">epr030</ResponseID>
+<BaseQuestion id="5">What do they look at during prenatal testing?</BaseQuestion>
+</RQ>
+</RQs>
+</Response>
+<Response id="epr122">
+<ResponseID id="0">epr122</ResponseID>
+<BaseQuestion id="0">Can pregnancy anemia be cured with diet?</BaseQuestion>
+<Content id="0">Before pregnancy, women should get about 18 milligrams of iron per day. During pregnancy, that amount jumps to 27 milligrams of iron per day. Most pregnant women can get this from eating foods that are rich in iron and taking prenatal vitamins that contain iron. However, some women will need to take iron supplements to prevent iron deficiency. Your doctor will test you for anemia during pregnancy.</Content>
+<Actor id="0">RedShirt</Actor>
+<ActorDefaultRelativeStillPath id="0"><![CDATA[/Stills/epr-redshirt.png]]></ActorDefaultRelativeStillPath>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">epr046</ResponseID>
+<BaseQuestion id="1">What prenatal vitamin is safe to take?</BaseQuestion>
+</RQ>
+<RQ id="1">
+<ResponseID id="2">epr133</ResponseID>
+<BaseQuestion id="2">Where can I find pregnancy diet and fitness tips?</BaseQuestion>
+</RQ>
+<RQ id="2">
+<ResponseID id="3">epr030</ResponseID>
+<BaseQuestion id="3">What do they look at during prenatal testing?</BaseQuestion>
+</RQ>
+</RQs>
+</Response>
+<Response id="epr123">
+<ResponseID id="0">epr123</ResponseID>
+<BaseQuestion id="0">When will this morning sickness and nausea end?</BaseQuestion>
+<Content id="0">Morning sickness is very common, especially during the first 3 months of pregnancy. Even though it's called morning sickness, it can last all day and happen at any time of the day. It usually starts at around 6 weeks of pregnancy, reaches its worst at about 9 weeks of pregnancy. Most women start to feel better in their second trimesters. Some may have morning sickness throughout pregnancy. Mild morning sickness doesn't harm you or your baby. However, if it becomes severe it can lead to weight loss and dehydration, and this may be harmful. Tell your healthcare provider if you have severe morning sickness. Medications may be prescribed to help relieve your nausea.</Content>
+<Actor id="0">RedShirt</Actor>
+<ActorDefaultRelativeStillPath id="0"><![CDATA[/Stills/epr-redshirt.png]]></ActorDefaultRelativeStillPath>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">epr039</ResponseID>
+<BaseQuestion id="1">Is it normal to lose weight during my pregnancy?</BaseQuestion>
+</RQ>
+</RQs>
+</Response>
+<Response id="epr124">
+<ResponseID id="0">epr124</ResponseID>
+<BaseQuestion id="0">Is preterm labor dangerous for my baby?</BaseQuestion>
+<Content id="0">Preterm labor is labor that starts too early, before 37 weeks of pregnancy.
+Babies born too early may have more health problems or need to stay in the hospital longer than full term babies. Some premature babies also face long-term health effects, like problems that affect the brain, lungs, hearing or vision.</Content>
+<Actor id="0">NoVideo</Actor>
+<ActorDefaultRelativeStillPath id="0"><![CDATA[/Stills/epr-nv.png]]></ActorDefaultRelativeStillPath>
+</Response>
+<Response id="epr125">
+<ResponseID id="0">epr125</ResponseID>
+<BaseQuestion id="0">What are the signs of miscarriage?</BaseQuestion>
+<Content id="0">Most miscarriages happen in the first trimester of pregnancy.  The signs and symptoms of miscarriage include vaginal bleeding, spotting or fluid or tissue passing from the vagina, cramps like you feel with your period, or severe belly pain.
+
+Many pregnant women have some these symptoms in early pregnancy and don't miscarry, but If you have any of these symptoms, call your healthcare provider.</Content>
+<Actor id="0">NoVideo</Actor>
+<ActorDefaultRelativeStillPath id="0"><![CDATA[/Stills/epr-nv.png]]></ActorDefaultRelativeStillPath>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">epr021</ResponseID>
+<BaseQuestion id="1">Is cramping normal during pregnancy?</BaseQuestion>
+</RQ>
+<RQ id="1">
+<ResponseID id="2">epr116</ResponseID>
+<BaseQuestion id="2">Is bleeding during pregnancy cause for alarm?</BaseQuestion>
+</RQ>
+<RQ id="2">
+<ResponseID id="3">epr126</ResponseID>
+<BaseQuestion id="3">When should I call the doctor if I am worried?</BaseQuestion>
+</RQ>
+<RQ id="3">
+<ResponseID id="4">epr128</ResponseID>
+<BaseQuestion id="4">My baby is not moving as frequently as before, should I be concerned?</BaseQuestion>
+</RQ>
+<RQ id="4">
+<ResponseID id="5">epr131</ResponseID>
+<BaseQuestion id="5">What are symptoms of an ectopic pregnancy?</BaseQuestion>
+</RQ>
+</RQs>
+</Response>
+<Response id="epr126">
+<ResponseID id="0">epr126</ResponseID>
+<BaseQuestion id="0">When should I call the doctor if I am worried?</BaseQuestion>
+<Content id="0">Pregnancy can be nerve wracking experience, especially for first time parents.  Your body is changing quickly and every new sensation, ache or symptom can cause anxiety.  Every pregnancy is different, but most of what you will experience will be completely normal.  However, it is important to know when to call your healthcare provider or seek emergency help.
+
+If you have enough vaginal bleeding to soak more than one sanitary pad an hour, clots or clumps of tissue passed from the vagina, or severe pain and cramps in the abdomen or pelvic region, call your healthcare provider or seek emergency help immediately.
+
+Also, if you have a steady trickle or a rush of watery discharge during the second trimester of your pregnancy, you should let your healthcare provider know as soon as possible.
+
+Other symptoms to look for are a sudden swelling of your face, hands, or feet, problems with your vision such as dimness or blurriness and severe headache, or fever.  If you experience any of these symptoms, contact your healthcare provider immediately.
+
+If you are vomiting more than 3 times a day or are too nauseated to eat or drink, especially if you also have fever or pain, do not wait, let your healthcare provider know so that you can get help.
+
+You may have milder symptoms that don't require emergency care but you should call your healthcare provider within a day if you have pelvic pain that doesn't get better or go away or pain that starts on one side and spreads across the belly.  Also contact your healthcare provider within a day if you have a fever over 100∞ Fahrenheit, severe or persistent vomiting and diarrhea, or fainting spells or dizziness.
+
+Painful or frequent urination that is cloudy or bloody may be a sign of a urinary tract or bladder infection and should be reported to your healthcare provider.
+
+Your healthcare provider also needs to know if you have swelling in your hands, fingers, or face, blurred vision or spots before your eyes, or severe headaches that last more than a few hours.
+
+And, of course, report any vaginal bleeding or increase in your usual amount of vaginal discharge. You should also let your healthcare provider know if you notice changes in your baby's movement after 28 weeks.
+
+You can wait until your next prenatal checkup to let your healthcare provider know about any slight spotting that goes away within a day, occasional twinges or pulling sensations in your abdominal area or any occasional mild headaches.</Content>
+<Actor id="0">NoVideo</Actor>
+<ActorDefaultRelativeStillPath id="0"><![CDATA[/Stills/epr-nv.png]]></ActorDefaultRelativeStillPath>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">epr116</ResponseID>
+<BaseQuestion id="1">Is bleeding during pregnancy cause for alarm?</BaseQuestion>
+</RQ>
+<RQ id="1">
+<ResponseID id="2">epr130</ResponseID>
+<BaseQuestion id="2">What is implantation bleeding, and what are the symptoms?</BaseQuestion>
+</RQ>
+<RQ id="2">
+<ResponseID id="3">epr045</ResponseID>
+<BaseQuestion id="3">Is it normal to have spotting after my first exam?</BaseQuestion>
+</RQ>
+<RQ id="3">
+<ResponseID id="4">epr021</ResponseID>
+<BaseQuestion id="4">Is cramping normal during pregnancy?</BaseQuestion>
+</RQ>
+<RQ id="4">
+<ResponseID id="5">epr088</ResponseID>
+<BaseQuestion id="5">What happens when my water breaks? How will I know?</BaseQuestion>
+</RQ>
+</RQs>
+</Response>
+<Response id="epr127">
+<ResponseID id="0">epr127</ResponseID>
+<BaseQuestion id="0">What is a stillbirth?</BaseQuestion>
+<Content id="0">Stillbirth is when a baby dies in the womb after 20 weeks of pregnancy. Most stillbirths happen before a woman goes into labor, but a small percentage happen during labor and delivery. Stillbirth happens in less than one percent of all pregnancies.</Content>
+<Actor id="0">RedShirt</Actor>
+<ActorDefaultRelativeStillPath id="0"><![CDATA[/Stills/epr-redshirt.png]]></ActorDefaultRelativeStillPath>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">epr125</ResponseID>
+<BaseQuestion id="1">What are the signs of miscarriage?</BaseQuestion>
+</RQ>
+<RQ id="1">
+<ResponseID id="2">epr128</ResponseID>
+<BaseQuestion id="2">My baby is not moving as frequently as before, should I be concerned?</BaseQuestion>
+</RQ>
+</RQs>
+</Response>
+<Response id="epr128">
+<ResponseID id="0">epr128</ResponseID>
+<BaseQuestion id="0">My baby is not moving as frequently as before, should I be concerned?</BaseQuestion>
+<Content id="0">Don't panic if your baby is not moving as frequently. Babies tend to move more at certain times of the day as they alternate between alertness and sleep. You may also feel fewer kicks after 32 weeks of pregancy, as your baby gets bigger and has less room to move around. If you think your baby isn't moving as often as it should, you can note the amount of time it takes your baby to make 10 movements. You should feel at least 10 movements within a two-hour period. If you don't feel your baby move 10 times by the end of two hours, try again later in the day. Then, if you still can't feel 10 movements in two hours, or your baby is much less active than normal, call your physician to have your baby's heart rate and movements checked.</Content>
+<Actor id="0">RedShirt</Actor>
+<ActorDefaultRelativeStillPath id="0"><![CDATA[/Stills/epr-redshirt.png]]></ActorDefaultRelativeStillPath>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">epr126</ResponseID>
+<BaseQuestion id="1">When should I call the doctor if I am worried?</BaseQuestion>
+</RQ>
+<RQ id="1">
+<ResponseID id="2">epr066</ResponseID>
+<BaseQuestion id="2">How often should I be feeling movement from my baby?</BaseQuestion>
+</RQ>
+<RQ id="2">
+<ResponseID id="3">epr065</ResponseID>
+<BaseQuestion id="3">Am I going to feel my baby move soon?</BaseQuestion>
+</RQ>
+</RQs>
+</Response>
+<Response id="epr129">
+<ResponseID id="0">epr129</ResponseID>
+<BaseQuestion id="0">Can I do anything about my pregnancy constipation?</BaseQuestion>
+<Content id="0">Almost three fourths of pregnant women experience constipation and other bowel issues in the first trimester. There are some things you can try to relieve this uncomfortable symptom. Eat a diet high in fiber. Pregnant women should try to eat 25 to 30 grams of dietary fiber a day. Stay well hydrated. Pregnant women should drink at least eight 12-ounce glasses of water a day. Break up your daily food intake into five or six smaller meals as well. Exercise stimulates your bowels, so get regular physical activity; but be sure to check with your doctor about what exercises are safe for you and your baby.</Content>
+<Actor id="0">RedShirt</Actor>
+<ActorDefaultRelativeStillPath id="0"><![CDATA[/Stills/epr-redshirt.png]]></ActorDefaultRelativeStillPath>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">epr069</ResponseID>
+<BaseQuestion id="1">How much water should I drink during pregnancy?</BaseQuestion>
+</RQ>
+<RQ id="1">
+<ResponseID id="2">epr137</ResponseID>
+<BaseQuestion id="2">Can I work out during my pregnancy?</BaseQuestion>
+</RQ>
+<RQ id="2">
+<ResponseID id="3">epr133</ResponseID>
+<BaseQuestion id="3">Where can I find pregnancy diet and fitness tips?</BaseQuestion>
+</RQ>
+</RQs>
+</Response>
+<Response id="epr130">
+<ResponseID id="0">epr130</ResponseID>
+<BaseQuestion id="0">What is implantation bleeding, and what are the symptoms?</BaseQuestion>
+<Content id="0">Implantation bleeding typically occurs between 6 and 12 days after conception; this is when the fertilized egg attaches to the lining of your uterus. Some women may mistake it for their regular period because it can look similar and happen around the time you'd expect your normal cycle. However, implantation bleeding differs from a regular period. It lasts only 24 to 48 hours, and it tends to be light and usually brown, pink, or black in color. It is also very mild and is not associated with cramping. If the bleeding starts to look like a heavy period with blood clots and severe menstrual-like cramps, or if it is associated with tiredness or dizziness, it's important to contact your healthcare provider.</Content>
+<Actor id="0">RedShirt</Actor>
+<ActorDefaultRelativeStillPath id="0"><![CDATA[/Stills/epr-redshirt.png]]></ActorDefaultRelativeStillPath>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">epr008</ResponseID>
+<BaseQuestion id="1">Is dizziness common in pregnancy?</BaseQuestion>
+</RQ>
+<RQ id="1">
+<ResponseID id="2">epr009</ResponseID>
+<BaseQuestion id="2">Is there a reason I have so much pregnancy fatigue?</BaseQuestion>
+</RQ>
+<RQ id="2">
+<ResponseID id="3">epr045</ResponseID>
+<BaseQuestion id="3">Is it normal to have spotting after my first exam?</BaseQuestion>
+</RQ>
+<RQ id="3">
+<ResponseID id="4">epr131</ResponseID>
+<BaseQuestion id="4">What are symptoms of an ectopic pregnancy?</BaseQuestion>
+</RQ>
+<RQ id="4">
+<ResponseID id="5">epr021</ResponseID>
+<BaseQuestion id="5">Is cramping normal during pregnancy?</BaseQuestion>
+</RQ>
+</RQs>
+</Response>
+<Response id="epr131">
+<ResponseID id="0">epr131</ResponseID>
+<BaseQuestion id="0">What are symptoms of an ectopic pregnancy?</BaseQuestion>
+<Content id="0">An ectopic pregnancy is a pregnancy when the fertilized egg implants somewhere outside of the uterus. It can attach to a fallopian tube, ovary, cervix, or in your abdomen. An ectopic pregnancy may start out with the usual pregnancy signs, but can cause damage to the part of the body it is attached to. This can lead to serious bleeding and even death. Symptoms of an ectopic pregnancy include cramping, sudden, brief pain with tenderness, pain that starts on one side and spreads across the belly, or pain that worsens during a bowel movement or coughing. Abdominal pain or cramping combined with nausea and vomiting, pain in your shoulders, weakness or lightheadedness, or rectal pressure are also signs of an ectopic pregnancy, as are fainting and low blood pressure. Contact your healthcare provider or seek emergency care immediately if you have any of these symptoms.</Content>
+<Actor id="0">RedShirt</Actor>
+<ActorDefaultRelativeStillPath id="0"><![CDATA[/Stills/epr-redshirt.png]]></ActorDefaultRelativeStillPath>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">epr021</ResponseID>
+<BaseQuestion id="1">Is cramping normal during pregnancy?</BaseQuestion>
+</RQ>
+<RQ id="1">
+<ResponseID id="2">epr050</ResponseID>
+<BaseQuestion id="2">How long does morning sickness last?</BaseQuestion>
+</RQ>
+<RQ id="2">
+<ResponseID id="3">epr008</ResponseID>
+<BaseQuestion id="3">Is dizziness common in pregnancy?</BaseQuestion>
+</RQ>
+<RQ id="3">
+<ResponseID id="4">epr126</ResponseID>
+<BaseQuestion id="4">When should I call the doctor if I am worried?</BaseQuestion>
+</RQ>
+</RQs>
+</Response>
+<Response id="epr132">
+<ResponseID id="0">epr132</ResponseID>
+<BaseQuestion id="0">When can I start postpartum fitness regimen?</BaseQuestion>
+<Content id="0">If you had a healthy pregnancy and an uncomplicated vaginal delivery, you should be able to start exercising again soon after the baby is born. Usually, it is safe to begin exercising a few days after giving birth or as soon as you feel ready, but always check with your healthcare provider to get the okay to start exercising. If you are nursing you should consider feeding your baby before exercising in order to avoid discomfort from engorged breasts. Also, make sure you keep hydrated while exercising.</Content>
+<Actor id="0">RedShirt</Actor>
+<ActorDefaultRelativeStillPath id="0"><![CDATA[/Stills/epr-redshirt.png]]></ActorDefaultRelativeStillPath>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">epr091</ResponseID>
+<BaseQuestion id="1">How long will my breast tenderness last after giving birth if I am not breast feeding?</BaseQuestion>
+</RQ>
+<RQ id="1">
+<ResponseID id="2">epr099</ResponseID>
+<BaseQuestion id="2">Can I do kegel exercises right away ?</BaseQuestion>
+</RQ>
+<RQ id="2">
+<ResponseID id="3">epr138</ResponseID>
+<BaseQuestion id="3">How much can I lift during pregnancy?</BaseQuestion>
+</RQ>
+<RQ id="3">
+<ResponseID id="4">epr135</ResponseID>
+<BaseQuestion id="4">How fast will my pregnancy weight gain come off?</BaseQuestion>
+</RQ>
+</RQs>
+</Response>
+<Response id="epr133">
+<ResponseID id="0">epr133</ResponseID>
+<BaseQuestion id="0">Where can I find pregnancy diet and fitness tips?</BaseQuestion>
+<Content id="0">A healthy diet and good nutrition during pregnancy ensure that your baby gets the best start possible. The best diet is a balanced one. It should provide ample amounts of protein, carbohydrates, healthy types of fat, as well as vitamins and minerals. For more information on pregnancy, diet, and fitness, check the Resources area.</Content>
+<Actor id="0">RedShirt</Actor>
+<ActorDefaultRelativeStillPath id="0"><![CDATA[/Stills/epr-redshirt.png]]></ActorDefaultRelativeStillPath>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">epr069</ResponseID>
+<BaseQuestion id="1">How much water should I drink during pregnancy?</BaseQuestion>
+</RQ>
+<RQ id="1">
+<ResponseID id="2">epr134</ResponseID>
+<BaseQuestion id="2">What is the best level of pregnancy fitness?</BaseQuestion>
+</RQ>
+<RQ id="2">
+<ResponseID id="3">epr136</ResponseID>
+<BaseQuestion id="3">How much weight should I gain during my pregnancy? And at what rate?</BaseQuestion>
+</RQ>
+</RQs>
+<MediaList id="0">
+<Media id="0">
+<ListOrder id="0">1</ListOrder>
+<Description id="0">Diet And Fitness</Description>
+<Location id="0"><![CDATA[http://www.healthline.com/health/pregnancy/exercise]]></Location>
+<MediaType id="0">Link</MediaType>
+<FileSize id="0"></FileSize>
+</Media>
+</MediaList>
+</Response>
+<Response id="epr134">
+<ResponseID id="0">epr134</ResponseID>
+<BaseQuestion id="0">What is the best level of pregnancy fitness?</BaseQuestion>
+<Content id="0">It is recommended that healthy pregnant women get 30 minutes of moderate-intensity aerobic activity at least five days a week.   Regular exercise will not only keep you fit, but it may help you cope better during labor and may make it easier to get back in shape after your baby is born.</Content>
+<Actor id="0">NoVideo</Actor>
+<ActorDefaultRelativeStillPath id="0"><![CDATA[/Stills/epr-nv.png]]></ActorDefaultRelativeStillPath>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">epr133</ResponseID>
+<BaseQuestion id="1">Where can I find pregnancy diet and fitness tips?</BaseQuestion>
+</RQ>
+<RQ id="1">
+<ResponseID id="2">epr136</ResponseID>
+<BaseQuestion id="2">How much weight should I gain during my pregnancy? And at what rate?</BaseQuestion>
+</RQ>
+<RQ id="2">
+<ResponseID id="3">epr137</ResponseID>
+<BaseQuestion id="3">Can I work out during my pregnancy?</BaseQuestion>
+</RQ>
+<RQ id="3">
+<ResponseID id="4">epr138</ResponseID>
+<BaseQuestion id="4">How much can I lift during pregnancy?</BaseQuestion>
+</RQ>
+</RQs>
+</Response>
+<Response id="epr135">
+<ResponseID id="0">epr135</ResponseID>
+<BaseQuestion id="0">How fast will my pregnancy weight gain come off?</BaseQuestion>
+<Content id="0">It can take 6 to 12 months to get back to your pre-pregnancy weight. Most women lose half of their baby weight by 6 weeks after childbirth. The rest usually comes off over the next several months.</Content>
+<Actor id="0">NoVideo</Actor>
+<ActorDefaultRelativeStillPath id="0"><![CDATA[/Stills/epr-nv.png]]></ActorDefaultRelativeStillPath>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">epr132</ResponseID>
+<BaseQuestion id="1">When can I start postpartum fitness regimen?</BaseQuestion>
+</RQ>
+</RQs>
+</Response>
+<Response id="epr136">
+<ResponseID id="0">epr136</ResponseID>
+<BaseQuestion id="0">How much weight should I gain during my pregnancy? And at what rate?</BaseQuestion>
+<Content id="0">Your health care provider uses pre-pregnancy body mass index or BMI to figure out how much weight you should gain during pregnancy. Each woman will have a weight goal specific to her BMI, but It usually works out something like this:
+
+Women at a healthy pre-pregnancy weight should gain 25 to 35 pounds, putting on one to four and a half pounds in the first trimester and then about one pound a week in the second and third trimesters.
+
+If you were underweight pre-pregnancy you should gain about 28 to 40 pounds. That's a weight gain of one to four and a half pounds in the first trimester and then a little more than a pound a week in the second and third trimesters.
+
+Women overweight before pregnancy, should gain about 15 to 25 pounds during pregnancy. Normally that is one to four and a half pounds in the first trimester and then a little more than one half pound every week in the second and third trimesters.
+
+Don't worry if you gain a little more or a little less than you think you should in any week. You may have a few growth spurts when you gain several pounds in a short time, and then level off.</Content>
+<Actor id="0">NoVideo</Actor>
+<ActorDefaultRelativeStillPath id="0"><![CDATA[/Stills/epr-nv.png]]></ActorDefaultRelativeStillPath>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">epr133</ResponseID>
+<BaseQuestion id="1">Where can I find pregnancy diet and fitness tips?</BaseQuestion>
+</RQ>
+<RQ id="1">
+<ResponseID id="2">epr137</ResponseID>
+<BaseQuestion id="2">Can I work out during my pregnancy?</BaseQuestion>
+</RQ>
+<RQ id="2">
+<ResponseID id="3">epr138</ResponseID>
+<BaseQuestion id="3">How much can I lift during pregnancy?</BaseQuestion>
+</RQ>
+</RQs>
+</Response>
+<Response id="epr137">
+<ResponseID id="0">epr137</ResponseID>
+<BaseQuestion id="0">Can I work out during my pregnancy?</BaseQuestion>
+<Content id="0">Working out will help you stay healthy and fit during pregnancy. Most healthy pregnant women can exercise, however there are some conditions that make exercising off limits during pregnancy. Always talk to your healthcare provider before starting or continuing any exercise program.
+
+If you didn't work out before pregnancy start with a low level of exertion and work up to 30 minutes a day, three to five times a week.
+
+If you exercised before pregnancy you should be able to continue to exercise at that same level during pregnancy, but you may have to modify your routine as your pregnancy progresses.
+
+You should avoid any exercises lying on your back as well as sit ups, deep knee bends and toe touches; and, you should not perform activities with a high risk of falling.
+
+When you exercise, drink lots of water and stop exercising and call your healthcare provider if you have any vaginal bleeding, dizziness, or trouble breathing while exercising.  Also, if you have headache, chest pain, pain or swelling in your lower legs, contractions, or if you start leaking amniotic fluid you should stop exercising and call your healthcare provider.</Content>
+<Actor id="0">NoVideo</Actor>
+<ActorDefaultRelativeStillPath id="0"><![CDATA[/Stills/epr-nv.png]]></ActorDefaultRelativeStillPath>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">epr069</ResponseID>
+<BaseQuestion id="1">How much water should I drink during pregnancy?</BaseQuestion>
+</RQ>
+<RQ id="1">
+<ResponseID id="2">epr133</ResponseID>
+<BaseQuestion id="2">Where can I find pregnancy diet and fitness tips?</BaseQuestion>
+</RQ>
+<RQ id="2">
+<ResponseID id="3">epr138</ResponseID>
+<BaseQuestion id="3">How much can I lift during pregnancy?</BaseQuestion>
+</RQ>
+</RQs>
+</Response>
+<Response id="epr138">
+<ResponseID id="0">epr138</ResponseID>
+<BaseQuestion id="0">How much can I lift during pregnancy?</BaseQuestion>
+<Content id="0">Weight lifting is generally okay during pregnancy; the data on its effects is limited, however. Always talk to your healthcare provider before starting or continuing a weight lifting program. Your provider can give you guidance on how much weight you can safely lift. Keep in mind that your blood pressure does rise during weight bearing exercise, and your balance may also be affected.</Content>
+<Actor id="0">RedShirt</Actor>
+<ActorDefaultRelativeStillPath id="0"><![CDATA[/Stills/epr-redshirt.png]]></ActorDefaultRelativeStillPath>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">epr133</ResponseID>
+<BaseQuestion id="1">Where can I find pregnancy diet and fitness tips?</BaseQuestion>
+</RQ>
+<RQ id="1">
+<ResponseID id="2">epr134</ResponseID>
+<BaseQuestion id="2">What is the best level of pregnancy fitness?</BaseQuestion>
+</RQ>
+</RQs>
+</Response>
+<Response id="epr139">
+<ResponseID id="0">epr139</ResponseID>
+<BaseQuestion id="0">How long can I continue to work?</BaseQuestion>
+<Content id="0">Many women work throughout their pregnancy, but the decision whether to work while pregnant depends on many factors.   Your job may pose risks to you or your baby, or you may have a high risk pregnancy or extreme morning sickness.  Discuss this issue with your healthcare provider and, if necessary, your employer.  Be aware that as a pregnant woman, you are protected by The Pregnancy Discrimination Act (PDA) which forbids discrimination based on pregnancy when it comes to any aspect of employment.  For more information on the PDA, look in the Resource area.</Content>
+<Actor id="0">NoVideo</Actor>
+<ActorDefaultRelativeStillPath id="0"><![CDATA[/Stills/epr-nv.png]]></ActorDefaultRelativeStillPath>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">epr005</ResponseID>
+<BaseQuestion id="1">How do I know if I am a high risk pregnancy?</BaseQuestion>
+</RQ>
+<RQ id="1">
+<ResponseID id="2">epr015</ResponseID>
+<BaseQuestion id="2">What is morning sickness?</BaseQuestion>
+</RQ>
+<RQ id="2">
+<ResponseID id="3">epr138</ResponseID>
+<BaseQuestion id="3">How much can I lift during pregnancy?</BaseQuestion>
+</RQ>
+</RQs>
+<MediaList id="0">
+<Media id="0">
+<ListOrder id="0">1</ListOrder>
+<Description id="0">Pregnancy Disability Act</Description>
+<Location id="0"><![CDATA[http://www.eeoc.gov/eeoc/publications/fs-preg.cfm]]></Location>
+<MediaType id="0">Link</MediaType>
+<FileSize id="0"></FileSize>
+</Media>
+</MediaList>
+</Response>
+<Response id="epr140">
+<ResponseID id="0">epr140</ResponseID>
+<BaseQuestion id="0">Introduction</BaseQuestion>
+<Content id="0">Hello and welcome to Baby Talk With My Excela Doc, a program for soon-to-be-parents where you can ask Excela healthcare professionals all your questions about pregnancy, labor and delivery. Type your questions in the Ask box below, or click on the menu to your left to explore the topics that interest you most. Along the way, we'll display links to related questions to the right of the page. And, you can click on the Resource link at the top of the page to display a list of documents and websites with even more information on the subjects you ask about. Go ahead, type in a question now, or click on a link to start a conversation with your Excela healthcare professional.</Content>
+<Actor id="0">MaryPat</Actor>
+<ActorDefaultRelativeStillPath id="0"><![CDATA[/Stills/epr-marypat.png]]></ActorDefaultRelativeStillPath>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">epr004</ResponseID>
+<BaseQuestion id="1">What are the common early pregnancy symptoms?</BaseQuestion>
+</RQ>
+<RQ id="1">
+<ResponseID id="2">epr030</ResponseID>
+<BaseQuestion id="2">What do they look at during prenatal testing?</BaseQuestion>
+</RQ>
+<RQ id="2">
+<ResponseID id="3">epr041</ResponseID>
+<BaseQuestion id="3">What can I expect at my first appointment?</BaseQuestion>
+</RQ>
+<RQ id="3">
+<ResponseID id="4">epr065</ResponseID>
+<BaseQuestion id="4">Am I going to feel my baby move soon?</BaseQuestion>
+</RQ>
+<RQ id="4">
+<ResponseID id="5">epr082</ResponseID>
+<BaseQuestion id="5">What should I expect in labor and birth?</BaseQuestion>
+</RQ>
+<RQ id="5">
+<ResponseID id="6">epr108</ResponseID>
+<BaseQuestion id="6">How do I know if breastfeeding is for me?</BaseQuestion>
+</RQ>
+<RQ id="6">
+<ResponseID id="7">epr125</ResponseID>
+<BaseQuestion id="7">What are the signs of miscarriage?</BaseQuestion>
+</RQ>
+</RQs>
+</Response>
+<Response id="epr143">
+<ResponseID id="0">epr143</ResponseID>
+<BaseQuestion id="0">How to use this site</BaseQuestion>
+<Content id="0">Type your questions into the text box below, or click on the menu to your left to explore the topics that interest you most.  Along the way, we'll display links to related questions to the right of the page.  And, you can click on the Resource link at the top of the page to display a list of documents and websites with even more information on the subjects you ask about.</Content>
+<Actor id="0">NoVideo</Actor>
+<ActorDefaultRelativeStillPath id="0"><![CDATA[/Stills/epr-nv.png]]></ActorDefaultRelativeStillPath>
+</Response>
+<Response id="epr144">
+<ResponseID id="0">epr144</ResponseID>
+<BaseQuestion id="0">Where can I get more information?</BaseQuestion>
+<Content id="0">For more information on the Excela Health Family Additions Maternity Center contact Excela's call center 1-877-771-1234.</Content>
+<Actor id="0">MaryPat</Actor>
+<ActorDefaultRelativeStillPath id="0"><![CDATA[/Stills/epr-marypat.png]]></ActorDefaultRelativeStillPath>
+</Response>
+<Response id="epr146">
+<ResponseID id="0">epr146</ResponseID>
+<BaseQuestion id="0">How can I give feedback?</BaseQuestion>
+<Content id="0">We'd love to hear your comments about Baby Talk with My Excela Doc.  Click on the Resource link at the top of this page and select the Feedback option from the menu.</Content>
+<Actor id="0">MaryPat</Actor>
+<ActorDefaultRelativeStillPath id="0"><![CDATA[/Stills/epr-marypat.png]]></ActorDefaultRelativeStillPath>
+</Response>
+<Response id="epr147">
+<ResponseID id="0">epr147</ResponseID>
+<BaseQuestion id="0">How can I report a problem with the site?</BaseQuestion>
+<Content id="0">For information on how to use this site or to let us know about a problem you're experiencing with the site, click on the Resource link at the top of this page and select the Help or Bug Report options from the menu.</Content>
+<Actor id="0">MaryPat</Actor>
+<ActorDefaultRelativeStillPath id="0"><![CDATA[/Stills/epr-marypat.png]]></ActorDefaultRelativeStillPath>
+</Response>
+<Response id="maepr900">
+<ResponseID id="0">maepr900</ResponseID>
+<BaseQuestion id="0">Multiple Answers Possible</BaseQuestion>
+<Content id="0">How big is my baby?</Content>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">epr051</ResponseID>
+<BaseQuestion id="1">How big is my baby during the first three months?</BaseQuestion>
+</RQ>
+<RQ id="1">
+<ResponseID id="2">epr064</ResponseID>
+<BaseQuestion id="2">How developed is my baby during the first 4-6 months?</BaseQuestion>
+</RQ>
+<RQ id="2">
+<ResponseID id="3">epr075</ResponseID>
+<BaseQuestion id="3">How much does my baby weigh?</BaseQuestion>
+</RQ>
+</RQs>
+</Response>
+<Response id="maepr901">
+<ResponseID id="0">maepr901</ResponseID>
+<BaseQuestion id="0">Multiple Answers Possible</BaseQuestion>
+<Content id="0">What about feeling baby movements?</Content>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">epr065</ResponseID>
+<BaseQuestion id="1">Am I going to feel my baby move soon?</BaseQuestion>
+</RQ>
+<RQ id="1">
+<ResponseID id="2">epr066</ResponseID>
+<BaseQuestion id="2">How often should I be feeling movement from my baby?</BaseQuestion>
+</RQ>
+<RQ id="2">
+<ResponseID id="3">epr074</ResponseID>
+<BaseQuestion id="3">What is decreased fetal movement?</BaseQuestion>
+</RQ>
+<RQ id="3">
+<ResponseID id="4">epr128</ResponseID>
+<BaseQuestion id="4">My baby is not moving as frequently as before, should I be concerned?</BaseQuestion>
+</RQ>
+</RQs>
+</Response>
+<Response id="multianswer">
+<ResponseID id="0">multianswer</ResponseID>
+<BaseQuestion id="0">Multiple answers</BaseQuestion>
+<Content id="0">There is more than one possible way to answer your question. Click on the link to the right that you would like to hear first.</Content>
+<Actor id="0">MaryPat</Actor>
+<ActorDefaultRelativeStillPath id="0"><![CDATA[/Stills/epr-marypat.png]]></ActorDefaultRelativeStillPath>
+</Response>
+<Response id="offtopic">
+<ResponseID id="0">offtopic</ResponseID>
+<BaseQuestion id="0">Offtopic Response</BaseQuestion>
+<Content id="0">I'm sorry, we don't have an answer to that question at this time.  Your questions are important to us.  Please speak to your Excela healthcare provider for more information.</Content>
+<Actor id="0">MaryPat</Actor>
+<ActorDefaultRelativeStillPath id="0"><![CDATA[/Stills/epr-marypat.png]]></ActorDefaultRelativeStillPath>
+</Response>
+<Response id="shame">
+<ResponseID id="0">shame</ResponseID>
+<BaseQuestion id="0">Shame Response</BaseQuestion>
+<Content id="0">We're here to help you learn about pregnancy, labor and delivery.  Please keep your questions and comments respectful and on topic.</Content>
+<Actor id="0">MaryPat</Actor>
+<ActorDefaultRelativeStillPath id="0"><![CDATA[/Stills/epr-marypat.png]]></ActorDefaultRelativeStillPath>
+</Response>
+</xml>

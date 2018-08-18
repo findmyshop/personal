@@ -1,0 +1,75 @@
+<xml>
+  <Module id='0'>
+    <Heading>
+      Introduction
+    </Heading>
+    <ResponseID>cnl395</ResponseID>
+    <ResponseID>cnl347</ResponseID>
+    <ResponseID>cnl013</ResponseID>
+    <ResponseID>cnl010b</ResponseID>
+    <ResponseID>cnl087</ResponseID>
+    <ResponseID>cnl070</ResponseID>
+    <ResponseID>cnl020</ResponseID>
+    <ResponseID>cnl253</ResponseID>
+    <ResponseID>cnl266</ResponseID>
+  </Module>
+  <Module id='1'>
+    <Heading>
+      Diagnosis
+    </Heading>
+    <ResponseID>cnl254</ResponseID>
+    <ResponseID>cnl272</ResponseID>
+    <ResponseID>cnl023</ResponseID>
+    <ResponseID>cnl267</ResponseID>
+    <ResponseID>cnl207</ResponseID>
+    <ResponseID>cnl012</ResponseID>
+    <ResponseID>cnl016</ResponseID>
+    <ResponseID>cnl369</ResponseID>
+    <ResponseID>cnl331</ResponseID>    
+  </Module>
+  <Module id='4'>
+    <Heading>
+        Treatment
+    </Heading>
+    <ResponseID>cnl025</ResponseID>
+    <ResponseID>cnl024</ResponseID>
+    <ResponseID>cnl321</ResponseID>
+    <ResponseID>cnl292</ResponseID>
+    <ResponseID>cnl110</ResponseID>
+    <ResponseID>cnl378</ResponseID>
+    <ResponseID>cnl210</ResponseID>
+    <ResponseID>cnl368</ResponseID>
+    <ResponseID>cnl138</ResponseID>
+    <ResponseID>cnl117</ResponseID>
+    <ResponseID>cnl112</ResponseID>
+    <ResponseID>cnl382</ResponseID>
+    <ResponseID>cnl334</ResponseID>
+    <ResponseID>cnl206</ResponseID>    
+  </Module>
+  <Module id='2'>
+    <Heading>
+      Support
+    </Heading>
+    <ResponseID>cnl119</ResponseID>
+    <ResponseID>cnl120</ResponseID>
+    <ResponseID>cnl320</ResponseID>
+    <ResponseID>cnl324</ResponseID>
+    <ResponseID>cnl339</ResponseID>
+    <ResponseID>cnl148</ResponseID>
+    <ResponseID>cnl342</ResponseID>
+    <ResponseID>cnl370</ResponseID>
+    <ResponseID>cnl313</ResponseID>
+    <ResponseID>cnl166</ResponseID>
+    <ResponseID>cnl302</ResponseID>    
+  </Module>
+  <Module id='3'>
+    <Heading>
+      Life After Cancer Treatment
+    </Heading>
+    <ResponseID>cnl390</ResponseID>
+    <ResponseID>cnl335</ResponseID>
+    <ResponseID>cnl344</ResponseID>
+    <ResponseID>cnl005</ResponseID>
+    <ResponseID>cnl312</ResponseID>    
+  </Module>
+</xml>

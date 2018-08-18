@@ -1,0 +1,3469 @@
+<xml>
+<Response id="jpbl001" type="null" category="offtopic">
+<LeftRail>
+<Id>main</Id>
+<Hidden>false</Hidden>
+</LeftRail>
+<VideoControls>
+<Hidden>true</Hidden>
+<PreviousId />
+<NextId />
+</VideoControls>
+<AskControls>
+<Hidden>false</Hidden>
+<Action>analyze</Action>
+</AskControls>
+<CaseName>EliLilly_JPBL</CaseName>
+</Response>
+<Response id="jpbl002" category="shame">
+<LeftRail>
+<Id>main</Id>
+<Hidden>false</Hidden>
+</LeftRail>
+<VideoControls>
+<Hidden>true</Hidden>
+<PreviousId />
+<NextId />
+</VideoControls>
+<AskControls>
+<Hidden>false</Hidden>
+<Action>analyze</Action>
+</AskControls>
+<CaseName>EliLilly_JPBL</CaseName>
+</Response>
+<Response id="jpbl003" category="multianswer">
+<LeftRail>
+<Id>main</Id>
+<Hidden>false</Hidden>
+</LeftRail>
+<VideoControls>
+<Hidden>true</Hidden>
+<PreviousId />
+<NextId />
+</VideoControls>
+<AskControls>
+<Hidden>false</Hidden>
+<Action>analyze</Action>
+</AskControls>
+<CaseName>EliLilly_JPBL</CaseName>
+</Response>
+<Response id="jpbl004">
+<LeftRail>
+<Id>main</Id>
+<Hidden>false</Hidden>
+</LeftRail>
+<VideoControls>
+<Hidden>true</Hidden>
+<PreviousId />
+<NextId />
+</VideoControls>
+<AskControls>
+<Hidden>false</Hidden>
+<Action>analyze</Action>
+</AskControls>
+<CaseName>EliLilly_JPBL</CaseName>
+</Response>
+<Response id="jpbl005">
+<LeftRail>
+<Id>main</Id>
+<Hidden>false</Hidden>
+</LeftRail>
+<VideoControls>
+<Hidden>true</Hidden>
+<PreviousId />
+<NextId />
+</VideoControls>
+<AskControls>
+<Hidden>false</Hidden>
+<Action>analyze</Action>
+</AskControls>
+<CaseName>EliLilly_JPBL</CaseName>
+</Response>
+<Response id="jpbl006">
+<LeftRail>
+<Id>main</Id>
+<Hidden>false</Hidden>
+</LeftRail>
+<VideoControls>
+<Hidden>true</Hidden>
+<PreviousId />
+<NextId />
+</VideoControls>
+<AskControls>
+<Hidden>false</Hidden>
+<Action>analyze</Action>
+</AskControls>
+<CaseName>EliLilly_JPBL</CaseName>
+</Response>
+<Response id="jpbl007">
+<LeftRail>
+<Id>main</Id>
+<Hidden>false</Hidden>
+</LeftRail>
+<VideoControls>
+<Hidden>true</Hidden>
+<PreviousId />
+<NextId />
+</VideoControls>
+<AskControls>
+<Hidden>false</Hidden>
+<Action>analyze</Action>
+</AskControls>
+<CaseName>EliLilly_JPBL</CaseName>
+</Response>
+<Response id="jpbl008">
+<LeftRail>
+<Id>main</Id>
+<Hidden>false</Hidden>
+</LeftRail>
+<VideoControls>
+<Hidden>true</Hidden>
+<PreviousId />
+<NextId />
+</VideoControls>
+<AskControls>
+<Hidden>false</Hidden>
+<Action>analyze</Action>
+</AskControls>
+<CaseName>EliLilly_JPBL</CaseName>
+</Response>
+<Response id="jpbl009">
+<LeftRail>
+<Id>main</Id>
+<Hidden>false</Hidden>
+</LeftRail>
+<VideoControls>
+<Hidden>true</Hidden>
+<PreviousId />
+<NextId />
+</VideoControls>
+<AskControls>
+<Hidden>false</Hidden>
+<Action>analyze</Action>
+</AskControls>
+<CaseName>EliLilly_JPBL</CaseName>
+</Response>
+<Response id="jpbl010">
+<LeftRail>
+<Id>main</Id>
+<Hidden>false</Hidden>
+</LeftRail>
+<VideoControls>
+<Hidden>true</Hidden>
+<PreviousId />
+<NextId />
+</VideoControls>
+<AskControls>
+<Hidden>false</Hidden>
+<Action>analyze</Action>
+</AskControls>
+<CaseName>EliLilly_JPBL</CaseName>
+</Response>
+<Response id="jpbl011">
+<LeftRail>
+<Id>main</Id>
+<Hidden>false</Hidden>
+</LeftRail>
+<VideoControls>
+<Hidden>true</Hidden>
+<PreviousId />
+<NextId />
+</VideoControls>
+<AskControls>
+<Hidden>false</Hidden>
+<Action>analyze</Action>
+</AskControls>
+<CaseName>EliLilly_JPBL</CaseName>
+</Response>
+<Response id="jpbl012">
+<LeftRail>
+<Id>main</Id>
+<Hidden>false</Hidden>
+</LeftRail>
+<VideoControls>
+<Hidden>true</Hidden>
+<PreviousId />
+<NextId />
+</VideoControls>
+<AskControls>
+<Hidden>false</Hidden>
+<Action>analyze</Action>
+</AskControls>
+<CaseName>EliLilly_JPBL</CaseName>
+</Response>
+<Response id="jpbl013">
+<LeftRail>
+<Id>main</Id>
+<Hidden>false</Hidden>
+</LeftRail>
+<VideoControls>
+<Hidden>true</Hidden>
+<PreviousId />
+<NextId />
+</VideoControls>
+<AskControls>
+<Hidden>false</Hidden>
+<Action>analyze</Action>
+</AskControls>
+<CaseName>EliLilly_JPBL</CaseName>
+</Response>
+<Response id="jpbl014">
+<LeftRail>
+<Id>main</Id>
+<Hidden>false</Hidden>
+</LeftRail>
+<VideoControls>
+<Hidden>true</Hidden>
+<PreviousId />
+<NextId />
+</VideoControls>
+<AskControls>
+<Hidden>false</Hidden>
+<Action>analyze</Action>
+</AskControls>
+<CaseName>EliLilly_JPBL</CaseName>
+</Response>
+<Response id="jpbl015">
+<LeftRail>
+<Id>main</Id>
+<Hidden>false</Hidden>
+</LeftRail>
+<VideoControls>
+<Hidden>true</Hidden>
+<PreviousId />
+<NextId />
+</VideoControls>
+<AskControls>
+<Hidden>false</Hidden>
+<Action>analyze</Action>
+</AskControls>
+<CaseName>EliLilly_JPBL</CaseName>
+</Response>
+<Response id="jpbl016">
+<LeftRail>
+<Id>main</Id>
+<Hidden>false</Hidden>
+</LeftRail>
+<VideoControls>
+<Hidden>true</Hidden>
+<PreviousId />
+<NextId />
+</VideoControls>
+<AskControls>
+<Hidden>false</Hidden>
+<Action>analyze</Action>
+</AskControls>
+<CaseName>EliLilly_JPBL</CaseName>
+</Response>
+<Response id="jpbl017">
+<LeftRail>
+<Id>main</Id>
+<Hidden>false</Hidden>
+</LeftRail>
+<VideoControls>
+<Hidden>true</Hidden>
+<PreviousId />
+<NextId />
+</VideoControls>
+<AskControls>
+<Hidden>false</Hidden>
+<Action>analyze</Action>
+</AskControls>
+<CaseName>EliLilly_JPBL</CaseName>
+</Response>
+<Response id="jpbl018">
+<LeftRail>
+<Id>main</Id>
+<Hidden>false</Hidden>
+</LeftRail>
+<VideoControls>
+<Hidden>true</Hidden>
+<PreviousId />
+<NextId />
+</VideoControls>
+<AskControls>
+<Hidden>false</Hidden>
+<Action>analyze</Action>
+</AskControls>
+<CaseName>EliLilly_JPBL</CaseName>
+</Response>
+<Response id="jpbl019">
+<LeftRail>
+<Id>main</Id>
+<Hidden>false</Hidden>
+</LeftRail>
+<VideoControls>
+<Hidden>true</Hidden>
+<PreviousId />
+<NextId />
+</VideoControls>
+<AskControls>
+<Hidden>false</Hidden>
+<Action>analyze</Action>
+</AskControls>
+<CaseName>EliLilly_JPBL</CaseName>
+</Response>
+<Response id="jpbl020">
+<LeftRail>
+<Id>main</Id>
+<Hidden>false</Hidden>
+</LeftRail>
+<VideoControls>
+<Hidden>true</Hidden>
+<PreviousId />
+<NextId />
+</VideoControls>
+<AskControls>
+<Hidden>false</Hidden>
+<Action>analyze</Action>
+</AskControls>
+<CaseName>EliLilly_JPBL</CaseName>
+</Response>
+<Response id="jpbl021">
+<LeftRail>
+<Id>main</Id>
+<Hidden>false</Hidden>
+</LeftRail>
+<VideoControls>
+<Hidden>true</Hidden>
+<PreviousId />
+<NextId />
+</VideoControls>
+<AskControls>
+<Hidden>false</Hidden>
+<Action>analyze</Action>
+</AskControls>
+<CaseName>EliLilly_JPBL</CaseName>
+</Response>
+<Response id="jpbl022">
+<LeftRail>
+<Id>main</Id>
+<Hidden>false</Hidden>
+</LeftRail>
+<VideoControls>
+<Hidden>true</Hidden>
+<PreviousId />
+<NextId />
+</VideoControls>
+<AskControls>
+<Hidden>false</Hidden>
+<Action>analyze</Action>
+</AskControls>
+<CaseName>EliLilly_JPBL</CaseName>
+</Response>
+<Response id="jpbl023">
+<LeftRail>
+<Id>main</Id>
+<Hidden>false</Hidden>
+</LeftRail>
+<VideoControls>
+<Hidden>true</Hidden>
+<PreviousId />
+<NextId />
+</VideoControls>
+<AskControls>
+<Hidden>false</Hidden>
+<Action>analyze</Action>
+</AskControls>
+<CaseName>EliLilly_JPBL</CaseName>
+</Response>
+<Response id="jpbl024">
+<LeftRail>
+<Id>main</Id>
+<Hidden>false</Hidden>
+</LeftRail>
+<VideoControls>
+<Hidden>true</Hidden>
+<PreviousId />
+<NextId />
+</VideoControls>
+<AskControls>
+<Hidden>false</Hidden>
+<Action>analyze</Action>
+</AskControls>
+<CaseName>EliLilly_JPBL</CaseName>
+</Response>
+<Response id="jpbl025">
+<LeftRail>
+<Id>main</Id>
+<Hidden>false</Hidden>
+</LeftRail>
+<VideoControls>
+<Hidden>true</Hidden>
+<PreviousId />
+<NextId />
+</VideoControls>
+<AskControls>
+<Hidden>false</Hidden>
+<Action>analyze</Action>
+</AskControls>
+<CaseName>EliLilly_JPBL</CaseName>
+</Response>
+<Response id="jpbl026">
+<LeftRail>
+<Id>main</Id>
+<Hidden>false</Hidden>
+</LeftRail>
+<VideoControls>
+<Hidden>true</Hidden>
+<PreviousId />
+<NextId />
+</VideoControls>
+<AskControls>
+<Hidden>false</Hidden>
+<Action>analyze</Action>
+</AskControls>
+<CaseName>EliLilly_JPBL</CaseName>
+</Response>
+<Response id="jpbl027">
+<LeftRail>
+<Id>main</Id>
+<Hidden>false</Hidden>
+</LeftRail>
+<VideoControls>
+<Hidden>true</Hidden>
+<PreviousId />
+<NextId />
+</VideoControls>
+<AskControls>
+<Hidden>false</Hidden>
+<Action>analyze</Action>
+</AskControls>
+<CaseName>EliLilly_JPBL</CaseName>
+</Response>
+<Response id="jpbl028">
+<LeftRail>
+<Id>main</Id>
+<Hidden>false</Hidden>
+</LeftRail>
+<VideoControls>
+<Hidden>true</Hidden>
+<PreviousId />
+<NextId />
+</VideoControls>
+<AskControls>
+<Hidden>false</Hidden>
+<Action>analyze</Action>
+</AskControls>
+<CaseName>EliLilly_JPBL</CaseName>
+</Response>
+<Response id="jpbl029">
+<LeftRail>
+<Id>main</Id>
+<Hidden>false</Hidden>
+</LeftRail>
+<VideoControls>
+<Hidden>true</Hidden>
+<PreviousId />
+<NextId />
+</VideoControls>
+<AskControls>
+<Hidden>false</Hidden>
+<Action>analyze</Action>
+</AskControls>
+<CaseName>EliLilly_JPBL</CaseName>
+</Response>
+<Response id="jpbl030">
+<LeftRail>
+<Id>main</Id>
+<Hidden>false</Hidden>
+</LeftRail>
+<VideoControls>
+<Hidden>true</Hidden>
+<PreviousId />
+<NextId />
+</VideoControls>
+<AskControls>
+<Hidden>false</Hidden>
+<Action>analyze</Action>
+</AskControls>
+<CaseName>EliLilly_JPBL</CaseName>
+</Response>
+<Response id="jpbl031">
+<LeftRail>
+<Id>main</Id>
+<Hidden>false</Hidden>
+</LeftRail>
+<VideoControls>
+<Hidden>true</Hidden>
+<PreviousId />
+<NextId />
+</VideoControls>
+<AskControls>
+<Hidden>false</Hidden>
+<Action>analyze</Action>
+</AskControls>
+<CaseName>EliLilly_JPBL</CaseName>
+</Response>
+<Response id="jpbl032">
+<LeftRail>
+<Id>main</Id>
+<Hidden>false</Hidden>
+</LeftRail>
+<VideoControls>
+<Hidden>true</Hidden>
+<PreviousId />
+<NextId />
+</VideoControls>
+<AskControls>
+<Hidden>false</Hidden>
+<Action>analyze</Action>
+</AskControls>
+<CaseName>EliLilly_JPBL</CaseName>
+</Response>
+<Response id="jpbl033">
+<LeftRail>
+<Id>main</Id>
+<Hidden>false</Hidden>
+</LeftRail>
+<VideoControls>
+<Hidden>true</Hidden>
+<PreviousId />
+<NextId />
+</VideoControls>
+<AskControls>
+<Hidden>false</Hidden>
+<Action>analyze</Action>
+</AskControls>
+<CaseName>EliLilly_JPBL</CaseName>
+</Response>
+<Response id="jpbl034">
+<LeftRail>
+<Id>main</Id>
+<Hidden>false</Hidden>
+</LeftRail>
+<VideoControls>
+<Hidden>true</Hidden>
+<PreviousId />
+<NextId />
+</VideoControls>
+<AskControls>
+<Hidden>false</Hidden>
+<Action>analyze</Action>
+</AskControls>
+<CaseName>EliLilly_JPBL</CaseName>
+</Response>
+<Response id="jpbl035">
+<LeftRail>
+<Id>main</Id>
+<Hidden>false</Hidden>
+</LeftRail>
+<VideoControls>
+<Hidden>true</Hidden>
+<PreviousId />
+<NextId />
+</VideoControls>
+<AskControls>
+<Hidden>false</Hidden>
+<Action>analyze</Action>
+</AskControls>
+<CaseName>EliLilly_JPBL</CaseName>
+</Response>
+<Response id="jpbl036">
+<LeftRail>
+<Id>main</Id>
+<Hidden>false</Hidden>
+</LeftRail>
+<VideoControls>
+<Hidden>true</Hidden>
+<PreviousId />
+<NextId />
+</VideoControls>
+<AskControls>
+<Hidden>false</Hidden>
+<Action>analyze</Action>
+</AskControls>
+<CaseName>EliLilly_JPBL</CaseName>
+</Response>
+<Response id="jpbl037">
+<LeftRail>
+<Id>main</Id>
+<Hidden>false</Hidden>
+</LeftRail>
+<VideoControls>
+<Hidden>true</Hidden>
+<PreviousId />
+<NextId />
+</VideoControls>
+<AskControls>
+<Hidden>false</Hidden>
+<Action>analyze</Action>
+</AskControls>
+<CaseName>EliLilly_JPBL</CaseName>
+</Response>
+<Response id="jpbl038">
+<LeftRail>
+<Id>main</Id>
+<Hidden>false</Hidden>
+</LeftRail>
+<VideoControls>
+<Hidden>true</Hidden>
+<PreviousId />
+<NextId />
+</VideoControls>
+<AskControls>
+<Hidden>false</Hidden>
+<Action>analyze</Action>
+</AskControls>
+<CaseName>EliLilly_JPBL</CaseName>
+</Response>
+<Response id="jpbl039">
+<LeftRail>
+<Id>main</Id>
+<Hidden>false</Hidden>
+</LeftRail>
+<VideoControls>
+<Hidden>true</Hidden>
+<PreviousId />
+<NextId />
+</VideoControls>
+<AskControls>
+<Hidden>false</Hidden>
+<Action>analyze</Action>
+</AskControls>
+<CaseName>EliLilly_JPBL</CaseName>
+</Response>
+<Response id="jpbl040">
+<LeftRail>
+<Id>main</Id>
+<Hidden>false</Hidden>
+</LeftRail>
+<VideoControls>
+<Hidden>true</Hidden>
+<PreviousId />
+<NextId />
+</VideoControls>
+<AskControls>
+<Hidden>false</Hidden>
+<Action>analyze</Action>
+</AskControls>
+<CaseName>EliLilly_JPBL</CaseName>
+</Response>
+<Response id="jpbl041">
+<LeftRail>
+<Id>main</Id>
+<Hidden>false</Hidden>
+</LeftRail>
+<VideoControls>
+<Hidden>true</Hidden>
+<PreviousId />
+<NextId />
+</VideoControls>
+<AskControls>
+<Hidden>false</Hidden>
+<Action>analyze</Action>
+</AskControls>
+<CaseName>EliLilly_JPBL</CaseName>
+</Response>
+<Response id="jpbl042">
+<LeftRail>
+<Id>main</Id>
+<Hidden>false</Hidden>
+</LeftRail>
+<VideoControls>
+<Hidden>true</Hidden>
+<PreviousId />
+<NextId />
+</VideoControls>
+<AskControls>
+<Hidden>false</Hidden>
+<Action>analyze</Action>
+</AskControls>
+<CaseName>EliLilly_JPBL</CaseName>
+</Response>
+<Response id="jpbl043">
+<LeftRail>
+<Id>main</Id>
+<Hidden>false</Hidden>
+</LeftRail>
+<VideoControls>
+<Hidden>true</Hidden>
+<PreviousId />
+<NextId />
+</VideoControls>
+<AskControls>
+<Hidden>false</Hidden>
+<Action>analyze</Action>
+</AskControls>
+<CaseName>EliLilly_JPBL</CaseName>
+</Response>
+<Response id="jpbl044">
+<LeftRail>
+<Id>main</Id>
+<Hidden>false</Hidden>
+</LeftRail>
+<VideoControls>
+<Hidden>true</Hidden>
+<PreviousId />
+<NextId />
+</VideoControls>
+<AskControls>
+<Hidden>false</Hidden>
+<Action>analyze</Action>
+</AskControls>
+<CaseName>EliLilly_JPBL</CaseName>
+</Response>
+<Response id="jpbl045">
+<LeftRail>
+<Id>main</Id>
+<Hidden>false</Hidden>
+</LeftRail>
+<VideoControls>
+<Hidden>true</Hidden>
+<PreviousId />
+<NextId />
+</VideoControls>
+<AskControls>
+<Hidden>false</Hidden>
+<Action>analyze</Action>
+</AskControls>
+<CaseName>EliLilly_JPBL</CaseName>
+</Response>
+<Response id="jpbl046">
+<LeftRail>
+<Id>main</Id>
+<Hidden>false</Hidden>
+</LeftRail>
+<VideoControls>
+<Hidden>true</Hidden>
+<PreviousId />
+<NextId />
+</VideoControls>
+<AskControls>
+<Hidden>false</Hidden>
+<Action>analyze</Action>
+</AskControls>
+<CaseName>EliLilly_JPBL</CaseName>
+</Response>
+<Response id="jpbl047">
+<LeftRail>
+<Id>main</Id>
+<Hidden>false</Hidden>
+</LeftRail>
+<VideoControls>
+<Hidden>true</Hidden>
+<PreviousId />
+<NextId />
+</VideoControls>
+<AskControls>
+<Hidden>false</Hidden>
+<Action>analyze</Action>
+</AskControls>
+<CaseName>EliLilly_JPBL</CaseName>
+</Response>
+<Response id="jpbl048">
+<LeftRail>
+<Id>main</Id>
+<Hidden>false</Hidden>
+</LeftRail>
+<VideoControls>
+<Hidden>true</Hidden>
+<PreviousId />
+<NextId />
+</VideoControls>
+<AskControls>
+<Hidden>false</Hidden>
+<Action>analyze</Action>
+</AskControls>
+<CaseName>EliLilly_JPBL</CaseName>
+</Response>
+<Response id="jpbl049">
+<LeftRail>
+<Id>main</Id>
+<Hidden>false</Hidden>
+</LeftRail>
+<VideoControls>
+<Hidden>true</Hidden>
+<PreviousId />
+<NextId />
+</VideoControls>
+<AskControls>
+<Hidden>false</Hidden>
+<Action>analyze</Action>
+</AskControls>
+<CaseName>EliLilly_JPBL</CaseName>
+</Response>
+<Response id="jpbl050">
+<LeftRail>
+<Id>main</Id>
+<Hidden>false</Hidden>
+</LeftRail>
+<VideoControls>
+<Hidden>true</Hidden>
+<PreviousId />
+<NextId />
+</VideoControls>
+<AskControls>
+<Hidden>false</Hidden>
+<Action>analyze</Action>
+</AskControls>
+<CaseName>EliLilly_JPBL</CaseName>
+</Response>
+<Response id="jpbl051">
+<LeftRail>
+<Id>main</Id>
+<Hidden>false</Hidden>
+</LeftRail>
+<VideoControls>
+<Hidden>true</Hidden>
+<PreviousId />
+<NextId />
+</VideoControls>
+<AskControls>
+<Hidden>false</Hidden>
+<Action>analyze</Action>
+</AskControls>
+<CaseName>EliLilly_JPBL</CaseName>
+</Response>
+<Response id="jpbl052">
+<LeftRail>
+<Id>main</Id>
+<Hidden>false</Hidden>
+</LeftRail>
+<VideoControls>
+<Hidden>true</Hidden>
+<PreviousId />
+<NextId />
+</VideoControls>
+<AskControls>
+<Hidden>false</Hidden>
+<Action>analyze</Action>
+</AskControls>
+<CaseName>EliLilly_JPBL</CaseName>
+</Response>
+<Response id="jpbl053">
+<LeftRail>
+<Id>main</Id>
+<Hidden>false</Hidden>
+</LeftRail>
+<VideoControls>
+<Hidden>true</Hidden>
+<PreviousId />
+<NextId />
+</VideoControls>
+<AskControls>
+<Hidden>false</Hidden>
+<Action>analyze</Action>
+</AskControls>
+<CaseName>EliLilly_JPBL</CaseName>
+</Response>
+<Response id="jpbl054">
+<LeftRail>
+<Id>main</Id>
+<Hidden>false</Hidden>
+</LeftRail>
+<VideoControls>
+<Hidden>true</Hidden>
+<PreviousId />
+<NextId />
+</VideoControls>
+<AskControls>
+<Hidden>false</Hidden>
+<Action>analyze</Action>
+</AskControls>
+<CaseName>EliLilly_JPBL</CaseName>
+</Response>
+<Response id="jpbl055">
+<LeftRail>
+<Id>main</Id>
+<Hidden>false</Hidden>
+</LeftRail>
+<VideoControls>
+<Hidden>true</Hidden>
+<PreviousId />
+<NextId />
+</VideoControls>
+<AskControls>
+<Hidden>false</Hidden>
+<Action>analyze</Action>
+</AskControls>
+<CaseName>EliLilly_JPBL</CaseName>
+</Response>
+<Response id="jpbl056">
+<LeftRail>
+<Id>main</Id>
+<Hidden>false</Hidden>
+</LeftRail>
+<VideoControls>
+<Hidden>true</Hidden>
+<PreviousId />
+<NextId />
+</VideoControls>
+<AskControls>
+<Hidden>false</Hidden>
+<Action>analyze</Action>
+</AskControls>
+<CaseName>EliLilly_JPBL</CaseName>
+</Response>
+<Response id="jpbl057">
+<LeftRail>
+<Id>main</Id>
+<Hidden>false</Hidden>
+</LeftRail>
+<VideoControls>
+<Hidden>true</Hidden>
+<PreviousId />
+<NextId />
+</VideoControls>
+<AskControls>
+<Hidden>false</Hidden>
+<Action>analyze</Action>
+</AskControls>
+<CaseName>EliLilly_JPBL</CaseName>
+</Response>
+<Response id="jpbl058">
+<LeftRail>
+<Id>main</Id>
+<Hidden>false</Hidden>
+</LeftRail>
+<VideoControls>
+<Hidden>true</Hidden>
+<PreviousId />
+<NextId />
+</VideoControls>
+<AskControls>
+<Hidden>false</Hidden>
+<Action>analyze</Action>
+</AskControls>
+<CaseName>EliLilly_JPBL</CaseName>
+</Response>
+<Response id="jpbl059">
+<LeftRail>
+<Id>main</Id>
+<Hidden>false</Hidden>
+</LeftRail>
+<VideoControls>
+<Hidden>true</Hidden>
+<PreviousId />
+<NextId />
+</VideoControls>
+<AskControls>
+<Hidden>false</Hidden>
+<Action>analyze</Action>
+</AskControls>
+<CaseName>EliLilly_JPBL</CaseName>
+</Response>
+<Response id="jpbl060">
+<LeftRail>
+<Id>main</Id>
+<Hidden>false</Hidden>
+</LeftRail>
+<VideoControls>
+<Hidden>true</Hidden>
+<PreviousId />
+<NextId />
+</VideoControls>
+<AskControls>
+<Hidden>false</Hidden>
+<Action>analyze</Action>
+</AskControls>
+<CaseName>EliLilly_JPBL</CaseName>
+</Response>
+<Response id="jpbl061">
+<LeftRail>
+<Id>main</Id>
+<Hidden>false</Hidden>
+</LeftRail>
+<VideoControls>
+<Hidden>true</Hidden>
+<PreviousId />
+<NextId />
+</VideoControls>
+<AskControls>
+<Hidden>false</Hidden>
+<Action>analyze</Action>
+</AskControls>
+<CaseName>EliLilly_JPBL</CaseName>
+</Response>
+<Response id="jpbl062">
+<LeftRail>
+<Id>main</Id>
+<Hidden>false</Hidden>
+</LeftRail>
+<VideoControls>
+<Hidden>true</Hidden>
+<PreviousId />
+<NextId />
+</VideoControls>
+<AskControls>
+<Hidden>false</Hidden>
+<Action>analyze</Action>
+</AskControls>
+<CaseName>EliLilly_JPBL</CaseName>
+</Response>
+<Response id="jpbl063">
+<LeftRail>
+<Id>main</Id>
+<Hidden>false</Hidden>
+</LeftRail>
+<VideoControls>
+<Hidden>true</Hidden>
+<PreviousId />
+<NextId />
+</VideoControls>
+<AskControls>
+<Hidden>false</Hidden>
+<Action>analyze</Action>
+</AskControls>
+<CaseName>EliLilly_JPBL</CaseName>
+</Response>
+<Response id="jpbl064">
+<LeftRail>
+<Id>main</Id>
+<Hidden>false</Hidden>
+</LeftRail>
+<VideoControls>
+<Hidden>true</Hidden>
+<PreviousId />
+<NextId />
+</VideoControls>
+<AskControls>
+<Hidden>false</Hidden>
+<Action>analyze</Action>
+</AskControls>
+<CaseName>EliLilly_JPBL</CaseName>
+</Response>
+<Response id="jpbl065">
+<LeftRail>
+<Id>main</Id>
+<Hidden>false</Hidden>
+</LeftRail>
+<VideoControls>
+<Hidden>true</Hidden>
+<PreviousId />
+<NextId />
+</VideoControls>
+<AskControls>
+<Hidden>false</Hidden>
+<Action>analyze</Action>
+</AskControls>
+<CaseName>EliLilly_JPBL</CaseName>
+</Response>
+<Response id="jpbl066">
+<LeftRail>
+<Id>main</Id>
+<Hidden>false</Hidden>
+</LeftRail>
+<VideoControls>
+<Hidden>true</Hidden>
+<PreviousId />
+<NextId />
+</VideoControls>
+<AskControls>
+<Hidden>false</Hidden>
+<Action>analyze</Action>
+</AskControls>
+<CaseName>EliLilly_JPBL</CaseName>
+</Response>
+<Response id="jpbl067">
+<LeftRail>
+<Id>main</Id>
+<Hidden>false</Hidden>
+</LeftRail>
+<VideoControls>
+<Hidden>true</Hidden>
+<PreviousId />
+<NextId />
+</VideoControls>
+<AskControls>
+<Hidden>false</Hidden>
+<Action>analyze</Action>
+</AskControls>
+<CaseName>EliLilly_JPBL</CaseName>
+</Response>
+<Response id="jpbl068">
+<LeftRail>
+<Id>main</Id>
+<Hidden>false</Hidden>
+</LeftRail>
+<VideoControls>
+<Hidden>true</Hidden>
+<PreviousId />
+<NextId />
+</VideoControls>
+<AskControls>
+<Hidden>false</Hidden>
+<Action>analyze</Action>
+</AskControls>
+<CaseName>EliLilly_JPBL</CaseName>
+</Response>
+<Response id="jpbl069">
+<LeftRail>
+<Id>main</Id>
+<Hidden>false</Hidden>
+</LeftRail>
+<VideoControls>
+<Hidden>true</Hidden>
+<PreviousId />
+<NextId />
+</VideoControls>
+<AskControls>
+<Hidden>false</Hidden>
+<Action>analyze</Action>
+</AskControls>
+<CaseName>EliLilly_JPBL</CaseName>
+</Response>
+<Response id="jpbl070">
+<LeftRail>
+<Id>main</Id>
+<Hidden>false</Hidden>
+</LeftRail>
+<VideoControls>
+<Hidden>true</Hidden>
+<PreviousId />
+<NextId />
+</VideoControls>
+<AskControls>
+<Hidden>false</Hidden>
+<Action>analyze</Action>
+</AskControls>
+<CaseName>EliLilly_JPBL</CaseName>
+</Response>
+<Response id="jpbl071">
+<LeftRail>
+<Id>main</Id>
+<Hidden>false</Hidden>
+</LeftRail>
+<VideoControls>
+<Hidden>true</Hidden>
+<PreviousId />
+<NextId />
+</VideoControls>
+<AskControls>
+<Hidden>false</Hidden>
+<Action>analyze</Action>
+</AskControls>
+<CaseName>EliLilly_JPBL</CaseName>
+</Response>
+<Response id="jpbl072">
+<LeftRail>
+<Id>main</Id>
+<Hidden>false</Hidden>
+</LeftRail>
+<VideoControls>
+<Hidden>true</Hidden>
+<PreviousId />
+<NextId />
+</VideoControls>
+<AskControls>
+<Hidden>false</Hidden>
+<Action>analyze</Action>
+</AskControls>
+<CaseName>EliLilly_JPBL</CaseName>
+</Response>
+<Response id="jpbl073">
+<LeftRail>
+<Id>main</Id>
+<Hidden>false</Hidden>
+</LeftRail>
+<VideoControls>
+<Hidden>true</Hidden>
+<PreviousId />
+<NextId />
+</VideoControls>
+<AskControls>
+<Hidden>false</Hidden>
+<Action>analyze</Action>
+</AskControls>
+<CaseName>EliLilly_JPBL</CaseName>
+</Response>
+<Response id="jpbl074">
+<LeftRail>
+<Id>main</Id>
+<Hidden>false</Hidden>
+</LeftRail>
+<VideoControls>
+<Hidden>true</Hidden>
+<PreviousId />
+<NextId />
+</VideoControls>
+<AskControls>
+<Hidden>false</Hidden>
+<Action>analyze</Action>
+</AskControls>
+<CaseName>EliLilly_JPBL</CaseName>
+</Response>
+<Response id="jpbl075">
+<LeftRail>
+<Id>main</Id>
+<Hidden>false</Hidden>
+</LeftRail>
+<VideoControls>
+<Hidden>true</Hidden>
+<PreviousId />
+<NextId />
+</VideoControls>
+<AskControls>
+<Hidden>false</Hidden>
+<Action>analyze</Action>
+</AskControls>
+<CaseName>EliLilly_JPBL</CaseName>
+</Response>
+<Response id="jpbl076">
+<LeftRail>
+<Id>main</Id>
+<Hidden>false</Hidden>
+</LeftRail>
+<VideoControls>
+<Hidden>true</Hidden>
+<PreviousId />
+<NextId />
+</VideoControls>
+<AskControls>
+<Hidden>false</Hidden>
+<Action>analyze</Action>
+</AskControls>
+<CaseName>EliLilly_JPBL</CaseName>
+</Response>
+<Response id="jpbl077">
+<LeftRail>
+<Id>main</Id>
+<Hidden>false</Hidden>
+</LeftRail>
+<VideoControls>
+<Hidden>true</Hidden>
+<PreviousId />
+<NextId />
+</VideoControls>
+<AskControls>
+<Hidden>false</Hidden>
+<Action>analyze</Action>
+</AskControls>
+<CaseName>EliLilly_JPBL</CaseName>
+</Response>
+<Response id="jpbl078">
+<LeftRail>
+<Id>main</Id>
+<Hidden>false</Hidden>
+</LeftRail>
+<VideoControls>
+<Hidden>true</Hidden>
+<PreviousId />
+<NextId />
+</VideoControls>
+<AskControls>
+<Hidden>false</Hidden>
+<Action>analyze</Action>
+</AskControls>
+<CaseName>EliLilly_JPBL</CaseName>
+</Response>
+<Response id="jpbl079">
+<LeftRail>
+<Id>main</Id>
+<Hidden>false</Hidden>
+</LeftRail>
+<VideoControls>
+<Hidden>true</Hidden>
+<PreviousId />
+<NextId />
+</VideoControls>
+<AskControls>
+<Hidden>false</Hidden>
+<Action>analyze</Action>
+</AskControls>
+<CaseName>EliLilly_JPBL</CaseName>
+</Response>
+<Response id="jpbl080">
+<LeftRail>
+<Id>main</Id>
+<Hidden>false</Hidden>
+</LeftRail>
+<VideoControls>
+<Hidden>true</Hidden>
+<PreviousId />
+<NextId />
+</VideoControls>
+<AskControls>
+<Hidden>false</Hidden>
+<Action>analyze</Action>
+</AskControls>
+<CaseName>EliLilly_JPBL</CaseName>
+</Response>
+<Response id="jpbl081">
+<LeftRail>
+<Id>main</Id>
+<Hidden>false</Hidden>
+</LeftRail>
+<VideoControls>
+<Hidden>true</Hidden>
+<PreviousId />
+<NextId />
+</VideoControls>
+<AskControls>
+<Hidden>false</Hidden>
+<Action>analyze</Action>
+</AskControls>
+<CaseName>EliLilly_JPBL</CaseName>
+</Response>
+<Response id="jpbl082">
+<LeftRail>
+<Id>main</Id>
+<Hidden>false</Hidden>
+</LeftRail>
+<VideoControls>
+<Hidden>true</Hidden>
+<PreviousId />
+<NextId />
+</VideoControls>
+<AskControls>
+<Hidden>false</Hidden>
+<Action>analyze</Action>
+</AskControls>
+<CaseName>EliLilly_JPBL</CaseName>
+</Response>
+<Response id="jpbl083">
+<LeftRail>
+<Id>main</Id>
+<Hidden>false</Hidden>
+</LeftRail>
+<VideoControls>
+<Hidden>true</Hidden>
+<PreviousId />
+<NextId />
+</VideoControls>
+<AskControls>
+<Hidden>false</Hidden>
+<Action>analyze</Action>
+</AskControls>
+<CaseName>EliLilly_JPBL</CaseName>
+</Response>
+<Response id="jpbl084">
+<LeftRail>
+<Id>main</Id>
+<Hidden>false</Hidden>
+</LeftRail>
+<VideoControls>
+<Hidden>true</Hidden>
+<PreviousId />
+<NextId />
+</VideoControls>
+<AskControls>
+<Hidden>false</Hidden>
+<Action>analyze</Action>
+</AskControls>
+<CaseName>EliLilly_JPBL</CaseName>
+</Response>
+<Response id="jpbl085">
+<LeftRail>
+<Id>main</Id>
+<Hidden>false</Hidden>
+</LeftRail>
+<VideoControls>
+<Hidden>true</Hidden>
+<PreviousId />
+<NextId />
+</VideoControls>
+<AskControls>
+<Hidden>false</Hidden>
+<Action>analyze</Action>
+</AskControls>
+<CaseName>EliLilly_JPBL</CaseName>
+</Response>
+<Response id="jpbl086">
+<LeftRail>
+<Id>main</Id>
+<Hidden>false</Hidden>
+</LeftRail>
+<VideoControls>
+<Hidden>true</Hidden>
+<PreviousId />
+<NextId />
+</VideoControls>
+<AskControls>
+<Hidden>false</Hidden>
+<Action>analyze</Action>
+</AskControls>
+<CaseName>EliLilly_JPBL</CaseName>
+</Response>
+<Response id="jpbl087">
+<LeftRail>
+<Id>main</Id>
+<Hidden>false</Hidden>
+</LeftRail>
+<VideoControls>
+<Hidden>true</Hidden>
+<PreviousId />
+<NextId />
+</VideoControls>
+<AskControls>
+<Hidden>false</Hidden>
+<Action>analyze</Action>
+</AskControls>
+<CaseName>EliLilly_JPBL</CaseName>
+</Response>
+<Response id="jpbl088">
+<LeftRail>
+<Id>main</Id>
+<Hidden>false</Hidden>
+</LeftRail>
+<VideoControls>
+<Hidden>true</Hidden>
+<PreviousId />
+<NextId />
+</VideoControls>
+<AskControls>
+<Hidden>false</Hidden>
+<Action>analyze</Action>
+</AskControls>
+<CaseName>EliLilly_JPBL</CaseName>
+</Response>
+<Response id="jpbl089">
+<LeftRail>
+<Id>main</Id>
+<Hidden>false</Hidden>
+</LeftRail>
+<VideoControls>
+<Hidden>true</Hidden>
+<PreviousId />
+<NextId />
+</VideoControls>
+<AskControls>
+<Hidden>false</Hidden>
+<Action>analyze</Action>
+</AskControls>
+<CaseName>EliLilly_JPBL</CaseName>
+</Response>
+<Response id="jpbl090">
+<LeftRail>
+<Id>main</Id>
+<Hidden>false</Hidden>
+</LeftRail>
+<VideoControls>
+<Hidden>true</Hidden>
+<PreviousId />
+<NextId />
+</VideoControls>
+<AskControls>
+<Hidden>false</Hidden>
+<Action>analyze</Action>
+</AskControls>
+<CaseName>EliLilly_JPBL</CaseName>
+</Response>
+<Response id="jpbl091">
+<LeftRail>
+<Id>main</Id>
+<Hidden>false</Hidden>
+</LeftRail>
+<VideoControls>
+<Hidden>true</Hidden>
+<PreviousId />
+<NextId />
+</VideoControls>
+<AskControls>
+<Hidden>false</Hidden>
+<Action>analyze</Action>
+</AskControls>
+<CaseName>EliLilly_JPBL</CaseName>
+</Response>
+<Response id="jpbl092">
+<LeftRail>
+<Id>main</Id>
+<Hidden>false</Hidden>
+</LeftRail>
+<VideoControls>
+<Hidden>true</Hidden>
+<PreviousId />
+<NextId />
+</VideoControls>
+<AskControls>
+<Hidden>false</Hidden>
+<Action>analyze</Action>
+</AskControls>
+<CaseName>EliLilly_JPBL</CaseName>
+</Response>
+<Response id="jpbl093">
+<LeftRail>
+<Id>main</Id>
+<Hidden>false</Hidden>
+</LeftRail>
+<VideoControls>
+<Hidden>true</Hidden>
+<PreviousId />
+<NextId />
+</VideoControls>
+<AskControls>
+<Hidden>false</Hidden>
+<Action>analyze</Action>
+</AskControls>
+<CaseName>EliLilly_JPBL</CaseName>
+</Response>
+<Response id="jpbl094">
+<LeftRail>
+<Id>main</Id>
+<Hidden>false</Hidden>
+</LeftRail>
+<VideoControls>
+<Hidden>true</Hidden>
+<PreviousId />
+<NextId />
+</VideoControls>
+<AskControls>
+<Hidden>false</Hidden>
+<Action>analyze</Action>
+</AskControls>
+<CaseName>EliLilly_JPBL</CaseName>
+</Response>
+<Response id="jpbl095">
+<LeftRail>
+<Id>main</Id>
+<Hidden>false</Hidden>
+</LeftRail>
+<VideoControls>
+<Hidden>true</Hidden>
+<PreviousId />
+<NextId />
+</VideoControls>
+<AskControls>
+<Hidden>false</Hidden>
+<Action>analyze</Action>
+</AskControls>
+<CaseName>EliLilly_JPBL</CaseName>
+</Response>
+<Response id="jpbl096">
+<LeftRail>
+<Id>main</Id>
+<Hidden>false</Hidden>
+</LeftRail>
+<VideoControls>
+<Hidden>true</Hidden>
+<PreviousId />
+<NextId />
+</VideoControls>
+<AskControls>
+<Hidden>false</Hidden>
+<Action>analyze</Action>
+</AskControls>
+<CaseName>EliLilly_JPBL</CaseName>
+</Response>
+<Response id="jpbl097">
+<LeftRail>
+<Id>main</Id>
+<Hidden>false</Hidden>
+</LeftRail>
+<VideoControls>
+<Hidden>true</Hidden>
+<PreviousId />
+<NextId />
+</VideoControls>
+<AskControls>
+<Hidden>false</Hidden>
+<Action>analyze</Action>
+</AskControls>
+<CaseName>EliLilly_JPBL</CaseName>
+</Response>
+<Response id="jpbl098">
+<LeftRail>
+<Id>main</Id>
+<Hidden>false</Hidden>
+</LeftRail>
+<VideoControls>
+<Hidden>true</Hidden>
+<PreviousId />
+<NextId />
+</VideoControls>
+<AskControls>
+<Hidden>false</Hidden>
+<Action>analyze</Action>
+</AskControls>
+<CaseName>EliLilly_JPBL</CaseName>
+</Response>
+<Response id="jpbl099">
+<LeftRail>
+<Id>main</Id>
+<Hidden>false</Hidden>
+</LeftRail>
+<VideoControls>
+<Hidden>true</Hidden>
+<PreviousId />
+<NextId />
+</VideoControls>
+<AskControls>
+<Hidden>false</Hidden>
+<Action>analyze</Action>
+</AskControls>
+<CaseName>EliLilly_JPBL</CaseName>
+</Response>
+<Response id="jpbl100">
+<LeftRail>
+<Id>main</Id>
+<Hidden>false</Hidden>
+</LeftRail>
+<VideoControls>
+<Hidden>true</Hidden>
+<PreviousId />
+<NextId />
+</VideoControls>
+<AskControls>
+<Hidden>false</Hidden>
+<Action>analyze</Action>
+</AskControls>
+<CaseName>EliLilly_JPBL</CaseName>
+</Response>
+<Response id="jpbl101">
+<LeftRail>
+<Id>main</Id>
+<Hidden>false</Hidden>
+<ModuleSelected>0</ModuleSelected>
+</LeftRail>
+<VideoControls>
+<Hidden>true</Hidden>
+<PreviousId />
+<NextId />
+</VideoControls>
+<AskControls>
+<Hidden>false</Hidden>
+<Action>analyze</Action>
+</AskControls>
+<CaseName>EliLilly_JPBL</CaseName>
+</Response>
+<Response id="jpbl102">
+<LeftRail>
+<Id>main</Id>
+<Hidden>false</Hidden>
+</LeftRail>
+<VideoControls>
+<Hidden>true</Hidden>
+<PreviousId />
+<NextId />
+</VideoControls>
+<AskControls>
+<Hidden>false</Hidden>
+<Action>analyze</Action>
+</AskControls>
+<CaseName>EliLilly_JPBL</CaseName>
+</Response>
+<Response id="jpbl103">
+<LeftRail>
+<Id>main</Id>
+<Hidden>false</Hidden>
+<ModuleSelected>0</ModuleSelected>
+</LeftRail>
+<VideoControls>
+<Hidden>true</Hidden>
+<PreviousId />
+<NextId />
+</VideoControls>
+<AskControls>
+<Hidden>false</Hidden>
+<Action>analyze</Action>
+</AskControls>
+<CaseName>EliLilly_JPBL</CaseName>
+</Response>
+<Response id="jpbl104">
+<LeftRail>
+<Id>main</Id>
+<Hidden>false</Hidden>
+<ModuleSelected>0</ModuleSelected>
+</LeftRail>
+<VideoControls>
+<Hidden>true</Hidden>
+<PreviousId />
+<NextId />
+</VideoControls>
+<AskControls>
+<Hidden>false</Hidden>
+<Action>analyze</Action>
+</AskControls>
+<CaseName>EliLilly_JPBL</CaseName>
+</Response>
+<Response id="jpbl105">
+<LeftRail>
+<Id>main</Id>
+<Hidden>false</Hidden>
+</LeftRail>
+<VideoControls>
+<Hidden>true</Hidden>
+<PreviousId />
+<NextId />
+</VideoControls>
+<AskControls>
+<Hidden>false</Hidden>
+<Action>analyze</Action>
+</AskControls>
+<CaseName>EliLilly_JPBL</CaseName>
+</Response>
+<Response id="jpbl106">
+<LeftRail>
+<Id>main</Id>
+<Hidden>false</Hidden>
+</LeftRail>
+<VideoControls>
+<Hidden>true</Hidden>
+<PreviousId />
+<NextId />
+</VideoControls>
+<AskControls>
+<Hidden>false</Hidden>
+<Action>analyze</Action>
+</AskControls>
+<CaseName>EliLilly_JPBL</CaseName>
+</Response>
+<Response id="jpbl107">
+<LeftRail>
+<Id>main</Id>
+<Hidden>false</Hidden>
+</LeftRail>
+<VideoControls>
+<Hidden>true</Hidden>
+<PreviousId />
+<NextId />
+</VideoControls>
+<AskControls>
+<Hidden>false</Hidden>
+<Action>analyze</Action>
+</AskControls>
+<CaseName>EliLilly_JPBL</CaseName>
+</Response>
+<Response id="jpbl108">
+<LeftRail>
+<Id>main</Id>
+<Hidden>false</Hidden>
+<ModuleSelected>0</ModuleSelected>
+</LeftRail>
+<VideoControls>
+<Hidden>true</Hidden>
+<PreviousId />
+<NextId />
+</VideoControls>
+<AskControls>
+<Hidden>false</Hidden>
+<Action>analyze</Action>
+</AskControls>
+<CaseName>EliLilly_JPBL</CaseName>
+</Response>
+<Response id="jpbl109">
+<LeftRail>
+<Id>main</Id>
+<Hidden>false</Hidden>
+</LeftRail>
+<VideoControls>
+<Hidden>true</Hidden>
+<PreviousId />
+<NextId />
+</VideoControls>
+<AskControls>
+<Hidden>false</Hidden>
+<Action>analyze</Action>
+</AskControls>
+<CaseName>EliLilly_JPBL</CaseName>
+</Response>
+<Response id="jpbl110">
+<LeftRail>
+<Id>main</Id>
+<Hidden>false</Hidden>
+</LeftRail>
+<VideoControls>
+<Hidden>true</Hidden>
+<PreviousId />
+<NextId />
+</VideoControls>
+<AskControls>
+<Hidden>false</Hidden>
+<Action>analyze</Action>
+</AskControls>
+<CaseName>EliLilly_JPBL</CaseName>
+</Response>
+<Response id="jpbl111">
+<LeftRail>
+<Id>main</Id>
+<Hidden>false</Hidden>
+</LeftRail>
+<VideoControls>
+<Hidden>true</Hidden>
+<PreviousId />
+<NextId />
+</VideoControls>
+<AskControls>
+<Hidden>false</Hidden>
+<Action>analyze</Action>
+</AskControls>
+<CaseName>EliLilly_JPBL</CaseName>
+</Response>
+<Response id="jpbl112">
+<LeftRail>
+<Id>main</Id>
+<Hidden>false</Hidden>
+</LeftRail>
+<VideoControls>
+<Hidden>true</Hidden>
+<PreviousId />
+<NextId />
+</VideoControls>
+<AskControls>
+<Hidden>false</Hidden>
+<Action>analyze</Action>
+</AskControls>
+<CaseName>EliLilly_JPBL</CaseName>
+</Response>
+<Response id="jpbl113">
+<LeftRail>
+<Id>main</Id>
+<Hidden>false</Hidden>
+</LeftRail>
+<VideoControls>
+<Hidden>true</Hidden>
+<PreviousId />
+<NextId />
+</VideoControls>
+<AskControls>
+<Hidden>false</Hidden>
+<Action>analyze</Action>
+</AskControls>
+<CaseName>EliLilly_JPBL</CaseName>
+</Response>
+<Response id="jpbl114">
+<LeftRail>
+<Id>main</Id>
+<Hidden>false</Hidden>
+</LeftRail>
+<VideoControls>
+<Hidden>true</Hidden>
+<PreviousId />
+<NextId />
+</VideoControls>
+<AskControls>
+<Hidden>false</Hidden>
+<Action>analyze</Action>
+</AskControls>
+<CaseName>EliLilly_JPBL</CaseName>
+</Response>
+<Response id="jpbl115">
+<LeftRail>
+<Id>main</Id>
+<Hidden>false</Hidden>
+</LeftRail>
+<VideoControls>
+<Hidden>true</Hidden>
+<PreviousId />
+<NextId />
+</VideoControls>
+<AskControls>
+<Hidden>false</Hidden>
+<Action>analyze</Action>
+</AskControls>
+<CaseName>EliLilly_JPBL</CaseName>
+</Response>
+<Response id="jpbl116">
+<LeftRail>
+<Id>main</Id>
+<Hidden>false</Hidden>
+<ModuleSelected>1</ModuleSelected>
+</LeftRail>
+<VideoControls>
+<Hidden>true</Hidden>
+<PreviousId />
+<NextId />
+</VideoControls>
+<AskControls>
+<Hidden>false</Hidden>
+<Action>analyze</Action>
+</AskControls>
+<CaseName>EliLilly_JPBL</CaseName>
+</Response>
+<Response id="jpbl117">
+<LeftRail>
+<Id>main</Id>
+<Hidden>false</Hidden>
+<ModuleSelected>1</ModuleSelected>
+</LeftRail>
+<VideoControls>
+<Hidden>true</Hidden>
+<PreviousId />
+<NextId />
+</VideoControls>
+<AskControls>
+<Hidden>false</Hidden>
+<Action>analyze</Action>
+</AskControls>
+<CaseName>EliLilly_JPBL</CaseName>
+</Response>
+<Response id="jpbl118">
+<LeftRail>
+<Id>main</Id>
+<Hidden>false</Hidden>
+</LeftRail>
+<VideoControls>
+<Hidden>true</Hidden>
+<PreviousId />
+<NextId />
+</VideoControls>
+<AskControls>
+<Hidden>false</Hidden>
+<Action>analyze</Action>
+</AskControls>
+<CaseName>EliLilly_JPBL</CaseName>
+</Response>
+<Response id="jpbl119">
+<LeftRail>
+<Id>main</Id>
+<Hidden>false</Hidden>
+<ModuleSelected>1</ModuleSelected>
+</LeftRail>
+<VideoControls>
+<Hidden>true</Hidden>
+<PreviousId />
+<NextId />
+</VideoControls>
+<AskControls>
+<Hidden>false</Hidden>
+<Action>analyze</Action>
+</AskControls>
+<CaseName>EliLilly_JPBL</CaseName>
+</Response>
+<Response id="jpbl120">
+<LeftRail>
+<Id>main</Id>
+<Hidden>false</Hidden>
+</LeftRail>
+<VideoControls>
+<Hidden>true</Hidden>
+<PreviousId />
+<NextId />
+</VideoControls>
+<AskControls>
+<Hidden>false</Hidden>
+<Action>analyze</Action>
+</AskControls>
+<CaseName>EliLilly_JPBL</CaseName>
+</Response>
+<Response id="jpbl121">
+<LeftRail>
+<Id>main</Id>
+<Hidden>false</Hidden>
+<ModuleSelected>1</ModuleSelected>
+</LeftRail>
+<VideoControls>
+<Hidden>true</Hidden>
+<PreviousId />
+<NextId />
+</VideoControls>
+<AskControls>
+<Hidden>false</Hidden>
+<Action>analyze</Action>
+</AskControls>
+<CaseName>EliLilly_JPBL</CaseName>
+</Response>
+<Response id="jpbl122">
+<LeftRail>
+<Id>main</Id>
+<Hidden>false</Hidden>
+</LeftRail>
+<VideoControls>
+<Hidden>true</Hidden>
+<PreviousId />
+<NextId />
+</VideoControls>
+<AskControls>
+<Hidden>false</Hidden>
+<Action>analyze</Action>
+</AskControls>
+<CaseName>EliLilly_JPBL</CaseName>
+</Response>
+<Response id="jpbl123">
+<LeftRail>
+<Id>main</Id>
+<Hidden>false</Hidden>
+</LeftRail>
+<VideoControls>
+<Hidden>true</Hidden>
+<PreviousId />
+<NextId />
+</VideoControls>
+<AskControls>
+<Hidden>false</Hidden>
+<Action>analyze</Action>
+</AskControls>
+<CaseName>EliLilly_JPBL</CaseName>
+</Response>
+<Response id="jpbl124">
+<LeftRail>
+<Id>main</Id>
+<Hidden>false</Hidden>
+<ModuleSelected>2</ModuleSelected>
+</LeftRail>
+<VideoControls>
+<Hidden>true</Hidden>
+<PreviousId />
+<NextId />
+</VideoControls>
+<AskControls>
+<Hidden>false</Hidden>
+<Action>analyze</Action>
+</AskControls>
+<CaseName>EliLilly_JPBL</CaseName>
+</Response>
+<Response id="jpbl125">
+<LeftRail>
+<Id>main</Id>
+<Hidden>false</Hidden>
+</LeftRail>
+<VideoControls>
+<Hidden>false</Hidden>
+<PreviousId />
+<NextId />
+</VideoControls>
+<AskControls>
+<Hidden>true</Hidden>
+<Action>analyze</Action>
+</AskControls>
+<CaseName>EliLilly_JPBL</CaseName>
+</Response>
+<Response id="jpbl126">
+<LeftRail>
+<Id>main</Id>
+<Hidden>false</Hidden>
+<ModuleSelected>2</ModuleSelected>
+</LeftRail>
+<VideoControls>
+<Hidden>true</Hidden>
+<PreviousId />
+<NextId />
+</VideoControls>
+<AskControls>
+<Hidden>false</Hidden>
+<Action>analyze</Action>
+</AskControls>
+<CaseName>EliLilly_JPBL</CaseName>
+</Response>
+<Response id="jpbl127">
+<LeftRail>
+<Id>main</Id>
+<Hidden>false</Hidden>
+<ModuleSelected>2</ModuleSelected>
+</LeftRail>
+<VideoControls>
+<Hidden>true</Hidden>
+<PreviousId />
+<NextId />
+</VideoControls>
+<AskControls>
+<Hidden>false</Hidden>
+<Action>analyze</Action>
+</AskControls>
+<CaseName>EliLilly_JPBL</CaseName>
+</Response>
+<Response id="jpbl128">
+<LeftRail>
+<Id>main</Id>
+<Hidden>false</Hidden>
+</LeftRail>
+<VideoControls>
+<Hidden>true</Hidden>
+<PreviousId />
+<NextId />
+</VideoControls>
+<AskControls>
+<Hidden>false</Hidden>
+<Action>analyze</Action>
+</AskControls>
+<CaseName>EliLilly_JPBL</CaseName>
+</Response>
+<Response id="jpbl129">
+<LeftRail>
+<Id>main</Id>
+<Hidden>false</Hidden>
+</LeftRail>
+<VideoControls>
+<Hidden>false</Hidden>
+<PreviousId />
+<NextId />
+</VideoControls>
+<AskControls>
+<Hidden>true</Hidden>
+<Action>analyze</Action>
+</AskControls>
+<CaseName>EliLilly_JPBL</CaseName>
+</Response>
+<Response id="jpbl130">
+<LeftRail>
+<Id>main</Id>
+<Hidden>true</Hidden>
+</LeftRail>
+<VideoControls>
+<Hidden>false</Hidden>
+<PreviousId />
+<NextId />
+</VideoControls>
+<AskControls>
+<Hidden>true</Hidden>
+<Action>analyze</Action>
+</AskControls>
+<CaseName>EliLilly_JPBL</CaseName>
+</Response>
+<Response id="jpbl131">
+<LeftRail>
+<Id>main</Id>
+<Hidden>true</Hidden>
+</LeftRail>
+<VideoControls>
+<Hidden>false</Hidden>
+<PreviousId />
+<NextId />
+</VideoControls>
+<AskControls>
+<Hidden>true</Hidden>
+<Action>analyze</Action>
+</AskControls>
+<CaseName>EliLilly_JPBL</CaseName>
+</Response>
+<Response id="jpbl132">
+<LeftRail>
+<Id>main</Id>
+<Hidden>true</Hidden>
+<ModuleSelected>2</ModuleSelected>
+</LeftRail>
+<VideoControls>
+<Hidden>false</Hidden>
+<PreviousId />
+<NextId />
+</VideoControls>
+<AskControls>
+<Hidden>true</Hidden>
+<Action>analyze</Action>
+</AskControls>
+<CaseName>EliLilly_JPBL</CaseName>
+</Response>
+<Response id="jpbl133">
+<LeftRail>
+<Id>main</Id>
+<Hidden>true</Hidden>
+</LeftRail>
+<VideoControls>
+<Hidden>false</Hidden>
+<PreviousId />
+<NextId />
+</VideoControls>
+<AskControls>
+<Hidden>true</Hidden>
+<Action>analyze</Action>
+</AskControls>
+<CaseName>EliLilly_JPBL</CaseName>
+</Response>
+<Response id="jpbl134">
+<LeftRail>
+<Id>main</Id>
+<Hidden>true</Hidden>
+</LeftRail>
+<VideoControls>
+<Hidden>false</Hidden>
+<PreviousId />
+<NextId />
+</VideoControls>
+<AskControls>
+<Hidden>true</Hidden>
+<Action>analyze</Action>
+</AskControls>
+<CaseName>EliLilly_JPBL</CaseName>
+</Response>
+<Response id="jpbl135">
+<LeftRail>
+<Id>main</Id>
+<Hidden>true</Hidden>
+</LeftRail>
+<VideoControls>
+<Hidden>false</Hidden>
+<PreviousId />
+<NextId />
+</VideoControls>
+<AskControls>
+<Hidden>true</Hidden>
+<Action>analyze</Action>
+</AskControls>
+<CaseName>EliLilly_JPBL</CaseName>
+</Response>
+<Response id="jpbl136">
+<LeftRail>
+<Id>main</Id>
+<Hidden>true</Hidden>
+</LeftRail>
+<VideoControls>
+<Hidden>true</Hidden>
+<PreviousId />
+<NextId />
+</VideoControls>
+<AskControls>
+<Hidden>false</Hidden>
+<Action>analyze</Action>
+</AskControls>
+<CaseName>EliLilly_JPBL</CaseName>
+</Response>
+<Response id="jpbl137">
+<LeftRail>
+<Id>main</Id>
+<Hidden>true</Hidden>
+<ModuleSelected>3</ModuleSelected>
+</LeftRail>
+<VideoControls>
+<Hidden>false</Hidden>
+<PreviousId />
+<NextId />
+</VideoControls>
+<AskControls>
+<Hidden>true</Hidden>
+<Action>analyze</Action>
+</AskControls>
+<CaseName>EliLilly_JPBL</CaseName>
+</Response>
+<Response id="jpbl138">
+<LeftRail>
+<Id>main</Id>
+<Hidden>true</Hidden>
+<ModuleSelected>3</ModuleSelected>
+</LeftRail>
+<VideoControls>
+<Hidden>false</Hidden>
+<PreviousId />
+<NextId />
+</VideoControls>
+<AskControls>
+<Hidden>true</Hidden>
+<Action>analyze</Action>
+</AskControls>
+<CaseName>EliLilly_JPBL</CaseName>
+</Response>
+<Response id="jpbl139">
+<LeftRail>
+<Id>main</Id>
+<Hidden>true</Hidden>
+<ModuleSelected>4</ModuleSelected>
+</LeftRail>
+<VideoControls>
+<Hidden>false</Hidden>
+<PreviousId />
+<NextId />
+</VideoControls>
+<AskControls>
+<Hidden>true</Hidden>
+<Action>analyze</Action>
+</AskControls>
+<CaseName>EliLilly_JPBL</CaseName>
+</Response>
+<Response id="jpbl140">
+<LeftRail>
+<Id>main</Id>
+<Hidden>true</Hidden>
+<ModuleSelected>4</ModuleSelected>
+</LeftRail>
+<VideoControls>
+<Hidden>false</Hidden>
+<PreviousId />
+<NextId />
+</VideoControls>
+<AskControls>
+<Hidden>true</Hidden>
+<Action>analyze</Action>
+</AskControls>
+<CaseName>EliLilly_JPBL</CaseName>
+</Response>
+<Response id="jpbl141">
+<LeftRail>
+<Id>main</Id>
+<Hidden>true</Hidden>
+</LeftRail>
+<VideoControls>
+<Hidden>true</Hidden>
+<PreviousId />
+<NextId />
+</VideoControls>
+<AskControls>
+<Hidden>false</Hidden>
+<Action>analyze</Action>
+</AskControls>
+<CaseName>EliLilly_JPBL</CaseName>
+</Response>
+<Response id="jpbl142">
+<LeftRail>
+<Id>main</Id>
+<Hidden>true</Hidden>
+<ModuleSelected>4</ModuleSelected>
+</LeftRail>
+<VideoControls>
+<Hidden>false</Hidden>
+<PreviousId />
+<NextId />
+</VideoControls>
+<AskControls>
+<Hidden>true</Hidden>
+<Action>analyze</Action>
+</AskControls>
+<CaseName>EliLilly_JPBL</CaseName>
+</Response>
+<Response id="jpbl143">
+<LeftRail>
+<Id>prognosis</Id>
+<Hidden>false</Hidden>
+</LeftRail>
+<VideoControls>
+<Hidden>true</Hidden>
+<PreviousId />
+<NextId />
+</VideoControls>
+<AskControls>
+<Hidden>false</Hidden>
+<Action>analyze</Action>
+</AskControls>
+<CaseName>EliLilly_JPBL</CaseName>
+</Response>
+<Response id="jpbl144">
+<LeftRail>
+<Id>support</Id>
+<Hidden>false</Hidden>
+</LeftRail>
+<VideoControls>
+<Hidden>true</Hidden>
+<PreviousId />
+<NextId />
+</VideoControls>
+<AskControls>
+<Hidden>false</Hidden>
+<Action>analyze</Action>
+</AskControls>
+<CaseName>EliLilly_JPBL</CaseName>
+</Response>
+<Response id="jpbl145">
+<LeftRail>
+<Id>main</Id>
+<Hidden>true</Hidden>
+</LeftRail>
+<VideoControls>
+<Hidden>false</Hidden>
+<PreviousId />
+<NextId />
+</VideoControls>
+<AskControls>
+<Hidden>true</Hidden>
+<Action>analyze</Action>
+</AskControls>
+<CaseName>EliLilly_JPBL</CaseName>
+</Response>
+<Response id="jpbl146">
+<LeftRail>
+<Id>main</Id>
+<Hidden>true</Hidden>
+<ModuleSelected>4</ModuleSelected>
+</LeftRail>
+<VideoControls>
+<Hidden>false</Hidden>
+<PreviousId />
+<NextId />
+</VideoControls>
+<AskControls>
+<Hidden>true</Hidden>
+<Action>analyze</Action>
+</AskControls>
+<CaseName>EliLilly_JPBL</CaseName>
+</Response>
+<Response id="jpbl147">
+<LeftRail>
+<Id>main</Id>
+<Hidden>true</Hidden>
+</LeftRail>
+<VideoControls>
+<Hidden>true</Hidden>
+<PreviousId />
+<NextId />
+</VideoControls>
+<AskControls>
+<Hidden>false</Hidden>
+<Action>log</Action>
+</AskControls>
+<CaseName>EliLilly_JPBL</CaseName>
+</Response>
+<Response id="jpbl148">
+<LeftRail>
+<Id>main</Id>
+<Hidden>true</Hidden>
+</LeftRail>
+<VideoControls>
+<Hidden>true</Hidden>
+<PreviousId />
+<NextId />
+</VideoControls>
+<AskControls>
+<Hidden>false</Hidden>
+<Action>log</Action>
+</AskControls>
+<CaseName>EliLilly_JPBL</CaseName>
+</Response>
+<Response id="jpbl149">
+<LeftRail>
+<Id>main</Id>
+<Hidden>true</Hidden>
+</LeftRail>
+<VideoControls>
+<Hidden>true</Hidden>
+<PreviousId />
+<NextId />
+</VideoControls>
+<AskControls>
+<Hidden>false</Hidden>
+<Action>log</Action>
+</AskControls>
+<CaseName>EliLilly_JPBL</CaseName>
+</Response>
+<Response id="jpbl150">
+<LeftRail>
+<Id>main</Id>
+<Hidden>true</Hidden>
+<ModuleSelected>5</ModuleSelected>
+</LeftRail>
+<VideoControls>
+<Hidden>true</Hidden>
+<PreviousId />
+<NextId />
+</VideoControls>
+<AskControls>
+<Hidden>false</Hidden>
+<Action>log</Action>
+</AskControls>
+<CaseName>EliLilly_JPBL</CaseName>
+</Response>
+<Response id="jpbl151">
+<LeftRail>
+<Id>main</Id>
+<Hidden>true</Hidden>
+</LeftRail>
+<VideoControls>
+<Hidden>true</Hidden>
+<PreviousId />
+<NextId />
+</VideoControls>
+<AskControls>
+<Hidden>false</Hidden>
+<Action>log</Action>
+</AskControls>
+<CaseName>EliLilly_JPBL</CaseName>
+</Response>
+<Response id="jpbl152">
+<LeftRail>
+<Id>main</Id>
+<Hidden>true</Hidden>
+</LeftRail>
+<VideoControls>
+<Hidden>true</Hidden>
+<PreviousId />
+<NextId />
+</VideoControls>
+<AskControls>
+<Hidden>false</Hidden>
+<Action>log</Action>
+</AskControls>
+<CaseName>EliLilly_JPBL</CaseName>
+</Response>
+<Response id="jpbl153">
+<LeftRail>
+<Id>main</Id>
+<Hidden>true</Hidden>
+</LeftRail>
+<VideoControls>
+<Hidden>true</Hidden>
+<PreviousId />
+<NextId />
+</VideoControls>
+<AskControls>
+<Hidden>false</Hidden>
+<Action>log</Action>
+</AskControls>
+<CaseName>EliLilly_JPBL</CaseName>
+</Response>
+<Response id="jpbl154">
+<LeftRail>
+<Id>main</Id>
+<Hidden>true</Hidden>
+<ModuleSelected>5</ModuleSelected>
+</LeftRail>
+<VideoControls>
+<Hidden>true</Hidden>
+<PreviousId />
+<NextId />
+</VideoControls>
+<AskControls>
+<Hidden>false</Hidden>
+<Action>log</Action>
+</AskControls>
+<CaseName>EliLilly_JPBL</CaseName>
+</Response>
+<Response id="jpbl155">
+<LeftRail>
+<Id>main</Id>
+<Hidden>true</Hidden>
+<ModuleSelected>5</ModuleSelected>
+</LeftRail>
+<VideoControls>
+<Hidden>true</Hidden>
+<PreviousId />
+<NextId />
+</VideoControls>
+<AskControls>
+<Hidden>false</Hidden>
+<Action>log</Action>
+</AskControls>
+<CaseName>EliLilly_JPBL</CaseName>
+</Response>
+<Response id="jpbl156">
+<LeftRail>
+<Id>main</Id>
+<Hidden>true</Hidden>
+</LeftRail>
+<VideoControls>
+<Hidden>true</Hidden>
+<PreviousId />
+<NextId />
+</VideoControls>
+<AskControls>
+<Hidden>false</Hidden>
+<Action>log</Action>
+</AskControls>
+<CaseName>EliLilly_JPBL</CaseName>
+</Response>
+<Response id="jpbl157">
+<LeftRail>
+<Id>main</Id>
+<Hidden>true</Hidden>
+</LeftRail>
+<VideoControls>
+<Hidden>true</Hidden>
+<PreviousId />
+<NextId />
+</VideoControls>
+<AskControls>
+<Hidden>false</Hidden>
+<Action>log</Action>
+</AskControls>
+<CaseName>EliLilly_JPBL</CaseName>
+</Response>
+<Response id="jpbl158">
+<LeftRail>
+<Id>main</Id>
+<Hidden>true</Hidden>
+<ModuleSelected>4</ModuleSelected>
+</LeftRail>
+<VideoControls>
+<Hidden>true</Hidden>
+<PreviousId />
+<NextId />
+</VideoControls>
+<AskControls>
+<Hidden>false</Hidden>
+<Action>log</Action>
+</AskControls>
+<CaseName>EliLilly_JPBL</CaseName>
+</Response>
+<Response id="jpbl159">
+<LeftRail>
+<Id>main</Id>
+<Hidden>true</Hidden>
+</LeftRail>
+<VideoControls>
+<Hidden>false</Hidden>
+<PreviousId />
+<NextId />
+</VideoControls>
+<AskControls>
+<Hidden>true</Hidden>
+<Action>analyze</Action>
+</AskControls>
+<CaseName>EliLilly_JPBL</CaseName>
+</Response>
+<Response id="jpbl160">
+<LeftRail>
+<Id>main</Id>
+<Hidden>true</Hidden>
+</LeftRail>
+<VideoControls>
+<Hidden>false</Hidden>
+<PreviousId />
+<NextId />
+</VideoControls>
+<AskControls>
+<Hidden>true</Hidden>
+<Action>analyze</Action>
+</AskControls>
+<CaseName>EliLilly_JPBL</CaseName>
+</Response>
+<Response id="jpbl161">
+<LeftRail>
+<Id>main</Id>
+<Hidden>true</Hidden>
+</LeftRail>
+<VideoControls>
+<Hidden>true</Hidden>
+<PreviousId />
+<NextId />
+</VideoControls>
+<AskControls>
+<Hidden>false</Hidden>
+<Action>log</Action>
+</AskControls>
+<CaseName>EliLilly_JPBL</CaseName>
+</Response>
+<Response id="jpbl162">
+<LeftRail>
+<Id>main</Id>
+<Hidden>true</Hidden>
+</LeftRail>
+<VideoControls>
+<Hidden>true</Hidden>
+<PreviousId />
+<NextId />
+</VideoControls>
+<AskControls>
+<Hidden>false</Hidden>
+<Action>log</Action>
+</AskControls>
+<CaseName>EliLilly_JPBL</CaseName>
+</Response>
+<Response id="jpbl163">
+<LeftRail>
+<Id>main</Id>
+<Hidden>true</Hidden>
+</LeftRail>
+<VideoControls>
+<Hidden>true</Hidden>
+<PreviousId />
+<NextId />
+</VideoControls>
+<AskControls>
+<Hidden>false</Hidden>
+<Action>log</Action>
+</AskControls>
+<CaseName>EliLilly_JPBL</CaseName>
+</Response>
+<Response id="jpbl164">
+<LeftRail>
+<Id>main</Id>
+<Hidden>true</Hidden>
+</LeftRail>
+<VideoControls>
+<Hidden>true</Hidden>
+<PreviousId />
+<NextId />
+</VideoControls>
+<AskControls>
+<Hidden>false</Hidden>
+<Action>log</Action>
+</AskControls>
+<CaseName>EliLilly_JPBL</CaseName>
+</Response>
+<Response id="jpbl165">
+<LeftRail>
+<Id>main</Id>
+<Hidden>true</Hidden>
+</LeftRail>
+<VideoControls>
+<Hidden>true</Hidden>
+<PreviousId />
+<NextId />
+</VideoControls>
+<AskControls>
+<Hidden>false</Hidden>
+<Action>log</Action>
+</AskControls>
+<CaseName>EliLilly_JPBL</CaseName>
+</Response>
+<Response id="jpbl166">
+<LeftRail>
+<Id>main</Id>
+<Hidden>true</Hidden>
+<ModuleSelected>4</ModuleSelected>
+</LeftRail>
+<VideoControls>
+<Hidden>true</Hidden>
+<PreviousId />
+<NextId />
+</VideoControls>
+<AskControls>
+<Hidden>false</Hidden>
+<Action>log</Action>
+</AskControls>
+<CaseName>EliLilly_JPBL</CaseName>
+</Response>
+<Response id="jpbl167">
+<LeftRail>
+<Id>main</Id>
+<Hidden>true</Hidden>
+<ModuleSelected>4</ModuleSelected>
+</LeftRail>
+<VideoControls>
+<Hidden>false</Hidden>
+<PreviousId />
+<NextId />
+</VideoControls>
+<AskControls>
+<Hidden>true</Hidden>
+<Action>analyze</Action>
+</AskControls>
+<CaseName>EliLilly_JPBL</CaseName>
+</Response>
+<Response id="jpbl168">
+<LeftRail>
+<Id>main</Id>
+<Hidden>true</Hidden>
+</LeftRail>
+<VideoControls>
+<Hidden>true</Hidden>
+<PreviousId />
+<NextId />
+</VideoControls>
+<AskControls>
+<Hidden>false</Hidden>
+<Action>analyze</Action>
+</AskControls>
+<CaseName>EliLilly_JPBL</CaseName>
+</Response>
+<Response id="jpbl169">
+<LeftRail>
+<Id>main</Id>
+<Hidden>false</Hidden>
+<ModuleSelected>4</ModuleSelected>
+</LeftRail>
+<VideoControls>
+<Hidden>true</Hidden>
+<PreviousId />
+<NextId />
+</VideoControls>
+<AskControls>
+<Hidden>false</Hidden>
+<Action>analyze</Action>
+</AskControls>
+<CaseName>EliLilly_JPBL</CaseName>
+</Response>
+<Response id="jpbl170">
+<LeftRail>
+<Id>legal</Id>
+<Hidden>false</Hidden>
+</LeftRail>
+<VideoControls>
+<Hidden>true</Hidden>
+<PreviousId />
+<NextId />
+</VideoControls>
+<AskControls>
+<Hidden>false</Hidden>
+<Action>analyze</Action>
+</AskControls>
+<CaseName>EliLilly_JPBL</CaseName>
+</Response>
+<Response id="jpbl171">
+<LeftRail>
+<Id>main</Id>
+<Hidden>false</Hidden>
+</LeftRail>
+<VideoControls>
+<Hidden>true</Hidden>
+<PreviousId />
+<NextId />
+</VideoControls>
+<AskControls>
+<Hidden>false</Hidden>
+<Action>analyze</Action>
+</AskControls>
+<CaseName>EliLilly_JPBL</CaseName>
+</Response>
+<Response id="jpbl172">
+<LeftRail>
+<Id>main</Id>
+<Hidden>false</Hidden>
+</LeftRail>
+<VideoControls>
+<Hidden>true</Hidden>
+<PreviousId />
+<NextId />
+</VideoControls>
+<AskControls>
+<Hidden>false</Hidden>
+<Action>analyze</Action>
+</AskControls>
+<CaseName>EliLilly_JPBL</CaseName>
+</Response>
+<Response id="jpbl173">
+<LeftRail>
+<Id>support</Id>
+<Hidden>false</Hidden>
+</LeftRail>
+<VideoControls>
+<Hidden>true</Hidden>
+<PreviousId />
+<NextId />
+</VideoControls>
+<AskControls>
+<Hidden>false</Hidden>
+<Action>analyze</Action>
+</AskControls>
+<CaseName>EliLilly_JPBL</CaseName>
+</Response>
+<Response id="jpbl174">
+<LeftRail>
+<Id>main</Id>
+<Hidden>false</Hidden>
+</LeftRail>
+<VideoControls>
+<Hidden>true</Hidden>
+<PreviousId />
+<NextId />
+</VideoControls>
+<AskControls>
+<Hidden>false</Hidden>
+<Action>analyze</Action>
+</AskControls>
+<CaseName>EliLilly_JPBL</CaseName>
+</Response>
+<Response id="jpbl175">
+<LeftRail>
+<Id>main</Id>
+<Hidden>false</Hidden>
+</LeftRail>
+<VideoControls>
+<Hidden>true</Hidden>
+<PreviousId />
+<NextId />
+</VideoControls>
+<AskControls>
+<Hidden>false</Hidden>
+<Action>analyze</Action>
+</AskControls>
+<CaseName>EliLilly_JPBL</CaseName>
+</Response>
+<Response id="jpbl176">
+<LeftRail>
+<Id>main</Id>
+<Hidden>false</Hidden>
+</LeftRail>
+<VideoControls>
+<Hidden>true</Hidden>
+<PreviousId />
+<NextId />
+</VideoControls>
+<AskControls>
+<Hidden>false</Hidden>
+<Action>analyze</Action>
+</AskControls>
+<CaseName>EliLilly_JPBL</CaseName>
+</Response>
+<Response id="jpbl177">
+<LeftRail>
+<Id>main</Id>
+<Hidden>false</Hidden>
+</LeftRail>
+<VideoControls>
+<Hidden>true</Hidden>
+<PreviousId />
+<NextId />
+</VideoControls>
+<AskControls>
+<Hidden>false</Hidden>
+<Action>analyze</Action>
+</AskControls>
+<CaseName>EliLilly_JPBL</CaseName>
+</Response>
+<Response id="jpbl178">
+<LeftRail>
+<Id>main</Id>
+<Hidden>false</Hidden>
+</LeftRail>
+<VideoControls>
+<Hidden>true</Hidden>
+<PreviousId />
+<NextId />
+</VideoControls>
+<AskControls>
+<Hidden>false</Hidden>
+<Action>analyze</Action>
+</AskControls>
+<CaseName>EliLilly_JPBL</CaseName>
+</Response>
+<Response id="jpbl179">
+<LeftRail>
+<Id>main</Id>
+<Hidden>true</Hidden>
+</LeftRail>
+<VideoControls>
+<Hidden>true</Hidden>
+<PreviousId />
+<NextId />
+</VideoControls>
+<AskControls>
+<Hidden>false</Hidden>
+<Action>fb-intro</Action>
+</AskControls>
+<CaseName>EliLilly_JPBL</CaseName>
+</Response>
+<Response id="jpbl180">
+<LeftRail>
+<Id>main</Id>
+<Hidden>true</Hidden>
+</LeftRail>
+<VideoControls>
+<Hidden>true</Hidden>
+<PreviousId />
+<NextId />
+</VideoControls>
+<AskControls>
+<Hidden>false</Hidden>
+<Action>fb-1</Action>
+</AskControls>
+<CaseName>EliLilly_JPBL</CaseName>
+</Response>
+<Response id="jpbl181">
+<LeftRail>
+<Id>main</Id>
+<Hidden>true</Hidden>
+<ModuleSelected>1</ModuleSelected>
+</LeftRail>
+<VideoControls>
+<Hidden>true</Hidden>
+<PreviousId />
+<NextId />
+</VideoControls>
+<AskControls>
+<Hidden>false</Hidden>
+<Action>fb-2</Action>
+</AskControls>
+<CaseName>EliLilly_JPBL</CaseName>
+</Response>
+<Response id="jpbl182">
+<LeftRail>
+<Id>main</Id>
+<Hidden>true</Hidden>
+</LeftRail>
+<VideoControls>
+<Hidden>true</Hidden>
+<PreviousId />
+<NextId />
+</VideoControls>
+<AskControls>
+<Hidden>false</Hidden>
+<Action>fb-3</Action>
+</AskControls>
+<CaseName>EliLilly_JPBL</CaseName>
+</Response>
+<Response id="jpbl183">
+<LeftRail>
+<Id>main</Id>
+<Hidden>true</Hidden>
+</LeftRail>
+<VideoControls>
+<Hidden>true</Hidden>
+<PreviousId />
+<NextId />
+</VideoControls>
+<AskControls>
+<Hidden>false</Hidden>
+<Action>fb-4</Action>
+</AskControls>
+<CaseName>EliLilly_JPBL</CaseName>
+</Response>
+<Response id="jpbl184">
+<LeftRail>
+<Id>main</Id>
+<Hidden>true</Hidden>
+</LeftRail>
+<VideoControls>
+<Hidden>true</Hidden>
+<PreviousId />
+<NextId />
+</VideoControls>
+<AskControls>
+<Hidden>false</Hidden>
+<Action>fb-5</Action>
+</AskControls>
+<CaseName>EliLilly_JPBL</CaseName>
+</Response>
+<Response id="jpbl185">
+<LeftRail>
+<Id>main</Id>
+<Hidden>true</Hidden>
+</LeftRail>
+<VideoControls>
+<Hidden>true</Hidden>
+<PreviousId />
+<NextId />
+</VideoControls>
+<AskControls>
+<Hidden>false</Hidden>
+<Action>fb-6</Action>
+</AskControls>
+<CaseName>EliLilly_JPBL</CaseName>
+</Response>
+<Response id="jpbl186">
+<LeftRail>
+<Id>main</Id>
+<Hidden>true</Hidden>
+</LeftRail>
+<VideoControls>
+<Hidden>false</Hidden>
+<PreviousId />
+<NextId />
+</VideoControls>
+<AskControls>
+<Hidden>true</Hidden>
+<Action>analyze</Action>
+</AskControls>
+<CaseName>EliLilly_JPBL</CaseName>
+</Response>
+<Response id="jpbl187">
+<LeftRail>
+<Id>main</Id>
+<Hidden>false</Hidden>
+</LeftRail>
+<VideoControls>
+<Hidden>true</Hidden>
+<PreviousId />
+<NextId />
+</VideoControls>
+<AskControls>
+<Hidden>false</Hidden>
+<Action>analyze</Action>
+</AskControls>
+<CaseName>EliLilly_JPBL</CaseName>
+</Response>
+<Response id="jpbl188">
+<LeftRail>
+<Id>main</Id>
+<Hidden>false</Hidden>
+</LeftRail>
+<VideoControls>
+<Hidden>true</Hidden>
+<PreviousId />
+<NextId />
+</VideoControls>
+<AskControls>
+<Hidden>false</Hidden>
+<Action>analyze</Action>
+</AskControls>
+<CaseName>EliLilly_JPBL</CaseName>
+</Response>
+<Response id="jpbl189">
+<LeftRail>
+<Id>main</Id>
+<Hidden>false</Hidden>
+</LeftRail>
+<VideoControls>
+<Hidden>true</Hidden>
+<PreviousId />
+<NextId />
+</VideoControls>
+<AskControls>
+<Hidden>false</Hidden>
+<Action>analyze</Action>
+</AskControls>
+<CaseName>EliLilly_JPBL</CaseName>
+</Response>
+<Response id="jpbl190">
+<LeftRail>
+<Id>main</Id>
+<Hidden>false</Hidden>
+<ModuleSelected>4</ModuleSelected>
+</LeftRail>
+<VideoControls>
+<Hidden>true</Hidden>
+<PreviousId />
+<NextId />
+</VideoControls>
+<AskControls>
+<Hidden>false</Hidden>
+<Action>analyze</Action>
+</AskControls>
+<CaseName>EliLilly_JPBL</CaseName>
+</Response>
+<Response id="jpbl191">
+<LeftRail>
+<Id>main</Id>
+<Hidden>false</Hidden>
+</LeftRail>
+<VideoControls>
+<Hidden>true</Hidden>
+<PreviousId />
+<NextId />
+</VideoControls>
+<AskControls>
+<Hidden>false</Hidden>
+<Action>analyze</Action>
+</AskControls>
+<CaseName>EliLilly_JPBL</CaseName>
+</Response>
+<Response id="jpbl192">
+<LeftRail>
+<Id>main</Id>
+<Hidden>false</Hidden>
+</LeftRail>
+<VideoControls>
+<Hidden>true</Hidden>
+<PreviousId />
+<NextId />
+</VideoControls>
+<AskControls>
+<Hidden>false</Hidden>
+<Action>analyze</Action>
+</AskControls>
+<CaseName>EliLilly_JPBL</CaseName>
+</Response>
+<Response id="jpbl193">
+<LeftRail>
+<Id>main</Id>
+<Hidden>false</Hidden>
+</LeftRail>
+<VideoControls>
+<Hidden>true</Hidden>
+<PreviousId />
+<NextId />
+</VideoControls>
+<AskControls>
+<Hidden>false</Hidden>
+<Action>analyze</Action>
+</AskControls>
+<CaseName>EliLilly_JPBL</CaseName>
+</Response>
+<Response id="jpbl194">
+<LeftRail>
+<Id>main</Id>
+<Hidden>false</Hidden>
+</LeftRail>
+<VideoControls>
+<Hidden>true</Hidden>
+<PreviousId />
+<NextId />
+</VideoControls>
+<AskControls>
+<Hidden>false</Hidden>
+<Action>analyze</Action>
+</AskControls>
+<CaseName>EliLilly_JPBL</CaseName>
+</Response>
+<Response id="jpbl195">
+<LeftRail>
+<Id>main</Id>
+<Hidden>false</Hidden>
+</LeftRail>
+<VideoControls>
+<Hidden>true</Hidden>
+<PreviousId />
+<NextId />
+</VideoControls>
+<AskControls>
+<Hidden>false</Hidden>
+<Action>analyze</Action>
+</AskControls>
+<CaseName>EliLilly_JPBL</CaseName>
+</Response>
+<Response id="jpbl196">
+<LeftRail>
+<Id>main</Id>
+<Hidden>false</Hidden>
+</LeftRail>
+<VideoControls>
+<Hidden>true</Hidden>
+<PreviousId />
+<NextId />
+</VideoControls>
+<AskControls>
+<Hidden>false</Hidden>
+<Action>analyze</Action>
+</AskControls>
+<CaseName>EliLilly_JPBL</CaseName>
+</Response>
+<Response id="jpbl197">
+<LeftRail>
+<Id>main</Id>
+<Hidden>false</Hidden>
+</LeftRail>
+<VideoControls>
+<Hidden>true</Hidden>
+<PreviousId />
+<NextId />
+</VideoControls>
+<AskControls>
+<Hidden>false</Hidden>
+<Action>analyze</Action>
+</AskControls>
+<CaseName>EliLilly_JPBL</CaseName>
+</Response>
+<Response id="jpbl198">
+<LeftRail>
+<Id>main</Id>
+<Hidden>false</Hidden>
+</LeftRail>
+<VideoControls>
+<Hidden>true</Hidden>
+<PreviousId />
+<NextId />
+</VideoControls>
+<AskControls>
+<Hidden>false</Hidden>
+<Action>log</Action>
+</AskControls>
+<CaseName>EliLilly_JPBL</CaseName>
+</Response>
+<Response id="jpbl199">
+<LeftRail>
+<Id>main</Id>
+<Hidden>false</Hidden>
+</LeftRail>
+<VideoControls>
+<Hidden>true</Hidden>
+<PreviousId />
+<NextId />
+</VideoControls>
+<AskControls>
+<Hidden>false</Hidden>
+<Action>log</Action>
+</AskControls>
+<CaseName>EliLilly_JPBL</CaseName>
+</Response>
+<Response id="jpbl200">
+<LeftRail>
+<Id>main</Id>
+<Hidden>false</Hidden>
+</LeftRail>
+<VideoControls>
+<Hidden>true</Hidden>
+<PreviousId />
+<NextId />
+</VideoControls>
+<AskControls>
+<Hidden>false</Hidden>
+<Action>log</Action>
+</AskControls>
+<CaseName>EliLilly_JPBL</CaseName>
+</Response>
+<Response id="jpbl201">
+<LeftRail>
+<Id>main</Id>
+<Hidden>false</Hidden>
+</LeftRail>
+<VideoControls>
+<Hidden>true</Hidden>
+<PreviousId />
+<NextId />
+</VideoControls>
+<AskControls>
+<Hidden>false</Hidden>
+<Action>log</Action>
+</AskControls>
+<CaseName>EliLilly_JPBL</CaseName>
+</Response>
+<Response id="jpbl202">
+<LeftRail>
+<Id>main</Id>
+<Hidden>false</Hidden>
+</LeftRail>
+<VideoControls>
+<Hidden>true</Hidden>
+<PreviousId />
+<NextId />
+</VideoControls>
+<AskControls>
+<Hidden>false</Hidden>
+<Action>log</Action>
+</AskControls>
+<CaseName>EliLilly_JPBL</CaseName>
+</Response>
+<Response id="jpbl203">
+<LeftRail>
+<Id>main</Id>
+<Hidden>false</Hidden>
+</LeftRail>
+<VideoControls>
+<Hidden>true</Hidden>
+<PreviousId />
+<NextId />
+</VideoControls>
+<AskControls>
+<Hidden>false</Hidden>
+<Action>analyze</Action>
+</AskControls>
+<CaseName>EliLilly_JPBL</CaseName>
+</Response>
+<Response id="jpbl204">
+<LeftRail>
+<Id>main</Id>
+<Hidden>false</Hidden>
+</LeftRail>
+<VideoControls>
+<Hidden>true</Hidden>
+<PreviousId />
+<NextId />
+</VideoControls>
+<AskControls>
+<Hidden>false</Hidden>
+<Action>analyze</Action>
+</AskControls>
+<CaseName>EliLilly_JPBL</CaseName>
+</Response>
+<Response id="jpbl205">
+<LeftRail>
+<Id>main</Id>
+<Hidden>false</Hidden>
+</LeftRail>
+<VideoControls>
+<Hidden>true</Hidden>
+<PreviousId />
+<NextId />
+</VideoControls>
+<AskControls>
+<Hidden>false</Hidden>
+<Action>log</Action>
+</AskControls>
+<CaseName>EliLilly_JPBL</CaseName>
+</Response>
+<Response id="jpbl206">
+<LeftRail>
+<Id>main</Id>
+<Hidden>false</Hidden>
+</LeftRail>
+<VideoControls>
+<Hidden>true</Hidden>
+<PreviousId />
+<NextId />
+</VideoControls>
+<AskControls>
+<Hidden>false</Hidden>
+<Action>analyze</Action>
+</AskControls>
+<CaseName>EliLilly_JPBL</CaseName>
+</Response>
+<Response id="jpbl207">
+<LeftRail>
+<Id>main</Id>
+<Hidden>false</Hidden>
+</LeftRail>
+<VideoControls>
+<Hidden>true</Hidden>
+<PreviousId />
+<NextId />
+</VideoControls>
+<AskControls>
+<Hidden>false</Hidden>
+<Action>analyze</Action>
+</AskControls>
+<CaseName>EliLilly_JPBL</CaseName>
+</Response>
+<Response id="jpbl208">
+<LeftRail>
+<Id>main</Id>
+<Hidden>true</Hidden>
+</LeftRail>
+<VideoControls>
+<Hidden>false</Hidden>
+<PreviousId />
+<NextId />
+</VideoControls>
+<AskControls>
+<Hidden>true</Hidden>
+<Action>analyze</Action>
+</AskControls>
+<CaseName>EliLilly_JPBL</CaseName>
+</Response>
+<Response id="jpbl209">
+<LeftRail>
+<Id>main</Id>
+<Hidden>false</Hidden>
+</LeftRail>
+<VideoControls>
+<Hidden>true</Hidden>
+<PreviousId />
+<NextId />
+</VideoControls>
+<AskControls>
+<Hidden>false</Hidden>
+<Action>log</Action>
+</AskControls>
+<CaseName>EliLilly_JPBL</CaseName>
+</Response>
+<Response id="jpbl210">
+<LeftRail>
+<Id>main</Id>
+<Hidden>false</Hidden>
+</LeftRail>
+<VideoControls>
+<Hidden>true</Hidden>
+<PreviousId />
+<NextId />
+</VideoControls>
+<AskControls>
+<Hidden>false</Hidden>
+<Action>analyze</Action>
+</AskControls>
+<CaseName>EliLilly_JPBL</CaseName>
+</Response>
+<Response id="jpbl211">
+<LeftRail>
+<Id>main</Id>
+<Hidden>false</Hidden>
+</LeftRail>
+<VideoControls>
+<Hidden>true</Hidden>
+<PreviousId />
+<NextId />
+</VideoControls>
+<AskControls>
+<Hidden>false</Hidden>
+<Action>analyze</Action>
+</AskControls>
+<CaseName>EliLilly_JPBL</CaseName>
+</Response>
+<Response id="jpbl212">
+<LeftRail>
+<Id>main</Id>
+<Hidden>false</Hidden>
+</LeftRail>
+<VideoControls>
+<Hidden>true</Hidden>
+<PreviousId />
+<NextId />
+</VideoControls>
+<AskControls>
+<Hidden>false</Hidden>
+<Action>analyze</Action>
+</AskControls>
+<CaseName>EliLilly_JPBL</CaseName>
+</Response>
+<Response id="jpbl213">
+<LeftRail>
+<Id>main</Id>
+<Hidden>true</Hidden>
+</LeftRail>
+<VideoControls>
+<Hidden>false</Hidden>
+<PreviousId />
+<NextId />
+</VideoControls>
+<AskControls>
+<Hidden>true</Hidden>
+<Action>analyze</Action>
+</AskControls>
+<CaseName>EliLilly_JPBL</CaseName>
+</Response>
+<Response id="jpbl250">
+<LeftRail>
+<Id>main</Id>
+<Hidden>false</Hidden>
+</LeftRail>
+<VideoControls>
+<Hidden>true</Hidden>
+<PreviousId />
+<NextId />
+</VideoControls>
+<AskControls>
+<Hidden>false</Hidden>
+<Action>analyze</Action>
+</AskControls>
+<CaseName>EliLilly_JPBL</CaseName>
+</Response>
+<Response id="jpbl251">
+<LeftRail>
+<Id>main</Id>
+<Hidden>true</Hidden>
+</LeftRail>
+<VideoControls>
+<Hidden>true</Hidden>
+<PreviousId />
+<NextId />
+</VideoControls>
+<AskControls>
+<Hidden>false</Hidden>
+<Action>options</Action>
+</AskControls>
+<CaseName>EliLilly_JPBL</CaseName>
+</Response>
+</xml>

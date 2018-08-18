@@ -1,0 +1,78 @@
+# Remove PHP version info header
+Header unset X-Powered-By
+
+# Pragma for all but fonts
+<FilesMatch "(?<!\.woff|\.eot|\.svg|\.ttf|\.woff2|\.otf|\.jpg|\.png)$">
+	Header set Cache-Control "max-age=0, no-cache, no-store, must-revalidate"
+	Header set Pragma "no-cache"
+</FilesMatch>
+
+<FilesMatch "\.(ttf|otf|woff|eot|woff2|svg|jpg|png|gif)$">
+	Header set Access-Control-Allow-Origin "*"
+</FilesMatch>
+
+AddType video/webm .webm
+AddType video/mp4 .mp4
+AddType font/woff .woff
+AddType font/otf .otf
+AddType font/woff2 .woff2
+AddType font/eot .eot
+AddType font/svg .svg
+AddType font/ttf .ttf
+
+DirectoryIndex index.html index.php
+RewriteEngine on
+Options FollowSymLinks
+RewriteBase /
+
+# SNI Detect IE6, IE7
+# Force view browser upgrade
+RewriteCond %{HTTP_USER_AGENT} !Trident [NC]
+RewriteCond %{HTTP_USER_AGENT} "MSIE [5-7]" [NC]
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteRule ^ http://%{HTTP_HOST}/assets/medrespond/html/browser_upgrade.html [L,NC,R=302]
+
+RewriteCond $1 !^(index\.php|eap|eap_main|eap_logs|orcas_login|images|css|js|assets|resources|index\.html|questions\.html)
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteRule ^(.*)$ index.php/$1 [L,QSA]
+
+RewriteCond %{HTTP_HOST} !^trevor-dev\.
+RewriteCond %{HTTP_HOST} !^chet-dev\.
+RewriteCond %{HTTP_HOST} !^anthony-dev\.
+RewriteCond %{HTTP_HOST} !^ps-dev\.
+RewriteCond %{HTTP_HOST} !^ps-local-dev\.
+RewriteCond %{HTTP_HOST} !^cnl-dev\.
+RewriteCond %{HTTP_HOST} !^charles-dev\.
+RewriteCond %{HTTP_HOST} !^resourcehub\.
+RewriteCond %{HTTP_HOST} !^chet-uat\.
+RewriteCond %{HTTP_HOST} !^uat\.
+RewriteCond %{HTTP_HOST} !^grunt\.
+RewriteCond %{HTTP_HOST} !^dev\.
+RewriteCond %{HTTP_HOST} !^demo\.
+RewriteRule ^ https://www.%{HTTP_HOST}%{REQUEST_URI} [L,NC,R=301]
+
+# For Multi-Directory Domains
+RewriteCond %{HTTP_HOST} medrespond-pfra\.com [NC]
+RewriteCond %{REQUEST_URI} ^/$
+Rewriterule ^(.*)$ http://%{HTTP_HOST}/pra%{REQUEST_URI} [L,R=301]
+
+RewriteCond %{HTTP_HOST} electricitydialogue\.ca [NC]
+RewriteCond %{REQUEST_URI} ^/$
+Rewriterule ^(.*)$ http://%{HTTP_HOST}/enr%{REQUEST_URI} [L,R=301]
+
+RewriteCond %{HTTPS} off
+RewriteCond %{HTTP_USER_AGENT} !(MSIE\s7|MSIE\s6)
+RewriteCond %{HTTP_USER_AGENT} !Windows\sNT\s5 [OR]
+RewriteCond %{HTTP_USER_AGENT} !(MSIE\s7|MSIE\s6)
+RewriteCond %{HTTP_HOST} ^www\. [OR]
+RewriteCond %{HTTP_HOST} ^uat\.fit-for-surgery\. [OR]
+RewriteCond %{HTTP_HOST} ^uat\.alcoholsbirt\. [OR]
+RewriteCond %{HTTP_HOST} ^uat\.electricitydialogue\.
+RewriteRule ^ https://%{HTTP_HOST}%{REQUEST_URI} [L,NC,R=301]
+
+# Send Error Codes to CI
+ErrorDocument 404 /index.php
+ErrorDocument 403 /index.php
+ErrorDocument 401 /index.php

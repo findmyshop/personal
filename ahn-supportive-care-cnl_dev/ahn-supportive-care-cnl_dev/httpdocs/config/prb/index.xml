@@ -1,0 +1,2923 @@
+<!--* Index Resource* Pfizer_PRB_E7_I5-->
+<xml>
+<Response id="mapra995">
+<ResponseID id="0">mapra995</ResponseID>
+<BaseQuestion id="0">Multiple Answers Possible</BaseQuestion>
+<Content id="0">How is it different?</Content>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">pra104</ResponseID>
+<BaseQuestion id="1">What are the types of clinical trials?</BaseQuestion>
+</RQ>
+<RQ id="1">
+<ResponseID id="2">pra103</ResponseID>
+<BaseQuestion id="2">What are the phases of a clinical trial?</BaseQuestion>
+</RQ>
+<RQ id="2">
+<ResponseID id="3">pra116</ResponseID>
+<BaseQuestion id="3">What is meant by standard of care treatment?</BaseQuestion>
+</RQ>
+<RQ id="3">
+<ResponseID id="4">prb123</ResponseID>
+<BaseQuestion id="4">Should I talk to my regular doctor about this study?</BaseQuestion>
+</RQ>
+<RQ id="4">
+<ResponseID id="5">prb005</ResponseID>
+<BaseQuestion id="5">Introduction to program</BaseQuestion>
+</RQ>
+</RQs>
+</Response>
+<Response id="mapra996">
+<ResponseID id="0">mapra996</ResponseID>
+<BaseQuestion id="0">Multiple Answers Possible</BaseQuestion>
+<Content id="0">Why do clinical trials?</Content>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">pra117</ResponseID>
+<BaseQuestion id="1">What are the benefits of participating in a clinical study?</BaseQuestion>
+</RQ>
+<RQ id="1">
+<ResponseID id="2">pra101</ResponseID>
+<BaseQuestion id="2">What is a clinical study?</BaseQuestion>
+</RQ>
+<RQ id="2">
+<ResponseID id="3">pra133</ResponseID>
+<BaseQuestion id="3">What will be the impact on the study if I decide not to participate? Will the study staff still proceed if I decide not to enroll?</BaseQuestion>
+</RQ>
+</RQs>
+</Response>
+<Response id="maprb992">
+<ResponseID id="0">maprb992</ResponseID>
+<BaseQuestion id="0">Multiple Answers Possible</BaseQuestion>
+<Content id="0">What do I have to do?</Content>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">prb005</ResponseID>
+<BaseQuestion id="1">Introduction to program</BaseQuestion>
+</RQ>
+<RQ id="1">
+<ResponseID id="2">prb139</ResponseID>
+<BaseQuestion id="2">What is being tested in this trial?/What is the purpose of this trial?</BaseQuestion>
+</RQ>
+<RQ id="2">
+<ResponseID id="3">prb166</ResponseID>
+<BaseQuestion id="3">What will the study treatment entail?</BaseQuestion>
+</RQ>
+<RQ id="3">
+<ResponseID id="4">prb169</ResponseID>
+<BaseQuestion id="4">What kind of tests, therapies, and procedures will I have during this study?</BaseQuestion>
+</RQ>
+<RQ id="4">
+<ResponseID id="5">prb172</ResponseID>
+<BaseQuestion id="5">Do I have to do everything the doctor says?</BaseQuestion>
+</RQ>
+</RQs>
+</Response>
+<Response id="maprb993">
+<ResponseID id="0">maprb993</ResponseID>
+<BaseQuestion id="0">Multiple Answers Possible</BaseQuestion>
+<Content id="0">What is a clinical trial about? / What is this clinical trial about?</Content>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">pra101</ResponseID>
+<BaseQuestion id="1">What is a clinical study?</BaseQuestion>
+</RQ>
+<RQ id="1">
+<ResponseID id="2">prb139</ResponseID>
+<BaseQuestion id="2">What is being tested in this trial?/What is the purpose of this trial?</BaseQuestion>
+</RQ>
+</RQs>
+</Response>
+<Response id="maprb994">
+<ResponseID id="0">maprb994</ResponseID>
+<BaseQuestion id="0">Multiple Answers Possible</BaseQuestion>
+<Content id="0">What if something comes up?</Content>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">prb177</ResponseID>
+<BaseQuestion id="1">What will happen if I miss some appointments?</BaseQuestion>
+</RQ>
+<RQ id="1">
+<ResponseID id="2">prb120</ResponseID>
+<BaseQuestion id="2">Can I change study sites if I move?</BaseQuestion>
+</RQ>
+<RQ id="2">
+<ResponseID id="3">prb164</ResponseID>
+<BaseQuestion id="3">Can I use alternative or complementary treatments during the study?</BaseQuestion>
+</RQ>
+<RQ id="3">
+<ResponseID id="4">prb190</ResponseID>
+<BaseQuestion id="4">What are the risks or side effects of this study treatment?</BaseQuestion>
+</RQ>
+</RQs>
+</Response>
+<Response id="maprb998">
+<ResponseID id="0">maprb998</ResponseID>
+<BaseQuestion id="0">Multiple Answers Possible</BaseQuestion>
+<Content id="0">Who will pay for this?</Content>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">prb150</ResponseID>
+<BaseQuestion id="1">What will my health insurance cover?</BaseQuestion>
+</RQ>
+<RQ id="1">
+<ResponseID id="2">prb157</ResponseID>
+<BaseQuestion id="2">Do the doctors get paid/who pays the doctors?</BaseQuestion>
+</RQ>
+</RQs>
+</Response>
+<Response id="pra001">
+<ResponseID id="0">pra001</ResponseID>
+<BaseQuestion id="0">Response to off topic questions (i.e., Why is the sky blue?)</BaseQuestion>
+<Content id="0">I don't have an answer to that question, please ask a new question. If you are looking for information about specific clinical studies being conducted by Pfizer, please visit 
+<![CDATA[<a href="http://www.pfizer.com/research/clinical_trials" target="_blank">http://www.pfizer.com/research/clinical_trials</a>]]>
+.</Content>
+</Response>
+<Response id="pra002">
+<ResponseID id="0">pra002</ResponseID>
+<BaseQuestion id="0">Response to profanity</BaseQuestion>
+<Content id="0">Please keep your questions and comments respectful and on topic. Thank you!</Content>
+</Response>
+<Response id="pra003">
+<ResponseID id="0">pra003</ResponseID>
+<BaseQuestion id="0">Multiple Answers</BaseQuestion>
+<Content id="0">I can think of more than one answer for your question. Which would you like to hear first? Select a question from the list on the right-hand side of your screen.</Content>
+</Response>
+<Response id="pra004">
+<ResponseID id="0">pra004</ResponseID>
+<BaseQuestion id="0">Word count</BaseQuestion>
+<Content id="0">Please limit your questions to 50 words or less.</Content>
+</Response>
+<Response id="pra006">
+<ResponseID id="0">pra006</ResponseID>
+<BaseQuestion id="0">Instructions for how to use the site</BaseQuestion>
+<Content id="0">Let me tell you how the program works. You can explore the program by typing questions of your own into the text box or by clicking on a related or frequently asked question. You can also select topics from the menu to your left. If you need assistance, click on the help button.</Content>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">prb005</ResponseID>
+<BaseQuestion id="1">Introduction to program</BaseQuestion>
+</RQ>
+<RQ id="1">
+<ResponseID id="2">prb008</ResponseID>
+<BaseQuestion id="2">Contact information</BaseQuestion>
+</RQ>
+</RQs>
+</Response>
+<Response id="pra007">
+<ResponseID id="0">pra007</ResponseID>
+<BaseQuestion id="0">Who are you?</BaseQuestion>
+<Content id="0">Thank you for asking, but I'm here to talk about clinical studies and study participation.</Content>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">prb005</ResponseID>
+<BaseQuestion id="1">Introduction to program</BaseQuestion>
+</RQ>
+<RQ id="1">
+<ResponseID id="2">pra006</ResponseID>
+<BaseQuestion id="2">Instructions for how to use the site</BaseQuestion>
+</RQ>
+<RQ id="2">
+<ResponseID id="3">prb008</ResponseID>
+<BaseQuestion id="3">Contact information</BaseQuestion>
+</RQ>
+</RQs>
+</Response>
+<Response id="pra101">
+<ResponseID id="0">pra101</ResponseID>
+<BaseQuestion id="0">What is a clinical study?</BaseQuestion>
+<Content id="0">Clinical research studies are often conducted by means of a clinical study. The United States National Institutes of Health defines a clinical study as "one type of clinical research that follows a pre-defined plan or protocol." A clinical study is a scientifically controlled study of the safety and effectiveness of investigational drugs and devices for various diseases and conditions. These studies determine if these investigational drugs or devices are safe to use and will improve the health of people. Before a medication, therapy, or medical device can be made available to the general public, it has to go through several phases of clinical research.</Content>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">pra103</ResponseID>
+<BaseQuestion id="1">What are the phases of a clinical trial?</BaseQuestion>
+</RQ>
+<RQ id="1">
+<ResponseID id="2">pra104</ResponseID>
+<BaseQuestion id="2">What are the types of clinical trials?</BaseQuestion>
+</RQ>
+<RQ id="2">
+<ResponseID id="3">pra108</ResponseID>
+<BaseQuestion id="3">What is a clinical trial protocol?</BaseQuestion>
+</RQ>
+<RQ id="3">
+<ResponseID id="4">prb139</ResponseID>
+<BaseQuestion id="4">What is being tested in this trial?/What is the purpose of this trial?</BaseQuestion>
+</RQ>
+</RQs>
+</Response>
+<Response id="pra102">
+<ResponseID id="0">pra102</ResponseID>
+<BaseQuestion id="0">What agency regulates clinical trials?</BaseQuestion>
+<Content id="0">Clinical studies in the United States are regulated by the U.S. Food and Drug Administration, often referred to as the FDA.The FDA is responsible for protecting and promoting public health through the regulation and supervision of medications, foods, medical devices, and other products. One role of the FDA is to ensure adherence to laws that are consistent with principles known as good clinical practices, or GCPs.These principles are designed to enhance the quality of clinical study data, as well as to ensure the protection of study participants like you.</Content>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">pra106</ResponseID>
+<BaseQuestion id="1">What is a Data Safety and Monitoring Committee?</BaseQuestion>
+</RQ>
+<RQ id="1">
+<ResponseID id="2">pra107</ResponseID>
+<BaseQuestion id="2">What is an Institutional Review Board (IRB)?</BaseQuestion>
+</RQ>
+<RQ id="2">
+<ResponseID id="3">pra114</ResponseID>
+<BaseQuestion id="3">If I participate in this study, will I be told what other options I have?</BaseQuestion>
+</RQ>
+<RQ id="3">
+<ResponseID id="4">pra124</ResponseID>
+<BaseQuestion id="4">What is informed consent?</BaseQuestion>
+</RQ>
+<RQ id="4">
+<ResponseID id="5">prb137</ResponseID>
+<BaseQuestion id="5">Will my name be publically used during the study or when the results are published?</BaseQuestion>
+</RQ>
+</RQs>
+</Response>
+<Response id="pra103">
+<ResponseID id="0">pra103</ResponseID>
+<BaseQuestion id="0">What are the phases of a clinical trial?</BaseQuestion>
+<Content id="0">Clinical studies are typically performed in "phases." These phases are designed to build evidence that an investigational drug or device will be beneficial to patients with a particular disease or condition. Before a medication can be tested in human subjects, pre-clinical testing occurs in a lab environment that may involve animals. The goal is to gather data on whether the investigational drug or device has the potential to work in treating the disease.Before a medication moves to testing in humans, the Food and Drug Administration, or FDA, reviews pre-clinical testing results to determine if the investigational compound can further be studied in humans. If the investigational compound can be studied in humans, that research is divided into different phases. In Phase I, researchers test an investigational medication in a small group of people to evaluate its safety and identify side effects. Often, healthy volunteers are used as participants.In Phase II, the investigational medication is given to a larger group of people to see if it is effective, determine optimal dosage, and to further evaluate safety.In Phase III, the investigational medication is given to a large group of people to confirm effectiveness, monitor side effects, and compare it to existing treatments.In Phase IV studies, the medication is further studied after it has been approved for sale by relevant regulatory authorities. Further information is gathered on the medication's effect on different populations and its long-term side effects.</Content>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">pra101</ResponseID>
+<BaseQuestion id="1">What is a clinical study?</BaseQuestion>
+</RQ>
+<RQ id="1">
+<ResponseID id="2">pra104</ResponseID>
+<BaseQuestion id="2">What are the types of clinical trials?</BaseQuestion>
+</RQ>
+<RQ id="2">
+<ResponseID id="3">pra108</ResponseID>
+<BaseQuestion id="3">What is a clinical trial protocol?</BaseQuestion>
+</RQ>
+<RQ id="3">
+<ResponseID id="4">prb139</ResponseID>
+<BaseQuestion id="4">What is being tested in this trial?/What is the purpose of this trial?</BaseQuestion>
+</RQ>
+<RQ id="4">
+<ResponseID id="5">prb140</ResponseID>
+<BaseQuestion id="5">Has the study investigational medication ever been tested before?</BaseQuestion>
+</RQ>
+</RQs>
+</Response>
+<Response id="pra104">
+<ResponseID id="0">pra104</ResponseID>
+<BaseQuestion id="0">What are the types of clinical trials?</BaseQuestion>
+<Content id="0">There are two main types of clinical studies: Placebo-controlled and head-to-head studies. A placebo-controlled study means that one group of patients will receive the investigational drug to be evaluated, while a second group, often known as the control group, will receive a placebo. This placebo often looks just like the experimental drug but is designed to have no effect on patients.Placebos are often used in blinded studies, which are studies where the patients do not know whether the are receiving the experimental drug or placebo. Blinding is used to help eliminate the "placebo effect," which is bias introduced into the study. Bias may result from a patient's belief that he or she is receiving a certain treatment or the researcher's belief that a certain result will occur.In a head-to-head or comparative effectiveness study, one group of patients receives the investigational drug to be evaluated, while a second group of patients receives a different therapy. This allows researchers to see how the experimental treatment performs in comparison to other therapies. In a head-to-head study there is no placebo, and the patient has a chance of receiving either the investigational drug or another treatment. In most cases, the other treatment, also called a comparator or reference treatment is already commonly prescribed by doctors for patients with the disease that is being investigated in the study. The reference treatment is often referred to as the "standard of care."</Content>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">pra101</ResponseID>
+<BaseQuestion id="1">What is a clinical study?</BaseQuestion>
+</RQ>
+<RQ id="1">
+<ResponseID id="2">pra103</ResponseID>
+<BaseQuestion id="2">What are the phases of a clinical trial?</BaseQuestion>
+</RQ>
+<RQ id="2">
+<ResponseID id="3">pra119</ResponseID>
+<BaseQuestion id="3">What is randomization?/Why is a study randomized?</BaseQuestion>
+</RQ>
+<RQ id="3">
+<ResponseID id="4">prb139</ResponseID>
+<BaseQuestion id="4">What is being tested in this trial?/What is the purpose of this trial?</BaseQuestion>
+</RQ>
+<RQ id="4">
+<ResponseID id="5">prb231</ResponseID>
+<BaseQuestion id="5">Is there a placebo in this study?</BaseQuestion>
+</RQ>
+<RQ id="5">
+<ResponseID id="6">prb166</ResponseID>
+<BaseQuestion id="6">What will the study treatment entail?</BaseQuestion>
+</RQ>
+</RQs>
+</Response>
+<Response id="pra106">
+<ResponseID id="0">pra106</ResponseID>
+<BaseQuestion id="0">What is a Data Safety and Monitoring Committee?</BaseQuestion>
+<Content id="0">A Data Safety and Monitoring Committee, sometimes known as a Data and Safety Monitoring Board, is an independent group of experts who monitor patient safety and treatment effectiveness data during the course of a clinical study.This group typically includes 3 to 10 members and is authorized to recommend that a study be stopped due to safety concerns. This may occur after the group reviews a subset of the data from the study that shows the study treatment is not effective or if the investigational treatment is so beneficial that it should urgently be considered for approval by the regulatory authorities.Members of the Data Safety and Monitoring Committee are independent from anyone involved in the study.The committee is usually made up of expert clinicians with knowledge of the disease or condition being treated, statisticians, and sometimes a patient advocacy representative.</Content>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">pra102</ResponseID>
+<BaseQuestion id="1">What agency regulates clinical trials?</BaseQuestion>
+</RQ>
+<RQ id="1">
+<ResponseID id="2">pra107</ResponseID>
+<BaseQuestion id="2">What is an Institutional Review Board (IRB)?</BaseQuestion>
+</RQ>
+<RQ id="2">
+<ResponseID id="3">pra110</ResponseID>
+<BaseQuestion id="3">How are my rights protected while participating in a study?</BaseQuestion>
+</RQ>
+<RQ id="3">
+<ResponseID id="4">pra113</ResponseID>
+<BaseQuestion id="4">What information will the study doctor be able to share with me?</BaseQuestion>
+</RQ>
+<RQ id="4">
+<ResponseID id="5">pra114</ResponseID>
+<BaseQuestion id="5">If I participate in this study, will I be told what other options I have?</BaseQuestion>
+</RQ>
+<RQ id="5">
+<ResponseID id="6">prb115</ResponseID>
+<BaseQuestion id="6">What if the study treatment does not work?</BaseQuestion>
+</RQ>
+</RQs>
+</Response>
+<Response id="pra107">
+<ResponseID id="0">pra107</ResponseID>
+<BaseQuestion id="0">What is an Institutional Review Board (IRB)?</BaseQuestion>
+<Content id="0">An Institutional Review Board, or Ethical Review Board, is a committee charged with approving, monitoring, and reviewing clinical research involving humans.The main goal of the committee is to make sure the study is ethical and the rights and welfare of participants are protected. Among other things, this includes making sure that research risks are minimized and are reasonable in relation to any potential benefits.Prior to the start of the clinical study, this committee will conduct a risk-benefit analysis to determine whether the research should be performed.</Content>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">pra102</ResponseID>
+<BaseQuestion id="1">What agency regulates clinical trials?</BaseQuestion>
+</RQ>
+<RQ id="1">
+<ResponseID id="2">pra106</ResponseID>
+<BaseQuestion id="2">What is a Data Safety and Monitoring Committee?</BaseQuestion>
+</RQ>
+<RQ id="2">
+<ResponseID id="3">pra110</ResponseID>
+<BaseQuestion id="3">How are my rights protected while participating in a study?</BaseQuestion>
+</RQ>
+<RQ id="3">
+<ResponseID id="4">pra111</ResponseID>
+<BaseQuestion id="4">How can I be sure that the study tests are appropriate?</BaseQuestion>
+</RQ>
+<RQ id="4">
+<ResponseID id="5">pra113</ResponseID>
+<BaseQuestion id="5">What information will the study doctor be able to share with me?</BaseQuestion>
+</RQ>
+<RQ id="5">
+<ResponseID id="6">pra127</ResponseID>
+<BaseQuestion id="6">What rights do I have if I participate in a clinical study?/Can I quit the clinical study at any time?/Will the risks/side effects be explained to me?</BaseQuestion>
+</RQ>
+</RQs>
+</Response>
+<Response id="pra108">
+<ResponseID id="0">pra108</ResponseID>
+<BaseQuestion id="0">What is a clinical trial protocol?</BaseQuestion>
+<Content id="0">A protocol is a written document detailing the study research plan. A clinical study protocol is designed to answer specific research questions, as well as safeguard the health of participants. In general, a protocol describes an overview of the study's objectives; what types of people may participate; the number of participants needed for the studies; the schedule of tests, procedures, medications, and dosages; the length of the studies; and what information will be gathered about participants.</Content>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">pra101</ResponseID>
+<BaseQuestion id="1">What is a clinical study?</BaseQuestion>
+</RQ>
+<RQ id="1">
+<ResponseID id="2">pra103</ResponseID>
+<BaseQuestion id="2">What are the phases of a clinical trial?</BaseQuestion>
+</RQ>
+<RQ id="2">
+<ResponseID id="3">prb109</ResponseID>
+<BaseQuestion id="3">Can I get a copy of the study protocol?</BaseQuestion>
+</RQ>
+<RQ id="3">
+<ResponseID id="4">prb158</ResponseID>
+<BaseQuestion id="4">Who can participate in this study?</BaseQuestion>
+</RQ>
+<RQ id="4">
+<ResponseID id="5">prb159</ResponseID>
+<BaseQuestion id="5">Why might I be excluded from the study?</BaseQuestion>
+</RQ>
+</RQs>
+</Response>
+<Response id="pra110">
+<ResponseID id="0">pra110</ResponseID>
+<BaseQuestion id="0">How are my rights protected while participating in a study?</BaseQuestion>
+<Content id="0">In order to conduct a clinical study, the research team must agree to comply with ethical guidelines and laws designed to protect patient volunteers, as well as to preserve the integrity of the research. One of the main points of the ethical guidelines is that individuals should be treated with respect from the time they are approached for possible participation in the study, throughout their participation, and after their participation ends. This includes, but is not limited to, your right to privacy and respecting your right to change your mind about being in the study at any point.</Content>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">pra106</ResponseID>
+<BaseQuestion id="1">What is a Data Safety and Monitoring Committee?</BaseQuestion>
+</RQ>
+<RQ id="1">
+<ResponseID id="2">pra107</ResponseID>
+<BaseQuestion id="2">What is an Institutional Review Board (IRB)?</BaseQuestion>
+</RQ>
+<RQ id="2">
+<ResponseID id="3">pra111</ResponseID>
+<BaseQuestion id="3">How can I be sure that the study tests are appropriate?</BaseQuestion>
+</RQ>
+<RQ id="3">
+<ResponseID id="4">pra113</ResponseID>
+<BaseQuestion id="4">What information will the study doctor be able to share with me?</BaseQuestion>
+</RQ>
+<RQ id="4">
+<ResponseID id="5">pra124</ResponseID>
+<BaseQuestion id="5">What is informed consent?</BaseQuestion>
+</RQ>
+<RQ id="5">
+<ResponseID id="6">pra127</ResponseID>
+<BaseQuestion id="6">What rights do I have if I participate in a clinical study?/Can I quit the clinical study at any time?/Will the risks/side effects be explained to me?</BaseQuestion>
+</RQ>
+</RQs>
+</Response>
+<Response id="pra111">
+<ResponseID id="0">pra111</ResponseID>
+<BaseQuestion id="0">How can I be sure that the study tests are appropriate?</BaseQuestion>
+<Content id="0">The nature of participating in a clinical study means that you may receive an investigational drug or device. However, all procedures and tests performed prior to, during, and after participation ends are clearly outlined in the clinical study protocol and are subject to ethical guidelines and laws. These procedures and guidelines are applied to all participants in the study. This includes, but is not limited to, your right to privacy and respecting your right to change your mind about being in the study at any point.</Content>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">pra107</ResponseID>
+<BaseQuestion id="1">What is an Institutional Review Board (IRB)?</BaseQuestion>
+</RQ>
+<RQ id="1">
+<ResponseID id="2">pra110</ResponseID>
+<BaseQuestion id="2">How are my rights protected while participating in a study?</BaseQuestion>
+</RQ>
+<RQ id="2">
+<ResponseID id="3">prb145</ResponseID>
+<BaseQuestion id="3">Will I be able to talk to the study doctors during the study?</BaseQuestion>
+</RQ>
+<RQ id="3">
+<ResponseID id="4">prb181</ResponseID>
+<BaseQuestion id="4">Is it normal to feel uncertain about participating in a study?</BaseQuestion>
+</RQ>
+</RQs>
+</Response>
+<Response id="pra112">
+<ResponseID id="0">pra112</ResponseID>
+<BaseQuestion id="0">What is a placebo?/When is a placebo used?/Are placebos ethical?</BaseQuestion>
+<Content id="0">Patients participating in a placebo-controlled clinical study are told during the informed consent process that there is a chance that they could receive the investigational drug or device or an inactive substance, also called placebo, while participating in the study. A placebo often looks like the investigational medication, but it has no active ingredient in it.Placebos are used in clinical research to help evaluate the safety and effectiveness of an investigational medication.However, in some studies, such as head-to-head comparative studies, a placebo is not used, and a patient has a chance of receiving the investigational drug or another treatment.</Content>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">prb166</ResponseID>
+<BaseQuestion id="1">What will the study treatment entail?</BaseQuestion>
+</RQ>
+<RQ id="1">
+<ResponseID id="2">prb231</ResponseID>
+<BaseQuestion id="2">Is there a placebo in this study?</BaseQuestion>
+</RQ>
+</RQs>
+</Response>
+<Response id="pra113">
+<ResponseID id="0">pra113</ResponseID>
+<BaseQuestion id="0">What information will the study doctor be able to share with me?</BaseQuestion>
+<Content id="0">Under the terms of the ethical guidelines and laws that govern clinical studies, all researchers must inform participants of the potential risks, benefits, and available alternatives associated with participation in a clinical study. However, it should be noted that in blinded studies, researchers will not be able to tell you which study treatment you are receiving because they need to preserve the scientific integrity of the study. However, this information is available in case of emergency.</Content>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">pra114</ResponseID>
+<BaseQuestion id="1">If I participate in this study, will I be told what other options I have?</BaseQuestion>
+</RQ>
+<RQ id="1">
+<ResponseID id="2">pra127</ResponseID>
+<BaseQuestion id="2">What rights do I have if I participate in a clinical study?/Can I quit the clinical study at any time?/Will the risks/side effects be explained to me?</BaseQuestion>
+</RQ>
+<RQ id="2">
+<ResponseID id="3">prb146</ResponseID>
+<BaseQuestion id="3">Will I be kept informed of my test results during the study?</BaseQuestion>
+</RQ>
+<RQ id="3">
+<ResponseID id="4">prb188</ResponseID>
+<BaseQuestion id="4">Will the study staff know what treatment I'm getting?</BaseQuestion>
+</RQ>
+<RQ id="4">
+<ResponseID id="5">prb190</ResponseID>
+<BaseQuestion id="5">What are the risks or side effects of this study treatment?</BaseQuestion>
+</RQ>
+<RQ id="5">
+<ResponseID id="6">prb233</ResponseID>
+<BaseQuestion id="6">Why is there an open-label section after one year?</BaseQuestion>
+</RQ>
+</RQs>
+</Response>
+<Response id="pra114">
+<ResponseID id="0">pra114</ResponseID>
+<BaseQuestion id="0">If I participate in this study, will I be told what other options I have?</BaseQuestion>
+<Content id="0">When you sign up to participate in a clinical study, the researchers must inform you of the available alternatives to joining the clinical study. Under the terms of the ethical guidelines that govern clinical studies if you join a study, , the research team must inform you of new information that might emerge over the course of the research, particularly data that might change their assessment of the risks and benefits of participating in the clinical study.</Content>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">pra102</ResponseID>
+<BaseQuestion id="1">What agency regulates clinical trials?</BaseQuestion>
+</RQ>
+<RQ id="1">
+<ResponseID id="2">pra106</ResponseID>
+<BaseQuestion id="2">What is a Data Safety and Monitoring Committee?</BaseQuestion>
+</RQ>
+<RQ id="2">
+<ResponseID id="3">pra113</ResponseID>
+<BaseQuestion id="3">What information will the study doctor be able to share with me?</BaseQuestion>
+</RQ>
+</RQs>
+</Response>
+<Response id="pra116">
+<ResponseID id="0">pra116</ResponseID>
+<BaseQuestion id="0">What is meant by standard of care treatment?</BaseQuestion>
+<Content id="0">In a clinical study, the standard of care treatment refers to any therapy that is accepted by medical professionals as an approved treatment for a certain type of disease and one that is typically used by health care professionals. Standard of care treatment can also be known as best practice, standard medical care, or standard of care.</Content>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">pra104</ResponseID>
+<BaseQuestion id="1">What are the types of clinical trials?</BaseQuestion>
+</RQ>
+<RQ id="1">
+<ResponseID id="2">pra117</ResponseID>
+<BaseQuestion id="2">What are the benefits of participating in a clinical study?</BaseQuestion>
+</RQ>
+<RQ id="2">
+<ResponseID id="3">prb231</ResponseID>
+<BaseQuestion id="3">Is there a placebo in this study?</BaseQuestion>
+</RQ>
+<RQ id="3">
+<ResponseID id="4">prb232</ResponseID>
+<BaseQuestion id="4">Why is the study treatment switched for participants during the study?</BaseQuestion>
+</RQ>
+<RQ id="4">
+<ResponseID id="5">prb235</ResponseID>
+<BaseQuestion id="5">How do the tests compare to the standard tests for my condition?</BaseQuestion>
+</RQ>
+</RQs>
+</Response>
+<Response id="pra117">
+<ResponseID id="0">pra117</ResponseID>
+<BaseQuestion id="0">What are the benefits of participating in a clinical study?</BaseQuestion>
+<Content id="0">There is no guarantee that you will benefit in any way. Although there are precautions in place to protect participants, your condition or health could remain the same, improve, or get worse. Participating in a study may help researchers learn more about your disease or condition and may help in the development of improved treatments that may benefit others with your condition in the future.</Content>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">pra116</ResponseID>
+<BaseQuestion id="1">What is meant by standard of care treatment?</BaseQuestion>
+</RQ>
+<RQ id="1">
+<ResponseID id="2">prb115</ResponseID>
+<BaseQuestion id="2">What if the study treatment does not work?</BaseQuestion>
+</RQ>
+<RQ id="2">
+<ResponseID id="3">prb123</ResponseID>
+<BaseQuestion id="3">Should I talk to my regular doctor about this study?</BaseQuestion>
+</RQ>
+</RQs>
+</Response>
+<Response id="pra119">
+<ResponseID id="0">pra119</ResponseID>
+<BaseQuestion id="0">What is randomization?/Why is a study randomized?</BaseQuestion>
+<Content id="0">Randomization in a clinical study is when participants are assigned to a particular group and the different groups receive different study treatments. Clinical studies are randomized so that the researchers can compare the safety and effectiveness of different study treatments. Sometimes, investigational medications are compared to a placebo, which looks like the investigational medication but contains no active ingredients.</Content>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">pra104</ResponseID>
+<BaseQuestion id="1">What are the types of clinical trials?</BaseQuestion>
+</RQ>
+<RQ id="1">
+<ResponseID id="2">prb166</ResponseID>
+<BaseQuestion id="2">What will the study treatment entail?</BaseQuestion>
+</RQ>
+<RQ id="2">
+<ResponseID id="3">prb231</ResponseID>
+<BaseQuestion id="3">Is there a placebo in this study?</BaseQuestion>
+</RQ>
+</RQs>
+</Response>
+<Response id="pra124">
+<ResponseID id="0">pra124</ResponseID>
+<BaseQuestion id="0">What is informed consent?</BaseQuestion>
+<Content id="0">Laws and ethical guidelines governing clinical research in many countries around the world require that potential study participants be given certain information about the planned study through a process known as "informed consent." This process is designed to accurately inform individuals of the purpose, risks, benefits, and alternatives to the clinical study. The informed consent process also ensures that participants understand information about the study and how it relates to their own health or interests. It also provides an opportunity for an individual to make a voluntary decision about whether to participate in the study. Once you have had enough time to read and understand the informed consent form and had time to discuss it with the study doctor, you can determine if you wish to participate in the study. If you choose to participate, you will sign the informed consent form. Even if you sign the form, you can still withdraw from the study at any time, for any reason.</Content>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">prb236</ResponseID>
+<BaseQuestion id="1">What is the informed consent form?</BaseQuestion>
+</RQ>
+<RQ id="1">
+<ResponseID id="2">pra110</ResponseID>
+<BaseQuestion id="2">How are my rights protected while participating in a study?</BaseQuestion>
+</RQ>
+<RQ id="2">
+<ResponseID id="3">pra126</ResponseID>
+<BaseQuestion id="3">What if I do not understand the Informed Consent form? Who can help me understand the Informed Consent form?</BaseQuestion>
+</RQ>
+<RQ id="3">
+<ResponseID id="4">pra127</ResponseID>
+<BaseQuestion id="4">What rights do I have if I participate in a clinical study?/Can I quit the clinical study at any time?/Will the risks/side effects be explained to me?</BaseQuestion>
+</RQ>
+<RQ id="4">
+<ResponseID id="5">pra130</ResponseID>
+<BaseQuestion id="5">If I say no to a trial now, can I change my mind later?</BaseQuestion>
+</RQ>
+<RQ id="5">
+<ResponseID id="6">prb128</ResponseID>
+<BaseQuestion id="6">Who can help me decide what is best for me?</BaseQuestion>
+</RQ>
+</RQs>
+</Response>
+<Response id="pra126">
+<ResponseID id="0">pra126</ResponseID>
+<BaseQuestion id="0">What if I do not understand the Informed Consent form? Who can help me understand the Informed Consent form?</BaseQuestion>
+<Content id="0">The consent form may contain words that you or your loved ones do not understand. Please ask the study doctor or other members of the clinical research team to explain any words or information that you do not clearly understand. Before you make a decision to participate in the study, it is important that you understand the information in this form. You should not sign this form if you have any questions that have not been fully answered by the study staff or if you are not comfortable with the answers.</Content>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">pra124</ResponseID>
+<BaseQuestion id="1">What is informed consent?</BaseQuestion>
+</RQ>
+<RQ id="1">
+<ResponseID id="2">pra129</ResponseID>
+<BaseQuestion id="2">Can I get a second opinion before I decide to participate?</BaseQuestion>
+</RQ>
+<RQ id="2">
+<ResponseID id="3">prb128</ResponseID>
+<BaseQuestion id="3">Who can help me decide what is best for me?</BaseQuestion>
+</RQ>
+<RQ id="3">
+<ResponseID id="4">prb236</ResponseID>
+<BaseQuestion id="4">What is the informed consent form?</BaseQuestion>
+</RQ>
+</RQs>
+</Response>
+<Response id="pra127">
+<ResponseID id="0">pra127</ResponseID>
+<BaseQuestion id="0">What rights do I have if I participate in a clinical study?/Can I quit the clinical study at any time?/Will the risks/side effects be explained to me?</BaseQuestion>
+<Content id="0">Taking part in a clinical study is your decision, and you keep all of your rights. For example, you are to be given enough time to decide whether to participate and to make that decision without any pressure from the people who are doing the clinical research. You can also refuse to participate in the study or stop participating at any time. Your decision not to participate will not affect your right to your usual care that is unrelated to the research study. In addition, you have the right to be told why the clinical study is being done, what will happen, and what you will be asked to do if you are in the study. You will also be informed of any reasonably foreseeable risks, discomforts, or side effects that may occur during the study and who will pay for any treatment related to the clinical research. You have the right to have your questions answered by the clinical research team at any time and receive a copy of your signed informed consent form.</Content>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">pra107</ResponseID>
+<BaseQuestion id="1">What is an Institutional Review Board (IRB)?</BaseQuestion>
+</RQ>
+<RQ id="1">
+<ResponseID id="2">pra110</ResponseID>
+<BaseQuestion id="2">How are my rights protected while participating in a study?</BaseQuestion>
+</RQ>
+<RQ id="2">
+<ResponseID id="3">pra124</ResponseID>
+<BaseQuestion id="3">What is informed consent?</BaseQuestion>
+</RQ>
+<RQ id="3">
+<ResponseID id="4">pra129</ResponseID>
+<BaseQuestion id="4">Can I get a second opinion before I decide to participate?</BaseQuestion>
+</RQ>
+<RQ id="4">
+<ResponseID id="5">pra132</ResponseID>
+<BaseQuestion id="5">How long do I have to make my decision?</BaseQuestion>
+</RQ>
+<RQ id="5">
+<ResponseID id="6">prb109</ResponseID>
+<BaseQuestion id="6">Can I get a copy of the study protocol?</BaseQuestion>
+</RQ>
+</RQs>
+</Response>
+<Response id="pra129">
+<ResponseID id="0">pra129</ResponseID>
+<BaseQuestion id="0">Can I get a second opinion before I decide to participate?</BaseQuestion>
+<Content id="0">You are free to get as many opinions as you feel you need before you decide to participate in a clinical study. A second-opinion can help you better understand the existing treatments available to you and help you determine if participation in the study is a good option for you both personally and medically.</Content>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">pra126</ResponseID>
+<BaseQuestion id="1">What if I do not understand the Informed Consent form? Who can help me understand the Informed Consent form?</BaseQuestion>
+</RQ>
+<RQ id="1">
+<ResponseID id="2">pra127</ResponseID>
+<BaseQuestion id="2">What rights do I have if I participate in a clinical study?/Can I quit the clinical study at any time?/Will the risks/side effects be explained to me?</BaseQuestion>
+</RQ>
+<RQ id="2">
+<ResponseID id="3">pra130</ResponseID>
+<BaseQuestion id="3">If I say no to a trial now, can I change my mind later?</BaseQuestion>
+</RQ>
+<RQ id="3">
+<ResponseID id="4">pra132</ResponseID>
+<BaseQuestion id="4">How long do I have to make my decision?</BaseQuestion>
+</RQ>
+<RQ id="4">
+<ResponseID id="5">prb123</ResponseID>
+<BaseQuestion id="5">Should I talk to my regular doctor about this study?</BaseQuestion>
+</RQ>
+<RQ id="5">
+<ResponseID id="6">prb128</ResponseID>
+<BaseQuestion id="6">Who can help me decide what is best for me?</BaseQuestion>
+</RQ>
+</RQs>
+</Response>
+<Response id="pra130">
+<ResponseID id="0">pra130</ResponseID>
+<BaseQuestion id="0">If I say no to a trial now, can I change my mind later?</BaseQuestion>
+<Content id="0">If you decline to participate in a clinical study, you can change your mind later as long as the study is still accepting new patients. During the informed consent process, it is recommended that you discuss any concerns that you may have about the study with the clinical research team. You should also ask how long they plan to enroll study participants and if there will be an additional enrollment period at a later date. At no point should you feel pressured by the clinical research team to join the study. It should also be noted that if you enroll in the study and decide that you no longer wish to participate, you can withdraw at any time without penalty.</Content>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">pra124</ResponseID>
+<BaseQuestion id="1">What is informed consent?</BaseQuestion>
+</RQ>
+<RQ id="1">
+<ResponseID id="2">pra127</ResponseID>
+<BaseQuestion id="2">What rights do I have if I participate in a clinical study?/Can I quit the clinical study at any time?/Will the risks/side effects be explained to me?</BaseQuestion>
+</RQ>
+<RQ id="2">
+<ResponseID id="3">pra129</ResponseID>
+<BaseQuestion id="3">Can I get a second opinion before I decide to participate?</BaseQuestion>
+</RQ>
+<RQ id="3">
+<ResponseID id="4">pra131</ResponseID>
+<BaseQuestion id="4">Will there be other opportunities to participate in a clinical trial?/Where can I find out about studies for my condition?</BaseQuestion>
+</RQ>
+<RQ id="4">
+<ResponseID id="5">pra132</ResponseID>
+<BaseQuestion id="5">How long do I have to make my decision?</BaseQuestion>
+</RQ>
+<RQ id="5">
+<ResponseID id="6">pra133</ResponseID>
+<BaseQuestion id="6">What will be the impact on the study if I decide not to participate? Will the study staff still proceed if I decide not to enroll?</BaseQuestion>
+</RQ>
+</RQs>
+</Response>
+<Response id="pra131">
+<ResponseID id="0">pra131</ResponseID>
+<BaseQuestion id="0">Will there be other opportunities to participate in a clinical trial?/Where can I find out about studies for my condition?</BaseQuestion>
+<Content id="0">It is difficult to say whether there will be other opportunities to participate in future clinical studies. Although new investigational drugs and devices are constantly moving through the clinical research process, there is no guarantee that you will be a good candidate for these studies. Clinical trials for many conditions are listed on ClinicalTrials.gov, a website sponsored by the U.S. National Institutes of Health.</Content>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">pra130</ResponseID>
+<BaseQuestion id="1">If I say no to a trial now, can I change my mind later?</BaseQuestion>
+</RQ>
+<RQ id="1">
+<ResponseID id="2">pra132</ResponseID>
+<BaseQuestion id="2">How long do I have to make my decision?</BaseQuestion>
+</RQ>
+<RQ id="2">
+<ResponseID id="3">pra133</ResponseID>
+<BaseQuestion id="3">What will be the impact on the study if I decide not to participate? Will the study staff still proceed if I decide not to enroll?</BaseQuestion>
+</RQ>
+</RQs>
+</Response>
+<Response id="pra132">
+<ResponseID id="0">pra132</ResponseID>
+<BaseQuestion id="0">How long do I have to make my decision?</BaseQuestion>
+<Content id="0">When you meet with your clinical research team, ask them how long you have to make a decision on whether or not to participate in the clinical study. In general, you can decide to participate at any time during the enrollment period, which for some studies is only a few months, but for others, can be years. At no point should you feel pressured by the research team to join the study.</Content>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">pra129</ResponseID>
+<BaseQuestion id="1">Can I get a second opinion before I decide to participate?</BaseQuestion>
+</RQ>
+<RQ id="1">
+<ResponseID id="2">pra130</ResponseID>
+<BaseQuestion id="2">If I say no to a trial now, can I change my mind later?</BaseQuestion>
+</RQ>
+<RQ id="2">
+<ResponseID id="3">pra131</ResponseID>
+<BaseQuestion id="3">Will there be other opportunities to participate in a clinical trial?/Where can I find out about studies for my condition?</BaseQuestion>
+</RQ>
+<RQ id="3">
+<ResponseID id="4">pra133</ResponseID>
+<BaseQuestion id="4">What will be the impact on the study if I decide not to participate? Will the study staff still proceed if I decide not to enroll?</BaseQuestion>
+</RQ>
+<RQ id="4">
+<ResponseID id="5">prb159</ResponseID>
+<BaseQuestion id="5">Why might I be excluded from the study?</BaseQuestion>
+</RQ>
+<RQ id="5">
+<ResponseID id="6">prb161</ResponseID>
+<BaseQuestion id="6">Can I participate in more than one trial?</BaseQuestion>
+</RQ>
+</RQs>
+</Response>
+<Response id="pra133">
+<ResponseID id="0">pra133</ResponseID>
+<BaseQuestion id="0">What will be the impact on the study if I decide not to participate? Will the study staff still proceed if I decide not to enroll?</BaseQuestion>
+<Content id="0">If you choose not to participate in the study, the study will still continue as planned.</Content>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">pra130</ResponseID>
+<BaseQuestion id="1">If I say no to a trial now, can I change my mind later?</BaseQuestion>
+</RQ>
+<RQ id="1">
+<ResponseID id="2">pra131</ResponseID>
+<BaseQuestion id="2">Will there be other opportunities to participate in a clinical trial?/Where can I find out about studies for my condition?</BaseQuestion>
+</RQ>
+<RQ id="2">
+<ResponseID id="3">pra132</ResponseID>
+<BaseQuestion id="3">How long do I have to make my decision?</BaseQuestion>
+</RQ>
+<RQ id="3">
+<ResponseID id="4">prb238</ResponseID>
+<BaseQuestion id="4">Can I withdraw from the study?</BaseQuestion>
+</RQ>
+</RQs>
+</Response>
+<Response id="pra138">
+<ResponseID id="0">pra138</ResponseID>
+<BaseQuestion id="0">Do my family/friends need to know that I am participating in a clinical study?</BaseQuestion>
+<Content id="0">If you choose to participate in a clinical study, it is up to you if you would like to let your family and friends know of your decision. It can often be helpful to inform family or friends if you will need assistance during the study, such as obtaining transportation to and from clinical site visits or sticking to the treatment plan outlined in the study. You may wish to discuss this study with your family, friends, or your doctor before making your decision to participate.</Content>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">prb135</ResponseID>
+<BaseQuestion id="1">Will my employer be told about my participation in this clinical study?</BaseQuestion>
+</RQ>
+<RQ id="1">
+<ResponseID id="2">prb137</ResponseID>
+<BaseQuestion id="2">Will my name be publically used during the study or when the results are published?</BaseQuestion>
+</RQ>
+<RQ id="2">
+<ResponseID id="3">prb236</ResponseID>
+<BaseQuestion id="3">What is the informed consent form?</BaseQuestion>
+</RQ>
+</RQs>
+</Response>
+<Response id="pra204">
+<ResponseID id="0">pra204</ResponseID>
+<BaseQuestion id="0">What are single-blind and double-blind studies?</BaseQuestion>
+<Content id="0">When discussing clinical studies, you might notice that they can also be referred to as "single-blind" or "double-blind."A single-blind study means that the investigators involved in the studies know whether the patient is getting the investigational drug, but the patient is not aware of what study treatment he or she is getting.In a double-blind study, neither the investigator nor the patient knows who is receiving the investigational drug."Blinding" the studies helps reduce the possibility that any intentional or unintentional biases are introduced into the study.</Content>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">pra205</ResponseID>
+<BaseQuestion id="1">What is blinding?/Why is a study blinded?</BaseQuestion>
+</RQ>
+<RQ id="1">
+<ResponseID id="2">prb188</ResponseID>
+<BaseQuestion id="2">Will the study staff know what treatment I'm getting?</BaseQuestion>
+</RQ>
+<RQ id="2">
+<ResponseID id="3">prb233</ResponseID>
+<BaseQuestion id="3">Why is there an open-label section after one year?</BaseQuestion>
+</RQ>
+</RQs>
+</Response>
+<Response id="pra205">
+<ResponseID id="0">pra205</ResponseID>
+<BaseQuestion id="0">What is blinding?/Why is a study blinded?</BaseQuestion>
+<Content id="0">Often, clinical studies involve something called blinding, which means that the study participants, doctors, and researchers do not know which study treatment a study participant is receiving and therefore cannot affect the study results by introducing their bias about what study results will show.</Content>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">pra204</ResponseID>
+<BaseQuestion id="1">What are single-blind and double-blind studies?</BaseQuestion>
+</RQ>
+<RQ id="1">
+<ResponseID id="2">pra104</ResponseID>
+<BaseQuestion id="2">What are the types of clinical trials?</BaseQuestion>
+</RQ>
+<RQ id="2">
+<ResponseID id="3">prb233</ResponseID>
+<BaseQuestion id="3">Why is there an open-label section after one year?</BaseQuestion>
+</RQ>
+<RQ id="3">
+<ResponseID id="4">prb166</ResponseID>
+<BaseQuestion id="4">What will the study treatment entail?</BaseQuestion>
+</RQ>
+</RQs>
+</Response>
+<Response id="pra206">
+<ResponseID id="0">pra206</ResponseID>
+<BaseQuestion id="0">What are the risks of my participation in a clinical study?</BaseQuestion>
+<Content id="0">All clinical studies have risks. The risks may include things that could make you sick, make you feel uncomfortable, or harm you. Any known risks will be discussed during the consent process, but there is always a possibility of unknown risks. You might experience negative effects related to the study medication while you are participating in the study. All participants will be monitored carefully by the study team for any negative effects.</Content>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">prb190</ResponseID>
+<BaseQuestion id="1">What are the risks or side effects of this study treatment?</BaseQuestion>
+</RQ>
+<RQ id="1">
+<ResponseID id="2">prb239</ResponseID>
+<BaseQuestion id="2">Are there risks and side effects of the study medication?</BaseQuestion>
+</RQ>
+<RQ id="2">
+<ResponseID id="3">prb193</ResponseID>
+<BaseQuestion id="3">What should I do if I experience side effects?/What happens if my RA gets worse during study treatment?</BaseQuestion>
+</RQ>
+<RQ id="3">
+<ResponseID id="4">prb192</ResponseID>
+<BaseQuestion id="4">Could my rheumatoid arthritis get worse when receiving the study treatment?</BaseQuestion>
+</RQ>
+</RQs>
+</Response>
+<Response id="pra207">
+<ResponseID id="0">pra207</ResponseID>
+<BaseQuestion id="0">How can I find clinical trials?</BaseQuestion>
+<Content id="0">To find Pfizer clinical trials that are seeking participants, please visit 
+<![CDATA[<a href="http://www.pfizer.com/research/clinical_trials" target="_blank">http://www.pfizer.com/research/clinical_trials</a>]]>
+. In addition, clinical trials for many conditions are listed on 
+<![CDATA[<a href="http://ClinicalTrials.gov" target="_blank">http://ClinicalTrials.gov</a>]]>
+, a website sponsored by the U.S. National Institutes of Health.</Content>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">prb005</ResponseID>
+<BaseQuestion id="1">Introduction to program</BaseQuestion>
+</RQ>
+<RQ id="1">
+<ResponseID id="2">prb008</ResponseID>
+<BaseQuestion id="2">Contact information</BaseQuestion>
+</RQ>
+</RQs>
+</Response>
+<Response id="prb005">
+<ResponseID id="0">prb005</ResponseID>
+<BaseQuestion id="0">Introduction to program</BaseQuestion>
+<Content id="0">The goal of this site is to give you more information about what it is like to take part in a clinical trial, which is also known as a research study. This site has also been developed to provide specific information about the REFLECTIONS study for rheumatoid arthritis. I invite you to explore the site. If you have a question, type it into the box below and we will provide the closest available pre-recorded response. Alternatively, we will tell you that we do not have a response to a certain question. This site is not intended to provide medical advice or to replace a conversation with your physician or study doctor. If you have unanswered questions after exploring the site, you should take them to your physician. Questions specific to your diagnosis or other medical advice cannot be provided here.This website is not intended for reporting adverse events or product complaints.If you live in the United States, you may report an adverse event related to Pfizer products by calling 1-800-438-1985. If you prefer, you may contact the U.S. Food and Drug Administration directly. The FDA has established a reporting service known as MedWatch. Through MedWatch health care professionals and consumers can report serious problems they suspect may be associated with the drugs and medical devices they prescribe, dispense, or use. Visit 
+<![CDATA[<a href="http://www.fda.gov/medwatch" target="_blank">http://www.fda.gov/medwatch</a>]]>
+or call 1-800-FDA-1088.</Content>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">prb139</ResponseID>
+<BaseQuestion id="1">What is being tested in this trial?/What is the purpose of this trial?</BaseQuestion>
+</RQ>
+<RQ id="1">
+<ResponseID id="2">prb166</ResponseID>
+<BaseQuestion id="2">What will the study treatment entail?</BaseQuestion>
+</RQ>
+<RQ id="2">
+<ResponseID id="3">prb169</ResponseID>
+<BaseQuestion id="3">What kind of tests, therapies, and procedures will I have during this study?</BaseQuestion>
+</RQ>
+</RQs>
+</Response>
+<Response id="prb008">
+<ResponseID id="0">prb008</ResponseID>
+<BaseQuestion id="0">Contact information</BaseQuestion>
+<Content id="0">If you are looking for contact information for Pfizer rheumatoid arthritis studies, please visit the listed link for the REFLECTIONS B537-02 study: 
+<![CDATA[<a href="http://www.pfizer.com/research/clinical_trials/find_a_trial/NCT02222493" target="_blank">http://www.pfizer.com/research/clinical_trials/find_a_trial/NCT02222493</a>]]>
+.</Content>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">prb005</ResponseID>
+<BaseQuestion id="1">Introduction to program</BaseQuestion>
+</RQ>
+<RQ id="1">
+<ResponseID id="2">pra207</ResponseID>
+<BaseQuestion id="2">How can I find clinical trials?</BaseQuestion>
+</RQ>
+</RQs>
+</Response>
+<Response id="prb105">
+<ResponseID id="0">prb105</ResponseID>
+<BaseQuestion id="0">Who is managing my study?</BaseQuestion>
+<Content id="0">The study is managed by a research team that includes doctors, nurses, research assistants, data analysts, and other specialists. The research team often works with other health professionals, including other doctors, nurses, laboratory technicians, and pharmacists to monitor your health during the clinical study.</Content>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">prb145</ResponseID>
+<BaseQuestion id="1">Will I be able to talk to the study doctors during the study?</BaseQuestion>
+</RQ>
+<RQ id="1">
+<ResponseID id="2">prb183</ResponseID>
+<BaseQuestion id="2">Who will be working with me during the clinical study?</BaseQuestion>
+</RQ>
+<RQ id="2">
+<ResponseID id="3">prb184</ResponseID>
+<BaseQuestion id="3">Can I use my own doctor/lab/hospital for the tests?</BaseQuestion>
+</RQ>
+<RQ id="3">
+<ResponseID id="4">prb185</ResponseID>
+<BaseQuestion id="4">If I get sick during the study, who will be there to help me?</BaseQuestion>
+</RQ>
+<RQ id="4">
+<ResponseID id="5">prb227</ResponseID>
+<BaseQuestion id="5">How is my safety checked in this study?</BaseQuestion>
+</RQ>
+</RQs>
+</Response>
+<Response id="prb109">
+<ResponseID id="0">prb109</ResponseID>
+<BaseQuestion id="0">Can I get a copy of the study protocol?</BaseQuestion>
+<Content id="0">You will not be provided with a copy of the protocol. However, the clinical study procedures and requirements will be reviewed with you by study staff prior to your enrollment in the study and will be described in the informed consent form. During this review process, the research team will help to address any questions or concerns you may have about the study design, objective, or what your participation in the study will entail.</Content>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">pra108</ResponseID>
+<BaseQuestion id="1">What is a clinical trial protocol?</BaseQuestion>
+</RQ>
+<RQ id="1">
+<ResponseID id="2">pra127</ResponseID>
+<BaseQuestion id="2">What rights do I have if I participate in a clinical study?/Can I quit the clinical study at any time?/Will the risks/side effects be explained to me?</BaseQuestion>
+</RQ>
+<RQ id="2">
+<ResponseID id="3">prb139</ResponseID>
+<BaseQuestion id="3">What is being tested in this trial?/What is the purpose of this trial?</BaseQuestion>
+</RQ>
+<RQ id="3">
+<ResponseID id="4">prb145</ResponseID>
+<BaseQuestion id="4">Will I be able to talk to the study doctors during the study?</BaseQuestion>
+</RQ>
+</RQs>
+</Response>
+<Response id="prb115">
+<ResponseID id="0">prb115</ResponseID>
+<BaseQuestion id="0">What if the study treatment does not work?</BaseQuestion>
+<Content id="0">Under the terms of the informed consent process, you will be informed about the risks and benefits of participating in this clinical study. One of the risks associated with participation is that the experimental drug or device may have no therapeutic benefit. However, if you decide that the research does not match your interests or if you simply change your mind, you can withdraw from the clinical study at any time without penalty.</Content>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">pra106</ResponseID>
+<BaseQuestion id="1">What is a Data Safety and Monitoring Committee?</BaseQuestion>
+</RQ>
+<RQ id="1">
+<ResponseID id="2">pra117</ResponseID>
+<BaseQuestion id="2">What are the benefits of participating in a clinical study?</BaseQuestion>
+</RQ>
+<RQ id="2">
+<ResponseID id="3">prb181</ResponseID>
+<BaseQuestion id="3">Is it normal to feel uncertain about participating in a study?</BaseQuestion>
+</RQ>
+<RQ id="3">
+<ResponseID id="4">prb185</ResponseID>
+<BaseQuestion id="4">If I get sick during the study, who will be there to help me?</BaseQuestion>
+</RQ>
+<RQ id="4">
+<ResponseID id="5">prb190</ResponseID>
+<BaseQuestion id="5">What are the risks or side effects of this study treatment?</BaseQuestion>
+</RQ>
+<RQ id="5">
+<ResponseID id="6">prb192</ResponseID>
+<BaseQuestion id="6">Could my rheumatoid arthritis get worse when receiving the study treatment?</BaseQuestion>
+</RQ>
+</RQs>
+</Response>
+<Response id="prb120">
+<ResponseID id="0">prb120</ResponseID>
+<BaseQuestion id="0">Can I change study sites if I move?</BaseQuestion>
+<Content id="0">If you move over the course of the study and a different study site is closer to your new home, you may have the option of switching to a closer study site. However, in some cases, there may not be a study site close to your new home, which could affect your continued participation in the clinical study. Please let the study staff know if you have any immediate plans to move so they can ensure that you can attend site visits over the course of the study.</Content>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">prb121</ResponseID>
+<BaseQuestion id="1">Will i have to go to a different doctor for my study?</BaseQuestion>
+</RQ>
+<RQ id="1">
+<ResponseID id="2">prb179</ResponseID>
+<BaseQuestion id="2">If I travel a lot, can I still participate?</BaseQuestion>
+</RQ>
+</RQs>
+</Response>
+<Response id="prb121">
+<ResponseID id="0">prb121</ResponseID>
+<BaseQuestion id="0">Will i have to go to a different doctor for my study?</BaseQuestion>
+<Content id="0">Over the course of the clinical study, you will be seen by a research team that includes doctors, nurses, research assistants, data analysts, and other specialists. However, this research team will only provide study-related treatments or procedures, so it's important that you keep seeing your current doctor for regular checkups and other care while you participate in the study. You should tell your regular doctor that you are participating in a clinical study, and you should tell the study doctor if you start taking any new medications not associated with the clinical study.</Content>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">prb120</ResponseID>
+<BaseQuestion id="1">Can I change study sites if I move?</BaseQuestion>
+</RQ>
+<RQ id="1">
+<ResponseID id="2">prb163</ResponseID>
+<BaseQuestion id="2">Should I keep taking my other medications?</BaseQuestion>
+</RQ>
+<RQ id="2">
+<ResponseID id="3">prb183</ResponseID>
+<BaseQuestion id="3">Who will be working with me during the clinical study?</BaseQuestion>
+</RQ>
+<RQ id="3">
+<ResponseID id="4">prb184</ResponseID>
+<BaseQuestion id="4">Can I use my own doctor/lab/hospital for the tests?</BaseQuestion>
+</RQ>
+<RQ id="4">
+<ResponseID id="5">prb185</ResponseID>
+<BaseQuestion id="5">If I get sick during the study, who will be there to help me?</BaseQuestion>
+</RQ>
+<RQ id="5">
+<ResponseID id="6">prb202</ResponseID>
+<BaseQuestion id="6">Will i have to switch doctors if I enroll in a study?</BaseQuestion>
+</RQ>
+<RQ id="6">
+<ResponseID id="7">prb241</ResponseID>
+<BaseQuestion id="7">Will I still see my regular doctor for other health needs during the study?</BaseQuestion>
+</RQ>
+</RQs>
+</Response>
+<Response id="prb122">
+<ResponseID id="0">prb122</ResponseID>
+<BaseQuestion id="0">Does my regular doctor know about this study?</BaseQuestion>
+<Content id="0">Often, your doctor will be the one to tell you about a clinical study. However, in some cases, your doctor may not know about the study that you are considering.</Content>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">prb123</ResponseID>
+<BaseQuestion id="1">Should I talk to my regular doctor about this study?</BaseQuestion>
+</RQ>
+<RQ id="1">
+<ResponseID id="2">prb137</ResponseID>
+<BaseQuestion id="2">Will my name be publically used during the study or when the results are published?</BaseQuestion>
+</RQ>
+<RQ id="2">
+<ResponseID id="3">prb172</ResponseID>
+<BaseQuestion id="3">Do I have to do everything the doctor says?</BaseQuestion>
+</RQ>
+<RQ id="3">
+<ResponseID id="4">prb184</ResponseID>
+<BaseQuestion id="4">Can I use my own doctor/lab/hospital for the tests?</BaseQuestion>
+</RQ>
+<RQ id="4">
+<ResponseID id="5">prb185</ResponseID>
+<BaseQuestion id="5">If I get sick during the study, who will be there to help me?</BaseQuestion>
+</RQ>
+<RQ id="5">
+<ResponseID id="6">prb186</ResponseID>
+<BaseQuestion id="6">What type of qualifications does the study staff have?</BaseQuestion>
+</RQ>
+</RQs>
+</Response>
+<Response id="prb123">
+<ResponseID id="0">prb123</ResponseID>
+<BaseQuestion id="0">Should I talk to my regular doctor about this study?</BaseQuestion>
+<Content id="0">It is recommended that you let your regular doctor know about your decision to participate in a clinical study. Your doctor knows your health history, which makes him or her a good resource to discuss whether participating in a clinical study might be right for you. In addition, your participation in a clinical study may mean that you will take a different medication or undergo testing that may alter the way in which he or she approaches your treatment.</Content>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">pra129</ResponseID>
+<BaseQuestion id="1">Can I get a second opinion before I decide to participate?</BaseQuestion>
+</RQ>
+<RQ id="1">
+<ResponseID id="2">prb122</ResponseID>
+<BaseQuestion id="2">Does my regular doctor know about this study?</BaseQuestion>
+</RQ>
+<RQ id="2">
+<ResponseID id="3">prb128</ResponseID>
+<BaseQuestion id="3">Who can help me decide what is best for me?</BaseQuestion>
+</RQ>
+<RQ id="3">
+<ResponseID id="4">prb145</ResponseID>
+<BaseQuestion id="4">Will I be able to talk to the study doctors during the study?</BaseQuestion>
+</RQ>
+<RQ id="4">
+<ResponseID id="5">prb163</ResponseID>
+<BaseQuestion id="5">Should I keep taking my other medications?</BaseQuestion>
+</RQ>
+<RQ id="5">
+<ResponseID id="6">prb181</ResponseID>
+<BaseQuestion id="6">Is it normal to feel uncertain about participating in a study?</BaseQuestion>
+</RQ>
+</RQs>
+</Response>
+<Response id="prb128">
+<ResponseID id="0">prb128</ResponseID>
+<BaseQuestion id="0">Who can help me decide what is best for me?</BaseQuestion>
+<Content id="0">Learning all you can about clinical studies can help you decide whether to take part in one. In order to gather information about a clinical study you are considering, you should review the key points of the study with the study doctor. You should actively participate in the informed consent process, ask questions of the study doctor and other research staff, and discuss the clinical study with your doctor if desired. Ultimately, however, it is up to you to decide whether participation in the clinical study is right for you.</Content>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">pra124</ResponseID>
+<BaseQuestion id="1">What is informed consent?</BaseQuestion>
+</RQ>
+<RQ id="1">
+<ResponseID id="2">pra126</ResponseID>
+<BaseQuestion id="2">What if I do not understand the Informed Consent form? Who can help me understand the Informed Consent form?</BaseQuestion>
+</RQ>
+<RQ id="2">
+<ResponseID id="3">pra129</ResponseID>
+<BaseQuestion id="3">Can I get a second opinion before I decide to participate?</BaseQuestion>
+</RQ>
+<RQ id="3">
+<ResponseID id="4">prb123</ResponseID>
+<BaseQuestion id="4">Should I talk to my regular doctor about this study?</BaseQuestion>
+</RQ>
+<RQ id="4">
+<ResponseID id="5">prb181</ResponseID>
+<BaseQuestion id="5">Is it normal to feel uncertain about participating in a study?</BaseQuestion>
+</RQ>
+<RQ id="5">
+<ResponseID id="6">prb236</ResponseID>
+<BaseQuestion id="6">What is the informed consent form?</BaseQuestion>
+</RQ>
+</RQs>
+</Response>
+<Response id="prb135">
+<ResponseID id="0">prb135</ResponseID>
+<BaseQuestion id="0">Will my employer be told about my participation in this clinical study?</BaseQuestion>
+<Content id="0">If you choose to participate in the study, you are not required to tell your employer. However, it may be wise to inform your boss or manager if participating in the study will interfere with your ability to do your job; for example, if study appointments will require you to take time off of work.</Content>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">pra138</ResponseID>
+<BaseQuestion id="1">Do my family/friends need to know that I am participating in a clinical study?</BaseQuestion>
+</RQ>
+<RQ id="1">
+<ResponseID id="2">prb137</ResponseID>
+<BaseQuestion id="2">Will my name be publically used during the study or when the results are published?</BaseQuestion>
+</RQ>
+<RQ id="2">
+<ResponseID id="3">prb155</ResponseID>
+<BaseQuestion id="3">Will I get paid to participate?</BaseQuestion>
+</RQ>
+</RQs>
+</Response>
+<Response id="prb137">
+<ResponseID id="0">prb137</ResponseID>
+<BaseQuestion id="0">Will my name be publically used during the study or when the results are published?</BaseQuestion>
+<Content id="0">Any data collected about you as part of a clinical study is subject to privacy requirements. The informed consent form will describe how information may be used or disclosed by groups for research purposes. The research team can publish, present, or otherwise disclose data from the study for research purposes; however, your name will not be included in such publications, public presentations, or disclosures.</Content>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">pra102</ResponseID>
+<BaseQuestion id="1">What agency regulates clinical trials?</BaseQuestion>
+</RQ>
+<RQ id="1">
+<ResponseID id="2">pra138</ResponseID>
+<BaseQuestion id="2">Do my family/friends need to know that I am participating in a clinical study?</BaseQuestion>
+</RQ>
+<RQ id="2">
+<ResponseID id="3">prb122</ResponseID>
+<BaseQuestion id="3">Does my regular doctor know about this study?</BaseQuestion>
+</RQ>
+<RQ id="3">
+<ResponseID id="4">prb135</ResponseID>
+<BaseQuestion id="4">Will my employer be told about my participation in this clinical study?</BaseQuestion>
+</RQ>
+</RQs>
+</Response>
+<Response id="prb139">
+<ResponseID id="0">prb139</ResponseID>
+<BaseQuestion id="0">What is being tested in this trial?/What is the purpose of this trial?</BaseQuestion>
+<Content id="0">The REFLECTIONS B537-02 study is looking at the safety and effectiveness of an investigational medication in patients with moderately to severely active rheumatoid arthritis.</Content>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">pra104</ResponseID>
+<BaseQuestion id="1">What are the types of clinical trials?</BaseQuestion>
+</RQ>
+<RQ id="1">
+<ResponseID id="2">prb005</ResponseID>
+<BaseQuestion id="2">Introduction to program</BaseQuestion>
+</RQ>
+<RQ id="2">
+<ResponseID id="3">prb109</ResponseID>
+<BaseQuestion id="3">Can I get a copy of the study protocol?</BaseQuestion>
+</RQ>
+<RQ id="3">
+<ResponseID id="4">prb140</ResponseID>
+<BaseQuestion id="4">Has the study investigational medication ever been tested before?</BaseQuestion>
+</RQ>
+<RQ id="4">
+<ResponseID id="5">prb141</ResponseID>
+<BaseQuestion id="5">Is the study investigational medication used to treat any other conditions?</BaseQuestion>
+</RQ>
+<RQ id="5">
+<ResponseID id="6">prb166</ResponseID>
+<BaseQuestion id="6">What will the study treatment entail?</BaseQuestion>
+</RQ>
+</RQs>
+</Response>
+<Response id="prb140">
+<ResponseID id="0">prb140</ResponseID>
+<BaseQuestion id="0">Has the study investigational medication ever been tested before?</BaseQuestion>
+<Content id="0">The investigational medication has been given to healthy volunteers in a prior study.</Content>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">pra103</ResponseID>
+<BaseQuestion id="1">What are the phases of a clinical trial?</BaseQuestion>
+</RQ>
+<RQ id="1">
+<ResponseID id="2">prb139</ResponseID>
+<BaseQuestion id="2">What is being tested in this trial?/What is the purpose of this trial?</BaseQuestion>
+</RQ>
+<RQ id="2">
+<ResponseID id="3">prb141</ResponseID>
+<BaseQuestion id="3">Is the study investigational medication used to treat any other conditions?</BaseQuestion>
+</RQ>
+<RQ id="3">
+<ResponseID id="4">prb147</ResponseID>
+<BaseQuestion id="4">How many people will be enrolled in this study?</BaseQuestion>
+</RQ>
+<RQ id="4">
+<ResponseID id="5">prb166</ResponseID>
+<BaseQuestion id="5">What will the study treatment entail?</BaseQuestion>
+</RQ>
+</RQs>
+</Response>
+<Response id="prb141">
+<ResponseID id="0">prb141</ResponseID>
+<BaseQuestion id="0">Is the study investigational medication used to treat any other conditions?</BaseQuestion>
+<Content id="0">The investigational medication is not approved to treat any conditions.</Content>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">prb139</ResponseID>
+<BaseQuestion id="1">What is being tested in this trial?/What is the purpose of this trial?</BaseQuestion>
+</RQ>
+<RQ id="1">
+<ResponseID id="2">prb140</ResponseID>
+<BaseQuestion id="2">Has the study investigational medication ever been tested before?</BaseQuestion>
+</RQ>
+<RQ id="2">
+<ResponseID id="3">prb147</ResponseID>
+<BaseQuestion id="3">How many people will be enrolled in this study?</BaseQuestion>
+</RQ>
+<RQ id="3">
+<ResponseID id="4">prb166</ResponseID>
+<BaseQuestion id="4">What will the study treatment entail?</BaseQuestion>
+</RQ>
+</RQs>
+</Response>
+<Response id="prb142">
+<ResponseID id="0">prb142</ResponseID>
+<BaseQuestion id="0">When will I find out about the trial results?</BaseQuestion>
+<Content id="0">Although study participation is expected to last for a maximum of 2 years, it may take several months or even years after your participation ends for the research team to analyze the data collected and report the results. During the study, you will not have the right to know any information about ongoing study results.</Content>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">prb139</ResponseID>
+<BaseQuestion id="1">What is being tested in this trial?/What is the purpose of this trial?</BaseQuestion>
+</RQ>
+<RQ id="1">
+<ResponseID id="2">prb146</ResponseID>
+<BaseQuestion id="2">Will I be kept informed of my test results during the study?</BaseQuestion>
+</RQ>
+<RQ id="2">
+<ResponseID id="3">prb167</ResponseID>
+<BaseQuestion id="3">How long will the study last?</BaseQuestion>
+</RQ>
+<RQ id="3">
+<ResponseID id="4">prb178</ResponseID>
+<BaseQuestion id="4">What happens after I stop or complete my study treatment in the study?</BaseQuestion>
+</RQ>
+</RQs>
+</Response>
+<Response id="prb145">
+<ResponseID id="0">prb145</ResponseID>
+<BaseQuestion id="0">Will I be able to talk to the study doctors during the study?</BaseQuestion>
+<Content id="0">Over the course of the clinical study, you will have regular communication with the clinical research team, including the study doctor. You may not be able to see the study doctor at each study visit, but you will have opportunities to meet with the study doctor to ask questions or discuss any concerns you may have throughout the study.</Content>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">prb105</ResponseID>
+<BaseQuestion id="1">Who is managing my study?</BaseQuestion>
+</RQ>
+<RQ id="1">
+<ResponseID id="2">prb123</ResponseID>
+<BaseQuestion id="2">Should I talk to my regular doctor about this study?</BaseQuestion>
+</RQ>
+<RQ id="2">
+<ResponseID id="3">prb146</ResponseID>
+<BaseQuestion id="3">Will I be kept informed of my test results during the study?</BaseQuestion>
+</RQ>
+<RQ id="3">
+<ResponseID id="4">prb183</ResponseID>
+<BaseQuestion id="4">Who will be working with me during the clinical study?</BaseQuestion>
+</RQ>
+<RQ id="4">
+<ResponseID id="5">prb184</ResponseID>
+<BaseQuestion id="5">Can I use my own doctor/lab/hospital for the tests?</BaseQuestion>
+</RQ>
+<RQ id="5">
+<ResponseID id="6">prb185</ResponseID>
+<BaseQuestion id="6">If I get sick during the study, who will be there to help me?</BaseQuestion>
+</RQ>
+</RQs>
+</Response>
+<Response id="prb146">
+<ResponseID id="0">prb146</ResponseID>
+<BaseQuestion id="0">Will I be kept informed of my test results during the study?</BaseQuestion>
+<Content id="0">The results of your lab tests will be shared with you throughout the study.</Content>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">pra113</ResponseID>
+<BaseQuestion id="1">What information will the study doctor be able to share with me?</BaseQuestion>
+</RQ>
+<RQ id="1">
+<ResponseID id="2">prb142</ResponseID>
+<BaseQuestion id="2">When will I find out about the trial results?</BaseQuestion>
+</RQ>
+<RQ id="2">
+<ResponseID id="3">prb145</ResponseID>
+<BaseQuestion id="3">Will I be able to talk to the study doctors during the study?</BaseQuestion>
+</RQ>
+<RQ id="3">
+<ResponseID id="4">prb183</ResponseID>
+<BaseQuestion id="4">Who will be working with me during the clinical study?</BaseQuestion>
+</RQ>
+</RQs>
+</Response>
+<Response id="prb147">
+<ResponseID id="0">prb147</ResponseID>
+<BaseQuestion id="0">How many people will be enrolled in this study?</BaseQuestion>
+<Content id="0">More than 500 people with moderately to severely active rheumatoid arthritis will participate in the study.</Content>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">prb140</ResponseID>
+<BaseQuestion id="1">Has the study investigational medication ever been tested before?</BaseQuestion>
+</RQ>
+<RQ id="1">
+<ResponseID id="2">prb141</ResponseID>
+<BaseQuestion id="2">Is the study investigational medication used to treat any other conditions?</BaseQuestion>
+</RQ>
+<RQ id="2">
+<ResponseID id="3">prb167</ResponseID>
+<BaseQuestion id="3">How long will the study last?</BaseQuestion>
+</RQ>
+</RQs>
+</Response>
+<Response id="prb148">
+<ResponseID id="0">prb148</ResponseID>
+<BaseQuestion id="0">Would I have to pay for study medication and tests?</BaseQuestion>
+<Content id="0">Study participants will not have to pay for the investigational medication, study visits, or study procedures required for the study. The study sponsor will pay for these and any costs associated with the study. However, the sponsor will not cover care or treatment that is not part of the study. You, your insurance company, or your health care provider may need to cover the costs for specific procedures or tests that you would receive even if you were not participating in the study.If you have any questions or concerns related to cost, please ask the study doctor.</Content>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">prb150</ResponseID>
+<BaseQuestion id="1">What will my health insurance cover?</BaseQuestion>
+</RQ>
+<RQ id="1">
+<ResponseID id="2">prb153</ResponseID>
+<BaseQuestion id="2">What if I don't have health insurance?</BaseQuestion>
+</RQ>
+<RQ id="2">
+<ResponseID id="3">prb155</ResponseID>
+<BaseQuestion id="3">Will I get paid to participate?</BaseQuestion>
+</RQ>
+<RQ id="3">
+<ResponseID id="4">prb157</ResponseID>
+<BaseQuestion id="4">Do the doctors get paid/who pays the doctors?</BaseQuestion>
+</RQ>
+<RQ id="4">
+<ResponseID id="5">prb180</ResponseID>
+<BaseQuestion id="5">What support is available for participants during the trial?</BaseQuestion>
+</RQ>
+</RQs>
+</Response>
+<Response id="prb150">
+<ResponseID id="0">prb150</ResponseID>
+<BaseQuestion id="0">What will my health insurance cover?</BaseQuestion>
+<Content id="0">Some insurance plans will not pay for services for people taking part in research studies. Please check with your insurance company to find out what your plan will pay for. Charges for some or all standard of care services may be billed in the usual manner to you or your insurance company. Examinations, scans, laboratory tests, and other medical procedures and treatments that would routinely be needed to monitor and treat your rheumatoid arthritis are known as standard of care services.</Content>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">prb148</ResponseID>
+<BaseQuestion id="1">Would I have to pay for study medication and tests?</BaseQuestion>
+</RQ>
+<RQ id="1">
+<ResponseID id="2">prb153</ResponseID>
+<BaseQuestion id="2">What if I don't have health insurance?</BaseQuestion>
+</RQ>
+<RQ id="2">
+<ResponseID id="3">prb155</ResponseID>
+<BaseQuestion id="3">Will I get paid to participate?</BaseQuestion>
+</RQ>
+</RQs>
+</Response>
+<Response id="prb153">
+<ResponseID id="0">prb153</ResponseID>
+<BaseQuestion id="0">What if I don't have health insurance?</BaseQuestion>
+<Content id="0">Examinations, scans, laboratory tests, and other medical procedures and treatments that would routinely be needed to monitor and treat your illness are known as standard of care services. Certain standard of care services and treatments will be performed as part of your participation in the study. If you do not have health insurance, charges for some or all of these standard of care services may be billed to you.</Content>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">prb148</ResponseID>
+<BaseQuestion id="1">Would I have to pay for study medication and tests?</BaseQuestion>
+</RQ>
+<RQ id="1">
+<ResponseID id="2">prb150</ResponseID>
+<BaseQuestion id="2">What will my health insurance cover?</BaseQuestion>
+</RQ>
+<RQ id="2">
+<ResponseID id="3">prb155</ResponseID>
+<BaseQuestion id="3">Will I get paid to participate?</BaseQuestion>
+</RQ>
+</RQs>
+</Response>
+<Response id="prb155">
+<ResponseID id="0">prb155</ResponseID>
+<BaseQuestion id="0">Will I get paid to participate?</BaseQuestion>
+<Content id="0">Although no financial incentive is offered to participants, all study medications and study-related procedures are provided at no cost and you may be reimbursed for travel expenses.</Content>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">prb135</ResponseID>
+<BaseQuestion id="1">Will my employer be told about my participation in this clinical study?</BaseQuestion>
+</RQ>
+<RQ id="1">
+<ResponseID id="2">prb148</ResponseID>
+<BaseQuestion id="2">Would I have to pay for study medication and tests?</BaseQuestion>
+</RQ>
+<RQ id="2">
+<ResponseID id="3">prb150</ResponseID>
+<BaseQuestion id="3">What will my health insurance cover?</BaseQuestion>
+</RQ>
+<RQ id="3">
+<ResponseID id="4">prb153</ResponseID>
+<BaseQuestion id="4">What if I don't have health insurance?</BaseQuestion>
+</RQ>
+<RQ id="4">
+<ResponseID id="5">prb157</ResponseID>
+<BaseQuestion id="5">Do the doctors get paid/who pays the doctors?</BaseQuestion>
+</RQ>
+<RQ id="5">
+<ResponseID id="6">prb180</ResponseID>
+<BaseQuestion id="6">What support is available for participants during the trial?</BaseQuestion>
+</RQ>
+</RQs>
+</Response>
+<Response id="prb157">
+<ResponseID id="0">prb157</ResponseID>
+<BaseQuestion id="0">Do the doctors get paid/who pays the doctors?</BaseQuestion>
+<Content id="0">The study doctors are being paid by Pfizer, Inc. or companies acting on Pfizer's behalf to conduct this study.</Content>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">prb148</ResponseID>
+<BaseQuestion id="1">Would I have to pay for study medication and tests?</BaseQuestion>
+</RQ>
+<RQ id="1">
+<ResponseID id="2">prb155</ResponseID>
+<BaseQuestion id="2">Will I get paid to participate?</BaseQuestion>
+</RQ>
+<RQ id="2">
+<ResponseID id="3">prb180</ResponseID>
+<BaseQuestion id="3">What support is available for participants during the trial?</BaseQuestion>
+</RQ>
+</RQs>
+</Response>
+<Response id="prb158">
+<ResponseID id="0">prb158</ResponseID>
+<BaseQuestion id="0">Who can participate in this study?</BaseQuestion>
+<Content id="0">You may be able to participate in the study if you are 18 years old or older, have been diagnosed with moderately to severely active rheumatoid arthritis and have taken methotrexate to treat your RA. There are other specific criteria that you doctor will discuss with you.</Content>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">pra108</ResponseID>
+<BaseQuestion id="1">What is a clinical trial protocol?</BaseQuestion>
+</RQ>
+<RQ id="1">
+<ResponseID id="2">prb139</ResponseID>
+<BaseQuestion id="2">What is being tested in this trial?/What is the purpose of this trial?</BaseQuestion>
+</RQ>
+<RQ id="2">
+<ResponseID id="3">prb159</ResponseID>
+<BaseQuestion id="3">Why might I be excluded from the study?</BaseQuestion>
+</RQ>
+<RQ id="3">
+<ResponseID id="4">prb161</ResponseID>
+<BaseQuestion id="4">Can I participate in more than one trial?</BaseQuestion>
+</RQ>
+</RQs>
+</Response>
+<Response id="prb159">
+<ResponseID id="0">prb159</ResponseID>
+<BaseQuestion id="0">Why might I be excluded from the study?</BaseQuestion>
+<Content id="0">Participants who have previously taken REMICADE®, which is manufactured by Janssen Biotech, Inc. are not eligible for this study. There are additional criteria that may disqualify you from participating. You can discuss whether you are eligible to participate with a member of the study team. Sometimes patients who qualify and enroll in a study may later be removed from a study if the patient does not follow the study procedures or if the study doctor determines that it is not in the patient's best interest to continue in the study.</Content>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">pra132</ResponseID>
+<BaseQuestion id="1">How long do I have to make my decision?</BaseQuestion>
+</RQ>
+<RQ id="1">
+<ResponseID id="2">prb139</ResponseID>
+<BaseQuestion id="2">What is being tested in this trial?/What is the purpose of this trial?</BaseQuestion>
+</RQ>
+<RQ id="2">
+<ResponseID id="3">prb158</ResponseID>
+<BaseQuestion id="3">Who can participate in this study?</BaseQuestion>
+</RQ>
+<RQ id="3">
+<ResponseID id="4">prb161</ResponseID>
+<BaseQuestion id="4">Can I participate in more than one trial?</BaseQuestion>
+</RQ>
+<RQ id="4">
+<ResponseID id="5">prb174</ResponseID>
+<BaseQuestion id="5">What will happen if I miss some study treatment doses or study appointments?</BaseQuestion>
+</RQ>
+<RQ id="5">
+<ResponseID id="6">prb177</ResponseID>
+<BaseQuestion id="6">What will happen if I miss some appointments?</BaseQuestion>
+</RQ>
+</RQs>
+</Response>
+<Response id="prb161">
+<ResponseID id="0">prb161</ResponseID>
+<BaseQuestion id="0">Can I participate in more than one trial?</BaseQuestion>
+<Content id="0">You will not be permitted to participate in another clinical study while you are participating in this study.</Content>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">pra132</ResponseID>
+<BaseQuestion id="1">How long do I have to make my decision?</BaseQuestion>
+</RQ>
+<RQ id="1">
+<ResponseID id="2">prb139</ResponseID>
+<BaseQuestion id="2">What is being tested in this trial?/What is the purpose of this trial?</BaseQuestion>
+</RQ>
+<RQ id="2">
+<ResponseID id="3">prb158</ResponseID>
+<BaseQuestion id="3">Who can participate in this study?</BaseQuestion>
+</RQ>
+<RQ id="3">
+<ResponseID id="4">prb159</ResponseID>
+<BaseQuestion id="4">Why might I be excluded from the study?</BaseQuestion>
+</RQ>
+</RQs>
+</Response>
+<Response id="prb163">
+<ResponseID id="0">prb163</ResponseID>
+<BaseQuestion id="0">Should I keep taking my other medications?</BaseQuestion>
+<Content id="0">The investigational medication will not replace any of your medications; however, the use of some medications is restricted during the study. The study doctor will ask about the medications you are currently taking and will tell you if any of them cannot be taken during the study. If your personal doctor prescribes any other medication while you are in this study, you must first consult the study doctor prior to taking them.</Content>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">prb121</ResponseID>
+<BaseQuestion id="1">Will i have to go to a different doctor for my study?</BaseQuestion>
+</RQ>
+<RQ id="1">
+<ResponseID id="2">prb123</ResponseID>
+<BaseQuestion id="2">Should I talk to my regular doctor about this study?</BaseQuestion>
+</RQ>
+<RQ id="2">
+<ResponseID id="3">prb164</ResponseID>
+<BaseQuestion id="3">Can I use alternative or complementary treatments during the study?</BaseQuestion>
+</RQ>
+<RQ id="3">
+<ResponseID id="4">prb229</ResponseID>
+<BaseQuestion id="4">What will I do with my current methotrexate therapy?</BaseQuestion>
+</RQ>
+<RQ id="4">
+<ResponseID id="5">prb240</ResponseID>
+<BaseQuestion id="5">Should I continue to see my regular doctor for other medical problems during this study?</BaseQuestion>
+</RQ>
+<RQ id="5">
+<ResponseID id="6">prb241</ResponseID>
+<BaseQuestion id="6">Will I still see my regular doctor for other health needs during the study?</BaseQuestion>
+</RQ>
+</RQs>
+</Response>
+<Response id="prb164">
+<ResponseID id="0">prb164</ResponseID>
+<BaseQuestion id="0">Can I use alternative or complementary treatments during the study?</BaseQuestion>
+<Content id="0">If you are currently using any alternative or complementary treatments, please discuss these therapies with your study doctor. The study doctor will tell you if any treatments cannot be used during the study.</Content>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">prb123</ResponseID>
+<BaseQuestion id="1">Should I talk to my regular doctor about this study?</BaseQuestion>
+</RQ>
+<RQ id="1">
+<ResponseID id="2">prb163</ResponseID>
+<BaseQuestion id="2">Should I keep taking my other medications?</BaseQuestion>
+</RQ>
+</RQs>
+</Response>
+<Response id="prb166">
+<ResponseID id="0">prb166</ResponseID>
+<BaseQuestion id="0">What will the study treatment entail?</BaseQuestion>
+<Content id="0">Participants in the REFLECTIONS B537-02 study will initially be divided into two study treatment groups. You will have an equal or 50 percent chance of being assigned to each of the groups. Each group will receive either the Pfizer investigational medication or infliximab during the first study treatment period.During the second study treatment period, participants who received infliximab during the first treatment period will be given the Pfizer investigational medication.During the third study period, all patients will receive the Pfizer investigational medication.</Content>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">pra104</ResponseID>
+<BaseQuestion id="1">What are the types of clinical trials?</BaseQuestion>
+</RQ>
+<RQ id="1">
+<ResponseID id="2">prb139</ResponseID>
+<BaseQuestion id="2">What is being tested in this trial?/What is the purpose of this trial?</BaseQuestion>
+</RQ>
+<RQ id="2">
+<ResponseID id="3">prb228</ResponseID>
+<BaseQuestion id="3">Will the study treatment administration be painful?</BaseQuestion>
+</RQ>
+<RQ id="3">
+<ResponseID id="4">prb231</ResponseID>
+<BaseQuestion id="4">Is there a placebo in this study?</BaseQuestion>
+</RQ>
+<RQ id="4">
+<ResponseID id="5">prb232</ResponseID>
+<BaseQuestion id="5">Why is the study treatment switched for participants during the study?</BaseQuestion>
+</RQ>
+<RQ id="5">
+<ResponseID id="6">prb233</ResponseID>
+<BaseQuestion id="6">Why is there an open-label section after one year?</BaseQuestion>
+</RQ>
+</RQs>
+</Response>
+<Response id="prb167">
+<ResponseID id="0">prb167</ResponseID>
+<BaseQuestion id="0">How long will the study last?</BaseQuestion>
+<Content id="0">The REFLECTIONS B537-02 study will last approximately 78 weeks, during which you will be asked to come to the study center approximately 15 times for study visits. During study visits for REFLECTIONS B537-02, the study doctor or study staff can administer the study medication, carry out study procedures, and monitor your symptoms and overall health.</Content>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">prb142</ResponseID>
+<BaseQuestion id="1">When will I find out about the trial results?</BaseQuestion>
+</RQ>
+<RQ id="1">
+<ResponseID id="2">prb147</ResponseID>
+<BaseQuestion id="2">How many people will be enrolled in this study?</BaseQuestion>
+</RQ>
+<RQ id="2">
+<ResponseID id="3">prb168</ResponseID>
+<BaseQuestion id="3">How many times will I have to visit the study doctor?</BaseQuestion>
+</RQ>
+<RQ id="3">
+<ResponseID id="4">prb178</ResponseID>
+<BaseQuestion id="4">What happens after I stop or complete my study treatment in the study?</BaseQuestion>
+</RQ>
+</RQs>
+</Response>
+<Response id="prb168">
+<ResponseID id="0">prb168</ResponseID>
+<BaseQuestion id="0">How many times will I have to visit the study doctor?</BaseQuestion>
+<Content id="0">If you participate in the REFLECTIONS B537-02 study, you will be asked to visit the study center approximately 15 times. The study doctor or study staff will provide or administer the study medication, carry out study procedures, and monitor your symptoms and overall health at the visits.</Content>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">prb167</ResponseID>
+<BaseQuestion id="1">How long will the study last?</BaseQuestion>
+</RQ>
+<RQ id="1">
+<ResponseID id="2">prb184</ResponseID>
+<BaseQuestion id="2">Can I use my own doctor/lab/hospital for the tests?</BaseQuestion>
+</RQ>
+<RQ id="2">
+<ResponseID id="3">prb174</ResponseID>
+<BaseQuestion id="3">What will happen if I miss some study treatment doses or study appointments?</BaseQuestion>
+</RQ>
+</RQs>
+</Response>
+<Response id="prb169">
+<ResponseID id="0">prb169</ResponseID>
+<BaseQuestion id="0">What kind of tests, therapies, and procedures will I have during this study?</BaseQuestion>
+<Content id="0">As a participant in the study, you will have study-related tests and procedures, including physical exams, blood tests, X-rays, and an ECG to test your heart.</Content>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">prb005</ResponseID>
+<BaseQuestion id="1">Introduction to program</BaseQuestion>
+</RQ>
+<RQ id="1">
+<ResponseID id="2">prb234</ResponseID>
+<BaseQuestion id="2">Why do I have to have X-rays?</BaseQuestion>
+</RQ>
+<RQ id="2">
+<ResponseID id="3">prb235</ResponseID>
+<BaseQuestion id="3">How do the tests compare to the standard tests for my condition?</BaseQuestion>
+</RQ>
+</RQs>
+</Response>
+<Response id="prb172">
+<ResponseID id="0">prb172</ResponseID>
+<BaseQuestion id="0">Do I have to do everything the doctor says?</BaseQuestion>
+<Content id="0">If you decide to participate in the clinical study, you are agreeing to follow the instructions given to you by the study doctor and the rest of the research team. This includes attending site visits as scheduled, taking the investigational medication as instructed, and following any other directions given by your study doctor. If you have any concerns about your ability to follow the instructions outlined in the study, please speak with the study doctor.</Content>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">prb122</ResponseID>
+<BaseQuestion id="1">Does my regular doctor know about this study?</BaseQuestion>
+</RQ>
+<RQ id="1">
+<ResponseID id="2">prb123</ResponseID>
+<BaseQuestion id="2">Should I talk to my regular doctor about this study?</BaseQuestion>
+</RQ>
+<RQ id="2">
+<ResponseID id="3">prb163</ResponseID>
+<BaseQuestion id="3">Should I keep taking my other medications?</BaseQuestion>
+</RQ>
+<RQ id="3">
+<ResponseID id="4">prb174</ResponseID>
+<BaseQuestion id="4">What will happen if I miss some study treatment doses or study appointments?</BaseQuestion>
+</RQ>
+<RQ id="4">
+<ResponseID id="5">prb177</ResponseID>
+<BaseQuestion id="5">What will happen if I miss some appointments?</BaseQuestion>
+</RQ>
+</RQs>
+</Response>
+<Response id="prb174">
+<ResponseID id="0">prb174</ResponseID>
+<BaseQuestion id="0">What will happen if I miss some study treatment doses or study appointments?</BaseQuestion>
+<Content id="0">If you miss an appointment, call the study doctor as soon as possible to reschedule. If you are unable to make several study appointments, you may be asked to leave the study and will no longer receive any study treatment.</Content>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">prb159</ResponseID>
+<BaseQuestion id="1">Why might I be excluded from the study?</BaseQuestion>
+</RQ>
+<RQ id="1">
+<ResponseID id="2">prb172</ResponseID>
+<BaseQuestion id="2">Do I have to do everything the doctor says?</BaseQuestion>
+</RQ>
+<RQ id="2">
+<ResponseID id="3">prb177</ResponseID>
+<BaseQuestion id="3">What will happen if I miss some appointments?</BaseQuestion>
+</RQ>
+<RQ id="3">
+<ResponseID id="4">prb188</ResponseID>
+<BaseQuestion id="4">Will the study staff know what treatment I'm getting?</BaseQuestion>
+</RQ>
+</RQs>
+</Response>
+<Response id="prb177">
+<ResponseID id="0">prb177</ResponseID>
+<BaseQuestion id="0">What will happen if I miss some appointments?</BaseQuestion>
+<Content id="0">When you sign up to participate in this clinical study, you are expected to attend each of the study appointments. The study team will schedule appointments for you in advance. If you expect to miss an appointment, contact the study team immediately to reschedule. If you anticipate that it will be difficult for you to attend any of the planned study visits, please let the research team know as soon as possible so that they can discuss your continued eligibility and enrollment in the study.</Content>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">prb159</ResponseID>
+<BaseQuestion id="1">Why might I be excluded from the study?</BaseQuestion>
+</RQ>
+<RQ id="1">
+<ResponseID id="2">prb172</ResponseID>
+<BaseQuestion id="2">Do I have to do everything the doctor says?</BaseQuestion>
+</RQ>
+<RQ id="2">
+<ResponseID id="3">prb174</ResponseID>
+<BaseQuestion id="3">What will happen if I miss some study treatment doses or study appointments?</BaseQuestion>
+</RQ>
+<RQ id="3">
+<ResponseID id="4">prb179</ResponseID>
+<BaseQuestion id="4">If I travel a lot, can I still participate?</BaseQuestion>
+</RQ>
+</RQs>
+</Response>
+<Response id="prb178">
+<ResponseID id="0">prb178</ResponseID>
+<BaseQuestion id="0">What happens after I stop or complete my study treatment in the study?</BaseQuestion>
+<Content id="0">You will have tests and procedures at an end-of-treatment visit once you have received the last dose of the investigational medication or if you must stop taking the investigational medication for any reason. You will also have more tests and procedures at a follow-up visit six weeks after you receive the last dose of the investigational medication. Finally, you will have a phone call with the study site 16 weeks after taking the last dose of the investigational medication.</Content>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">pra127</ResponseID>
+<BaseQuestion id="1">What rights do I have if I participate in a clinical study?/Can I quit the clinical study at any time?/Will the risks/side effects be explained to me?</BaseQuestion>
+</RQ>
+<RQ id="1">
+<ResponseID id="2">prb142</ResponseID>
+<BaseQuestion id="2">When will I find out about the trial results?</BaseQuestion>
+</RQ>
+<RQ id="2">
+<ResponseID id="3">prb167</ResponseID>
+<BaseQuestion id="3">How long will the study last?</BaseQuestion>
+</RQ>
+<RQ id="3">
+<ResponseID id="4">prb238</ResponseID>
+<BaseQuestion id="4">Can I withdraw from the study?</BaseQuestion>
+</RQ>
+</RQs>
+</Response>
+<Response id="prb179">
+<ResponseID id="0">prb179</ResponseID>
+<BaseQuestion id="0">If I travel a lot, can I still participate?</BaseQuestion>
+<Content id="0">If you travel extensively, you may still be able to participate in the study. Whenever possible, the study team will attempt to make accommodations for your study visits. Before agreeing to take part in this study, please inform the study doctor if you plan to be out of the country or are otherwise unable to undergo testing in connection with the study for a prolonged period of time. The study doctor will need this information to evaluate how your travel may impact your participation and help advise you on whether you would be able to participate in the study at this time. If you have any questions about your particular travel schedule, please contact the study team.</Content>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">prb120</ResponseID>
+<BaseQuestion id="1">Can I change study sites if I move?</BaseQuestion>
+</RQ>
+<RQ id="1">
+<ResponseID id="2">prb177</ResponseID>
+<BaseQuestion id="2">What will happen if I miss some appointments?</BaseQuestion>
+</RQ>
+<RQ id="2">
+<ResponseID id="3">prb184</ResponseID>
+<BaseQuestion id="3">Can I use my own doctor/lab/hospital for the tests?</BaseQuestion>
+</RQ>
+<RQ id="3">
+<ResponseID id="4">prb203</ResponseID>
+<BaseQuestion id="4">Where will I go for study visits?</BaseQuestion>
+</RQ>
+</RQs>
+</Response>
+<Response id="prb180">
+<ResponseID id="0">prb180</ResponseID>
+<BaseQuestion id="0">What support is available for participants during the trial?</BaseQuestion>
+<Content id="0">If you choose to participate in this clinical study, you may have access to a variety of support services. Support services, such as parking and travel reimbursement, may vary based on the site. For more information on the support services available to you, please contact your research team.</Content>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">prb148</ResponseID>
+<BaseQuestion id="1">Would I have to pay for study medication and tests?</BaseQuestion>
+</RQ>
+<RQ id="1">
+<ResponseID id="2">prb155</ResponseID>
+<BaseQuestion id="2">Will I get paid to participate?</BaseQuestion>
+</RQ>
+<RQ id="2">
+<ResponseID id="3">prb157</ResponseID>
+<BaseQuestion id="3">Do the doctors get paid/who pays the doctors?</BaseQuestion>
+</RQ>
+</RQs>
+</Response>
+<Response id="prb181">
+<ResponseID id="0">prb181</ResponseID>
+<BaseQuestion id="0">Is it normal to feel uncertain about participating in a study?</BaseQuestion>
+<Content id="0">Signing up to participate in a clinical study can be overwhelming, so it is perfectly normal to feel uncertain. You should carefully review the informed consent form that the study staff has provided and ensure that you fully understand the nature, risks, and benefits of taking part in the study. If you have any questions about the study, please talk to the study doctor.</Content>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">pra111</ResponseID>
+<BaseQuestion id="1">How can I be sure that the study tests are appropriate?</BaseQuestion>
+</RQ>
+<RQ id="1">
+<ResponseID id="2">prb115</ResponseID>
+<BaseQuestion id="2">What if the study treatment does not work?</BaseQuestion>
+</RQ>
+<RQ id="2">
+<ResponseID id="3">prb123</ResponseID>
+<BaseQuestion id="3">Should I talk to my regular doctor about this study?</BaseQuestion>
+</RQ>
+<RQ id="3">
+<ResponseID id="4">prb128</ResponseID>
+<BaseQuestion id="4">Who can help me decide what is best for me?</BaseQuestion>
+</RQ>
+<RQ id="4">
+<ResponseID id="5">prb228</ResponseID>
+<BaseQuestion id="5">Will the study treatment administration be painful?</BaseQuestion>
+</RQ>
+<RQ id="5">
+<ResponseID id="6">prb236</ResponseID>
+<BaseQuestion id="6">What is the informed consent form?</BaseQuestion>
+</RQ>
+</RQs>
+</Response>
+<Response id="prb183">
+<ResponseID id="0">prb183</ResponseID>
+<BaseQuestion id="0">Who will be working with me during the clinical study?</BaseQuestion>
+<Content id="0">If you choose to enroll in the clinical study, the research team will perform all study-related procedures. The research team includes doctors, nurses, research assistants, and data analysts, among others. This research team often works with other health professionals who monitor your participation during the clinical study. You should also continue to see your regular physician over the course of the study for any non-study related care.</Content>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">prb105</ResponseID>
+<BaseQuestion id="1">Who is managing my study?</BaseQuestion>
+</RQ>
+<RQ id="1">
+<ResponseID id="2">prb121</ResponseID>
+<BaseQuestion id="2">Will i have to go to a different doctor for my study?</BaseQuestion>
+</RQ>
+<RQ id="2">
+<ResponseID id="3">prb145</ResponseID>
+<BaseQuestion id="3">Will I be able to talk to the study doctors during the study?</BaseQuestion>
+</RQ>
+<RQ id="3">
+<ResponseID id="4">prb184</ResponseID>
+<BaseQuestion id="4">Can I use my own doctor/lab/hospital for the tests?</BaseQuestion>
+</RQ>
+<RQ id="4">
+<ResponseID id="5">prb185</ResponseID>
+<BaseQuestion id="5">If I get sick during the study, who will be there to help me?</BaseQuestion>
+</RQ>
+<RQ id="5">
+<ResponseID id="6">prb202</ResponseID>
+<BaseQuestion id="6">Will i have to switch doctors if I enroll in a study?</BaseQuestion>
+</RQ>
+<RQ id="6">
+<ResponseID id="7">prb227</ResponseID>
+<BaseQuestion id="7">How is my safety checked in this study?</BaseQuestion>
+</RQ>
+<RQ id="7">
+<ResponseID id="8">prb237</ResponseID>
+<BaseQuestion id="8">Who do I contact in an emergency?</BaseQuestion>
+</RQ>
+<RQ id="8">
+<ResponseID id="9">prb240</ResponseID>
+<BaseQuestion id="9">Should I continue to see my regular doctor for other medical problems during this study?</BaseQuestion>
+</RQ>
+</RQs>
+</Response>
+<Response id="prb184">
+<ResponseID id="0">prb184</ResponseID>
+<BaseQuestion id="0">Can I use my own doctor/lab/hospital for the tests?</BaseQuestion>
+<Content id="0">If you choose to participate in the study, you will be required to go to designated facilities for all study-related procedures and testing. The reason this is required is because the health care workers at these sites have been trained on how to perform the tests in accordance with the study protocol. However, it should be noted that you should continue to see your regular physician for any non-study related testing and care throughout the study.</Content>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">prb105</ResponseID>
+<BaseQuestion id="1">Who is managing my study?</BaseQuestion>
+</RQ>
+<RQ id="1">
+<ResponseID id="2">prb121</ResponseID>
+<BaseQuestion id="2">Will i have to go to a different doctor for my study?</BaseQuestion>
+</RQ>
+<RQ id="2">
+<ResponseID id="3">prb145</ResponseID>
+<BaseQuestion id="3">Will I be able to talk to the study doctors during the study?</BaseQuestion>
+</RQ>
+<RQ id="3">
+<ResponseID id="4">prb179</ResponseID>
+<BaseQuestion id="4">If I travel a lot, can I still participate?</BaseQuestion>
+</RQ>
+<RQ id="4">
+<ResponseID id="5">prb183</ResponseID>
+<BaseQuestion id="5">Who will be working with me during the clinical study?</BaseQuestion>
+</RQ>
+<RQ id="5">
+<ResponseID id="6">prb185</ResponseID>
+<BaseQuestion id="6">If I get sick during the study, who will be there to help me?</BaseQuestion>
+</RQ>
+<RQ id="6">
+<ResponseID id="7">prb186</ResponseID>
+<BaseQuestion id="7">What type of qualifications does the study staff have?</BaseQuestion>
+</RQ>
+</RQs>
+</Response>
+<Response id="prb185">
+<ResponseID id="0">prb185</ResponseID>
+<BaseQuestion id="0">If I get sick during the study, who will be there to help me?</BaseQuestion>
+<Content id="0">If you get sick while participating in the study, please notify your study doctor immediately. The study doctor and study staff will coordinate with your regular physician as needed.</Content>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">prb105</ResponseID>
+<BaseQuestion id="1">Who is managing my study?</BaseQuestion>
+</RQ>
+<RQ id="1">
+<ResponseID id="2">prb115</ResponseID>
+<BaseQuestion id="2">What if the study treatment does not work?</BaseQuestion>
+</RQ>
+<RQ id="2">
+<ResponseID id="3">prb121</ResponseID>
+<BaseQuestion id="3">Will i have to go to a different doctor for my study?</BaseQuestion>
+</RQ>
+<RQ id="3">
+<ResponseID id="4">prb122</ResponseID>
+<BaseQuestion id="4">Does my regular doctor know about this study?</BaseQuestion>
+</RQ>
+<RQ id="4">
+<ResponseID id="5">prb145</ResponseID>
+<BaseQuestion id="5">Will I be able to talk to the study doctors during the study?</BaseQuestion>
+</RQ>
+<RQ id="5">
+<ResponseID id="6">prb183</ResponseID>
+<BaseQuestion id="6">Who will be working with me during the clinical study?</BaseQuestion>
+</RQ>
+<RQ id="6">
+<ResponseID id="7">prb184</ResponseID>
+<BaseQuestion id="7">Can I use my own doctor/lab/hospital for the tests?</BaseQuestion>
+</RQ>
+</RQs>
+</Response>
+<Response id="prb186">
+<ResponseID id="0">prb186</ResponseID>
+<BaseQuestion id="0">What type of qualifications does the study staff have?</BaseQuestion>
+<Content id="0">The study staff involved in this study has expertise in the field of rheumatoid arthritis. In particular, study physicians involved in this study have in-depth knowledge of RA and have experience treating patients with RA.</Content>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">prb122</ResponseID>
+<BaseQuestion id="1">Does my regular doctor know about this study?</BaseQuestion>
+</RQ>
+<RQ id="1">
+<ResponseID id="2">prb145</ResponseID>
+<BaseQuestion id="2">Will I be able to talk to the study doctors during the study?</BaseQuestion>
+</RQ>
+<RQ id="2">
+<ResponseID id="3">prb184</ResponseID>
+<BaseQuestion id="3">Can I use my own doctor/lab/hospital for the tests?</BaseQuestion>
+</RQ>
+</RQs>
+</Response>
+<Response id="prb188">
+<ResponseID id="0">prb188</ResponseID>
+<BaseQuestion id="0">Will the study staff know what treatment I'm getting?</BaseQuestion>
+<Content id="0">This study is designed to be double-blind, which means that neither you nor the research team will know whether you are getting the study medication or standard of care treatment. If you have concerns about receiving either of the study treatments, please contact the research team.</Content>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">pra104</ResponseID>
+<BaseQuestion id="1">What are the types of clinical trials?</BaseQuestion>
+</RQ>
+<RQ id="1">
+<ResponseID id="2">pra113</ResponseID>
+<BaseQuestion id="2">What information will the study doctor be able to share with me?</BaseQuestion>
+</RQ>
+<RQ id="2">
+<ResponseID id="3">pra204</ResponseID>
+<BaseQuestion id="3">What are single-blind and double-blind studies?</BaseQuestion>
+</RQ>
+<RQ id="3">
+<ResponseID id="4">prb174</ResponseID>
+<BaseQuestion id="4">What will happen if I miss some study treatment doses or study appointments?</BaseQuestion>
+</RQ>
+</RQs>
+</Response>
+<Response id="prb190">
+<ResponseID id="0">prb190</ResponseID>
+<BaseQuestion id="0">What are the risks or side effects of this study treatment?</BaseQuestion>
+<Content id="0">Any known risks will be discussed during the consent process, but there is always a possibility of unknown risks. Like all medications, the investigational medication can cause side effects, although not everybody gets them. Most side effects are mild to moderate. However, some may be serious and require treatment. The informed consent form will tell you more about the risks and known side effects.</Content>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">pra113</ResponseID>
+<BaseQuestion id="1">What information will the study doctor be able to share with me?</BaseQuestion>
+</RQ>
+<RQ id="1">
+<ResponseID id="2">pra127</ResponseID>
+<BaseQuestion id="2">What rights do I have if I participate in a clinical study?/Can I quit the clinical study at any time?/Will the risks/side effects be explained to me?</BaseQuestion>
+</RQ>
+<RQ id="2">
+<ResponseID id="3">prb115</ResponseID>
+<BaseQuestion id="3">What if the study treatment does not work?</BaseQuestion>
+</RQ>
+<RQ id="3">
+<ResponseID id="4">prb192</ResponseID>
+<BaseQuestion id="4">Could my rheumatoid arthritis get worse when receiving the study treatment?</BaseQuestion>
+</RQ>
+<RQ id="4">
+<ResponseID id="5">prb193</ResponseID>
+<BaseQuestion id="5">What should I do if I experience side effects?/What happens if my RA gets worse during study treatment?</BaseQuestion>
+</RQ>
+<RQ id="5">
+<ResponseID id="6">prb239</ResponseID>
+<BaseQuestion id="6">Are there risks and side effects of the study medication?</BaseQuestion>
+</RQ>
+</RQs>
+</Response>
+<Response id="prb192">
+<ResponseID id="0">prb192</ResponseID>
+<BaseQuestion id="0">Could my rheumatoid arthritis get worse when receiving the study treatment?</BaseQuestion>
+<Content id="0">If you participate in the study, your condition may or may not get better, and it may even get worse. There is no way to be sure that participation in the study will help your rheumatoid arthritis.</Content>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">prb115</ResponseID>
+<BaseQuestion id="1">What if the study treatment does not work?</BaseQuestion>
+</RQ>
+<RQ id="1">
+<ResponseID id="2">prb190</ResponseID>
+<BaseQuestion id="2">What are the risks or side effects of this study treatment?</BaseQuestion>
+</RQ>
+<RQ id="2">
+<ResponseID id="3">prb193</ResponseID>
+<BaseQuestion id="3">What should I do if I experience side effects?/What happens if my RA gets worse during study treatment?</BaseQuestion>
+</RQ>
+<RQ id="3">
+<ResponseID id="4">prb239</ResponseID>
+<BaseQuestion id="4">Are there risks and side effects of the study medication?</BaseQuestion>
+</RQ>
+</RQs>
+</Response>
+<Response id="prb193">
+<ResponseID id="0">prb193</ResponseID>
+<BaseQuestion id="0">What should I do if I experience side effects?/What happens if my RA gets worse during study treatment?</BaseQuestion>
+<Content id="0">If you suspect that you are experiencing any side effects as a result of taking the investigational medication or if your RA gets worse while you are taking the study medication, you should contact a member of the study staff as soon as possible.</Content>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">pra127</ResponseID>
+<BaseQuestion id="1">What rights do I have if I participate in a clinical study?/Can I quit the clinical study at any time?/Will the risks/side effects be explained to me?</BaseQuestion>
+</RQ>
+<RQ id="1">
+<ResponseID id="2">prb190</ResponseID>
+<BaseQuestion id="2">What are the risks or side effects of this study treatment?</BaseQuestion>
+</RQ>
+<RQ id="2">
+<ResponseID id="3">prb192</ResponseID>
+<BaseQuestion id="3">Could my rheumatoid arthritis get worse when receiving the study treatment?</BaseQuestion>
+</RQ>
+<RQ id="3">
+<ResponseID id="4">prb239</ResponseID>
+<BaseQuestion id="4">Are there risks and side effects of the study medication?</BaseQuestion>
+</RQ>
+</RQs>
+</Response>
+<Response id="prb202">
+<ResponseID id="0">prb202</ResponseID>
+<BaseQuestion id="0">Will i have to switch doctors if I enroll in a study?</BaseQuestion>
+<Content id="0">Because the research team will be focused on providing care related only to the clinical study, it is important for you to keep seeing your regular doctor. There is no reason why you would need to switch doctors because the care that he or she will provide will be different from the care that is provided by the research physician and staff.</Content>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">prb121</ResponseID>
+<BaseQuestion id="1">Will i have to go to a different doctor for my study?</BaseQuestion>
+</RQ>
+<RQ id="1">
+<ResponseID id="2">prb183</ResponseID>
+<BaseQuestion id="2">Who will be working with me during the clinical study?</BaseQuestion>
+</RQ>
+<RQ id="2">
+<ResponseID id="3">prb237</ResponseID>
+<BaseQuestion id="3">Who do I contact in an emergency?</BaseQuestion>
+</RQ>
+<RQ id="3">
+<ResponseID id="4">prb240</ResponseID>
+<BaseQuestion id="4">Should I continue to see my regular doctor for other medical problems during this study?</BaseQuestion>
+</RQ>
+<RQ id="4">
+<ResponseID id="5">prb241</ResponseID>
+<BaseQuestion id="5">Will I still see my regular doctor for other health needs during the study?</BaseQuestion>
+</RQ>
+</RQs>
+</Response>
+<Response id="prb203">
+<ResponseID id="0">prb203</ResponseID>
+<BaseQuestion id="0">Where will I go for study visits?</BaseQuestion>
+<Content id="0">You will travel to your assigned study center for all study-related visits.</Content>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">prb179</ResponseID>
+<BaseQuestion id="1">If I travel a lot, can I still participate?</BaseQuestion>
+</RQ>
+<RQ id="1">
+<ResponseID id="2">prb184</ResponseID>
+<BaseQuestion id="2">Can I use my own doctor/lab/hospital for the tests?</BaseQuestion>
+</RQ>
+</RQs>
+</Response>
+<Response id="prb208">
+<ResponseID id="0">prb208</ResponseID>
+<BaseQuestion id="0">What is rheumatoid arthritis?</BaseQuestion>
+<Content id="0">Rheumatoid arthritis is a chronic inflammatory disorder that typically affects the small joints in your hands and feet but can also affect other parts of your body. RA is an autoimmune disease, which is when a person's immune system attacks joint tissues and potentially other body parts or organs for unknown reasons.</Content>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">prb209</ResponseID>
+<BaseQuestion id="1">What are the symptoms of rheumatoid arthritis?</BaseQuestion>
+</RQ>
+<RQ id="1">
+<ResponseID id="2">prb210</ResponseID>
+<BaseQuestion id="2">What causes rheumatoid arthritis?</BaseQuestion>
+</RQ>
+<RQ id="2">
+<ResponseID id="3">prb211</ResponseID>
+<BaseQuestion id="3">What are the complications of rheumatoid arthritis?/Does rheumatoid arthritis cause other health problems?</BaseQuestion>
+</RQ>
+<RQ id="3">
+<ResponseID id="4">prb212</ResponseID>
+<BaseQuestion id="4">How is rheumatoid arthritis diagnosed?</BaseQuestion>
+</RQ>
+<RQ id="4">
+<ResponseID id="5">prb213</ResponseID>
+<BaseQuestion id="5">What treatments exist for rheumatoid arthritis?/What treatments prevent damage to bone and joints caused by rheumatoid arthritis?</BaseQuestion>
+</RQ>
+</RQs>
+</Response>
+<Response id="prb209">
+<ResponseID id="0">prb209</ResponseID>
+<BaseQuestion id="0">What are the symptoms of rheumatoid arthritis?</BaseQuestion>
+<Content id="0">Rheumatoid arthritis causes pain, inflammation, and eventually joint damage and malformation. It can cause people to feel sick, tired, and feverish; it also affects joints symmetrically, so that joint pain is felt on both sides of the body.</Content>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">prb208</ResponseID>
+<BaseQuestion id="1">What is rheumatoid arthritis?</BaseQuestion>
+</RQ>
+<RQ id="1">
+<ResponseID id="2">prb210</ResponseID>
+<BaseQuestion id="2">What causes rheumatoid arthritis?</BaseQuestion>
+</RQ>
+<RQ id="2">
+<ResponseID id="3">prb211</ResponseID>
+<BaseQuestion id="3">What are the complications of rheumatoid arthritis?/Does rheumatoid arthritis cause other health problems?</BaseQuestion>
+</RQ>
+<RQ id="3">
+<ResponseID id="4">prb212</ResponseID>
+<BaseQuestion id="4">How is rheumatoid arthritis diagnosed?</BaseQuestion>
+</RQ>
+<RQ id="4">
+<ResponseID id="5">prb213</ResponseID>
+<BaseQuestion id="5">What treatments exist for rheumatoid arthritis?/What treatments prevent damage to bone and joints caused by rheumatoid arthritis?</BaseQuestion>
+</RQ>
+</RQs>
+</Response>
+<Response id="prb210">
+<ResponseID id="0">prb210</ResponseID>
+<BaseQuestion id="0">What causes rheumatoid arthritis?</BaseQuestion>
+<Content id="0">Although it is unclear what causes rheumatoid arthritis, doctors do know that it occurs when the immune system attacks the joints, causing inflammation.</Content>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">prb208</ResponseID>
+<BaseQuestion id="1">What is rheumatoid arthritis?</BaseQuestion>
+</RQ>
+<RQ id="1">
+<ResponseID id="2">prb209</ResponseID>
+<BaseQuestion id="2">What are the symptoms of rheumatoid arthritis?</BaseQuestion>
+</RQ>
+<RQ id="2">
+<ResponseID id="3">prb211</ResponseID>
+<BaseQuestion id="3">What are the complications of rheumatoid arthritis?/Does rheumatoid arthritis cause other health problems?</BaseQuestion>
+</RQ>
+<RQ id="3">
+<ResponseID id="4">prb212</ResponseID>
+<BaseQuestion id="4">How is rheumatoid arthritis diagnosed?</BaseQuestion>
+</RQ>
+<RQ id="4">
+<ResponseID id="5">prb213</ResponseID>
+<BaseQuestion id="5">What treatments exist for rheumatoid arthritis?/What treatments prevent damage to bone and joints caused by rheumatoid arthritis?</BaseQuestion>
+</RQ>
+</RQs>
+</Response>
+<Response id="prb211">
+<ResponseID id="0">prb211</ResponseID>
+<BaseQuestion id="0">What are the complications of rheumatoid arthritis?/Does rheumatoid arthritis cause other health problems?</BaseQuestion>
+<Content id="0">Rheumatoid arthritis causes pain, inflammation, and eventually joint damage and malformation. It can cause people to feel sick, tired, and feverish; it also affects joints symmetrically, so that joint pain is felt on both sides of the body. RA is also associated with a higher risk of infections; cardiovascular disease, especially ischemic heart disease; and mental health conditions, such as anxiety and depression.</Content>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">prb208</ResponseID>
+<BaseQuestion id="1">What is rheumatoid arthritis?</BaseQuestion>
+</RQ>
+<RQ id="1">
+<ResponseID id="2">prb209</ResponseID>
+<BaseQuestion id="2">What are the symptoms of rheumatoid arthritis?</BaseQuestion>
+</RQ>
+<RQ id="2">
+<ResponseID id="3">prb210</ResponseID>
+<BaseQuestion id="3">What causes rheumatoid arthritis?</BaseQuestion>
+</RQ>
+<RQ id="3">
+<ResponseID id="4">prb212</ResponseID>
+<BaseQuestion id="4">How is rheumatoid arthritis diagnosed?</BaseQuestion>
+</RQ>
+<RQ id="4">
+<ResponseID id="5">prb213</ResponseID>
+<BaseQuestion id="5">What treatments exist for rheumatoid arthritis?/What treatments prevent damage to bone and joints caused by rheumatoid arthritis?</BaseQuestion>
+</RQ>
+</RQs>
+</Response>
+<Response id="prb212">
+<ResponseID id="0">prb212</ResponseID>
+<BaseQuestion id="0">How is rheumatoid arthritis diagnosed?</BaseQuestion>
+<Content id="0">Rheumatoid arthritis can be difficult to diagnose. Doctors typically check your joints for swelling, redness, and warmth. Blood tests and x-rays may also be used to help doctors diagnose rheumatoid arthritis.</Content>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">prb208</ResponseID>
+<BaseQuestion id="1">What is rheumatoid arthritis?</BaseQuestion>
+</RQ>
+<RQ id="1">
+<ResponseID id="2">prb209</ResponseID>
+<BaseQuestion id="2">What are the symptoms of rheumatoid arthritis?</BaseQuestion>
+</RQ>
+<RQ id="2">
+<ResponseID id="3">prb210</ResponseID>
+<BaseQuestion id="3">What causes rheumatoid arthritis?</BaseQuestion>
+</RQ>
+<RQ id="3">
+<ResponseID id="4">prb211</ResponseID>
+<BaseQuestion id="4">What are the complications of rheumatoid arthritis?/Does rheumatoid arthritis cause other health problems?</BaseQuestion>
+</RQ>
+<RQ id="4">
+<ResponseID id="5">prb213</ResponseID>
+<BaseQuestion id="5">What treatments exist for rheumatoid arthritis?/What treatments prevent damage to bone and joints caused by rheumatoid arthritis?</BaseQuestion>
+</RQ>
+</RQs>
+</Response>
+<Response id="prb213">
+<ResponseID id="0">prb213</ResponseID>
+<BaseQuestion id="0">What treatments exist for rheumatoid arthritis?/What treatments prevent damage to bone and joints caused by rheumatoid arthritis?</BaseQuestion>
+<Content id="0">There is currently no cure for rheumatoid arthritis; however, medications do exist to help limit pain, increase joint function, and slow down the long-term worsening of the condition. Current treatments for rheumatoid arthritis typically include a combination of medications such as nonsteroidal anti-inflammatory drugs, also called NSAIDs, that reduce pain, swelling, and stiffness, and disease-modifying antirheumatic drugs, also called DMARDs, that help limit the activity of the body's immune system. Aspirin and ibuprofen are examples of commonly used NSAIDs. Methotrexate is an example of a DMARD.</Content>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">prb208</ResponseID>
+<BaseQuestion id="1">What is rheumatoid arthritis?</BaseQuestion>
+</RQ>
+<RQ id="1">
+<ResponseID id="2">prb209</ResponseID>
+<BaseQuestion id="2">What are the symptoms of rheumatoid arthritis?</BaseQuestion>
+</RQ>
+<RQ id="2">
+<ResponseID id="3">prb210</ResponseID>
+<BaseQuestion id="3">What causes rheumatoid arthritis?</BaseQuestion>
+</RQ>
+<RQ id="3">
+<ResponseID id="4">prb211</ResponseID>
+<BaseQuestion id="4">What are the complications of rheumatoid arthritis?/Does rheumatoid arthritis cause other health problems?</BaseQuestion>
+</RQ>
+<RQ id="4">
+<ResponseID id="5">prb212</ResponseID>
+<BaseQuestion id="5">How is rheumatoid arthritis diagnosed?</BaseQuestion>
+</RQ>
+</RQs>
+</Response>
+<Response id="prb214">
+<ResponseID id="0">prb214</ResponseID>
+<BaseQuestion id="0">What is inflammation?</BaseQuestion>
+<Content id="0">Inflammation is the immune system's response to stimuli, such as pain. The body typically reacts to inflammation through redness, swelling, pain, or a feeling of heat near the affected area.</Content>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">prb215</ResponseID>
+<BaseQuestion id="1">What causes inflammation?</BaseQuestion>
+</RQ>
+<RQ id="1">
+<ResponseID id="2">prb216</ResponseID>
+<BaseQuestion id="2">How is inflammation treated?</BaseQuestion>
+</RQ>
+<RQ id="2">
+<ResponseID id="3">prb217</ResponseID>
+<BaseQuestion id="3">What diseases are associated with inflammation?</BaseQuestion>
+</RQ>
+</RQs>
+</Response>
+<Response id="prb215">
+<ResponseID id="0">prb215</ResponseID>
+<BaseQuestion id="0">What causes inflammation?</BaseQuestion>
+<Content id="0">Inflammation often happens when the immune system fights against something that may turn out to be harmful, such as bacteria. In people with rheumatoid arthritis, inflammation occurs when the immune system attacks the joints.</Content>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">prb214</ResponseID>
+<BaseQuestion id="1">What is inflammation?</BaseQuestion>
+</RQ>
+<RQ id="1">
+<ResponseID id="2">prb216</ResponseID>
+<BaseQuestion id="2">How is inflammation treated?</BaseQuestion>
+</RQ>
+<RQ id="2">
+<ResponseID id="3">prb217</ResponseID>
+<BaseQuestion id="3">What diseases are associated with inflammation?</BaseQuestion>
+</RQ>
+</RQs>
+</Response>
+<Response id="prb216">
+<ResponseID id="0">prb216</ResponseID>
+<BaseQuestion id="0">How is inflammation treated?</BaseQuestion>
+<Content id="0">Current treatments for the inflammation caused by rheumatoid arthritis include a combination of medications. The most common medications used are nonsteroidal anti-inflammatory drugs, or NSAIDs, like aspirin or ibuprofen. Such medications are meant to reduce pain, swelling, and stiffness.</Content>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">prb214</ResponseID>
+<BaseQuestion id="1">What is inflammation?</BaseQuestion>
+</RQ>
+<RQ id="1">
+<ResponseID id="2">prb215</ResponseID>
+<BaseQuestion id="2">What causes inflammation?</BaseQuestion>
+</RQ>
+<RQ id="2">
+<ResponseID id="3">prb217</ResponseID>
+<BaseQuestion id="3">What diseases are associated with inflammation?</BaseQuestion>
+</RQ>
+</RQs>
+</Response>
+<Response id="prb217">
+<ResponseID id="0">prb217</ResponseID>
+<BaseQuestion id="0">What diseases are associated with inflammation?</BaseQuestion>
+<Content id="0">Several types of arthritis are associated with inflammation. These types of arthritis include rheumatoid arthritis, psoriatic arthritis, and gouty arthritis.</Content>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">prb214</ResponseID>
+<BaseQuestion id="1">What is inflammation?</BaseQuestion>
+</RQ>
+<RQ id="1">
+<ResponseID id="2">prb215</ResponseID>
+<BaseQuestion id="2">What causes inflammation?</BaseQuestion>
+</RQ>
+<RQ id="2">
+<ResponseID id="3">prb216</ResponseID>
+<BaseQuestion id="3">How is inflammation treated?</BaseQuestion>
+</RQ>
+</RQs>
+</Response>
+<Response id="prb218">
+<ResponseID id="0">prb218</ResponseID>
+<BaseQuestion id="0">What is infliximab?</BaseQuestion>
+<Content id="0">Infliximab is a medication that is used to treat several inflammatory diseases and conditions, including rheumatoid arthritis. Infliximab is approved and marketed as REMICADE® by Janssen Biotech, Inc. In this study, the investigational medication is a potential biosimilar medication known as infliximab-Pfizer. Biosimilar medications are designed to be highly similar versions of biologic drugs that are already approved for marketing. Biologic drugs are made from living cells.</Content>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">prb219</ResponseID>
+<BaseQuestion id="1">What is REMICADE®?</BaseQuestion>
+</RQ>
+<RQ id="1">
+<ResponseID id="2">prb222</ResponseID>
+<BaseQuestion id="2">What are biosimilars?</BaseQuestion>
+</RQ>
+<RQ id="2">
+<ResponseID id="3">prb223</ResponseID>
+<BaseQuestion id="3">What is the benefit of biosimilar medications to patients?</BaseQuestion>
+</RQ>
+<RQ id="3">
+<ResponseID id="4">prb224</ResponseID>
+<BaseQuestion id="4">Why is Pfizer studying potential biosimilar medications?</BaseQuestion>
+</RQ>
+<RQ id="4">
+<ResponseID id="5">prb225</ResponseID>
+<BaseQuestion id="5">What is the difference between biosimilar medications and generic medications?</BaseQuestion>
+</RQ>
+</RQs>
+</Response>
+<Response id="prb219">
+<ResponseID id="0">prb219</ResponseID>
+<BaseQuestion id="0">What is REMICADE®?</BaseQuestion>
+<Content id="0">REMICADE® is a medication manufactured by Janssen Biotech, Inc. and approved by the Food and Drug Administration to treat several inflammatory diseases and conditions, including rheumatoid arthritis.</Content>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">prb218</ResponseID>
+<BaseQuestion id="1">What is infliximab?</BaseQuestion>
+</RQ>
+<RQ id="1">
+<ResponseID id="2">prb222</ResponseID>
+<BaseQuestion id="2">What are biosimilars?</BaseQuestion>
+</RQ>
+<RQ id="2">
+<ResponseID id="3">prb223</ResponseID>
+<BaseQuestion id="3">What is the benefit of biosimilar medications to patients?</BaseQuestion>
+</RQ>
+<RQ id="3">
+<ResponseID id="4">prb224</ResponseID>
+<BaseQuestion id="4">Why is Pfizer studying potential biosimilar medications?</BaseQuestion>
+</RQ>
+<RQ id="4">
+<ResponseID id="5">prb225</ResponseID>
+<BaseQuestion id="5">What is the difference between biosimilar medications and generic medications?</BaseQuestion>
+</RQ>
+</RQs>
+</Response>
+<Response id="prb222">
+<ResponseID id="0">prb222</ResponseID>
+<BaseQuestion id="0">What are biosimilars?</BaseQuestion>
+<Content id="0">Biosimilar medications are highly similar versions of biologic drugs that are already marketed. Examples of marketed biologic drugs include REMICADE®, which is manufactured by Janssen Biotech, Inc. and HUMIRA®, which is manufactured by AbbVie Inc. Biologic drugs are made from living cells.</Content>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">prb218</ResponseID>
+<BaseQuestion id="1">What is infliximab?</BaseQuestion>
+</RQ>
+<RQ id="1">
+<ResponseID id="2">prb219</ResponseID>
+<BaseQuestion id="2">What is REMICADE®?</BaseQuestion>
+</RQ>
+<RQ id="2">
+<ResponseID id="3">prb223</ResponseID>
+<BaseQuestion id="3">What is the benefit of biosimilar medications to patients?</BaseQuestion>
+</RQ>
+<RQ id="3">
+<ResponseID id="4">prb224</ResponseID>
+<BaseQuestion id="4">Why is Pfizer studying potential biosimilar medications?</BaseQuestion>
+</RQ>
+<RQ id="4">
+<ResponseID id="5">prb225</ResponseID>
+<BaseQuestion id="5">What is the difference between biosimilar medications and generic medications?</BaseQuestion>
+</RQ>
+</RQs>
+</Response>
+<Response id="prb223">
+<ResponseID id="0">prb223</ResponseID>
+<BaseQuestion id="0">What is the benefit of biosimilar medications to patients?</BaseQuestion>
+<Content id="0">Biosimilar medications approved for marketing may offer additional options and access to more treatment options for physicians and patients.</Content>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">prb218</ResponseID>
+<BaseQuestion id="1">What is infliximab?</BaseQuestion>
+</RQ>
+<RQ id="1">
+<ResponseID id="2">prb219</ResponseID>
+<BaseQuestion id="2">What is REMICADE®?</BaseQuestion>
+</RQ>
+<RQ id="2">
+<ResponseID id="3">prb222</ResponseID>
+<BaseQuestion id="3">What are biosimilars?</BaseQuestion>
+</RQ>
+<RQ id="3">
+<ResponseID id="4">prb224</ResponseID>
+<BaseQuestion id="4">Why is Pfizer studying potential biosimilar medications?</BaseQuestion>
+</RQ>
+<RQ id="4">
+<ResponseID id="5">prb225</ResponseID>
+<BaseQuestion id="5">What is the difference between biosimilar medications and generic medications?</BaseQuestion>
+</RQ>
+</RQs>
+</Response>
+<Response id="prb224">
+<ResponseID id="0">prb224</ResponseID>
+<BaseQuestion id="0">Why is Pfizer studying potential biosimilar medications?</BaseQuestion>
+<Content id="0">Pfizer is researching potential biosimilar medications so that patients and providers may have additional treatment options for diseases and conditions like rheumatoid arthritis. It is important to develop new medications that are similar to biologic medications because biologic medications have advanced patient care by providing highly effective and targeted treatment options for many diseases and conditions.</Content>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">prb218</ResponseID>
+<BaseQuestion id="1">What is infliximab?</BaseQuestion>
+</RQ>
+<RQ id="1">
+<ResponseID id="2">prb219</ResponseID>
+<BaseQuestion id="2">What is REMICADE®?</BaseQuestion>
+</RQ>
+<RQ id="2">
+<ResponseID id="3">prb222</ResponseID>
+<BaseQuestion id="3">What are biosimilars?</BaseQuestion>
+</RQ>
+<RQ id="3">
+<ResponseID id="4">prb223</ResponseID>
+<BaseQuestion id="4">What is the benefit of biosimilar medications to patients?</BaseQuestion>
+</RQ>
+<RQ id="4">
+<ResponseID id="5">prb225</ResponseID>
+<BaseQuestion id="5">What is the difference between biosimilar medications and generic medications?</BaseQuestion>
+</RQ>
+</RQs>
+</Response>
+<Response id="prb225">
+<ResponseID id="0">prb225</ResponseID>
+<BaseQuestion id="0">What is the difference between biosimilar medications and generic medications?</BaseQuestion>
+<Content id="0">Biosimilar medications are highly similar versions of biologic drugs that are already marketed. Biologic drugs are made from living cells. Generic medications, on the other hand, are medications that are identical or bioequivalent to already approved medications. Generic drugs are not made from living cells.</Content>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">prb218</ResponseID>
+<BaseQuestion id="1">What is infliximab?</BaseQuestion>
+</RQ>
+<RQ id="1">
+<ResponseID id="2">prb219</ResponseID>
+<BaseQuestion id="2">What is REMICADE®?</BaseQuestion>
+</RQ>
+<RQ id="2">
+<ResponseID id="3">prb222</ResponseID>
+<BaseQuestion id="3">What are biosimilars?</BaseQuestion>
+</RQ>
+<RQ id="3">
+<ResponseID id="4">prb223</ResponseID>
+<BaseQuestion id="4">What is the benefit of biosimilar medications to patients?</BaseQuestion>
+</RQ>
+<RQ id="4">
+<ResponseID id="5">prb224</ResponseID>
+<BaseQuestion id="5">Why is Pfizer studying potential biosimilar medications?</BaseQuestion>
+</RQ>
+</RQs>
+</Response>
+<Response id="prb227">
+<ResponseID id="0">prb227</ResponseID>
+<BaseQuestion id="0">How is my safety checked in this study?</BaseQuestion>
+<Content id="0">To help protect your safety, you will have tests and procedures throughout this study. These include blood tests and an ECG to test your heart.</Content>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">prb105</ResponseID>
+<BaseQuestion id="1">Who is managing my study?</BaseQuestion>
+</RQ>
+<RQ id="1">
+<ResponseID id="2">prb183</ResponseID>
+<BaseQuestion id="2">Who will be working with me during the clinical study?</BaseQuestion>
+</RQ>
+<RQ id="2">
+<ResponseID id="3">prb234</ResponseID>
+<BaseQuestion id="3">Why do I have to have X-rays?</BaseQuestion>
+</RQ>
+<RQ id="3">
+<ResponseID id="4">prb235</ResponseID>
+<BaseQuestion id="4">How do the tests compare to the standard tests for my condition?</BaseQuestion>
+</RQ>
+</RQs>
+</Response>
+<Response id="prb228">
+<ResponseID id="0">prb228</ResponseID>
+<BaseQuestion id="0">Will the study treatment administration be painful?</BaseQuestion>
+<Content id="0">In the REFLECTIONS B537-02 study, all participants will receive their study medications through an IV infusion in the arm. Insertion of the IV might be a little painful.</Content>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">prb166</ResponseID>
+<BaseQuestion id="1">What will the study treatment entail?</BaseQuestion>
+</RQ>
+<RQ id="1">
+<ResponseID id="2">prb181</ResponseID>
+<BaseQuestion id="2">Is it normal to feel uncertain about participating in a study?</BaseQuestion>
+</RQ>
+</RQs>
+</Response>
+<Response id="prb229">
+<ResponseID id="0">prb229</ResponseID>
+<BaseQuestion id="0">What will I do with my current methotrexate therapy?</BaseQuestion>
+<Content id="0">You must already be taking methotrexate to participate in this study. You will continue to take methotrexate at the same dose for the entire study unless you have side effects.</Content>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">prb163</ResponseID>
+<BaseQuestion id="1">Should I keep taking my other medications?</BaseQuestion>
+</RQ>
+<RQ id="1">
+<ResponseID id="2">prb230</ResponseID>
+<BaseQuestion id="2">Will I be able to take other regular medications while participating in this study?</BaseQuestion>
+</RQ>
+</RQs>
+</Response>
+<Response id="prb230">
+<ResponseID id="0">prb230</ResponseID>
+<BaseQuestion id="0">Will I be able to take other regular medications while participating in this study?</BaseQuestion>
+<Content id="0">The study treatment will not replace any of your medications; however, the use of some medications is restricted during the study. Your study doctor will ask about the medications you are currently taking and will tell you if any of them cannot be taken during the study. Otherwise, you will continue taking your other usual medications as prescribed by your doctor. If your personal doctor prescribes any other medication while you are in this study, you must first consult the study doctor prior to taking them.</Content>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">prb229</ResponseID>
+<BaseQuestion id="1">What will I do with my current methotrexate therapy?</BaseQuestion>
+</RQ>
+<RQ id="1">
+<ResponseID id="2">prb240</ResponseID>
+<BaseQuestion id="2">Should I continue to see my regular doctor for other medical problems during this study?</BaseQuestion>
+</RQ>
+</RQs>
+</Response>
+<Response id="prb231">
+<ResponseID id="0">prb231</ResponseID>
+<BaseQuestion id="0">Is there a placebo in this study?</BaseQuestion>
+<Content id="0">There is no placebo in this study. The investigational medication is being compared to a currently approved standard of care medication. As a result, all patients will receive the investigational medication or the approved medication. Therefore participants will have an equal or 50 percent chance to be on either one of the assigned treatments.</Content>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">pra104</ResponseID>
+<BaseQuestion id="1">What are the types of clinical trials?</BaseQuestion>
+</RQ>
+<RQ id="1">
+<ResponseID id="2">pra112</ResponseID>
+<BaseQuestion id="2">What is a placebo?/When is a placebo used?/Are placebos ethical?</BaseQuestion>
+</RQ>
+<RQ id="2">
+<ResponseID id="3">pra116</ResponseID>
+<BaseQuestion id="3">What is meant by standard of care treatment?</BaseQuestion>
+</RQ>
+<RQ id="3">
+<ResponseID id="4">pra119</ResponseID>
+<BaseQuestion id="4">What is randomization?/Why is a study randomized?</BaseQuestion>
+</RQ>
+<RQ id="4">
+<ResponseID id="5">prb166</ResponseID>
+<BaseQuestion id="5">What will the study treatment entail?</BaseQuestion>
+</RQ>
+<RQ id="5">
+<ResponseID id="6">prb232</ResponseID>
+<BaseQuestion id="6">Why is the study treatment switched for participants during the study?</BaseQuestion>
+</RQ>
+</RQs>
+</Response>
+<Response id="prb232">
+<ResponseID id="0">prb232</ResponseID>
+<BaseQuestion id="0">Why is the study treatment switched for participants during the study?</BaseQuestion>
+<Content id="0">Switching treatment for participants during the study allows participants to receive both the investigational medication and the approved medication or standard of care at some point during the study and for investigators to gather additional clinical data.</Content>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">pra104</ResponseID>
+<BaseQuestion id="1">What are the types of clinical trials?</BaseQuestion>
+</RQ>
+<RQ id="1">
+<ResponseID id="2">pra116</ResponseID>
+<BaseQuestion id="2">What is meant by standard of care treatment?</BaseQuestion>
+</RQ>
+<RQ id="2">
+<ResponseID id="3">prb166</ResponseID>
+<BaseQuestion id="3">What will the study treatment entail?</BaseQuestion>
+</RQ>
+<RQ id="3">
+<ResponseID id="4">prb231</ResponseID>
+<BaseQuestion id="4">Is there a placebo in this study?</BaseQuestion>
+</RQ>
+<RQ id="4">
+<ResponseID id="5">prb233</ResponseID>
+<BaseQuestion id="5">Why is there an open-label section after one year?</BaseQuestion>
+</RQ>
+</RQs>
+</Response>
+<Response id="prb233">
+<ResponseID id="0">prb233</ResponseID>
+<BaseQuestion id="0">Why is there an open-label section after one year?</BaseQuestion>
+<Content id="0">During an open-label component of a study, both the investigator and the participant in a research study know which study treatment the participant is receiving. The open-label period will allow for investigators to gather long-term data.</Content>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">pra104</ResponseID>
+<BaseQuestion id="1">What are the types of clinical trials?</BaseQuestion>
+</RQ>
+<RQ id="1">
+<ResponseID id="2">pra113</ResponseID>
+<BaseQuestion id="2">What information will the study doctor be able to share with me?</BaseQuestion>
+</RQ>
+<RQ id="2">
+<ResponseID id="3">pra204</ResponseID>
+<BaseQuestion id="3">What are single-blind and double-blind studies?</BaseQuestion>
+</RQ>
+<RQ id="3">
+<ResponseID id="4">prb166</ResponseID>
+<BaseQuestion id="4">What will the study treatment entail?</BaseQuestion>
+</RQ>
+<RQ id="4">
+<ResponseID id="5">prb232</ResponseID>
+<BaseQuestion id="5">Why is the study treatment switched for participants during the study?</BaseQuestion>
+</RQ>
+</RQs>
+</Response>
+<Response id="prb234">
+<ResponseID id="0">prb234</ResponseID>
+<BaseQuestion id="0">Why do I have to have X-rays?</BaseQuestion>
+<Content id="0">X-rays allow the study doctor to monitor your joints and determine if your condition is getting better or worse.</Content>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">prb169</ResponseID>
+<BaseQuestion id="1">What kind of tests, therapies, and procedures will I have during this study?</BaseQuestion>
+</RQ>
+<RQ id="1">
+<ResponseID id="2">prb183</ResponseID>
+<BaseQuestion id="2">Who will be working with me during the clinical study?</BaseQuestion>
+</RQ>
+<RQ id="2">
+<ResponseID id="3">prb227</ResponseID>
+<BaseQuestion id="3">How is my safety checked in this study?</BaseQuestion>
+</RQ>
+<RQ id="3">
+<ResponseID id="4">prb235</ResponseID>
+<BaseQuestion id="4">How do the tests compare to the standard tests for my condition?</BaseQuestion>
+</RQ>
+</RQs>
+</Response>
+<Response id="prb235">
+<ResponseID id="0">prb235</ResponseID>
+<BaseQuestion id="0">How do the tests compare to the standard tests for my condition?</BaseQuestion>
+<Content id="0">As a participant in a clinical research study, you may need to have more frequent tests than would be required if you were being treated for your condition with standard of care medication. Frequent monitoring by your doctors helps to ensure your safety and allows doctors to learn more about your condition and how it is affected by the study medication.</Content>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">pra116</ResponseID>
+<BaseQuestion id="1">What is meant by standard of care treatment?</BaseQuestion>
+</RQ>
+<RQ id="1">
+<ResponseID id="2">prb169</ResponseID>
+<BaseQuestion id="2">What kind of tests, therapies, and procedures will I have during this study?</BaseQuestion>
+</RQ>
+<RQ id="2">
+<ResponseID id="3">prb183</ResponseID>
+<BaseQuestion id="3">Who will be working with me during the clinical study?</BaseQuestion>
+</RQ>
+<RQ id="3">
+<ResponseID id="4">prb227</ResponseID>
+<BaseQuestion id="4">How is my safety checked in this study?</BaseQuestion>
+</RQ>
+<RQ id="4">
+<ResponseID id="5">prb234</ResponseID>
+<BaseQuestion id="5">Why do I have to have X-rays?</BaseQuestion>
+</RQ>
+</RQs>
+</Response>
+<Response id="prb236">
+<ResponseID id="0">prb236</ResponseID>
+<BaseQuestion id="0">What is the informed consent form?</BaseQuestion>
+<Content id="0">Among other things, the informed consent form tells you what will happen during the study and explains the risks and any benefits you may experience if you choose to participate. Before choosing to be part of this study, you should read the entire informed consent form. You can also review the form with your loved ones or others to ensure you understand the commitment you are making by signing the consent form. The informed consent form or your study doctor will also explain other treatment options you have besides taking part in this study, as well as your right to stop taking part in the study at any time. If you wish to participate in the study, you will have to sign the informed consent form.</Content>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">pra124</ResponseID>
+<BaseQuestion id="1">What is informed consent?</BaseQuestion>
+</RQ>
+<RQ id="1">
+<ResponseID id="2">pra126</ResponseID>
+<BaseQuestion id="2">What if I do not understand the Informed Consent form? Who can help me understand the Informed Consent form?</BaseQuestion>
+</RQ>
+<RQ id="2">
+<ResponseID id="3">pra138</ResponseID>
+<BaseQuestion id="3">Do my family/friends need to know that I am participating in a clinical study?</BaseQuestion>
+</RQ>
+<RQ id="3">
+<ResponseID id="4">prb128</ResponseID>
+<BaseQuestion id="4">Who can help me decide what is best for me?</BaseQuestion>
+</RQ>
+<RQ id="4">
+<ResponseID id="5">prb181</ResponseID>
+<BaseQuestion id="5">Is it normal to feel uncertain about participating in a study?</BaseQuestion>
+</RQ>
+</RQs>
+</Response>
+<Response id="prb237">
+<ResponseID id="0">prb237</ResponseID>
+<BaseQuestion id="0">Who do I contact in an emergency?</BaseQuestion>
+<Content id="0">Please call 911 if you have a health emergency. Let the doctors treating you know that you are participating in a clinical trial. The study doctor will also provide you with site contact information so that you or your other doctors can reach the site in an emergency.</Content>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">prb183</ResponseID>
+<BaseQuestion id="1">Who will be working with me during the clinical study?</BaseQuestion>
+</RQ>
+<RQ id="1">
+<ResponseID id="2">prb202</ResponseID>
+<BaseQuestion id="2">Will i have to switch doctors if I enroll in a study?</BaseQuestion>
+</RQ>
+<RQ id="2">
+<ResponseID id="3">prb240</ResponseID>
+<BaseQuestion id="3">Should I continue to see my regular doctor for other medical problems during this study?</BaseQuestion>
+</RQ>
+<RQ id="3">
+<ResponseID id="4">prb241</ResponseID>
+<BaseQuestion id="4">Will I still see my regular doctor for other health needs during the study?</BaseQuestion>
+</RQ>
+</RQs>
+</Response>
+<Response id="prb238">
+<ResponseID id="0">prb238</ResponseID>
+<BaseQuestion id="0">Can I withdraw from the study?</BaseQuestion>
+<Content id="0">You can withdraw from the study at any time and for any reason.</Content>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">pra127</ResponseID>
+<BaseQuestion id="1">What rights do I have if I participate in a clinical study?/Can I quit the clinical study at any time?/Will the risks/side effects be explained to me?</BaseQuestion>
+</RQ>
+<RQ id="1">
+<ResponseID id="2">pra130</ResponseID>
+<BaseQuestion id="2">If I say no to a trial now, can I change my mind later?</BaseQuestion>
+</RQ>
+<RQ id="2">
+<ResponseID id="3">pra132</ResponseID>
+<BaseQuestion id="3">How long do I have to make my decision?</BaseQuestion>
+</RQ>
+<RQ id="3">
+<ResponseID id="4">pra133</ResponseID>
+<BaseQuestion id="4">What will be the impact on the study if I decide not to participate? Will the study staff still proceed if I decide not to enroll?</BaseQuestion>
+</RQ>
+<RQ id="4">
+<ResponseID id="5">prb178</ResponseID>
+<BaseQuestion id="5">What happens after I stop or complete my study treatment in the study?</BaseQuestion>
+</RQ>
+</RQs>
+</Response>
+<Response id="prb239">
+<ResponseID id="0">prb239</ResponseID>
+<BaseQuestion id="0">Are there risks and side effects of the study medication?</BaseQuestion>
+<Content id="0">People taking the investigational medication have experienced some side effects. Any known risks will be discussed during the consent process, but there is always a possibility of unknown risks. Please see the informed consent form for a description of the side effects reported. Please also speak with the study doctor if you have any questions or concerns about the risks listed.</Content>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">prb190</ResponseID>
+<BaseQuestion id="1">What are the risks or side effects of this study treatment?</BaseQuestion>
+</RQ>
+<RQ id="1">
+<ResponseID id="2">prb192</ResponseID>
+<BaseQuestion id="2">Could my rheumatoid arthritis get worse when receiving the study treatment?</BaseQuestion>
+</RQ>
+<RQ id="2">
+<ResponseID id="3">prb193</ResponseID>
+<BaseQuestion id="3">What should I do if I experience side effects?/What happens if my RA gets worse during study treatment?</BaseQuestion>
+</RQ>
+</RQs>
+</Response>
+<Response id="prb240">
+<ResponseID id="0">prb240</ResponseID>
+<BaseQuestion id="0">Should I continue to see my regular doctor for other medical problems during this study?</BaseQuestion>
+<Content id="0">Over the course of the clinical study, you should continue to be treated by your regular doctor. This doctor will be in charge of providing all non-study related care. It is important that you discuss any existing medical conditions with the study doctor or study staff so that they have a complete picture of your health, including any other medications or treatments that you may use. The investigational medication is not a substitute for any of your current treatments. It will not replace any of your medications; however, the use of some medications is restricted during the study. The study doctor will ask you about the medications you are currently taking and will tell you if any of them cannot be taken during the study. If your regular physician prescribes any other medications while you are in this study, you must first consult the study doctor prior to taking them. Tell the study doctor about any other medications you take after beginning the study, as the investigational medication may alter how well other medications work. In the event that a new medical problem arises over the course of the study, please inform both your regular doctor and the study doctor so that they can best coordinate your care.</Content>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">prb163</ResponseID>
+<BaseQuestion id="1">Should I keep taking my other medications?</BaseQuestion>
+</RQ>
+<RQ id="1">
+<ResponseID id="2">prb183</ResponseID>
+<BaseQuestion id="2">Who will be working with me during the clinical study?</BaseQuestion>
+</RQ>
+<RQ id="2">
+<ResponseID id="3">prb202</ResponseID>
+<BaseQuestion id="3">Will i have to switch doctors if I enroll in a study?</BaseQuestion>
+</RQ>
+<RQ id="3">
+<ResponseID id="4">prb230</ResponseID>
+<BaseQuestion id="4">Will I be able to take other regular medications while participating in this study?</BaseQuestion>
+</RQ>
+<RQ id="4">
+<ResponseID id="5">prb237</ResponseID>
+<BaseQuestion id="5">Who do I contact in an emergency?</BaseQuestion>
+</RQ>
+<RQ id="5">
+<ResponseID id="6">prb241</ResponseID>
+<BaseQuestion id="6">Will I still see my regular doctor for other health needs during the study?</BaseQuestion>
+</RQ>
+</RQs>
+</Response>
+<Response id="prb241">
+<ResponseID id="0">prb241</ResponseID>
+<BaseQuestion id="0">Will I still see my regular doctor for other health needs during the study?</BaseQuestion>
+<Content id="0">You should continue to see your regular doctor for any non-study related testing and care throughout the study.</Content>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">prb121</ResponseID>
+<BaseQuestion id="1">Will i have to go to a different doctor for my study?</BaseQuestion>
+</RQ>
+<RQ id="1">
+<ResponseID id="2">prb163</ResponseID>
+<BaseQuestion id="2">Should I keep taking my other medications?</BaseQuestion>
+</RQ>
+<RQ id="2">
+<ResponseID id="3">prb202</ResponseID>
+<BaseQuestion id="3">Will i have to switch doctors if I enroll in a study?</BaseQuestion>
+</RQ>
+<RQ id="3">
+<ResponseID id="4">prb237</ResponseID>
+<BaseQuestion id="4">Who do I contact in an emergency?</BaseQuestion>
+</RQ>
+<RQ id="4">
+<ResponseID id="5">prb240</ResponseID>
+<BaseQuestion id="5">Should I continue to see my regular doctor for other medical problems during this study?</BaseQuestion>
+</RQ>
+</RQs>
+</Response>
+<Response id="prb242">
+<ResponseID id="0">prb242</ResponseID>
+<BaseQuestion id="0">Who will have access to my medical records?/How will the study protect my confidential personal information?</BaseQuestion>
+<Content id="0">The informed consent form describes who will have access to your medical records and how your confidential information will be used. Access to your medical records or other information about your participation in this study will be limited to protect your confidentiality.</Content>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">prb137</ResponseID>
+<BaseQuestion id="1">Will my name be publically used during the study or when the results are published?</BaseQuestion>
+</RQ>
+<RQ id="1">
+<ResponseID id="2">pra110</ResponseID>
+<BaseQuestion id="2">How are my rights protected while participating in a study?</BaseQuestion>
+</RQ>
+<RQ id="2">
+<ResponseID id="3">pra138</ResponseID>
+<BaseQuestion id="3">Do my family/friends need to know that I am participating in a clinical study?</BaseQuestion>
+</RQ>
+<RQ id="3">
+<ResponseID id="4">prb135</ResponseID>
+<BaseQuestion id="4">Will my employer be told about my participation in this clinical study?</BaseQuestion>
+</RQ>
+</RQs>
+</Response>
+</xml>

@@ -1,0 +1,32 @@
+<xml>
+  <Module id='1'>
+    <Heading>
+      Documenting End-of-Life Decisions
+    </Heading>
+    <ResponseID>scc061</ResponseID>
+    <ResponseID>scc060</ResponseID>
+    <ResponseID>scc059</ResponseID>
+    <ResponseID>scc053</ResponseID>
+    <ResponseID>scc054</ResponseID>
+    <ResponseID>scc057</ResponseID>
+    <ResponseID>scc056</ResponseID>
+  </Module>
+  <Module id='2'>
+    <Heading>
+      Patient Rights
+    </Heading>
+    <ResponseID>scc144</ResponseID>
+    <ResponseID>scc102</ResponseID>
+    <ResponseID>scc116</ResponseID>
+    <ResponseID>scc085</ResponseID>
+    <ResponseID>scc117</ResponseID>
+  </Module>
+  <Module id='3'>
+    <Heading>
+      Resolving Conflicts
+    </Heading>
+    <ResponseID>scc070</ResponseID>
+    <ResponseID>scc067</ResponseID>
+    <ResponseID>scc098</ResponseID>
+  </Module>
+</xml>

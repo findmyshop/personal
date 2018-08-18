@@ -1,0 +1,67 @@
+<xml>
+  <Module id='0'>
+    <Heading>
+      Introduction to Clinical Trials
+    </Heading>
+    <ResponseID>t2d101</ResponseID>
+    <ResponseID>t2d103</ResponseID>
+    <ResponseID>t2d104</ResponseID>
+    <ResponseID>t2d108</ResponseID>
+  </Module>
+  <Module id='1'>
+    <Heading>
+      Participating in a Clinical Trial
+    </Heading>
+    <ResponseID>t2d116</ResponseID>
+    <ResponseID>t2d117</ResponseID>
+    <ResponseID>t2d119</ResponseID>
+    <ResponseID>t2d121</ResponseID>
+    <ResponseID>t2d181</ResponseID>
+  </Module>
+  <Module id='2'>
+    <Heading>
+      Rights and Responsibilities
+    </Heading>
+    <ResponseID>t2d124</ResponseID>
+    <ResponseID>t2d126</ResponseID>
+    <ResponseID>t2d127</ResponseID>
+    <ResponseID>t2d132</ResponseID>
+  </Module>
+  <Module id='3'>
+    <Heading>
+      Privacy
+    </Heading>
+    <ResponseID>t2d138</ResponseID>
+    <ResponseID>t2d137</ResponseID>
+  </Module>
+  <Module id='4'>
+    <Heading>
+      About the SITup Study
+    </Heading>
+    <ResponseID>t2d139</ResponseID>
+    <ResponseID>t2d158</ResponseID>
+    <ResponseID>t2d140</ResponseID>
+    <ResponseID>t2d190</ResponseID>
+    <ResponseID>t2d142</ResponseID>
+    <ResponseID>t2d146</ResponseID>
+    <ResponseID>t2d166</ResponseID>
+    <ResponseID>t2d167</ResponseID>
+<!--     <ResponseID>t2d169</ResponseID> -->
+  </Module>
+  <Module id='5'>
+    <Heading>
+      Costs &amp; Compensation
+    </Heading>
+    <ResponseID>t2d155</ResponseID>
+<!--     <ResponseID>t2d150</ResponseID>
+    <ResponseID>t2d154</ResponseID> -->
+  </Module>
+</xml>
+
+
+
+
+
+
+
+

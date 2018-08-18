@@ -1,0 +1,1832 @@
+<xml>
+<Response id="enr0101">
+<ResponseID id="0">enr0101</ResponseID>
+<BaseQuestion id="0">Introduction 001</BaseQuestion>
+<Content id="0">Welcome to the Enersource Long Term Plan Dialogue website. I'm Gia DeJulio. This site will allow you to give us some feedback on our Long Term Plan while also answering some of the questions that you may have. We know that your time is valuable, so this site lets you choose to hear about topics that are most of interest to you. If you like, you can start with a brief overview of how electricity gets to you. This provides some important background to understand our Long Term Plan. Or you can go directly to our introduction of the Long Term Plan. At any point, you can learn more about various topics by following the links along the right hand side. To be eligible for the draw for a Samsung Galaxy Tablet, Enersource customers will need to listen to a brief description of our Long Term Plan and then provide feedback on 11 core questions. These core questions are indicated by a question mark next to them. You can track your progress along the left hand side where the completed questions are shown with a checkmark. There are other places where you can provide feedback along the way, but these questions are optional. Overall, our discussion should take about 20 minutes, depending on how much information you want to know.  Along the way, you'll be able to explore other topics and ask questions of your own.  If you don't have time to finish the discussion today, you can come back when you have some more time and we'll pick up where you left off.</Content>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">fun0088</ResponseID>
+<BaseQuestion id="1">What does Enersource do?</BaseQuestion>
+</RQ>
+<RQ id="1">
+<ResponseID id="2">fun0055</ResponseID>
+<BaseQuestion id="2">So how does electricity get to my home?</BaseQuestion>
+</RQ>
+<RQ id="2">
+<ResponseID id="3">fun0033</ResponseID>
+<BaseQuestion id="3">What is the energy grid?</BaseQuestion>
+</RQ>
+<RQ id="3">
+<ResponseID id="4">fun0066</ResponseID>
+<BaseQuestion id="4">What is voltage?</BaseQuestion>
+</RQ>
+</RQs>
+</Response>
+<Response id="enr0102">
+<ResponseID id="0">enr0102</ResponseID>
+<BaseQuestion id="0">Introduction 002</BaseQuestion>
+<Content id="0">Have you seen the video on Electricity Fundamentals? It discusses the different parts of our electricity system and how they work together to bring power to your homes and businesses. If you'd like to watch it, click on the Fundamentals link to the left.  If you want to skip the Fundamentals video click on Our Shared Priorities.</Content>
+</Response>
+<Response id="enr0201">
+<ResponseID id="0">enr0201</ResponseID>
+<BaseQuestion id="0">Who is James Macumber?</BaseQuestion>
+<Content id="0">I'm James Macumber, Vice President of Asset Management Strategy at Enersource.  A key part of my job is planning for the future and I'm happy that you're taking the time to talk with us about our Long Term Plan and what it means for you.</Content>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">enr2007</ResponseID>
+<BaseQuestion id="1">Who is Peter Gregg?</BaseQuestion>
+</RQ>
+<RQ id="1">
+<ResponseID id="2">enr2002</ResponseID>
+<BaseQuestion id="2">Who is Dan Pastoric?</BaseQuestion>
+</RQ>
+<RQ id="2">
+<ResponseID id="3">enr2003</ResponseID>
+<BaseQuestion id="3">Who is Norm Wolff?</BaseQuestion>
+</RQ>
+<RQ id="3">
+<ResponseID id="4">enr2005</ResponseID>
+<BaseQuestion id="4">Who is Chris Hudson?</BaseQuestion>
+</RQ>
+<RQ id="4">
+<ResponseID id="5">enr2006</ResponseID>
+<BaseQuestion id="5">Who is Kimberly Boyle?</BaseQuestion>
+</RQ>
+<RQ id="5">
+<ResponseID id="6">enr2001</ResponseID>
+<BaseQuestion id="6">Who is Gia DeJulio?</BaseQuestion>
+</RQ>
+<RQ id="6">
+<ResponseID id="7">enr2004</ResponseID>
+<BaseQuestion id="7">Who is Natalie Yeates?</BaseQuestion>
+</RQ>
+</RQs>
+</Response>
+<Response id="enr0202">
+<ResponseID id="0">enr0202</ResponseID>
+<BaseQuestion id="0">Introduction to Shared Priorities</BaseQuestion>
+<Content id="0">As a customer, you need safe, reliable, affordable electricity.  And we need to make sure our electricity delivery system keeps up with demand in Mississauga. To do this, we are constantly evaluating the system and planning for the future. Recently we reached out to some of our customers and asked them to share their thoughts on the electricity system. They told us that they want reliable and affordable electricity that is environmentally friendly. We share these priorities.</Content>
+</Response>
+<Response id="enr0301">
+<ResponseID id="0">enr0301</ResponseID>
+<BaseQuestion id="0">Reliability</BaseQuestion>
+<Content id="0">The four priorities are all interrelated.  We'll start by focusing on reliability. For us, reliability means minimizing outages and minimizing voltage fluctuations, which are variations in power. To do this, there are three major challenges that we have to continue to address in our Plan. The first challenge is aging equipment. The second is increased demand for electricity from growth and the new ways people require power. The third challenge is damage to the system caused by people and natural events like weather. I'll review each of these challenges briefly then talk about the elements of the Long Term Plan.</Content>
+</Response>
+<Response id="enr0302">
+<ResponseID id="0">enr0302</ResponseID>
+<BaseQuestion id="0">Reliability 002</BaseQuestion>
+<Content id="0">Let's start with aging equipment. Many of our substations and distribution lines were installed over 40 years ago as part of significant development that got underway in the late 1970s and 80s. Our territory covers over 288 square kilometers and includes about 5200 kilometers of lines, 20,000 wood or concrete poles, and 25,000 transformers. People often think weather is the primary cause of power disruptions, which tends to be true for the big outages like the ice storm of 2013. Most outages -- like the ones that affect a small number of people for a short period of time -- are typically caused by aging equipment. It is important that we maintain the system and keep it up to date so we can continue to reliably deliver power to our growing customer base.</Content>
+</Response>
+<Response id="enr0302b">
+<ResponseID id="0">enr0302b</ResponseID>
+<BaseQuestion id="0">How does weather impact reliability?</BaseQuestion>
+<Content id="0">Our territory covers over 288 square kilometers and includes about 5200 kilometers of lines, 20,000 wood or concrete poles, and 25,000 transformers. People often think weather is the primary cause of power disruptions, which tends to be true for the big outages like the ice storm of 2013.  Most outages, like the ones that affect a small number of people for a short period of time, are typically caused by aging equipment. It is important that we maintain the system and keep it up to date so we can continue to reliably deliver power to our growing customer base.</Content>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">enr0355</ResponseID>
+<BaseQuestion id="1">What causes outages?</BaseQuestion>
+</RQ>
+<RQ id="1">
+<ResponseID id="2">enr0357</ResponseID>
+<BaseQuestion id="2">How do you prepare for outages?</BaseQuestion>
+</RQ>
+<RQ id="2">
+<ResponseID id="3">enr0353</ResponseID>
+<BaseQuestion id="3">What do you do to ensure the reliability of the system?</BaseQuestion>
+</RQ>
+<RQ id="3">
+<ResponseID id="4">enr0351</ResponseID>
+<BaseQuestion id="4">What causes my lights to dim or flicker?</BaseQuestion>
+</RQ>
+</RQs>
+</Response>
+<Response id="enr0303">
+<ResponseID id="0">enr0303</ResponseID>
+<BaseQuestion id="0">Reliability 003</BaseQuestion>
+<Content id="0">The second challenge is the demand for electricity due to growth since 1974 when Mississauga became a city, and the City's plans for future growth. Current growth in electricity demand is from construction of new townhouses, condominium high-rises, and business offices, along with the many new and changing ways we use electricity. Think of the number of electronic devices you use at home or at work:  computers, cell phones, televisions, gaming systems to name just a few.  In the next decade, we need to prepare for the increased demand for electricity from transportation, from electric cars, and from the electrification of the GO Train system.
+
+To meet this changing and growing demand, we need to maintain and replace the original equipment.</Content>
+</Response>
+<Response id="enr0303b">
+<ResponseID id="0">enr0303b</ResponseID>
+<BaseQuestion id="0">What is causing the growth in demand?</BaseQuestion>
+<Content id="0">Current growth in electricity demand is from construction of new townhouses, condominium high-rises, and business offices, along with the many new and changing ways we use electricity. Think of the number of electronic devices you use at home or at work:  computers, cell phones, televisions, gaming systems to name just a few. In the next decade, we need to prepare for the increased demand for electricity from transportation, from electric cars, and from the electrification of the GO Train system.</Content>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">enr1669</ResponseID>
+<BaseQuestion id="1"> Why is aging infrastructure such a big issue for LDCs?</BaseQuestion>
+</RQ>
+<RQ id="1">
+<ResponseID id="2">enr0804b</ResponseID>
+<BaseQuestion id="2">What about system improvements and upgrades?</BaseQuestion>
+</RQ>
+</RQs>
+</Response>
+<Response id="enr0304">
+<ResponseID id="0">enr0304</ResponseID>
+<BaseQuestion id="0">Reliability 004</BaseQuestion>
+<Content id="0">The third challenge is preparing for and responding to damage to the system caused by people and natural events like weather. Most people don't know that public vehicles colliding with and damaging our equipment are a more frequent source of outages than weather events! We have one of the lowest rates of outages in Canada, but still, service interruptions do occur. Our team is always prepared for outages. When there is a power disruption, our goal is to get our customers back online as soon as possible. We make sure our people are well trained; that our fleet of vehicles is well maintained; and that we have the equipment and technology needed to spot potential issues so we can prevent outages, and react as quickly as possible when they do occur.</Content>
+</Response>
+<Response id="enr0304b">
+<ResponseID id="0">enr0304b</ResponseID>
+<BaseQuestion id="0">How do outage rates compare with the rest of Canada?</BaseQuestion>
+<Content id="0">We have one of the lowest rates of outages in Canada, but still, service interruptions do occur. Our team is always prepared for outages.</Content>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">enr0355</ResponseID>
+<BaseQuestion id="1">What causes outages?</BaseQuestion>
+</RQ>
+<RQ id="1">
+<ResponseID id="2">enr0357</ResponseID>
+<BaseQuestion id="2">How do you prepare for outages?</BaseQuestion>
+</RQ>
+<RQ id="2">
+<ResponseID id="3">enr0302b</ResponseID>
+<BaseQuestion id="3">How does weather impact reliability?</BaseQuestion>
+</RQ>
+</RQs>
+</Response>
+<Response id="enr0305">
+<ResponseID id="0">enr0305</ResponseID>
+<BaseQuestion id="0">Reliability 005</BaseQuestion>
+<Content id="0">I have a question for you.  Do you have a plan for your home or business in case there is an electrical outage?</Content>
+</Response>
+<Response id="enr0306">
+<ResponseID id="0">enr0306</ResponseID>
+<BaseQuestion id="0">Reliability 006</BaseQuestion>
+<Content id="0">Great!  It always pays to be prepared.  Also, if you or a loved one relies on electrically-powered medical equipment like a ventilator or kidney dialysis machine, please let us know. We will put your name on our health registry that tells us you need alternative sources of power if we are scheduling a power outage. To register and for more information, follow the link in the Resource area when you're done with this program.</Content>
+<MediaList id="0">
+<Media id="0">
+<ListOrder id="0">0</ListOrder>
+<Description id="0">Health Registry for Service Interruptions</Description>
+<Location id="0"><![CDATA[http://www.enersource.com/environment-safety/Pages/in-case-of-service-interruption.aspx]]></Location>
+<MediaType id="0">HTML Document</MediaType>
+<FileSize id="0"></FileSize>
+</Media>
+</MediaList>
+</Response>
+<Response id="enr0307">
+<ResponseID id="0">enr0307</ResponseID>
+<BaseQuestion id="0">Reliability 007</BaseQuestion>
+<Content id="0">It always pays to be prepared.  We have resources on our site that can help you get prepared.  When you're finished, look in the Resources area for a link to Things You Can Do to Prepare for an Outage.  Also, If you or a loved one relies on electrically-powered medical equipment like a ventilator or kidney dialysis machine, please let us know. We will put your name on our health registry that tells us you need alternative sources of power if we are scheduling a power outage. To register and for more information, follow the link in the Resource area when you're done with this program.</Content>
+<MediaList id="0">
+<Media id="0">
+<ListOrder id="0">0</ListOrder>
+<Description id="0">Things You Can Do to Prepare for an Outage</Description>
+<Location id="0"><![CDATA[http://www.enersource.com/environment-safety/Pages/in-case-of-service-interruption.aspx]]></Location>
+<MediaType id="0">HTML Document</MediaType>
+<FileSize id="0"></FileSize>
+</Media>
+<Media id="1">
+<ListOrder id="0">1</ListOrder>
+<Description id="0">Health Registry for Service Interruptions</Description>
+<Location id="0"><![CDATA[http://www.enersource.com/environment-safety/Pages/in-case-of-service-interruption.aspx]]></Location>
+<MediaType id="0">HTML Document</MediaType>
+<FileSize id="0"></FileSize>
+</Media>
+</MediaList>
+</Response>
+<Response id="enr0308">
+<ResponseID id="0">enr0308</ResponseID>
+<BaseQuestion id="0">Reliability 008</BaseQuestion>
+<Content id="0">There is more information on reliability in the Related Questions on the right side of your screen.  Feel free to click on these links to learn more.  When you're done, click on Finish Reliability Section. Then you can give us your comments on Reliability or move to another topic.</Content>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">enr0351</ResponseID>
+<BaseQuestion id="1">What causes my lights to dim or flicker?</BaseQuestion>
+</RQ>
+<RQ id="1">
+<ResponseID id="2">enr0353</ResponseID>
+<BaseQuestion id="2">What do you do to ensure the reliability of the system?</BaseQuestion>
+</RQ>
+<RQ id="2">
+<ResponseID id="3">enr0355</ResponseID>
+<BaseQuestion id="3">What causes outages?</BaseQuestion>
+</RQ>
+<RQ id="3">
+<ResponseID id="4">enr0357</ResponseID>
+<BaseQuestion id="4">How do you prepare for outages?</BaseQuestion>
+</RQ>
+</RQs>
+</Response>
+<Response id="enr0351">
+<ResponseID id="0">enr0351</ResponseID>
+<BaseQuestion id="0">What causes my lights to dim or flicker?</BaseQuestion>
+<Content id="0">Sometimes customers ask us about flickering or dimming lights or brief interruptions to their power supply.  These may be caused by an imbalance of the voltage level or the amount of electricity that is supplied to your home or business. Voltage fluctuations can be caused by issues inside your home or business, such as appliances or other electrical equipment that briefly draws a higher amount of power. Or voltage fluctuations can be caused by problems outside your home or business in a situation where the Provincial power grid may have slightly more demand than can be supplied by the generation. This is called brown outs. If this persists, you may eventually have the power of the system fail, and this is known as a black out. In addition, power surges or spikes are commonly caused by lightning strikes on the local distribution system or the Provincial power grid.</Content>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">enr0355</ResponseID>
+<BaseQuestion id="1">What causes outages?</BaseQuestion>
+</RQ>
+<RQ id="1">
+<ResponseID id="2">enr0302b</ResponseID>
+<BaseQuestion id="2">How does weather impact reliability?</BaseQuestion>
+</RQ>
+<RQ id="2">
+<ResponseID id="3">enr0357</ResponseID>
+<BaseQuestion id="3">How do you prepare for outages?</BaseQuestion>
+</RQ>
+<RQ id="3">
+<ResponseID id="4">enr0353</ResponseID>
+<BaseQuestion id="4">What do you do to ensure the reliability of the system?</BaseQuestion>
+</RQ>
+</RQs>
+</Response>
+<Response id="enr0353">
+<ResponseID id="0">enr0353</ResponseID>
+<BaseQuestion id="0">What do you do to ensure the reliability of the system?</BaseQuestion>
+<Content id="0">Every day Enersource works on maintaining or improving the reliability of its distribution system.  Enersource does everything it can to minimize disruptions for our customers by maintaining, repairing, and when needed, replacing aging equipment designed to prevent these disruptions and outages. If an outage occurs, our goal is to get our customers back online as soon as possible. We make sure our people are well trained; that our fleet of vehicles are well maintained; and that we have the equipment and technology needed to spot potential issues so we can prevent outages, or react as quickly as possible when outages occur.</Content>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">enr0357</ResponseID>
+<BaseQuestion id="1">How do you prepare for outages?</BaseQuestion>
+</RQ>
+<RQ id="1">
+<ResponseID id="2">enr0913b</ResponseID>
+<BaseQuestion id="2">Why do you replace some equipment before it fails?</BaseQuestion>
+</RQ>
+<RQ id="2">
+<ResponseID id="3">enr0912b</ResponseID>
+<BaseQuestion id="3">What about repairs and replacement of existing equipment?</BaseQuestion>
+</RQ>
+</RQs>
+</Response>
+<Response id="enr0355">
+<ResponseID id="0">enr0355</ResponseID>
+<BaseQuestion id="0">What causes outages?</BaseQuestion>
+<Content id="0">Most people think that weather is the primary cause of outages. This is true for some widespread outages. Examples of this are the ice storm that occurred in December of 2013 or the major rain storm from August of the same year. However, most outages affect a smaller groups of customers for shorter periods of time.</Content>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">enr0351</ResponseID>
+<BaseQuestion id="1">What causes my lights to dim or flicker?</BaseQuestion>
+</RQ>
+<RQ id="1">
+<ResponseID id="2">enr0302b</ResponseID>
+<BaseQuestion id="2">How does weather impact reliability?</BaseQuestion>
+</RQ>
+<RQ id="2">
+<ResponseID id="3">enr0353</ResponseID>
+<BaseQuestion id="3">What do you do to ensure the reliability of the system?</BaseQuestion>
+</RQ>
+<RQ id="3">
+<ResponseID id="4">enr0357</ResponseID>
+<BaseQuestion id="4">How do you prepare for outages?</BaseQuestion>
+</RQ>
+</RQs>
+</Response>
+<Response id="enr0357">
+<ResponseID id="0">enr0357</ResponseID>
+<BaseQuestion id="0">How do you prepare for outages?</BaseQuestion>
+<Content id="0">Enersource has one of the lowest power outage levels in Canada. However, outages still do occur, and they are a great concern of ours. The Enersource team is always monitoring the distribution system and are prepared to respond quickly to outages.  If an outage does occur, our goal is to get our customers back online as soon as possible. To reach our goal, we make sure our people are well trained; that our vehicles are well maintained; and that we have the equipment and technology needed to identify potential problems in order to prevent outages, or respond as quickly as possible when they do occur.</Content>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">enr0353</ResponseID>
+<BaseQuestion id="1">What do you do to ensure the reliability of the system?</BaseQuestion>
+</RQ>
+<RQ id="1">
+<ResponseID id="2">enr0913b</ResponseID>
+<BaseQuestion id="2">Why do you replace some equipment before it fails?</BaseQuestion>
+</RQ>
+<RQ id="2">
+<ResponseID id="3">enr0912b</ResponseID>
+<BaseQuestion id="3">What about repairs and replacement of existing equipment?</BaseQuestion>
+</RQ>
+</RQs>
+</Response>
+<Response id="enr0369">
+<ResponseID id="0">enr0369</ResponseID>
+<BaseQuestion id="0">Reliability 009</BaseQuestion>
+<Content id="0">Do you have any comments about reliability or questions that you would like us to address in the future?</Content>
+</Response>
+<Response id="enr0370">
+<ResponseID id="0">enr0370</ResponseID>
+<BaseQuestion id="0">Reliability 010</BaseQuestion>
+<Content id="0">We have information on our priorities of Environmental Responsibility, Affordability and Safety that you might be interested in.  Select one of the topics or go directly to the Long Term Plan using the links to the left.</Content>
+</Response>
+<Response id="enr0401">
+<ResponseID id="0">enr0401</ResponseID>
+<BaseQuestion id="0">Environmental Responsibility</BaseQuestion>
+<Content id="0">An important part of my job is listening to customers regarding their needs and the expectations related to the services we provide. Many customers have told us that they want their electricity to be produced and delivered in an environmentally friendly way. There are several things we do to promote environmental responsibility. We have energy conservation programs for homes and businesses located in Mississauga; and we promote and connect local renewable power from solar panels and wind turbines to Enersource's distribution system.</Content>
+<MediaList id="0">
+<Media id="0">
+<ListOrder id="0">0</ListOrder>
+<Description id="0">Enersource: Environment &amp; Safety</Description>
+<Location id="0"><![CDATA[http://www.enersource.com/environment-safety/Pages/default.aspx]]></Location>
+<MediaType id="0">HTML Document</MediaType>
+<FileSize id="0"></FileSize>
+</Media>
+</MediaList>
+</Response>
+<Response id="enr0402">
+<ResponseID id="0">enr0402</ResponseID>
+<BaseQuestion id="0">How does conservation reduce environmental impact?</BaseQuestion>
+<Content id="0">We all know that conservation is one of the best ways to reduce the environmental impact of producing electricity. By using less electricity we all can help reduce the need for new generation plants and the associated transmission and distribution systems. You can find more information regarding how to conserve electricity and how to reduce your electricity bill on Enersource's website.</Content>
+<MediaList id="0">
+<Media id="0">
+<ListOrder id="0">0</ListOrder>
+<Description id="0">Energy Savings Tips</Description>
+<Location id="0"><![CDATA[http://www.enersource.com/energy-savings-tips/Pages/default.aspx]]></Location>
+<MediaType id="0">HTML Document</MediaType>
+<FileSize id="0"></FileSize>
+</Media>
+</MediaList>
+</Response>
+<Response id="enr0402b">
+<ResponseID id="0">enr0402b</ResponseID>
+<BaseQuestion id="0">How does conservation reduce environmental impact?</BaseQuestion>
+<Content id="0">We all know that conservation is one of the best ways to reduce the environmental impact of producing electricity. By using less electricity we all can help reduce the need for new generation plants and the associated transmission and distribution systems. You can find more information regarding how to conserve electricity and how to reduce your electricity bill on Enersource's website.</Content>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">enr1657</ResponseID>
+<BaseQuestion id="1"> Are the conservation programs working?</BaseQuestion>
+</RQ>
+<RQ id="1">
+<ResponseID id="2">enr0451</ResponseID>
+<BaseQuestion id="2">Why can't we replace all of our generation with renewables?</BaseQuestion>
+</RQ>
+<RQ id="2">
+<ResponseID id="3">enr0405b</ResponseID>
+<BaseQuestion id="3">Are you investing in renewable energy projects?</BaseQuestion>
+</RQ>
+</RQs>
+<MediaList id="0">
+<Media id="0">
+<ListOrder id="0">0</ListOrder>
+<Description id="0">Energy Savings Tips</Description>
+<Location id="0"><![CDATA[http://www.enersource.com/energy-savings-tips/Pages/default.aspx]]></Location>
+<MediaType id="0">HTML Document</MediaType>
+<FileSize id="0"></FileSize>
+</Media>
+</MediaList>
+</Response>
+<Response id="enr0403">
+<ResponseID id="0">enr0403</ResponseID>
+<BaseQuestion id="0">How can I use less power during periods of high demand?</BaseQuestion>
+<Content id="0">Another way to reduce the environmental impact of electricity is to use less electricity when demand is high during the peak times of the day, when all of Ontario's power plants are working at capacity. Energy conservation programs like <![CDATA[<em>peaksaver</em>]]> PLUS for residential customers and the Retrofit Demand Response program for business customers go a long way to reducing electricity requirements at peak times. And by using less, you save money as well.</Content>
+</Response>
+<Response id="enr0403b">
+<ResponseID id="0">enr0403b</ResponseID>
+<BaseQuestion id="0">How can I use less power during periods of high demand?</BaseQuestion>
+<Content id="0">Another way to reduce the environmental impact of electricity is to use less electricity when demand is high during the peak times of the day, when all of Ontario's power plants are working at capacity. Energy conservation programs like <![CDATA[<em>peaksaver</em>]]> PLUS for residential customers and the Retrofit Demand Response program for business customers go a long way to reducing electricity requirements at peak times. And by using less, you save money as well.</Content>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">enr0551</ResponseID>
+<BaseQuestion id="1">What can I do to reduce my electricity bills?</BaseQuestion>
+</RQ>
+<RQ id="1">
+<ResponseID id="2">enr0553</ResponseID>
+<BaseQuestion id="2">Why does electricity cost so much?</BaseQuestion>
+</RQ>
+<RQ id="2">
+<ResponseID id="3">enr1655</ResponseID>
+<BaseQuestion id="3">What is the Smart Grid and how does it relate to Smart Meters?</BaseQuestion>
+</RQ>
+</RQs>
+</Response>
+<Response id="enr0404">
+<ResponseID id="0">enr0404</ResponseID>
+<BaseQuestion id="0">How will increased use of renewable energy sources affect the electricity system?</BaseQuestion>
+<Content id="0">Customers often ask us how will Ontario's goals to increase the use of renewable energy affect the electricity system. Local Distribution Companies, like Enersource, are responsible for connecting renewable generation, such as rooftop solar panels, to Enersource's distribution system. These panels produce additional electricity that will feed into the grid, thereby reducing the amount of power that we may need from traditional power plants.</Content>
+</Response>
+<Response id="enr0404b">
+<ResponseID id="0">enr0404b</ResponseID>
+<BaseQuestion id="0">How will increased use of renewable energy sources affect the electricity system?</BaseQuestion>
+<Content id="0">Customers often ask us how will Ontario's goals to increase the use of renewable energy affect the electricity system. Local Distribution Companies, like Enersource, are responsible for connecting renewable generation, such as rooftop solar panels, to Enersource's distribution system. These panels produce additional electricity that will feed into the grid, thereby reducing the amount of power that we may need from traditional power plants.</Content>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">enr0451</ResponseID>
+<BaseQuestion id="1">Why can't we replace all of our generation with renewables?</BaseQuestion>
+</RQ>
+<RQ id="1">
+<ResponseID id="2">enr1653</ResponseID>
+<BaseQuestion id="2">What are the significant changes in the electricity industry in recent years?</BaseQuestion>
+</RQ>
+<RQ id="2">
+<ResponseID id="3">enr0405b</ResponseID>
+<BaseQuestion id="3">Are you investing in renewable energy projects?</BaseQuestion>
+</RQ>
+</RQs>
+</Response>
+<Response id="enr0405">
+<ResponseID id="0">enr0405</ResponseID>
+<BaseQuestion id="0">Are you investing in renewable energy projects?</BaseQuestion>
+<Content id="0">We support renewable energy projects through the Partners in Project Green program. Also we've partnered with the City of Mississauga at the Hershey Center to install 144 rooftop solar panels. Since 2009, Enersource has connected over 360 rooftop solar panels in residential and commercial projects.</Content>
+</Response>
+<Response id="enr0405b">
+<ResponseID id="0">enr0405b</ResponseID>
+<BaseQuestion id="0">Are you investing in renewable energy projects?</BaseQuestion>
+<Content id="0">We support renewable energy projects through the Partners in Project Green program. Also we've partnered with the City of Mississauga at the Hershey Center to install 144 rooftop solar panels. Since 2009, Enersource has connected over 360 rooftop solar panels in residential and commercial projects.</Content>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">enr1657</ResponseID>
+<BaseQuestion id="1"> Are the conservation programs working?</BaseQuestion>
+</RQ>
+<RQ id="1">
+<ResponseID id="2">enr0451</ResponseID>
+<BaseQuestion id="2">Why can't we replace all of our generation with renewables?</BaseQuestion>
+</RQ>
+<RQ id="2">
+<ResponseID id="3">enr0404b</ResponseID>
+<BaseQuestion id="3">How will increased use of renewable energy sources affect the electricity system?</BaseQuestion>
+</RQ>
+</RQs>
+</Response>
+<Response id="enr0406">
+<ResponseID id="0">enr0406</ResponseID>
+<BaseQuestion id="0">Environmental Responsibility 007</BaseQuestion>
+<Content id="0">You can click on the links located at the right side of your screen for additional information on renewables and conservation topics, or connect on Finish Environmental Section.</Content>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">enr0451</ResponseID>
+<BaseQuestion id="1">Why can't we replace all of our generation with renewables?</BaseQuestion>
+</RQ>
+<RQ id="1">
+<ResponseID id="2">enr1655</ResponseID>
+<BaseQuestion id="2">What is the Smart Grid and how does it relate to Smart Meters?</BaseQuestion>
+</RQ>
+</RQs>
+</Response>
+<Response id="enr0451">
+<ResponseID id="0">enr0451</ResponseID>
+<BaseQuestion id="0">Why can't we replace all of our generation with renewables?</BaseQuestion>
+<Content id="0">A lot of people believe that using renewable energy will decrease costs. Renewable energy has a great benefit to the environment. Currently 33% of Ontario's energy is provided by renewables. Hydroelectric power accounts for 24%, 8% is from wind, 1% is from biomass, and the balance is from solar. The Ontario Government's Long Term Energy Plan forecasts by 2025, 20,000 MW or approximately 50% of Ontario's installed capacity will be from renewable sources. While costs for renewable electricity from wind and solar are coming down, wind and solar renewable electricity is still more expensive than traditional sources of nuclear and natural gas.</Content>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">enr0404b</ResponseID>
+<BaseQuestion id="1">How will increased use of renewable energy sources affect the electricity system?</BaseQuestion>
+</RQ>
+<RQ id="1">
+<ResponseID id="2">enr1657</ResponseID>
+<BaseQuestion id="2"> Are the conservation programs working?</BaseQuestion>
+</RQ>
+<RQ id="2">
+<ResponseID id="3">enr1665</ResponseID>
+<BaseQuestion id="3"> Who makes decisions about generation and the integration of renewable energy into the system?</BaseQuestion>
+</RQ>
+</RQs>
+</Response>
+<Response id="enr0468">
+<ResponseID id="0">enr0468</ResponseID>
+<BaseQuestion id="0">Environmental Responsibility 008</BaseQuestion>
+<Content id="0">Please send us any comments regarding conservation or connecting renewable energy to the grid, or any questions on these topics that you would like us to address in the future.</Content>
+</Response>
+<Response id="enr0469">
+<ResponseID id="0">enr0469</ResponseID>
+<BaseQuestion id="0">Environmental Responsibility 009</BaseQuestion>
+<Content id="0">Thank you!  We will review all of your comments so please check back soon for more updates.   What do you want to learn about next?  Click on one of the links to the left side of the screen to learn more about our priorities or go to our Long Term Plan.</Content>
+</Response>
+<Response id="enr0501">
+<ResponseID id="0">enr0501</ResponseID>
+<BaseQuestion id="0">Affordablity</BaseQuestion>
+<Content id="0">We know our customers are keeping a close eye on their electricity bills, so you're probably wondering what we do to keep electricity affordable while working to maintain a safe, reliable, and environmentally friendly electricity distribution system.   We operate and maintain our equipment so that it lasts as long as possible without affecting system reliability.  We only invest in new equipment when the costs of replacing it are lower than the cost of ongoing repairs and maintenance. When we talk about the Long Term Plan, you'll learn more about the technology we use to track our equipment, vehicle fleet, customer concerns, and employee costs.  We do all of this to run our business as efficiently as possible, so that we can keep your electricity affordable.</Content>
+</Response>
+<Response id="enr0501b">
+<ResponseID id="0">enr0501b</ResponseID>
+<BaseQuestion id="0">How do you control costs of doing business?</BaseQuestion>
+<Content id="0">We maintain our equipment so that it lasts as long as possible without affecting system reliability. We only invest in new equipment when the potential costs of it breaking are greater than the cost of replacing it. When we talk about the Long Term Plan, you'll learn more about the technology we use to track our equipment, vehicle fleet, customer concerns and employee costs. We do all of this to run our business as efficiently as possible so that we can keep your electricity affordable.</Content>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">enr1130b</ResponseID>
+<BaseQuestion id="1">How much of my electric bill is from distribution?</BaseQuestion>
+</RQ>
+<RQ id="1">
+<ResponseID id="2">enr1953</ResponseID>
+<BaseQuestion id="2">Why does Enersource need to merge with other companies?</BaseQuestion>
+</RQ>
+<RQ id="2">
+<ResponseID id="3">enr1021b</ResponseID>
+<BaseQuestion id="3">How are you planning for software, hardware, and vehicle upgrades?</BaseQuestion>
+</RQ>
+<RQ id="3">
+<ResponseID id="4">enr0913b</ResponseID>
+<BaseQuestion id="4">Why do you replace some equipment before it fails?</BaseQuestion>
+</RQ>
+</RQs>
+</Response>
+<Response id="enr0502">
+<ResponseID id="0">enr0502</ResponseID>
+<BaseQuestion id="0">Affordablity - General 002</BaseQuestion>
+<Content id="0">There is more information on affordability in the related questions on the right side of your screen.  Feel free to click on these links to learn more.  When you're done, click on the Finish Affordability button. Then you can give us your comments or move to another topic.</Content>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">enr0551</ResponseID>
+<BaseQuestion id="1">What can I do to reduce my electricity bills?</BaseQuestion>
+</RQ>
+<RQ id="1">
+<ResponseID id="2">enr0553</ResponseID>
+<BaseQuestion id="2">Why does electricity cost so much?</BaseQuestion>
+</RQ>
+</RQs>
+</Response>
+<Response id="enr0551">
+<ResponseID id="0">enr0551</ResponseID>
+<BaseQuestion id="0">What can I do to reduce my electricity bills?</BaseQuestion>
+<Content id="0">One of the best ways to reduce your electricity cost is to use less power. You can reduce how much power you use through a variety of conservation programs offered by Enersource and the Independent Electricity System Operator. You can also manage your usage by adjusting when you perform energy-intensive activities, like using the dishwasher or doing the laundry.  By doing these activities during off peak hours, which are 7:00 p.m. to 7:00 a.m. Monday to Friday and all day on Weekends and Holidays, you will be using electricity at the lowest cost pricing period. If you want to track your daily usage, you can monitor your bill online through the Enersource website. If you want to learn more about reducing your electricity usage, I invite you to visit our website -- <![CDATA[<a href="http://www.enersource.com" target="_blank">http://www.enersource.com</a>]]></Content>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">enr0403b</ResponseID>
+<BaseQuestion id="1">How can I use less power during periods of high demand?</BaseQuestion>
+</RQ>
+<RQ id="1">
+<ResponseID id="2">enr0553</ResponseID>
+<BaseQuestion id="2">Why does electricity cost so much?</BaseQuestion>
+</RQ>
+</RQs>
+<MediaList id="0">
+<Media id="0">
+<ListOrder id="0">0</ListOrder>
+<Description id="0">Enersource Website</Description>
+<Location id="0"><![CDATA[http://www.enersource.com/my-home/Pages/default.aspx]]></Location>
+<MediaType id="0">HTML Document</MediaType>
+<FileSize id="0"></FileSize>
+</Media>
+</MediaList>
+</Response>
+<Response id="enr0553">
+<ResponseID id="0">enr0553</ResponseID>
+<BaseQuestion id="0">Why does electricity cost so much?</BaseQuestion>
+<Content id="0">You might be wondering why there are so many lines on your bill. The simple answer is that the Ontario Energy Board requires us to follow a specific billing format. It is intended to provide enough information for customers across Ontario to make informed choices on how much electricity they use and when they wish to use it. Your electricity charges reflect the cost of electricity purchased by Enersource on your behalf that you use in your home or business. Enersource does not charge a mark-up on this cost. We pay the Independent Electricity System Operator (IESO) for their electricity. Then they pay the generators of electricity, including Ontario Power Generation, which is owned by the province of Ontario. You will be billed based on when and how much electricity you use. Time of use rates are calculated as displayed in the chart on the screen. Red represents the on-peak period, which is also the most expensive time. Yellow depicts the mid-peak or moderate cost period. Green represents the off-peak or least expensive time period. Time of use rates change each year in May and November and are set by the Ontario Energy Board, not Enersource. The Delivery Charge reflects the cost of delivering electricity from the generator to Enersource and then to your home. It is a combination of transmission charges and local distribution charges. The transmission charge includes costs associated with building and maintaining transmission power and lines as part of the distribution grid. The other portion of the delivery charge is from Enersource's local distribution system, which brings the power from the grid to your home or business. Costs collected for transmission and operation of the provincial grid are paid directly to the IESO, who then passes on the payments to transmission companies including Hydro One, which is owned by the Province of Ontario. Enersource does not charge a markup on this transmission cost. Enersource's charges for delivery to your home or business are approved by the Ontario Energy Board, which reviews our costs to build and maintain our local distribution system. This is approximately 20% of your total bill. The regulatory charge reflects the cost of administering the wholesale electricity system, including the settlement of payments I described earlier, and maintaining the reliability of the provincial grid. These charges are collected without mark-up by Enersource and passed on to the IESO.</Content>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">enr1130b</ResponseID>
+<BaseQuestion id="1">How much of my electric bill is from distribution?</BaseQuestion>
+</RQ>
+<RQ id="1">
+<ResponseID id="2">fun0055</ResponseID>
+<BaseQuestion id="2">So how does electricity get to my home?</BaseQuestion>
+</RQ>
+<RQ id="2">
+<ResponseID id="3">enr1665</ResponseID>
+<BaseQuestion id="3"> Who makes decisions about generation and the integration of renewable energy into the system?</BaseQuestion>
+</RQ>
+<RQ id="3">
+<ResponseID id="4">enr1659</ResponseID>
+<BaseQuestion id="4">Who is responsible for oversight of the industry?</BaseQuestion>
+</RQ>
+<RQ id="4">
+<ResponseID id="5">enr0702b</ResponseID>
+<BaseQuestion id="5">What is the Long Term Plan?</BaseQuestion>
+</RQ>
+</RQs>
+</Response>
+<Response id="enr0563">
+<ResponseID id="0">enr0563</ResponseID>
+<BaseQuestion id="0">Affordablity - General 003</BaseQuestion>
+<Content id="0">Do you have any comments about affordability or questions that you'd like us to address in the future?</Content>
+</Response>
+<Response id="enr0564">
+<ResponseID id="0">enr0564</ResponseID>
+<BaseQuestion id="0">Affordablity - General 004</BaseQuestion>
+<Content id="0">What do you want to learn about next?  Click on one of the links to your left to learn more about Our Shared Priorities or move on to the Long Term Plan.</Content>
+</Response>
+<Response id="enr0601">
+<ResponseID id="0">enr0601</ResponseID>
+<BaseQuestion id="0">Safety</BaseQuestion>
+<Content id="0">Your safety is critical to us. The maintenance and repairs we do are necessary to keep you safe while providing you with reliable electricity. We follow strict inspection and maintenance schedules for all of our equipment and proactively replace or repair items that show signs of wear that could compromise the safety of our customers or our workers. Our forestry program trims trees and other vegetation around overhead wires to prevent fires, downed lines, and fallen equipment. We think of our customers as partners in our quest for safety, so we provide information on our website for staying safe at home and at work as well as how to stay safe when you're digging outdoors, working near power lines, or using a portable generator.</Content>
+<MediaList id="0">
+<Media id="0">
+<ListOrder id="0">0</ListOrder>
+<Description id="0">Enersouce: Environment &amp; Safety</Description>
+<Location id="0"><![CDATA[http://www.enersource.com/environment-safety/Pages/default.aspx]]></Location>
+<MediaType id="0">HTML Document</MediaType>
+<FileSize id="0"></FileSize>
+</Media>
+</MediaList>
+</Response>
+<Response id="enr0601b">
+<ResponseID id="0">enr0601b</ResponseID>
+<BaseQuestion id="0">How do you promote the safety of your customers and employees?</BaseQuestion>
+<Content id="0">Your safety is critical to us.  We know that the maintenance and repairs we do are necessary to keep you safe while providing you with reliable electricity.  We follow strict inspection and maintenance schedules for all of our equipment and proactively replace or repair items that show signs of wear that could compromise the safety of our customers or our workers. Our Forestry program trims trees and other vegetation around overhead wires to prevent fires, downed lines and falling equipment.   We consider our customers partners in our quest for safety, so we provide information on our website for staying safe at home and work as well as how to stay safe when you're digging outdoors, working near power lines, or using a portable generator.</Content>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">enr0353</ResponseID>
+<BaseQuestion id="1">What do you do to ensure the reliability of the system?</BaseQuestion>
+</RQ>
+<RQ id="1">
+<ResponseID id="2">enr0302b</ResponseID>
+<BaseQuestion id="2">How does weather impact reliability?</BaseQuestion>
+</RQ>
+<RQ id="2">
+<ResponseID id="3">enr1959</ResponseID>
+<BaseQuestion id="3">Will I have to wait for an emergency crew to come from another service territory?</BaseQuestion>
+</RQ>
+<RQ id="3">
+<ResponseID id="4">enr0913b</ResponseID>
+<BaseQuestion id="4">Why do you replace some equipment before it fails?</BaseQuestion>
+</RQ>
+</RQs>
+<MediaList id="0">
+<Media id="0">
+<ListOrder id="0">0</ListOrder>
+<Description id="0">Enersouce: Environment &amp; Safety</Description>
+<Location id="0"><![CDATA[http://www.enersource.com/environment-safety/Pages/default.aspx]]></Location>
+<MediaType id="0">HTML Document</MediaType>
+<FileSize id="0"></FileSize>
+</Media>
+</MediaList>
+</Response>
+<Response id="enr0602">
+<ResponseID id="0">enr0602</ResponseID>
+<BaseQuestion id="0">Safety 002</BaseQuestion>
+<Content id="0">There is more information on other topics in the related questions on the right side of your screen.  Feel free to click on these links to learn more.  When you're done click on Finish Safety Section.</Content>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">enr1659</ResponseID>
+<BaseQuestion id="1">Who is responsible for oversight of the industry?</BaseQuestion>
+</RQ>
+<RQ id="1">
+<ResponseID id="2">enr1959</ResponseID>
+<BaseQuestion id="2">Will I have to wait for an emergency crew to come from another service territory?</BaseQuestion>
+</RQ>
+<RQ id="2">
+<ResponseID id="3">enr0302b</ResponseID>
+<BaseQuestion id="3">How does weather impact reliability?</BaseQuestion>
+</RQ>
+</RQs>
+</Response>
+<Response id="enr0603">
+<ResponseID id="0">enr0603</ResponseID>
+<BaseQuestion id="0">Safety 003</BaseQuestion>
+<Content id="0">Do you have any comments about safety or any questions you'd like us to address in the future?</Content>
+</Response>
+<Response id="enr0604">
+<ResponseID id="0">enr0604</ResponseID>
+<BaseQuestion id="0">Safety 004</BaseQuestion>
+<Content id="0">What do you want to learn about next?  Click on one of the links to your left to learn more about Our Shared Priorities or move on to the Long Term Plan.</Content>
+</Response>
+<Response id="enr0701">
+<ResponseID id="0">enr0701</ResponseID>
+<BaseQuestion id="0">Long Term Plan 001</BaseQuestion>
+<Content id="0">Now that you've learned about our priorities and some of the challenges we face, let's talk about our Long Term Plan.  There are 11 questions in this section that must be answered to put your name in the draw for a Samsung Galaxy Tablet.  They will be highlighted in the list to your left as you go through the 3 sections of the Long Term Plan.</Content>
+</Response>
+<Response id="enr0702">
+<ResponseID id="0">enr0702</ResponseID>
+<BaseQuestion id="0">Long Term Plan Intro</BaseQuestion>
+<Content id="0">Every 5 years, all distribution companies, like us, must produce a Long Term Plan for the Ontario Energy Board or OEB, which regulates the electricity sector. The Plan is reviewed at a rate hearing where the Board decides what rates are appropriate to charge for our services over the next 5 years. A critical part of the process is getting our customers' input on our proposed Plan. I'd appreciate it if you'd spend a few minutes with us, so we can go over the key elements of the Plan and get your thoughts. My colleagues and I will try to answer any questions you have as we go through.  Just type them into the box below and click on Ask.</Content>
+</Response>
+<Response id="enr0702b">
+<ResponseID id="0">enr0702b</ResponseID>
+<BaseQuestion id="0">What is the Long Term Plan?</BaseQuestion>
+<Content id="0">Every 5 years, all distribution companies, like us, must produce a Long Term Plan for the Ontario Energy Board or OEB, which regulates the electricity sector. The Plan is reviewed at a Rate Hearing where the Board decides what rates are appropriate to charge for our services over the next 5 years.  A critical part of the process is getting our customers' input on our proposed Plan.</Content>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">enr0804b</ResponseID>
+<BaseQuestion id="1">What about system improvements and upgrades?</BaseQuestion>
+</RQ>
+<RQ id="1">
+<ResponseID id="2">enr0912b</ResponseID>
+<BaseQuestion id="2">What about repairs and replacement of existing equipment?</BaseQuestion>
+</RQ>
+<RQ id="2">
+<ResponseID id="3">enr1020b</ResponseID>
+<BaseQuestion id="3">What about resources that aren't directly related to electricity distribution like truck fleets and buildings?</BaseQuestion>
+</RQ>
+<RQ id="3">
+<ResponseID id="4">enr1661</ResponseID>
+<BaseQuestion id="4"> How are the regulatory requirements changing?</BaseQuestion>
+</RQ>
+<RQ id="4">
+<ResponseID id="5">enr0553</ResponseID>
+<BaseQuestion id="5">Why does electricity cost so much?</BaseQuestion>
+</RQ>
+</RQs>
+</Response>
+<Response id="enr0703">
+<ResponseID id="0">enr0703</ResponseID>
+<BaseQuestion id="0">Long Term Plan 003</BaseQuestion>
+<Content id="0">There are three parts to our Long Term Plan: First, System Service and System Access which covers converting higher voltage electricity from the grid to the lower voltage electricity that you use. It also covers connecting new customers, and things like moving sections of our system to make way for expanded roads or the new Light Rail Transit system. System Service and System Access costs are expected to increase about 30% in total over the next 5 years, compared to spending in these areas over the previous five years. Next, System Renewal, which covers repairing and maintenance of our current distribution system. We expect our costs here to increase about 20% over the next 5 years. And finally, what we call General Plant, which covers things like our buildings, trucks, employee costs, training, computer equipment and other operating costs. This will use about 15% of our capital budget. We haven't planned any large, new investments in this area in the next five years, so there is no increase in this part. My colleagues will explain each of these parts in more detail.  After each section, we'll invite you to comment, answer any questions you have, and ask a couple of questions we have for you.</Content>
+</Response>
+<Response id="enr0804">
+<ResponseID id="0">enr0804</ResponseID>
+<BaseQuestion id="0">System Service and System Access</BaseQuestion>
+<Content id="0">The System Service and System Access plan covers improvements and upgrades to our distribution system that will assure the delivery of electricity safety and reliability. To prepare for increased demand in Mississauga, our Plan covers the need to expand our system of substations, lines, and other equipment to connect new homes, especially condo developments, and businesses. And we need to tie in small renewable energy sources such as wind turbines and rooftop solar powered systems. These investments are among the most basic of the activities that we do, as they are required to assure that we deliver electricity safely and reliably as we move forward.</Content>
+</Response>
+<Response id="enr0804b">
+<ResponseID id="0">enr0804b</ResponseID>
+<BaseQuestion id="0">What about system improvements and upgrades?</BaseQuestion>
+<Content id="0">The System Service and System Access plan covers improvements and upgrades to our distribution system that will assure the delivery of electricity safety and reliability. To prepare for increased demand in Mississauga, our Plan covers the need to expand our system of substations, lines, and other equipment to connect new homes, especially condo developments, and businesses. And we need to tie in small renewable energy sources such as wind turbines and rooftop solar powered systems. These investments are among the most basic of the activities that we do, as they are required to assure that we deliver electricity safely and reliably as we move forward.</Content>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">enr0702b</ResponseID>
+<BaseQuestion id="1">What is the Long Term Plan?</BaseQuestion>
+</RQ>
+<RQ id="1">
+<ResponseID id="2">enr0303b</ResponseID>
+<BaseQuestion id="2">What is causing the growth in demand?</BaseQuestion>
+</RQ>
+</RQs>
+</Response>
+<Response id="enr0805">
+<ResponseID id="0">enr0805</ResponseID>
+<BaseQuestion id="0">Long Term Plan 005</BaseQuestion>
+<Content id="0">Future plans for the City Centre include a light rail system, called an LRT, and new commercial and residential buildings. Expansion in the South of Mississauga is bringing new water and wastewater pumping stations online. That means we need to build more substations, and add more transformers and lines so we can continue to provide safe, reliable electricity.</Content>
+</Response>
+<Response id="enr0806">
+<ResponseID id="0">enr0806</ResponseID>
+<BaseQuestion id="0">Question 1 of 11</BaseQuestion>
+<Content id="0">Given this brief description of what we are considering, what are your thoughts about our plans for the System Service and System Access components of our Long Term Plan?</Content>
+</Response>
+<Response id="enr0807">
+<ResponseID id="0">enr0807</ResponseID>
+<BaseQuestion id="0">Long Term Plan 007</BaseQuestion>
+<Content id="0">How critical would you say investments in the System Service and System Access areas are?  Would you say very critical, somewhat critical, or not very critical?</Content>
+</Response>
+<Response id="enr0808">
+<ResponseID id="0">enr0808</ResponseID>
+<BaseQuestion id="0">Question 2 of 11</BaseQuestion>
+<Content id="0">Why do you say that?</Content>
+</Response>
+<Response id="enr0809">
+<ResponseID id="0">enr0809</ResponseID>
+<BaseQuestion id="0">Long Term Plan 009</BaseQuestion>
+<Content id="0">Next, to what degree do you think that the proposed 30% increase in investment in the System Service and System Access areas is appropriate?  Would you say very appropriate, somewhat appropriate, or not very appropriate?</Content>
+</Response>
+<Response id="enr0810">
+<ResponseID id="0">enr0810</ResponseID>
+<BaseQuestion id="0">Question 3 of 11</BaseQuestion>
+<Content id="0">Why do you say that?</Content>
+</Response>
+<Response id="enr0890">
+<ResponseID id="0">enr0890</ResponseID>
+<BaseQuestion id="0">Long Term Plan 090</BaseQuestion>
+<Content id="0">What questions do you have about the System Service and System Access part of the Long Term Plan? Ask your questions now or click on "Finish System Service and System Access Section" to answer the first 3 of 11 questions required to enter you in the draw.</Content>
+</Response>
+<Response id="enr0912">
+<ResponseID id="0">enr0912</ResponseID>
+<BaseQuestion id="0">System Renewal</BaseQuestion>
+<Content id="0">The System Renewal plan covers repairs and replacement of lines, and equipment that was installed 20-40 years ago and is now wearing out. Earlier, James spoke with you about how most of the outages and voltage fluctuations people experience are caused by aging equipment. These investments will allow us to continue to provide safe and reliable power to you in an environmentally-friendly way.</Content>
+</Response>
+<Response id="enr0912b">
+<ResponseID id="0">enr0912b</ResponseID>
+<BaseQuestion id="0">What about repairs and replacement of existing equipment?</BaseQuestion>
+<Content id="0">The System Renewal plan covers repairs and replacement of lines, and equipment that was installed 20-40 years ago and is now wearing out. Earlier, James spoke with you about how most of the outages and voltage fluctuations people experience are caused by aging equipment. These investments will allow us to continue to provide safe and reliable power to you in an environmentally-friendly way.</Content>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">enr0702b</ResponseID>
+<BaseQuestion id="1">What is the Long Term Plan?</BaseQuestion>
+</RQ>
+<RQ id="1">
+<ResponseID id="2">enr1234b</ResponseID>
+<BaseQuestion id="2">Why do you need to improve the existing system?</BaseQuestion>
+</RQ>
+<RQ id="2">
+<ResponseID id="3">enr1669</ResponseID>
+<BaseQuestion id="3"> Why is aging infrastructure such a big issue for LDCs?</BaseQuestion>
+</RQ>
+</RQs>
+</Response>
+<Response id="enr0913">
+<ResponseID id="0">enr0913</ResponseID>
+<BaseQuestion id="0">Long Term Plan 013</BaseQuestion>
+<Content id="0">For example: Our plans include purchasing the necessary equipment in advance when prices are lower rather than waiting to purchase equipment as needed, which would likely result in higher prices. By replacing some equipment before it fails, we can schedule our maintenance and repair teams more efficiently and avoid having to make emergency repairs that are more costly.</Content>
+</Response>
+<Response id="enr0913b">
+<ResponseID id="0">enr0913b</ResponseID>
+<BaseQuestion id="0">Why do you replace some equipment before it fails?</BaseQuestion>
+<Content id="0">Our plans include purchasing the necessary equipment in advance when prices are lower rather than waiting to purchase equipment as needed, which would likely result in higher prices. By replacing some equipment before it fails, we can schedule our maintenance teams more efficiently and avoid having to make emergency repairs that are more costly.</Content>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">enr0501b</ResponseID>
+<BaseQuestion id="1">How do you control costs of doing business?</BaseQuestion>
+</RQ>
+<RQ id="1">
+<ResponseID id="2">enr0357</ResponseID>
+<BaseQuestion id="2">How do you prepare for outages?</BaseQuestion>
+</RQ>
+<RQ id="2">
+<ResponseID id="3">enr0601b</ResponseID>
+<BaseQuestion id="3">How do you promote the safety of your customers and employees?</BaseQuestion>
+</RQ>
+<RQ id="3">
+<ResponseID id="4">enr0912b</ResponseID>
+<BaseQuestion id="4">What about repairs and replacement of existing equipment?</BaseQuestion>
+</RQ>
+</RQs>
+</Response>
+<Response id="enr0914">
+<ResponseID id="0">enr0914</ResponseID>
+<BaseQuestion id="0">Question 4 of 11</BaseQuestion>
+<Content id="0">Given this brief description what are your thoughts about our plans for System Renewal?</Content>
+</Response>
+<Response id="enr0915">
+<ResponseID id="0">enr0915</ResponseID>
+<BaseQuestion id="0">Long Term Plan 015</BaseQuestion>
+<Content id="0">How critical would you say investments in the System Renewal area is?  Would you say very critical, somewhat critical, or not very critical?</Content>
+</Response>
+<Response id="enr0916">
+<ResponseID id="0">enr0916</ResponseID>
+<BaseQuestion id="0">Question 5 of 11</BaseQuestion>
+<Content id="0">Why do you say that?</Content>
+</Response>
+<Response id="enr0917">
+<ResponseID id="0">enr0917</ResponseID>
+<BaseQuestion id="0">Long Term Plan 017</BaseQuestion>
+<Content id="0">Next, to what degree do you think that the proposed 20% increase in investment in the System Renewal area is appropriate?  Would you say very appropriate, somewhat appropriate, or not very appropriate?</Content>
+</Response>
+<Response id="enr0918">
+<ResponseID id="0">enr0918</ResponseID>
+<BaseQuestion id="0">Question 6 of 11</BaseQuestion>
+<Content id="0">Why do you say that?</Content>
+</Response>
+<Response id="enr0991">
+<ResponseID id="0">enr0991</ResponseID>
+<BaseQuestion id="0">Long Term Plan 091</BaseQuestion>
+<Content id="0">What questions do you have about the system renewal plans? [If you don't have any questions, click on Finish System Renewal Section on the right side of your screen.]</Content>
+</Response>
+<Response id="enr1020">
+<ResponseID id="0">enr1020</ResponseID>
+<BaseQuestion id="0">General Plant</BaseQuestion>
+<Content id="0">The General Plant plan describes the investments in things that are not direct parts of the distribution system, such as land and buildings, tools and equipment, the fleet of trucks and other vehicles, and software used to support our day-to-day business. Our reliability depends on having the systems to prevent outages and track maintenance and repairs. Our safety depends on tree trimming and the equipment that our crews use.</Content>
+</Response>
+<Response id="enr1020b">
+<ResponseID id="0">enr1020b</ResponseID>
+<BaseQuestion id="0">What about resources that aren't directly related to electricity distribution like truck fleets and buildings?</BaseQuestion>
+<Content id="0">The General Plant plan describes the investments in things that are not direct parts of the distribution system, such as land and buildings, tools and equipment, the fleet of trucks and other vehicles, and software used to support our day-to-day business. Our reliability depends on having the systems to prevent outages and track maintenance and repairs. Our safety depends on tree trimming and the equipment that our crews use.</Content>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">enr0702b</ResponseID>
+<BaseQuestion id="1">What is the Long Term Plan?</BaseQuestion>
+</RQ>
+<RQ id="1">
+<ResponseID id="2">enr1021b</ResponseID>
+<BaseQuestion id="2">How are you planning for software, hardware, and vehicle upgrades?</BaseQuestion>
+</RQ>
+<RQ id="2">
+<ResponseID id="3">enr0501b</ResponseID>
+<BaseQuestion id="3">How do you control costs of doing business?</BaseQuestion>
+</RQ>
+</RQs>
+</Response>
+<Response id="enr1021">
+<ResponseID id="0">enr1021</ResponseID>
+<BaseQuestion id="0">How are you planning for software, hardware, and vehicle upgrades?</BaseQuestion>
+<Content id="0">We are planning for the future by using new software and hardware to improve how we manage all of the information that is needed to supply you with electricity. For example, we are implementing the Mobile Workforce Management system to ensure our crews have computer access to the control centre. This allows electronic tracking of work progress. Also, we maintain a back-up operations centre to ensure that we can continue to provide power to you in case of emergencies. We also maintain our fleet of vehicles in our own garage, and are implementing plans to spread the costs of replacements over time to lessen the impact this has on customer rates.</Content>
+</Response>
+<Response id="enr1021b">
+<ResponseID id="0">enr1021b</ResponseID>
+<BaseQuestion id="0">How are you planning for software, hardware, and vehicle upgrades?</BaseQuestion>
+<Content id="0">We are planning for the future by using new software and hardware to improve how we manage all of the information that is needed to supply you with electricity. For example, we are implementing the Mobile Workforce Management system to ensure our crews have computer access to the control centre. This allows electronic tracking of work progress. Also, we maintain a back-up operations centre to ensure that we can continue to provide power to you in case of emergencies. We also maintain our fleet of vehicles in our own garage, and are implementing plans to spread the costs of replacements over time to lessen the impact this has on customer rates.</Content>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">enr1020b</ResponseID>
+<BaseQuestion id="1">What about resources that aren't directly related to electricity distribution like truck fleets and buildings?</BaseQuestion>
+</RQ>
+<RQ id="1">
+<ResponseID id="2">enr0501b</ResponseID>
+<BaseQuestion id="2">How do you control costs of doing business?</BaseQuestion>
+</RQ>
+<RQ id="2">
+<ResponseID id="3">enr0702b</ResponseID>
+<BaseQuestion id="3">What is the Long Term Plan?</BaseQuestion>
+</RQ>
+</RQs>
+</Response>
+<Response id="enr1022">
+<ResponseID id="0">enr1022</ResponseID>
+<BaseQuestion id="0">Question 7 of 11</BaseQuestion>
+<Content id="0">Given this brief description what are your thoughts about the work we have included in the General Plant plan?</Content>
+</Response>
+<Response id="enr1023">
+<ResponseID id="0">enr1023</ResponseID>
+<BaseQuestion id="0">Long Term Plan 023</BaseQuestion>
+<Content id="0">Just a few more questions about the General Plant plan, if that's okay? First, how critical would you say investments in the General Plant area are?  Would you say very critical, somewhat critical, or not very critical?</Content>
+</Response>
+<Response id="enr1024">
+<ResponseID id="0">enr1024</ResponseID>
+<BaseQuestion id="0">Question 8 of 11</BaseQuestion>
+<Content id="0">Why do you say that?</Content>
+</Response>
+<Response id="enr1025">
+<ResponseID id="0">enr1025</ResponseID>
+<BaseQuestion id="0">Long Term Plan 025</BaseQuestion>
+<Content id="0">Next, to what degree do you think that the unchanged level of investment in the General Plant area is appropriate?  Would you say very appropriate, somewhat appropriate, or not very appropriate?</Content>
+</Response>
+<Response id="enr1026">
+<ResponseID id="0">enr1026</ResponseID>
+<BaseQuestion id="0">Question 9 of 11</BaseQuestion>
+<Content id="0">Why do you say that?</Content>
+</Response>
+<Response id="enr1092">
+<ResponseID id="0">enr1092</ResponseID>
+<BaseQuestion id="0">Long Term Plan 092</BaseQuestion>
+<Content id="0">What questions do you have about the General Plant plan? [If you don't have any questions, click on Finish General Plant Section on the right side of your screen.]</Content>
+</Response>
+<Response id="enr1129">
+<ResponseID id="0">enr1129</ResponseID>
+<BaseQuestion id="0">Values/Benefits</BaseQuestion>
+<Content id="0">We know our customers are keeping a close eye on their electricity bills, so you're probably wondering how these improvements are going to affect your bill.   Controlling our costs and the impact on our customers' bills is a critical part of our proposed plan.</Content>
+</Response>
+<Response id="enr1129b">
+<ResponseID id="0">enr1129b</ResponseID>
+<BaseQuestion id="0">How much of an increase are you asking for?</BaseQuestion>
+<Content id="0">Controlling our costs and the impact on our customers' bills is a critical part of our proposed plan. Basically, we are asking the Ontario Energy Board to approve an increase of 35% over five years on one section of your bill. Allow me to explain how the billing system works. First your total electricity bill includes charges from the three different parts of the system: the generators who make the electricity, the high-voltage transmission companies, and then our charges which cover the cost of bringing electricity across our low-voltage distribution lines to your home or business. Our charges account for approximately 20% of your total bill. The 35% increase alligned in our Long Term Plan only applies to that one section of the bill. For the typical residential customer who consumes 800 kilowatt hours of electricity per month, this change will represent $2.00 on their total bill.</Content>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">fun0055</ResponseID>
+<BaseQuestion id="1">So how does electricity get to my home?</BaseQuestion>
+</RQ>
+<RQ id="1">
+<ResponseID id="2">enr1130b</ResponseID>
+<BaseQuestion id="2">How much of my electric bill is from distribution?</BaseQuestion>
+</RQ>
+<RQ id="2">
+<ResponseID id="3">enr0553</ResponseID>
+<BaseQuestion id="3">Why does electricity cost so much?</BaseQuestion>
+</RQ>
+<RQ id="3">
+<ResponseID id="4">enr1669</ResponseID>
+<BaseQuestion id="4"> Why is aging infrastructure such a big issue for LDCs?</BaseQuestion>
+</RQ>
+<RQ id="4">
+<ResponseID id="5">enr1234b</ResponseID>
+<BaseQuestion id="5">Why do you need to improve the existing system?</BaseQuestion>
+</RQ>
+</RQs>
+</Response>
+<Response id="enr1130">
+<ResponseID id="0">enr1130</ResponseID>
+<BaseQuestion id="0">How much of my electric bill is from distribution?</BaseQuestion>
+<Content id="0">Basically, we are asking the Ontario Energy Board to approve an increase of 35% over five years on one section of your bill. Allow me to explain how the billing system works. First your total electricity bill includes charges from the three different parts of the system: the generators who make the electricity, the high-voltage transmission companies, and then our charges which cover the cost of bringing electricity across our low-voltage distribution lines to your home or business. Our charges account for approximately 20% of your total bill. The 35% increase aligned in our Long Term Plan only applies to that one section of the bill. For the typical residential customer who consumes 800 kilowatt hours of electricity per month, this change will represent $2.00 on their total bill.</Content>
+</Response>
+<Response id="enr1130b">
+<ResponseID id="0">enr1130b</ResponseID>
+<BaseQuestion id="0">How much of my electric bill is from distribution?</BaseQuestion>
+<Content id="0">Basically, we are asking the Ontario Energy Board to approve an increase of 35% over five years on one section of your bill. Allow me to explain how the billing system works. First your total electricity bill includes charges from the three different parts of the system: the generators who make the electricity, the high-voltage transmission companies, and then our charges which cover the cost of bringing electricity across our low-voltage distribution lines to your home or business. Our charges account for approximately 20% of your total bill. The 35% increase aligned in our Long Term Plan only applies to that one section of the bill. For the typical residential customer who consumes 800 kilowatt hours of electricity per month, this change will represent $2.00 on their total bill.</Content>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">fun0055</ResponseID>
+<BaseQuestion id="1">So how does electricity get to my home?</BaseQuestion>
+</RQ>
+<RQ id="1">
+<ResponseID id="2">enr0553</ResponseID>
+<BaseQuestion id="2">Why does electricity cost so much?</BaseQuestion>
+</RQ>
+<RQ id="2">
+<ResponseID id="3">enr1129b</ResponseID>
+<BaseQuestion id="3">How much of an increase are you asking for?</BaseQuestion>
+</RQ>
+<RQ id="3">
+<ResponseID id="4">enr1234b</ResponseID>
+<BaseQuestion id="4">Why do you need to improve the existing system?</BaseQuestion>
+</RQ>
+</RQs>
+</Response>
+<Response id="enr1131">
+<ResponseID id="0">enr1131</ResponseID>
+<BaseQuestion id="0">Long Term Plan 031</BaseQuestion>
+<Content id="0">I know our customers have a lot of questions about their bills.  Do you have any questions about the various parts of your bill? [If you don't have any questions, click on Finish This Section on the right side of your screen.]</Content>
+</Response>
+<Response id="enr1132">
+<ResponseID id="0">enr1132</ResponseID>
+<BaseQuestion id="0">Long Term Plan 032</BaseQuestion>
+<Content id="0">Do you have any comments about your bill?</Content>
+</Response>
+<Response id="enr1233">
+<ResponseID id="0">enr1233</ResponseID>
+<BaseQuestion id="0">Long Term Plan 033</BaseQuestion>
+<Content id="0">A number of customers have asked how we do our planning to come up with the Long Term Plan we submit to the Ontario Energy Board.</Content>
+</Response>
+<Response id="enr1234">
+<ResponseID id="0">enr1234</ResponseID>
+<BaseQuestion id="0">Why do you need to improve the existing system?</BaseQuestion>
+<Content id="0">We're always planning for the maintenance of our system to ensure reliability. We take stock to see what we need to maintain and assess possible improvements to the system to ensure we continue to provide safe and reliable electricity. Every five years we formally submit our Long Term plan to the Ontario Energy Board (or the OEB).
+
+In terms of the rate increase to customers, when much of our system was built in the late 70s, 80s and 90s, a lot of the cost was covered by the developers who were building the new subdivisions and office buildings. Now a lot of that equipment needs to be replaced or upgraded.  The OEB will ensure that the work we plan to do and the costs that we are proposing are appropriate and prudent.</Content>
+</Response>
+<Response id="enr1234b">
+<ResponseID id="0">enr1234b</ResponseID>
+<BaseQuestion id="0">Why do you need to improve the existing system?</BaseQuestion>
+<Content id="0">We're always planning for the maintenance of our system to ensure reliability. We take stock to see what we need to maintain and assess possible improvements to the system to ensure we continue to provide safe and reliable electricity. Every five years we formally submit our Long Term plan to the Ontario Energy Board (or the OEB).
+
+In terms of the rate increase to customers, when much of our system was built in the late 70s, 80s and 90s, a lot of the cost was covered by the developers who were building the new subdivisions and office buildings. Now a lot of that equipment needs to be replaced or upgraded.  The OEB will ensure that the work we plan to do and the costs that we are proposing are appropriate and prudent.</Content>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">enr0702b</ResponseID>
+<BaseQuestion id="1">What is the Long Term Plan?</BaseQuestion>
+</RQ>
+<RQ id="1">
+<ResponseID id="2">enr0912b</ResponseID>
+<BaseQuestion id="2">What about repairs and replacement of existing equipment?</BaseQuestion>
+</RQ>
+<RQ id="2">
+<ResponseID id="3">enr1669</ResponseID>
+<BaseQuestion id="3"> Why is aging infrastructure such a big issue for LDCs?</BaseQuestion>
+</RQ>
+</RQs>
+</Response>
+<Response id="enr1301">
+<ResponseID id="0">enr1301</ResponseID>
+<BaseQuestion id="0">Benefits 001</BaseQuestion>
+<Content id="0">Thank you for taking the time to learn about our Long Term Plan and for giving us your feedback.  So the bottom line is that our Long Term Plan will ensure that our customers will get continued reliability and increased efficiency. And the City of Mississauga will continue to thrive.</Content>
+</Response>
+<Response id="enr1302">
+<ResponseID id="0">enr1302</ResponseID>
+<BaseQuestion id="0">Benefits 002</BaseQuestion>
+<Content id="0">What questions do you have about our proposed cost increases vs. the benefit of delivering safe and reliable electricity over the next five years?</Content>
+</Response>
+<Response id="enr1303">
+<ResponseID id="0">enr1303</ResponseID>
+<BaseQuestion id="0">Benefits 003</BaseQuestion>
+<Content id="0">Thank you for your comments so far.  I'd appreciate if you would answer a couple more questions for our team.</Content>
+</Response>
+<Response id="enr1304">
+<ResponseID id="0">enr1304</ResponseID>
+<BaseQuestion id="0">Benefits 004</BaseQuestion>
+<Content id="0">When considering the combined investments mentioned earlier, the overall proposed level of expenditure in the next 5 years is about 35% higher than for the previous 5 years. Given everything we've discussed, to what degree do you think that the proposed increase in investment is appropriate? Would you say they are Very Appropriate; Somewhat Appropriate; or Not Very Appropriate?</Content>
+</Response>
+<Response id="enr1305">
+<ResponseID id="0">enr1305</ResponseID>
+<BaseQuestion id="0">Question 10 of 11</BaseQuestion>
+<Content id="0">Why do you say that?</Content>
+</Response>
+<Response id="enr1306">
+<ResponseID id="0">enr1306</ResponseID>
+<BaseQuestion id="0">Benefits 006</BaseQuestion>
+<Content id="0">Thinking about everything that we've discussed about the Long Term Plan, how confident are you that our team at Enersource will continue to do a good job of providing safe, reliable, cost effective electricity by implementing the investments associated with the Long Term Plan? Would you say that you have a High, Medium, or Low degree of confidence?</Content>
+</Response>
+<Response id="enr1307">
+<ResponseID id="0">enr1307</ResponseID>
+<BaseQuestion id="0">Question 11 of 11</BaseQuestion>
+<Content id="0">Why do you say that?</Content>
+</Response>
+<Response id="enr1401">
+<ResponseID id="0">enr1401</ResponseID>
+<BaseQuestion id="0">Closing 001</BaseQuestion>
+<Content id="0">On behalf of all of my colleagues at Enersource, I'd really like to thank you for taking the time to engage with us on our Long Term Plan.  With your input, we're committed to putting the best possible plan forward to the OEB.  And of course, we'll continue to work every day to bring you safe, reliable electricity at a reasonable price.</Content>
+</Response>
+<Response id="enr1402">
+<ResponseID id="0">enr1402</ResponseID>
+<BaseQuestion id="0">Closing 002</BaseQuestion>
+<Content id="0">Do you have any additional questions? Ask them now or click on "Finish Program".</Content>
+</Response>
+<Response id="enr1403">
+<ResponseID id="0">enr1403</ResponseID>
+<BaseQuestion id="0">Closing 003</BaseQuestion>
+<Content id="0">Do you have any additional comments?  Enter them now or click on "Enter Draw" to submit your feedback and be entered in the draw for a Samsung Galaxy Tablet.</Content>
+</Response>
+<Response id="enr1651">
+<ResponseID id="0">enr1651</ResponseID>
+<BaseQuestion id="0"> Is electricity generated here exported to other Provinces or the US?</BaseQuestion>
+<Content id="0">If Ontario generates more than it needs, electricity generated here is exported to other provinces and sometimes to the US.  And if Ontario's demand is very high, the province sometimes imports electricity from other provinces and from the US North East. The IESO -- Independent Electricity System Operator -- manages the output of all of the generating power plants in Ontario and the importing and exporting electricity, as well as the tie in of renewables.  For more information, I'd recommend you check out their website <![CDATA[<a href="http://www.ieso.ca/Pages/Power-Data/Supply.asp" target="_blank">http://www.ieso.ca/Pages/Power-Data/Supply.asp</a>]]></Content>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">enr1665</ResponseID>
+<BaseQuestion id="1"> Who makes decisions about generation and the integration of renewable energy into the system?</BaseQuestion>
+</RQ>
+<RQ id="1">
+<ResponseID id="2">fun0033</ResponseID>
+<BaseQuestion id="2">What is the energy grid?</BaseQuestion>
+</RQ>
+<RQ id="2">
+<ResponseID id="3">enr1653</ResponseID>
+<BaseQuestion id="3">What are the significant changes in the electricity industry in recent years?</BaseQuestion>
+</RQ>
+</RQs>
+<MediaList id="0">
+<Media id="0">
+<ListOrder id="0">0</ListOrder>
+<Description id="0">Ontario's Power Supply Overview</Description>
+<Location id="0"><![CDATA[http://www.ieso.ca/Pages/Power-Data/Supply.aspx]]></Location>
+<MediaType id="0">HTML Document</MediaType>
+<FileSize id="0"></FileSize>
+</Media>
+</MediaList>
+</Response>
+<Response id="enr1653">
+<ResponseID id="0">enr1653</ResponseID>
+<BaseQuestion id="0">What are the significant changes in the electricity industry in recent years?</BaseQuestion>
+<Content id="0">Ten years ago, the Ontario government introduced the Green Energy Act. In a nutshell, the Act helped introduce renewable electricity generation and conservation initiatives to the public. This new Act really changed the electricity industry for the local distribution companies and for customers as well. In addition to focusing on the economic and efficient delivery of electricity, the industry also had to focus on the promotion of renewable generation, conservation, and establishing the smart grid. The smart grid enables two way communication between an LDC, like Enersource, and its customers through the use of various technologies. Similar to how a smart phone means a phone with a computer in it, smart grid means computerizing the electricity grid. It includes adding two way digital communication technology to devices associated with the grid such as meters, transformers, and substations.</Content>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">enr1655</ResponseID>
+<BaseQuestion id="1">What is the Smart Grid and how does it relate to Smart Meters?</BaseQuestion>
+</RQ>
+<RQ id="1">
+<ResponseID id="2">enr1667</ResponseID>
+<BaseQuestion id="2">What are the major changes going on in the industry?</BaseQuestion>
+</RQ>
+<RQ id="2">
+<ResponseID id="3">enr1951</ResponseID>
+<BaseQuestion id="3">What is happening with the Merger?</BaseQuestion>
+</RQ>
+</RQs>
+</Response>
+<Response id="enr1655">
+<ResponseID id="0">enr1655</ResponseID>
+<BaseQuestion id="0">What is the Smart Grid and how does it relate to Smart Meters?</BaseQuestion>
+<Content id="0">The smart grid basically enables two way communication between customers and the electricity system network -- called the grid.  In order to facilitate that two way communication, smart meters were introduced in Ontario starting in 2005.  A smart meter measures how much and when a customer uses electricity. Customers are able to track their consumption in real time to help them manage their own electricity usage. Customers can control or conserve their electricity consumption by using electricity when the rates are at their lowest cost, such as in the evening, and on weekends and holidays.</Content>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">enr0403b</ResponseID>
+<BaseQuestion id="1">How can I use less power during periods of high demand?</BaseQuestion>
+</RQ>
+<RQ id="1">
+<ResponseID id="2">enr0553</ResponseID>
+<BaseQuestion id="2">Why does electricity cost so much?</BaseQuestion>
+</RQ>
+<RQ id="2">
+<ResponseID id="3">enr1653</ResponseID>
+<BaseQuestion id="3">What are the significant changes in the electricity industry in recent years?</BaseQuestion>
+</RQ>
+</RQs>
+</Response>
+<Response id="enr1657">
+<ResponseID id="0">enr1657</ResponseID>
+<BaseQuestion id="0"> Are the conservation programs working?</BaseQuestion>
+<Content id="0">According to Ministry of Energy between 2005 and 2013, conservation programs resulted in savings of about 8.7 billion kilowatt hours of electricity compared to what would have been consumed without conservation efforts. This conservation has resulted from various programs and through changes to codes and standards in the province. It is interesting to know that 8.7 billion kilowatt hours is enough electricity to power a city the size of Mississauga for a year.</Content>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">enr0402b</ResponseID>
+<BaseQuestion id="1">How does conservation reduce environmental impact?</BaseQuestion>
+</RQ>
+<RQ id="1">
+<ResponseID id="2">enr1653</ResponseID>
+<BaseQuestion id="2">What are the significant changes in the electricity industry in recent years?</BaseQuestion>
+</RQ>
+<RQ id="2">
+<ResponseID id="3">enr0405b</ResponseID>
+<BaseQuestion id="3">Are you investing in renewable energy projects?</BaseQuestion>
+</RQ>
+</RQs>
+</Response>
+<Response id="enr1659">
+<ResponseID id="0">enr1659</ResponseID>
+<BaseQuestion id="0">Who is responsible for oversight of the industry?</BaseQuestion>
+<Content id="0">The Ontario Energy Board is an agency of the government. It is the independent regulator of the electricity industry. The OEB's role is to make sure that electricity is produced and distributed in a way that is reliable, economically efficient, and cost effective. The OEB is charged with maintaining the balance between LDCs, operating as economically sound companies, and consumers, ensuring that the costs they pay for electricity are reasonable.</Content>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">enr1661</ResponseID>
+<BaseQuestion id="1"> How are the regulatory requirements changing?</BaseQuestion>
+</RQ>
+<RQ id="1">
+<ResponseID id="2">enr1663</ResponseID>
+<BaseQuestion id="2"> How does the OEB measure the performance of LDCs like Enersource?</BaseQuestion>
+</RQ>
+<RQ id="2">
+<ResponseID id="3">enr1665</ResponseID>
+<BaseQuestion id="3"> Who makes decisions about generation and the integration of renewable energy into the system?</BaseQuestion>
+</RQ>
+<RQ id="3">
+<ResponseID id="4">enr1653</ResponseID>
+<BaseQuestion id="4">What are the significant changes in the electricity industry in recent years?</BaseQuestion>
+</RQ>
+</RQs>
+</Response>
+<Response id="enr1661">
+<ResponseID id="0">enr1661</ResponseID>
+<BaseQuestion id="0"> How are the regulatory requirements changing?</BaseQuestion>
+<Content id="0">In the past the OEB was primarily focused on the cost effectiveness of companies like ours. They regulated the revenue of local distribution companies that led to the rates customers paid for electricity. That's not sufficient anymore. Now in addition to regulating rates, the OEB wants us to demonstrate successful customer outcomes. They ask us: What are the benefits to customers of the initiatives you have undertaken? So now LDCs like Enersource are required to have very detailed 5 year plans that describe the various types of investment we plan to undertake to ensure reliability and affordability of electricity, along with how we have engaged our customers in the development of our plans. The OEB will then determine if our costs and resulting rates are prudent and justified.</Content>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">enr1653</ResponseID>
+<BaseQuestion id="1">What are the significant changes in the electricity industry in recent years?</BaseQuestion>
+</RQ>
+<RQ id="1">
+<ResponseID id="2">enr1667</ResponseID>
+<BaseQuestion id="2">What are the major changes going on in the industry?</BaseQuestion>
+</RQ>
+<RQ id="2">
+<ResponseID id="3">enr0702b</ResponseID>
+<BaseQuestion id="3">What is the Long Term Plan?</BaseQuestion>
+</RQ>
+</RQs>
+</Response>
+<Response id="enr1663">
+<ResponseID id="0">enr1663</ResponseID>
+<BaseQuestion id="0"> How does the OEB measure the performance of LDCs like Enersource?</BaseQuestion>
+<Content id="0">Recently the Ontario Energy Board introduced the Electricity Distributor Scorecard to help educate customers on how their local electricity distributor is performing. For us this is like a high school student's report card!  The Scorecard reports on things such as the number of times that customer power is interrupted and for how long. A few other metrics the Scorecard also shows includes how long it takes to connect new customers or our timelines for responding to calls and the total costs per customer. It also reports on conservation initiatives, including peak demand savings and energy savings. Reporting publically and trying to improve on these metrics helps us to ensure our customers continue to receive value from the services we provide. To access our latest Scorecard, please visit the Enersource website and seach for Scorecard. Or go to the link shown on the screen.</Content>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">enr0501b</ResponseID>
+<BaseQuestion id="1">How do you control costs of doing business?</BaseQuestion>
+</RQ>
+<RQ id="1">
+<ResponseID id="2">enr0353</ResponseID>
+<BaseQuestion id="2">What do you do to ensure the reliability of the system?</BaseQuestion>
+</RQ>
+<RQ id="2">
+<ResponseID id="3">fun0088</ResponseID>
+<BaseQuestion id="3">What does Enersource do?</BaseQuestion>
+</RQ>
+<RQ id="3">
+<ResponseID id="4">enr1659</ResponseID>
+<BaseQuestion id="4">Who is responsible for oversight of the industry?</BaseQuestion>
+</RQ>
+</RQs>
+<MediaList id="0">
+<Media id="0">
+<ListOrder id="0">0</ListOrder>
+<Description id="0">Energy Distributor Scorecard</Description>
+<Location id="0"><![CDATA[http://www.enersource.com/about-enersource/Pages/Scorecard.aspx]]></Location>
+<MediaType id="0">HTML Document</MediaType>
+<FileSize id="0"></FileSize>
+</Media>
+</MediaList>
+</Response>
+<Response id="enr1665">
+<ResponseID id="0">enr1665</ResponseID>
+<BaseQuestion id="0"> Who makes decisions about generation and the integration of renewable energy into the system?</BaseQuestion>
+<Content id="0">The Independent Electricity System Operator - or IESO - is responsible for purchasing the overall supply of electricity that is provided to LDCs based on priorities set by the Ontario Government. The IESO ensures the desired mix of traditional and renewable generation is purchased - for example, electricity generated from nuclear, hydroelectric, and natural gas vs. generated from wind, solar, and biofuels. They are also responsible for dispatching generation making sure power is available to each part of the system when it is needed. Last year the electricity generated in the province was roughly 62% from nuclear power plants, about 24% from hydroelectric generation, and about 10% from natural gas plants. The rest was from wind power (about 4%) and small amounts of solar and biofuels. Over the next few years, we expect to see those renewable sources increasing. The IESO plays a critical role in our electricity system. They are responsible for the real time balance of electricity supply and demand in Ontario, in every part of the system, at every moment throughout the day!</Content>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">enr1661</ResponseID>
+<BaseQuestion id="1"> How are the regulatory requirements changing?</BaseQuestion>
+</RQ>
+<RQ id="1">
+<ResponseID id="2">enr1653</ResponseID>
+<BaseQuestion id="2">What are the significant changes in the electricity industry in recent years?</BaseQuestion>
+</RQ>
+<RQ id="2">
+<ResponseID id="3">enr0451</ResponseID>
+<BaseQuestion id="3">Why can't we replace all of our generation with renewables?</BaseQuestion>
+</RQ>
+<RQ id="3">
+<ResponseID id="4">fun0044</ResponseID>
+<BaseQuestion id="4">How is our electricity generated?</BaseQuestion>
+</RQ>
+</RQs>
+</Response>
+<Response id="enr1667">
+<ResponseID id="0">enr1667</ResponseID>
+<BaseQuestion id="0">What are the major changes going on in the industry?</BaseQuestion>
+<Content id="0">Ontario has a lot more LDCs than other comparable places.  It has about 70 in fact!  This suggests that the industry can be more efficient with fewer organizations responsible for a larger electricity distribution system and a greater number of customers.  This prompted the government to ask the industry to consider voluntary consolidation.  Many LDCs including Enersource are looking at where it makes sense to merge with other utilities.</Content>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">enr1653</ResponseID>
+<BaseQuestion id="1">What are the significant changes in the electricity industry in recent years?</BaseQuestion>
+</RQ>
+<RQ id="1">
+<ResponseID id="2">enr1951</ResponseID>
+<BaseQuestion id="2">What is happening with the Merger?</BaseQuestion>
+</RQ>
+<RQ id="2">
+<ResponseID id="3">enr1957</ResponseID>
+<BaseQuestion id="3"> Is the business being sold or will the municipality continue to own it?</BaseQuestion>
+</RQ>
+</RQs>
+</Response>
+<Response id="enr1669">
+<ResponseID id="0">enr1669</ResponseID>
+<BaseQuestion id="0"> Why is aging infrastructure such a big issue for LDCs?</BaseQuestion>
+<Content id="0">After the Second World War, there was a huge construction boom across North America. So much of our large infrastructure - including highways, sewage and water treatment systems, and electricity grids - were built during that post-war period. This boom continued - especially in places like Mississauga - through the 1990s, where development of housing subdivisions and commercial centers continued to grow. Now most of that infrastructure, not only the electricity system but also the roads and sewer systems, are reaching their expected end of life and need to be replaced. During the rapid growth of Mississauga, much of the expansion of the electricity system was paid for by developers, who passed along the cost as part of the price of the houses they built. Today as LDCs like us replace infrastructure, these changes are primarily to support continued electricity delivery to existing homes and businesses. So, these costs have to be passed on to our electicity users and can't be offset by charges to developers. When replacing equipment, we focus on more efficient and effective solutions like the Smart Grid, which supports two-way communication to enable customers to better manage their electricity use and costs. We are building a much better system for the next 40 and possible even 50 years.</Content>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">enr0702b</ResponseID>
+<BaseQuestion id="1">What is the Long Term Plan?</BaseQuestion>
+</RQ>
+<RQ id="1">
+<ResponseID id="2">enr0912b</ResponseID>
+<BaseQuestion id="2">What about repairs and replacement of existing equipment?</BaseQuestion>
+</RQ>
+<RQ id="2">
+<ResponseID id="3">enr1234b</ResponseID>
+<BaseQuestion id="3">Why do you need to improve the existing system?</BaseQuestion>
+</RQ>
+</RQs>
+</Response>
+<Response id="enr1851">
+<ResponseID id="0">enr1851</ResponseID>
+<BaseQuestion id="0">What does Enersource do for the community?</BaseQuestion>
+<Content id="0">Our customers and community are vital to our organization. We wouldn't be here without them, so it's important to us to give back to them in meaningful ways. It's a chance for us to reach out, lend a hand, or say thank you. Our Spirit of Giving program reflects our commitment to our community. This program allows customers to request contributions to non-profit organizations that support Mississauga in four areas -- People, Community, Innovation and Environment. And, we support our employees' volunteer efforts as well by rewarding their volunteer work with donations to charities of their choice. You can find more information on the programs we support on our web page.</Content>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">fun0088</ResponseID>
+<BaseQuestion id="1">What does Enersource do?</BaseQuestion>
+</RQ>
+<RQ id="1">
+<ResponseID id="2">fun0033</ResponseID>
+<BaseQuestion id="2">What is the energy grid?</BaseQuestion>
+</RQ>
+<RQ id="2">
+<ResponseID id="3">fun0055</ResponseID>
+<BaseQuestion id="3">So how does electricity get to my home?</BaseQuestion>
+</RQ>
+<RQ id="3">
+<ResponseID id="4">enr1657</ResponseID>
+<BaseQuestion id="4"> Are the conservation programs working?</BaseQuestion>
+</RQ>
+</RQs>
+<MediaList id="0">
+<Media id="0">
+<ListOrder id="0">0</ListOrder>
+<Description id="0">Enersource: Community Service</Description>
+<Location id="0"><![CDATA[http://www.enersource.com/community/Pages/default.aspx]]></Location>
+<MediaType id="0">HTML Document</MediaType>
+<FileSize id="0"></FileSize>
+</Media>
+</MediaList>
+</Response>
+<Response id="enr1951">
+<ResponseID id="0">enr1951</ResponseID>
+<BaseQuestion id="0">What is happening with the Merger?</BaseQuestion>
+<Content id="0">In April 2015, four local electricity distribution companies or LDCs announced a plan to develop the second largest electricity utility in the province.  Since then, Enersource, Horizon, Hydro One Brampton and PowerStream have been working together to create a new entity that will serve nearly one million customers in Mississauga, Barrie, Hamilton, Markham, St. Catharines and Vaughan. Collectively, each utility involved is committed to the delivery of electricity at reasonable distribution rates, as well as the provision of efficient and innovative technologies for customers. We believe the proposed merger will be beneficial for all customers, the communities involved and each of our shareholders.</Content>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">enr1667</ResponseID>
+<BaseQuestion id="1">What are the major changes going on in the industry?</BaseQuestion>
+</RQ>
+<RQ id="1">
+<ResponseID id="2">enr1953</ResponseID>
+<BaseQuestion id="2">Why does Enersource need to merge with other companies?</BaseQuestion>
+</RQ>
+<RQ id="2">
+<ResponseID id="3">enr1957</ResponseID>
+<BaseQuestion id="3"> Is the business being sold or will the municipality continue to own it?</BaseQuestion>
+</RQ>
+<RQ id="3">
+<ResponseID id="4">enr1961</ResponseID>
+<BaseQuestion id="4">Does this merger have anything to do with the Hydro One sell-off?</BaseQuestion>
+</RQ>
+</RQs>
+</Response>
+<Response id="enr1953">
+<ResponseID id="0">enr1953</ResponseID>
+<BaseQuestion id="0">Why does Enersource need to merge with other companies?</BaseQuestion>
+<Content id="0">Despite our strong performance in the past, we recognize that the industry is changing.  Through the proposed partnership, we expect to take advantage of opportunities to be more efficient as a combined utility. These efficiencies would likely result in customer distribution rates that are lower than they otherwise would have been had we not combined utilities, while still ensuring profitability for our shareholders.</Content>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">enr1667</ResponseID>
+<BaseQuestion id="1">What are the major changes going on in the industry?</BaseQuestion>
+</RQ>
+<RQ id="1">
+<ResponseID id="2">enr1951</ResponseID>
+<BaseQuestion id="2">What is happening with the Merger?</BaseQuestion>
+</RQ>
+<RQ id="2">
+<ResponseID id="3">enr1957</ResponseID>
+<BaseQuestion id="3"> Is the business being sold or will the municipality continue to own it?</BaseQuestion>
+</RQ>
+</RQs>
+</Response>
+<Response id="enr1955">
+<ResponseID id="0">enr1955</ResponseID>
+<BaseQuestion id="0">Will my service change after the merger?</BaseQuestion>
+<Content id="0">You will continue to receive the safe, reliable and customer centric service you have always received. Our goal is to provide you with even more. By combining knowledge bases, resources and leveraging the size of a larger company, we will be in a better position to implement emerging technologies to provide new and enhanced services to customers like you.</Content>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">enr1959</ResponseID>
+<BaseQuestion id="1">Will I have to wait for an emergency crew to come from another service territory?</BaseQuestion>
+</RQ>
+<RQ id="1">
+<ResponseID id="2">enr1951</ResponseID>
+<BaseQuestion id="2">What is happening with the Merger?</BaseQuestion>
+</RQ>
+</RQs>
+</Response>
+<Response id="enr1957">
+<ResponseID id="0">enr1957</ResponseID>
+<BaseQuestion id="0"> Is the business being sold or will the municipality continue to own it?</BaseQuestion>
+<Content id="0">The transaction being considered is a merger of Enersource with other municipal electricity utilities, plus the purchase of Hydro One Brampton. The new company will continue to be owned by the municipalities of Mississauga, Barrie, Hamilton, Markham, St. Catharines and Vaughan, as well as Borealis, which is part of the Ontario Municipal Employees Retirement System (OMERS).</Content>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">enr1951</ResponseID>
+<BaseQuestion id="1">What is happening with the Merger?</BaseQuestion>
+</RQ>
+<RQ id="1">
+<ResponseID id="2">enr1667</ResponseID>
+<BaseQuestion id="2">What are the major changes going on in the industry?</BaseQuestion>
+</RQ>
+</RQs>
+</Response>
+<Response id="enr1959">
+<ResponseID id="0">enr1959</ResponseID>
+<BaseQuestion id="0">Will I have to wait for an emergency crew to come from another service territory?</BaseQuestion>
+<Content id="0">Emergency response times will not change. Maintaining or improving the level of service to our customers will continue to be necessary in the new merged company. The new utility will be committed to maintaining and enhancing customer service in all of its locations.</Content>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">enr1955</ResponseID>
+<BaseQuestion id="1">Will my service change after the merger?</BaseQuestion>
+</RQ>
+<RQ id="1">
+<ResponseID id="2">enr1951</ResponseID>
+<BaseQuestion id="2">What is happening with the Merger?</BaseQuestion>
+</RQ>
+</RQs>
+</Response>
+<Response id="enr1961">
+<ResponseID id="0">enr1961</ResponseID>
+<BaseQuestion id="0">Does this merger have anything to do with the Hydro One sell-off?</BaseQuestion>
+<Content id="0">This merger is a separate transaction from the sale of Hydro One assets announced by the Provincial government.  The new merged utility will continue to be in public hands.</Content>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">enr1951</ResponseID>
+<BaseQuestion id="1">What is happening with the Merger?</BaseQuestion>
+</RQ>
+<RQ id="1">
+<ResponseID id="2">enr1667</ResponseID>
+<BaseQuestion id="2">What are the major changes going on in the industry?</BaseQuestion>
+</RQ>
+</RQs>
+</Response>
+<Response id="enr2001">
+<ResponseID id="0">enr2001</ResponseID>
+<BaseQuestion id="0">Who is Gia DeJulio?</BaseQuestion>
+<Content id="0">Hello, I'm Gia DeJulio, Director of Regulatory Affairs at Enersource.</Content>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">enr2007</ResponseID>
+<BaseQuestion id="1">Who is Peter Gregg?</BaseQuestion>
+</RQ>
+<RQ id="1">
+<ResponseID id="2">enr2002</ResponseID>
+<BaseQuestion id="2">Who is Dan Pastoric?</BaseQuestion>
+</RQ>
+<RQ id="2">
+<ResponseID id="3">enr2003</ResponseID>
+<BaseQuestion id="3">Who is Norm Wolff?</BaseQuestion>
+</RQ>
+<RQ id="3">
+<ResponseID id="4">enr0201</ResponseID>
+<BaseQuestion id="4">Who is James Macumber?</BaseQuestion>
+</RQ>
+<RQ id="4">
+<ResponseID id="5">enr2005</ResponseID>
+<BaseQuestion id="5">Who is Chris Hudson?</BaseQuestion>
+</RQ>
+<RQ id="5">
+<ResponseID id="6">enr2006</ResponseID>
+<BaseQuestion id="6">Who is Kimberly Boyle?</BaseQuestion>
+</RQ>
+<RQ id="6">
+<ResponseID id="7">enr2004</ResponseID>
+<BaseQuestion id="7">Who is Natalie Yeates?</BaseQuestion>
+</RQ>
+</RQs>
+</Response>
+<Response id="enr2002">
+<ResponseID id="0">enr2002</ResponseID>
+<BaseQuestion id="0">Who is Dan Pastoric?</BaseQuestion>
+<Content id="0">Hello, I'm Dan Pastoric, the Chief Customer Officer at Enersource.</Content>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">enr2007</ResponseID>
+<BaseQuestion id="1">Who is Peter Gregg?</BaseQuestion>
+</RQ>
+<RQ id="1">
+<ResponseID id="2">enr2003</ResponseID>
+<BaseQuestion id="2">Who is Norm Wolff?</BaseQuestion>
+</RQ>
+<RQ id="2">
+<ResponseID id="3">enr0201</ResponseID>
+<BaseQuestion id="3">Who is James Macumber?</BaseQuestion>
+</RQ>
+<RQ id="3">
+<ResponseID id="4">enr2005</ResponseID>
+<BaseQuestion id="4">Who is Chris Hudson?</BaseQuestion>
+</RQ>
+<RQ id="4">
+<ResponseID id="5">enr2006</ResponseID>
+<BaseQuestion id="5">Who is Kimberly Boyle?</BaseQuestion>
+</RQ>
+<RQ id="5">
+<ResponseID id="6">enr2001</ResponseID>
+<BaseQuestion id="6">Who is Gia DeJulio?</BaseQuestion>
+</RQ>
+<RQ id="6">
+<ResponseID id="7">enr2004</ResponseID>
+<BaseQuestion id="7">Who is Natalie Yeates?</BaseQuestion>
+</RQ>
+</RQs>
+</Response>
+<Response id="enr2003">
+<ResponseID id="0">enr2003</ResponseID>
+<BaseQuestion id="0">Who is Norm Wolff?</BaseQuestion>
+<Content id="0">Hi, I'm Norm Wolff, Executive Vice President and Chief Financial Officer here at Enersource.</Content>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">enr2007</ResponseID>
+<BaseQuestion id="1">Who is Peter Gregg?</BaseQuestion>
+</RQ>
+<RQ id="1">
+<ResponseID id="2">enr2002</ResponseID>
+<BaseQuestion id="2">Who is Dan Pastoric?</BaseQuestion>
+</RQ>
+<RQ id="2">
+<ResponseID id="3">enr0201</ResponseID>
+<BaseQuestion id="3">Who is James Macumber?</BaseQuestion>
+</RQ>
+<RQ id="3">
+<ResponseID id="4">enr2005</ResponseID>
+<BaseQuestion id="4">Who is Chris Hudson?</BaseQuestion>
+</RQ>
+<RQ id="4">
+<ResponseID id="5">enr2006</ResponseID>
+<BaseQuestion id="5">Who is Kimberly Boyle?</BaseQuestion>
+</RQ>
+<RQ id="5">
+<ResponseID id="6">enr2001</ResponseID>
+<BaseQuestion id="6">Who is Gia DeJulio?</BaseQuestion>
+</RQ>
+<RQ id="6">
+<ResponseID id="7">enr2004</ResponseID>
+<BaseQuestion id="7">Who is Natalie Yeates?</BaseQuestion>
+</RQ>
+</RQs>
+</Response>
+<Response id="enr2004">
+<ResponseID id="0">enr2004</ResponseID>
+<BaseQuestion id="0">Who is Natalie Yeates?</BaseQuestion>
+<Content id="0">Hi, my name is Natalie Yeates and I'm the Rates Manager here at Enersource.</Content>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">enr2007</ResponseID>
+<BaseQuestion id="1">Who is Peter Gregg?</BaseQuestion>
+</RQ>
+<RQ id="1">
+<ResponseID id="2">enr2002</ResponseID>
+<BaseQuestion id="2">Who is Dan Pastoric?</BaseQuestion>
+</RQ>
+<RQ id="2">
+<ResponseID id="3">enr2003</ResponseID>
+<BaseQuestion id="3">Who is Norm Wolff?</BaseQuestion>
+</RQ>
+<RQ id="3">
+<ResponseID id="4">enr0201</ResponseID>
+<BaseQuestion id="4">Who is James Macumber?</BaseQuestion>
+</RQ>
+<RQ id="4">
+<ResponseID id="5">enr2005</ResponseID>
+<BaseQuestion id="5">Who is Chris Hudson?</BaseQuestion>
+</RQ>
+<RQ id="5">
+<ResponseID id="6">enr2006</ResponseID>
+<BaseQuestion id="6">Who is Kimberly Boyle?</BaseQuestion>
+</RQ>
+<RQ id="6">
+<ResponseID id="7">enr2001</ResponseID>
+<BaseQuestion id="7">Who is Gia DeJulio?</BaseQuestion>
+</RQ>
+</RQs>
+</Response>
+<Response id="enr2005">
+<ResponseID id="0">enr2005</ResponseID>
+<BaseQuestion id="0">Who is Chris Hudson?</BaseQuestion>
+<Content id="0">Hi, I'm Chris Hudson, Vice President of Asset Operations.</Content>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">enr2007</ResponseID>
+<BaseQuestion id="1">Who is Peter Gregg?</BaseQuestion>
+</RQ>
+<RQ id="1">
+<ResponseID id="2">enr2002</ResponseID>
+<BaseQuestion id="2">Who is Dan Pastoric?</BaseQuestion>
+</RQ>
+<RQ id="2">
+<ResponseID id="3">enr2003</ResponseID>
+<BaseQuestion id="3">Who is Norm Wolff?</BaseQuestion>
+</RQ>
+<RQ id="3">
+<ResponseID id="4">enr0201</ResponseID>
+<BaseQuestion id="4">Who is James Macumber?</BaseQuestion>
+</RQ>
+<RQ id="4">
+<ResponseID id="5">enr2006</ResponseID>
+<BaseQuestion id="5">Who is Kimberly Boyle?</BaseQuestion>
+</RQ>
+<RQ id="5">
+<ResponseID id="6">enr2001</ResponseID>
+<BaseQuestion id="6">Who is Gia DeJulio?</BaseQuestion>
+</RQ>
+<RQ id="6">
+<ResponseID id="7">enr2004</ResponseID>
+<BaseQuestion id="7">Who is Natalie Yeates?</BaseQuestion>
+</RQ>
+</RQs>
+</Response>
+<Response id="enr2006">
+<ResponseID id="0">enr2006</ResponseID>
+<BaseQuestion id="0">Who is Kimberly Boyle?</BaseQuestion>
+<Content id="0">Hi, I'm Kimberly Boyle. I'm the Vice President of Human Resources and Corporate Relations at Enersource.</Content>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">enr2007</ResponseID>
+<BaseQuestion id="1">Who is Peter Gregg?</BaseQuestion>
+</RQ>
+<RQ id="1">
+<ResponseID id="2">enr2002</ResponseID>
+<BaseQuestion id="2">Who is Dan Pastoric?</BaseQuestion>
+</RQ>
+<RQ id="2">
+<ResponseID id="3">enr2003</ResponseID>
+<BaseQuestion id="3">Who is Norm Wolff?</BaseQuestion>
+</RQ>
+<RQ id="3">
+<ResponseID id="4">enr0201</ResponseID>
+<BaseQuestion id="4">Who is James Macumber?</BaseQuestion>
+</RQ>
+<RQ id="4">
+<ResponseID id="5">enr2005</ResponseID>
+<BaseQuestion id="5">Who is Chris Hudson?</BaseQuestion>
+</RQ>
+<RQ id="5">
+<ResponseID id="6">enr2001</ResponseID>
+<BaseQuestion id="6">Who is Gia DeJulio?</BaseQuestion>
+</RQ>
+<RQ id="6">
+<ResponseID id="7">enr2004</ResponseID>
+<BaseQuestion id="7">Who is Natalie Yeates?</BaseQuestion>
+</RQ>
+</RQs>
+</Response>
+<Response id="enr2007">
+<ResponseID id="0">enr2007</ResponseID>
+<BaseQuestion id="0">Who is Peter Gregg?</BaseQuestion>
+<Content id="0">Hi, I'm Peter Gregg, President and CEO of Enersource.</Content>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">enr2002</ResponseID>
+<BaseQuestion id="1">Who is Dan Pastoric?</BaseQuestion>
+</RQ>
+<RQ id="1">
+<ResponseID id="2">enr2003</ResponseID>
+<BaseQuestion id="2">Who is Norm Wolff?</BaseQuestion>
+</RQ>
+<RQ id="2">
+<ResponseID id="3">enr0201</ResponseID>
+<BaseQuestion id="3">Who is James Macumber?</BaseQuestion>
+</RQ>
+<RQ id="3">
+<ResponseID id="4">enr2005</ResponseID>
+<BaseQuestion id="4">Who is Chris Hudson?</BaseQuestion>
+</RQ>
+<RQ id="4">
+<ResponseID id="5">enr2006</ResponseID>
+<BaseQuestion id="5">Who is Kimberly Boyle?</BaseQuestion>
+</RQ>
+<RQ id="5">
+<ResponseID id="6">enr2001</ResponseID>
+<BaseQuestion id="6">Who is Gia DeJulio?</BaseQuestion>
+</RQ>
+<RQ id="6">
+<ResponseID id="7">enr2004</ResponseID>
+<BaseQuestion id="7">Who is Natalie Yeates?</BaseQuestion>
+</RQ>
+</RQs>
+</Response>
+<Response id="enr3001">
+<ResponseID id="0">enr3001</ResponseID>
+<BaseQuestion id="0">Offtopic Response</BaseQuestion>
+<Content id="0">Thank you for your interest in that topic.  We haven't prepared any information on that yet, but we will be reviewing all of your comments and will try to address it at another time, so check back with us.  You may also find the information you're looking for on our website, but if you don't, feel free to contact us using the link on our site. In the meantime, select one of the segments [to the left] to continue our conversation.</Content>
+</Response>
+<Response id="enr3002">
+<ResponseID id="0">enr3002</ResponseID>
+<BaseQuestion id="0">Offtopic Response 2</BaseQuestion>
+<Content id="0">I don't think we have an answer to that question yet, but we are reading all of your questions and we may be able to answer it if you check back in a few days or so.  You might also want to check our website for the answer, and if you don't find it there, you can always send us your question using the feedback link on our site.</Content>
+</Response>
+<Response id="enr3003">
+<ResponseID id="0">enr3003</ResponseID>
+<BaseQuestion id="0">Welcome Back</BaseQuestion>
+<Content id="0">Welcome back and thank you for your time.  We'll pick up at where you left off in our discussion.  Remember, there are 11 questions that must be answered to enter you in the draw for a Samsung Galaxy Tablet.</Content>
+</Response>
+<Response id="enr3010">
+<ResponseID id="0">enr3010</ResponseID>
+<BaseQuestion id="0">Shame Response</BaseQuestion>
+<Content id="0">We're talking about our Long Term Plan for providing you safe, reliability electricity and we take that responsibility very seriously.  Please keep your comments and questions respectful and on topic.</Content>
+</Response>
+<Response id="enr3020">
+<ResponseID id="0">enr3020</ResponseID>
+<BaseQuestion id="0"></BaseQuestion>
+<Content id="0">Click on Contact Us in the Resources tab to be taken to Enersource's website.</Content>
+</Response>
+<Response id="enr4000">
+<ResponseID id="0">enr4000</ResponseID>
+<BaseQuestion id="0">Contest</BaseQuestion>
+<Content id="0">For contest rules, click on the Contest Rule tab.</Content>
+</Response>
+<Response id="enr4001">
+<ResponseID id="0">enr4001</ResponseID>
+<BaseQuestion id="0"></BaseQuestion>
+<Content id="0">The contest has closed. Please continue to view our website.</Content>
+</Response>
+<Response id="enr4002">
+<ResponseID id="0">enr4002</ResponseID>
+<BaseQuestion id="0"></BaseQuestion>
+<Content id="0">Thank you for entering the draw. For information on the draw, please click on the Instructions for Draw button.</Content>
+</Response>
+<Response id="enr4003">
+<ResponseID id="0">enr4003</ResponseID>
+<BaseQuestion id="0"></BaseQuestion>
+<Content id="0">For information on the draw, please click on the Instructions for Draw button.</Content>
+</Response>
+<Response id="enr4004">
+<ResponseID id="0">enr4004</ResponseID>
+<BaseQuestion id="0"></BaseQuestion>
+<Content id="0">You have been entered in the draw. You can continue to explore our priorities of Environmental Responsibility, Affordability and Safety or our Long Term Plan. Select one of the topics using the links on the left.</Content>
+</Response>
+<Response id="fun0000">
+<ResponseID id="0">fun0000</ResponseID>
+<BaseQuestion id="0">Fundamentals Video</BaseQuestion>
+<Content id="0">Enjoy this brief video explaining how Enersource delivers electricity to you.</Content>
+</Response>
+<Response id="fun0033">
+<ResponseID id="0">fun0033</ResponseID>
+<BaseQuestion id="0">What is the energy grid?</BaseQuestion>
+<Content id="0">Ontario's electricity system is made up of three parts: first, the creation or generation of the electricity, then sending the electricity to your local power distribution company, or LDC, and finally, converting it into useable energy and delivering it to your home or business.  These steps are known as generation, high-voltage transmission and distribution.</Content>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">enr1665</ResponseID>
+<BaseQuestion id="1"> Who makes decisions about generation and the integration of renewable energy into the system?</BaseQuestion>
+</RQ>
+<RQ id="1">
+<ResponseID id="2">fun0044</ResponseID>
+<BaseQuestion id="2">How is our electricity generated?</BaseQuestion>
+</RQ>
+<RQ id="2">
+<ResponseID id="3">fun0055</ResponseID>
+<BaseQuestion id="3">So how does electricity get to my home?</BaseQuestion>
+</RQ>
+<RQ id="3">
+<ResponseID id="4">fun0066</ResponseID>
+<BaseQuestion id="4">What is voltage?</BaseQuestion>
+</RQ>
+</RQs>
+</Response>
+<Response id="fun0044">
+<ResponseID id="0">fun0044</ResponseID>
+<BaseQuestion id="0">How is our electricity generated?</BaseQuestion>
+<Content id="0">About 24% of our electricity in Ontario is made from renewable hydro power. Approximately 37% of our electricity is made from nuclear power. Nuclear power is a clean, efficient way of making electricity. Other power plants use natural gas to make about 29%   of the province's electricity. And as technology continues to improve, more wind, solar and other renewable resources are being used to make electricity.  Combined, this makes up the remainder of Ontario's supply.</Content>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">enr0451</ResponseID>
+<BaseQuestion id="1">Why can't we replace all of our generation with renewables?</BaseQuestion>
+</RQ>
+<RQ id="1">
+<ResponseID id="2">enr1665</ResponseID>
+<BaseQuestion id="2"> Who makes decisions about generation and the integration of renewable energy into the system?</BaseQuestion>
+</RQ>
+<RQ id="2">
+<ResponseID id="3">fun0055</ResponseID>
+<BaseQuestion id="3">So how does electricity get to my home?</BaseQuestion>
+</RQ>
+<RQ id="3">
+<ResponseID id="4">fun0066</ResponseID>
+<BaseQuestion id="4">What is voltage?</BaseQuestion>
+</RQ>
+</RQs>
+</Response>
+<Response id="fun0055">
+<ResponseID id="0">fun0055</ResponseID>
+<BaseQuestion id="0">So how does electricity get to my home?</BaseQuestion>
+<Content id="0">First the electricity travels at high voltage from the power plants, wind turbines or solar panels across high-voltage transmission lines, to substations.  Substations lower the voltage so that electricity can be sent safely across distribution lines for use in your home or business. Local Distribution Companies like Enersource deliver power through these lower voltage lines to customers like you.</Content>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">enr1130b</ResponseID>
+<BaseQuestion id="1">How much of my electric bill is from distribution?</BaseQuestion>
+</RQ>
+<RQ id="1">
+<ResponseID id="2">fun0033</ResponseID>
+<BaseQuestion id="2">What is the energy grid?</BaseQuestion>
+</RQ>
+<RQ id="2">
+<ResponseID id="3">enr1655</ResponseID>
+<BaseQuestion id="3">What is the Smart Grid and how does it relate to Smart Meters?</BaseQuestion>
+</RQ>
+</RQs>
+</Response>
+<Response id="fun0066">
+<ResponseID id="0">fun0066</ResponseID>
+<BaseQuestion id="0">What is voltage?</BaseQuestion>
+<Content id="0">Voltage is a measurement of the strength of the electrical current as it moves along the lines.  High-voltage transmission lines are used to move lots of electricity across long distances.</Content>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">fun0033</ResponseID>
+<BaseQuestion id="1">What is the energy grid?</BaseQuestion>
+</RQ>
+<RQ id="1">
+<ResponseID id="2">fun0044</ResponseID>
+<BaseQuestion id="2">How is our electricity generated?</BaseQuestion>
+</RQ>
+<RQ id="2">
+<ResponseID id="3">fun0055</ResponseID>
+<BaseQuestion id="3">So how does electricity get to my home?</BaseQuestion>
+</RQ>
+</RQs>
+</Response>
+<Response id="fun0088">
+<ResponseID id="0">fun0088</ResponseID>
+<BaseQuestion id="0">What does Enersource do?</BaseQuestion>
+<Content id="0">To keep electricity flowing to homes and businesses, our team at Enersource installs, monitors, repairs and replaces lines and equipment. </Content>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">enr1653</ResponseID>
+<BaseQuestion id="1">What are the significant changes in the electricity industry in recent years?</BaseQuestion>
+</RQ>
+<RQ id="1">
+<ResponseID id="2">enr1661</ResponseID>
+<BaseQuestion id="2"> How are the regulatory requirements changing?</BaseQuestion>
+</RQ>
+<RQ id="2">
+<ResponseID id="3">fun0055</ResponseID>
+<BaseQuestion id="3">So how does electricity get to my home?</BaseQuestion>
+</RQ>
+<RQ id="3">
+<ResponseID id="4">enr1663</ResponseID>
+<BaseQuestion id="4"> How does the OEB measure the performance of LDCs like Enersource?</BaseQuestion>
+</RQ>
+<RQ id="4">
+<ResponseID id="5">enr1667</ResponseID>
+<BaseQuestion id="5">What are the major changes going on in the industry?</BaseQuestion>
+</RQ>
+</RQs>
+</Response>
+</xml>

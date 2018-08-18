@@ -1,0 +1,59 @@
+<xml>
+  <Module id='0'>
+    <Heading>
+      Understanding the Prognosis
+    </Heading>
+    <ResponseID>scc001</ResponseID>
+    <ResponseID>scc003</ResponseID>
+    <ResponseID>scc093</ResponseID>
+  </Module>
+  <Module id='1'>
+    <Heading>
+      Options for Care
+    </Heading>
+    <ResponseID>scc021</ResponseID>
+    <ResponseID>scc025</ResponseID>
+    <ResponseID>scc028</ResponseID>
+  </Module>
+  <Module id='2'>
+    <Heading>
+      Documenting End-of-Life Decisions
+    </Heading>
+    <ResponseID>scc061</ResponseID>
+    <ResponseID>scc053</ResponseID>
+    <ResponseID>scc054</ResponseID>
+    <ResponseID>scc059</ResponseID>
+    <ResponseID>scc060</ResponseID>
+    <ResponseID>scc056</ResponseID>
+  </Module>
+  <Module id='3'>
+    <Heading>
+      Finding Support
+    </Heading>
+    <ResponseID>scc106</ResponseID>
+    <ResponseID>scc107</ResponseID>
+    <ResponseID>scc025</ResponseID>
+    <ResponseID>scc120</ResponseID>
+  </Module>
+  <Module id='4'>
+    <Heading>
+      Financial Concerns
+    </Heading>
+    <ResponseID>scc095</ResponseID>
+    <ResponseID>scc065</ResponseID>
+  </Module>
+  <Module id='5'>
+    <Heading>
+      Words You May Hear
+    </Heading>
+    <ResponseID>scc006</ResponseID>
+    <ResponseID>scc014</ResponseID>
+    <ResponseID>scc017</ResponseID>
+    <ResponseID>scc018</ResponseID>
+    <ResponseID>scc015</ResponseID>
+    <ResponseID>scc124</ResponseID>
+    <ResponseID>scc019</ResponseID>
+    <ResponseID>scc083</ResponseID>
+    <ResponseID>scc092</ResponseID>
+  </Module>
+</xml>

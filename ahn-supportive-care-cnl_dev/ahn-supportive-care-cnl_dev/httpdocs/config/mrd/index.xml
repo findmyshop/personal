@@ -1,0 +1,80 @@
+<!--* Index Resource* 7-2-2015-->
+<xml>
+<Response id="asb3_mod6_sp1intro">
+<ResponseID id="0">asb3_mod6_sp1intro</ResponseID>
+<BaseQuestion id="0">Skill Practice</BaseQuestion>
+<Content id="0"></Content>
+</Response>
+<Response id="asb3_mod6_sp1s1">
+<ResponseID id="0">asb3_mod6_sp1s1</ResponseID>
+<BaseQuestion id="0">Skill Practice</BaseQuestion>
+<Content id="0"></Content>
+</Response>
+<Response id="asb3_mod6_sp1s1m">
+<ResponseID id="0">asb3_mod6_sp1s1m</ResponseID>
+<BaseQuestion id="0"></BaseQuestion>
+<Content id="0"></Content>
+</Response>
+<Response id="asb3_mod6_sp1s1a">
+<ResponseID id="0">asb3_mod6_sp1s1a</ResponseID>
+<BaseQuestion id="0"></BaseQuestion>
+<Content id="0"></Content>
+</Response>
+<Response id="asb3_mod6_sp1s1d">
+<ResponseID id="0">asb3_mod6_sp1s1d</ResponseID>
+<BaseQuestion id="0"></BaseQuestion>
+<Content id="0"></Content>
+</Response>
+<Response id="asb3_mod6_sp1s1i">
+<ResponseID id="0">asb3_mod6_sp1s1i</ResponseID>
+<BaseQuestion id="0"></BaseQuestion>
+<Content id="0"></Content>
+</Response>
+<Response id="asb3_mod6_sp1s1o">
+<ResponseID id="0">asb3_mod6_sp1s1o</ResponseID>
+<BaseQuestion id="0"></BaseQuestion>
+<Content id="0"></Content>
+</Response>
+<Response id="asb3_mod6_sp1s1n">
+<ResponseID id="0">asb3_mod6_sp1s1n</ResponseID>
+<BaseQuestion id="0"></BaseQuestion>
+<WrongAnswer>The goal of this exercise is to ask an open ended question.</WrongAnswer>
+<Content id="0"></Content>
+</Response>
+<Response id="asb3_mod6_sp1s2">
+<ResponseID id="0">asb3_mod4_sp1s2</ResponseID>
+<BaseQuestion id="0">Skill Practice</BaseQuestion>
+<Content id="0"></Content>
+</Response>
+<Response id="asb3_mod6_sp1s2m">
+<ResponseID id="0">asb3_mod6_sp1s2m</ResponseID>
+<BaseQuestion id="0"></BaseQuestion>
+<Content id="0"></Content>
+</Response>
+<Response id="asb3_mod6_sp1s2a">
+<ResponseID id="0">asb3_mod6_sp1s2a</ResponseID>
+<BaseQuestion id="0"></BaseQuestion>
+<Content id="0"></Content>
+</Response>
+<Response id="asb3_mod6_sp1s2d">
+<ResponseID id="0">asb3_mod6_sp1s2d</ResponseID>
+<BaseQuestion id="0"></BaseQuestion>
+<Content id="0"></Content>
+</Response>
+<Response id="asb3_mod6_sp1s2i">
+<ResponseID id="0">asb3_mod6_sp1s2i</ResponseID>
+<BaseQuestion id="0"></BaseQuestion>
+<Content id="0"></Content>
+</Response>
+<Response id="asb3_mod6_sp1s2o">
+<ResponseID id="0">asb3_mod6_sp1s2o</ResponseID>
+<BaseQuestion id="0"></BaseQuestion>
+<Content id="0"></Content>
+</Response>
+<Response id="asb3_mod6_sp1s2n">
+<ResponseID id="0">asb3_mod6_sp1s2n</ResponseID>
+<BaseQuestion id="0"></BaseQuestion>
+<WrongAnswer>The goal of this exercise is to ask an open ended question.</WrongAnswer>
+<Content id="0"></Content>
+</Response>
+</xml>

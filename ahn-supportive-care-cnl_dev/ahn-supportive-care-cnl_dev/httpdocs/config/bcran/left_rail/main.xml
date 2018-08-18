@@ -1,0 +1,95 @@
+<xml>
+  <Module id='0'>
+    <Heading>
+      Language of Breast Cancer
+    </Heading>
+    <ResponseID>kmn004</ResponseID>
+    <ResponseID>kmn024</ResponseID>
+    <ResponseID>kmn001</ResponseID>
+    <ResponseID>kmn002</ResponseID>
+    <ResponseID>kmn003</ResponseID>
+    <ResponseID>kmn005</ResponseID>
+    <ResponseID>kmn006</ResponseID>
+  </Module>
+  <Module id='1'>
+    <Heading>
+      Your Treatment Options
+    </Heading>
+    <ResponseID>kmn008</ResponseID>
+    <ResponseID>kmn007</ResponseID>
+    <ResponseID>kmn021</ResponseID>
+    <ResponseID>kmn020</ResponseID>
+    <ResponseID>kmn009</ResponseID>
+    <ResponseID>kmn010</ResponseID>
+    <ResponseID>kmn011</ResponseID>
+    <ResponseID>kmn012</ResponseID>
+    <ResponseID>kmn013</ResponseID>
+    <ResponseID>kmn022</ResponseID>
+  </Module>
+  <Module id='2'>
+    <Heading>
+      Considering a Trial
+    </Heading>
+    <ResponseID>cct042</ResponseID>
+    <ResponseID>cct043</ResponseID>
+    <ResponseID>cct036</ResponseID>
+    <ResponseID>cct059</ResponseID>
+    <ResponseID>cct047</ResponseID>
+    <ResponseID>cct026</ResponseID>
+    <ResponseID>cct028</ResponseID>
+    <ResponseID>cct027</ResponseID>
+  </Module>
+  <Module id='3'>
+    <Heading>
+      The Clinical Trial Experience
+    </Heading>
+    <ResponseID>kmn036</ResponseID>
+    <ResponseID>cct056</ResponseID>
+    <ResponseID>cct005</ResponseID>
+    <ResponseID>kmn202</ResponseID>
+    <ResponseID>kmn203</ResponseID>
+    <ResponseID>cct008</ResponseID>
+    <ResponseID>cct032</ResponseID>
+    <ResponseID>cct031</ResponseID>
+    <ResponseID>cct034</ResponseID>
+    <ResponseID>cct035</ResponseID>
+    <ResponseID>cct607</ResponseID>
+  </Module>
+  <Module id='4'>
+    <Heading>
+      Behind the Scenes
+    </Heading>
+    <ResponseID>cct025</ResponseID>
+    <ResponseID>kmn206</ResponseID>
+    <ResponseID>cct610</ResponseID>
+    <ResponseID>cct010</ResponseID>
+    <ResponseID>kmn037</ResponseID>
+    <ResponseID>cct012</ResponseID>
+  </Module>
+  <Module id='5'>
+    <Heading>
+      Making a Decision
+    </Heading>
+    <ResponseID>kmn209</ResponseID>
+    <ResponseID>kmn210</ResponseID>
+    <ResponseID>cct046</ResponseID>
+    <ResponseID>kmn038</ResponseID>
+    <ResponseID>cct044</ResponseID>
+    <ResponseID>bcr020</ResponseID>
+    <ResponseID>kmn212</ResponseID>
+    <ResponseID>kmn213</ResponseID>
+  </Module>
+  <Module id='6'>
+    <Heading>
+      Words You May Hear
+    </Heading>
+    <ResponseID>cct071</ResponseID>
+    <ResponseID>cct072</ResponseID>
+    <ResponseID>cct073</ResponseID>
+    <ResponseID>cct074</ResponseID>
+    <ResponseID>cct075</ResponseID>
+    <ResponseID>cct076</ResponseID>
+    <ResponseID>cct077</ResponseID>
+    <ResponseID>cct078</ResponseID>
+  </Module>
+</xml>

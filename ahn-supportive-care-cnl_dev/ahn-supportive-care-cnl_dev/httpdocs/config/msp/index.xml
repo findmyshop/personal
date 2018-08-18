@@ -1,0 +1,1369 @@
+<xml>
+<Response id="mamsp992">
+<ResponseID id="0">mamsp992</ResponseID>
+<BaseQuestion id="0">Multiple Answers Possible</BaseQuestion>
+<Content id="0">What do I have to do?</Content>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">msp000</ResponseID>
+<BaseQuestion id="1">Introduction</BaseQuestion>
+</RQ>
+<RQ id="1">
+<ResponseID id="2">msp139</ResponseID>
+<BaseQuestion id="2">What is the purpose of the NODE-1 study?</BaseQuestion>
+</RQ>
+<RQ id="2">
+<ResponseID id="3">msp272</ResponseID>
+<BaseQuestion id="3">How long do I need to stay in an episode of paroxysmal supraventricular tachycardia (PSVT)? How does this compare to standard ablation tests for PSVT?</BaseQuestion>
+</RQ>
+<RQ id="3">
+<ResponseID id="4">msp266</ResponseID>
+<BaseQuestion id="4">Is there a placebo in the NODE-1 study? What can happen if I receive the placebo?</BaseQuestion>
+</RQ>
+</RQs>
+</Response>
+<Response id="mamsp994">
+<ResponseID id="0">mamsp994</ResponseID>
+<BaseQuestion id="0">Multiple Answers Possible</BaseQuestion>
+<Content id="0">What if something comes up?</Content>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">msp190</ResponseID>
+<BaseQuestion id="1">Does the investigational drug have any side effects?</BaseQuestion>
+</RQ>
+<RQ id="1">
+<ResponseID id="2">msp270</ResponseID>
+<BaseQuestion id="2">Why do I need pregnancy tests and why should I use contraception?</BaseQuestion>
+</RQ>
+<RQ id="2">
+<ResponseID id="3">msp279</ResponseID>
+<BaseQuestion id="3">What are the risks of my participation in this clinical study?</BaseQuestion>
+</RQ>
+</RQs>
+</Response>
+<Response id="mamsp995">
+<ResponseID id="0">mamsp995</ResponseID>
+<BaseQuestion id="0">Multiple Answers Possible</BaseQuestion>
+<Content id="0">How is it different?</Content>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">msp000</ResponseID>
+<BaseQuestion id="1">Introduction</BaseQuestion>
+</RQ>
+<RQ id="1">
+<ResponseID id="2">msp104</ResponseID>
+<BaseQuestion id="2">What are the common types of clinical research studies?</BaseQuestion>
+</RQ>
+<RQ id="2">
+<ResponseID id="3">msp123</ResponseID>
+<BaseQuestion id="3">Should I talk to my regular doctor about this study?</BaseQuestion>
+</RQ>
+</RQs>
+</Response>
+<Response id="mamsp996">
+<ResponseID id="0">mamsp996</ResponseID>
+<BaseQuestion id="0">Multiple Answers Possible</BaseQuestion>
+<Content id="0">Why do clinical trials?</Content>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">msp101</ResponseID>
+<BaseQuestion id="1">What is a clinical study?</BaseQuestion>
+</RQ>
+<RQ id="1">
+<ResponseID id="2">msp258</ResponseID>
+<BaseQuestion id="2">What are the benefits of participating in the NODE-1 clinical study?</BaseQuestion>
+</RQ>
+</RQs>
+</Response>
+<Response id="mamsp998">
+<ResponseID id="0">mamsp998</ResponseID>
+<BaseQuestion id="0">Multiple Answers Possible</BaseQuestion>
+<Content id="0">Who will pay for this?</Content>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">msp148</ResponseID>
+<BaseQuestion id="1">Will I have to pay for study drugs and tests?</BaseQuestion>
+</RQ>
+<RQ id="1">
+<ResponseID id="2">msp155</ResponseID>
+<BaseQuestion id="2">Will I get paid to participate?</BaseQuestion>
+</RQ>
+<RQ id="2">
+<ResponseID id="3">msp153</ResponseID>
+<BaseQuestion id="3">What will my health insurance cover?</BaseQuestion>
+</RQ>
+<RQ id="3">
+<ResponseID id="4">msp278</ResponseID>
+<BaseQuestion id="4">What is a study sponsor? Who is the study sponsor for the NODE-1 study?</BaseQuestion>
+</RQ>
+</RQs>
+</Response>
+<Response id="msp000">
+<ResponseID id="0">msp000</ResponseID>
+<BaseQuestion id="0">Introduction</BaseQuestion>
+<Content id="0">The goal of this site is to give you more information about what it is like to take part in the NODE-1 clinical trial, which is also known as a research study. I invite you to explore the site. If you have a question, type it into the box below and we will provide the closest available pre-recorded response or tell you that we do not have a response to certain questions. This site is not intended to provide medical advice or to replace a conversation with your regular doctor and your heart doctor or another member of the study team. If you have unanswered questions after exploring the site, you should take them to your heart doctor or another member of the study team. This site cannot provide answers specific to your diagnosis or other medical advice. This website is not intended for reporting adverse events or product complaints.</Content>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">msp005</ResponseID>
+<BaseQuestion id="1">Instructions for how to use the site</BaseQuestion>
+</RQ>
+<RQ id="1">
+<ResponseID id="2">msp101</ResponseID>
+<BaseQuestion id="2">What is a clinical study?</BaseQuestion>
+</RQ>
+<RQ id="2">
+<ResponseID id="3">msp139</ResponseID>
+<BaseQuestion id="3">What is the purpose of the NODE-1 study?</BaseQuestion>
+</RQ>
+<RQ id="3">
+<ResponseID id="4">msp258</ResponseID>
+<BaseQuestion id="4">What are the benefits of participating in the NODE-1 clinical study?</BaseQuestion>
+</RQ>
+<RQ id="4">
+<ResponseID id="5">msp147</ResponseID>
+<BaseQuestion id="5">How many people will be enrolled in this study? -</BaseQuestion>
+</RQ>
+<RQ id="5">
+<ResponseID id="6">msp140</ResponseID>
+<BaseQuestion id="6">Is this investigational drug already used for other diseases?</BaseQuestion>
+</RQ>
+<RQ id="6">
+<ResponseID id="7">msp008</ResponseID>
+<BaseQuestion id="7">Contact information (i.e., How do I get in touch with you?)</BaseQuestion>
+</RQ>
+</RQs>
+</Response>
+<Response id="msp001">
+<ResponseID id="0">msp001</ResponseID>
+<BaseQuestion id="0">Response to off topic questions (i.e., Why is the sky blue?)</BaseQuestion>
+<Content id="0">I don't have an answer to that question, please ask a new question.</Content>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">msp101</ResponseID>
+<BaseQuestion id="1">What is a clinical study?</BaseQuestion>
+</RQ>
+<RQ id="1">
+<ResponseID id="2">msp139</ResponseID>
+<BaseQuestion id="2">What is the purpose of the NODE-1 study?</BaseQuestion>
+</RQ>
+<RQ id="2">
+<ResponseID id="3">msp258</ResponseID>
+<BaseQuestion id="3">What are the benefits of participating in the NODE-1 clinical study?</BaseQuestion>
+</RQ>
+<RQ id="3">
+<ResponseID id="4">msp147</ResponseID>
+<BaseQuestion id="4">How many people will be enrolled in this study? -</BaseQuestion>
+</RQ>
+<RQ id="4">
+<ResponseID id="5">msp140</ResponseID>
+<BaseQuestion id="5">Is this investigational drug already used for other diseases?</BaseQuestion>
+</RQ>
+<RQ id="5">
+<ResponseID id="6">msp008</ResponseID>
+<BaseQuestion id="6">Contact information (i.e., How do I get in touch with you?)</BaseQuestion>
+</RQ>
+</RQs>
+</Response>
+<Response id="msp002">
+<ResponseID id="0">msp002</ResponseID>
+<BaseQuestion id="0">Response to profanity</BaseQuestion>
+<Content id="0">Please keep your questions and comments respectful and on topic. Thank you!</Content>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">msp101</ResponseID>
+<BaseQuestion id="1">What is a clinical study?</BaseQuestion>
+</RQ>
+<RQ id="1">
+<ResponseID id="2">msp139</ResponseID>
+<BaseQuestion id="2">What is the purpose of the NODE-1 study?</BaseQuestion>
+</RQ>
+<RQ id="2">
+<ResponseID id="3">msp258</ResponseID>
+<BaseQuestion id="3">What are the benefits of participating in the NODE-1 clinical study?</BaseQuestion>
+</RQ>
+<RQ id="3">
+<ResponseID id="4">msp147</ResponseID>
+<BaseQuestion id="4">How many people will be enrolled in this study? -</BaseQuestion>
+</RQ>
+<RQ id="4">
+<ResponseID id="5">msp140</ResponseID>
+<BaseQuestion id="5">Is this investigational drug already used for other diseases?</BaseQuestion>
+</RQ>
+<RQ id="5">
+<ResponseID id="6">msp008</ResponseID>
+<BaseQuestion id="6">Contact information (i.e., How do I get in touch with you?)</BaseQuestion>
+</RQ>
+</RQs>
+</Response>
+<Response id="msp003">
+<ResponseID id="0">msp003</ResponseID>
+<BaseQuestion id="0">Multiple Answer</BaseQuestion>
+<Content id="0">I can think of more than one answer for your question. Which would you like to hear first?  Select a question from the list on the right-hand side of your screen. </Content>
+</Response>
+<Response id="msp004">
+<ResponseID id="0">msp004</ResponseID>
+<BaseQuestion id="0">Word count</BaseQuestion>
+<Content id="0">Please limit your questions to 50 words or less.</Content>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">msp101</ResponseID>
+<BaseQuestion id="1">What is a clinical study?</BaseQuestion>
+</RQ>
+<RQ id="1">
+<ResponseID id="2">msp139</ResponseID>
+<BaseQuestion id="2">What is the purpose of the NODE-1 study?</BaseQuestion>
+</RQ>
+<RQ id="2">
+<ResponseID id="3">msp258</ResponseID>
+<BaseQuestion id="3">What are the benefits of participating in the NODE-1 clinical study?</BaseQuestion>
+</RQ>
+<RQ id="3">
+<ResponseID id="4">msp147</ResponseID>
+<BaseQuestion id="4">How many people will be enrolled in this study? -</BaseQuestion>
+</RQ>
+<RQ id="4">
+<ResponseID id="5">msp140</ResponseID>
+<BaseQuestion id="5">Is this investigational drug already used for other diseases?</BaseQuestion>
+</RQ>
+<RQ id="5">
+<ResponseID id="6">msp008</ResponseID>
+<BaseQuestion id="6">Contact information (i.e., How do I get in touch with you?)</BaseQuestion>
+</RQ>
+</RQs>
+</Response>
+<Response id="msp005">
+<ResponseID id="0">msp005</ResponseID>
+<BaseQuestion id="0">Instructions for how to use the site</BaseQuestion>
+<Content id="0">Let me tell you how the program works. You can explore the program by typing questions of your own into the text box or by clicking on a related or frequently asked question. You can also select topics from the menu to your left. If you need assistance, click on the help button.</Content>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">msp000</ResponseID>
+<BaseQuestion id="1">Introduction</BaseQuestion>
+</RQ>
+<RQ id="1">
+<ResponseID id="2">msp101</ResponseID>
+<BaseQuestion id="2">What is a clinical study?</BaseQuestion>
+</RQ>
+<RQ id="2">
+<ResponseID id="3">msp139</ResponseID>
+<BaseQuestion id="3">What is the purpose of the NODE-1 study?</BaseQuestion>
+</RQ>
+<RQ id="3">
+<ResponseID id="4">msp258</ResponseID>
+<BaseQuestion id="4">What are the benefits of participating in the NODE-1 clinical study?</BaseQuestion>
+</RQ>
+<RQ id="4">
+<ResponseID id="5">msp147</ResponseID>
+<BaseQuestion id="5">How many people will be enrolled in this study? -</BaseQuestion>
+</RQ>
+<RQ id="5">
+<ResponseID id="6">msp140</ResponseID>
+<BaseQuestion id="6">Is this investigational drug already used for other diseases?</BaseQuestion>
+</RQ>
+<RQ id="6">
+<ResponseID id="7">msp008</ResponseID>
+<BaseQuestion id="7">Contact information (i.e., How do I get in touch with you?)</BaseQuestion>
+</RQ>
+</RQs>
+</Response>
+<Response id="msp007">
+<ResponseID id="0">msp007</ResponseID>
+<BaseQuestion id="0">Who are you?</BaseQuestion>
+<Content id="0">Thank you for asking, but I'm here to answer your questions about clinical studies and study participation.</Content>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">msp000</ResponseID>
+<BaseQuestion id="1">Introduction</BaseQuestion>
+</RQ>
+<RQ id="1">
+<ResponseID id="2">msp101</ResponseID>
+<BaseQuestion id="2">What is a clinical study?</BaseQuestion>
+</RQ>
+<RQ id="2">
+<ResponseID id="3">msp139</ResponseID>
+<BaseQuestion id="3">What is the purpose of the NODE-1 study?</BaseQuestion>
+</RQ>
+<RQ id="3">
+<ResponseID id="4">msp258</ResponseID>
+<BaseQuestion id="4">What are the benefits of participating in the NODE-1 clinical study?</BaseQuestion>
+</RQ>
+<RQ id="4">
+<ResponseID id="5">msp147</ResponseID>
+<BaseQuestion id="5">How many people will be enrolled in this study? -</BaseQuestion>
+</RQ>
+<RQ id="5">
+<ResponseID id="6">msp140</ResponseID>
+<BaseQuestion id="6">Is this investigational drug already used for other diseases?</BaseQuestion>
+</RQ>
+<RQ id="6">
+<ResponseID id="7">msp008</ResponseID>
+<BaseQuestion id="7">Contact information (i.e., How do I get in touch with you?)</BaseQuestion>
+</RQ>
+</RQs>
+</Response>
+<Response id="msp008">
+<ResponseID id="0">msp008</ResponseID>
+<BaseQuestion id="0">Contact information (i.e., How do I get in touch with you?)</BaseQuestion>
+<Content id="0">Participating Node-1 study sites can be found on ClinicalTrials.gov at the link below.  Please contact your heart doctor or the site nearest you for more information or to see if you may be eligible for the study. <![CDATA[<a href="https://clinicaltrials.gov/ct2/show/study/NCT02296190?term=psvt+milestone&amp;rank=1&amp;show_locs=Y#locn" target="_blank">https://clinicaltrials.gov/ct2/show/study/NCT02296190?term=psvt+milestone&amp;rank=1&amp;show_locs=Y#locn</a>]]></Content>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">msp000</ResponseID>
+<BaseQuestion id="1">Introduction</BaseQuestion>
+</RQ>
+<RQ id="1">
+<ResponseID id="2">msp139</ResponseID>
+<BaseQuestion id="2">What is the purpose of the NODE-1 study?</BaseQuestion>
+</RQ>
+<RQ id="2">
+<ResponseID id="3">msp127</ResponseID>
+<BaseQuestion id="3">What rights do I have if I participate in a clinical study?</BaseQuestion>
+</RQ>
+<RQ id="3">
+<ResponseID id="4">msp278</ResponseID>
+<BaseQuestion id="4">What is a study sponsor? Who is the study sponsor for the NODE-1 study?</BaseQuestion>
+</RQ>
+<RQ id="4">
+<ResponseID id="5">msp155</ResponseID>
+<BaseQuestion id="5">Will I get paid to participate?</BaseQuestion>
+</RQ>
+<RQ id="5">
+<ResponseID id="6">msp262</ResponseID>
+<BaseQuestion id="6">What is paroxysmal supraventricular tachycardia (PSVT)?</BaseQuestion>
+</RQ>
+<RQ id="6">
+<ResponseID id="7">msp267</ResponseID>
+<BaseQuestion id="7">How is the investigational drug intended to work to stop an episode of paroxysmal supraventricular tachycardia (PSVT)?</BaseQuestion>
+</RQ>
+</RQs>
+</Response>
+<Response id="msp101">
+<ResponseID id="0">msp101</ResponseID>
+<BaseQuestion id="0">What is a clinical study?</BaseQuestion>
+<Content id="0">A clinical study, also called a clinical trial, examines the safety and effectiveness of an investigational drug that may treat or prevent a disease or symptom. A clinical study follows a pre-defined research plan called a protocol. Researchers conduct several phases of clinical studies to make sure an investigational drug is safe and effective for people to use. When these studies are completed, regulatory agencies review study results and decide if the investigational drug should be approved and made available to the general public. NODE-1 is a clinical study testing an investigational drug called etripamil to see if it is safe and effective at ending an episode of paroxysmal supraventricular tachycardia, or PSVT. </Content>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">msp104</ResponseID>
+<BaseQuestion id="1">What are the common types of clinical research studies?</BaseQuestion>
+</RQ>
+<RQ id="1">
+<ResponseID id="2">msp139</ResponseID>
+<BaseQuestion id="2">What is the purpose of the NODE-1 study?</BaseQuestion>
+</RQ>
+<RQ id="2">
+<ResponseID id="3">msp260</ResponseID>
+<BaseQuestion id="3">What are double-blind, single-blind, and open-label studies?</BaseQuestion>
+</RQ>
+</RQs>
+</Response>
+<Response id="msp104">
+<ResponseID id="0">msp104</ResponseID>
+<BaseQuestion id="0">What are the common types of clinical research studies?</BaseQuestion>
+<Content id="0">The different designs or types of clinical studies are described using words like "comparative," "double blind," "single blind," and "open-label." These are discussed in detail in the related questions menu on the right. The NODE-1 study is a randomized, double-blind, comparative study that is testing an investigational drug called etripamil. In NODE-1, etripamil is being compared to a placebo to see if it is safe and effective in terminating an episode of paroxysmal supraventricular tachycardia, or PSVT. A participant in the NODE-1 study has an 80 percent chance of receiving etripamil and a 20 percent chance of receiving placebo.</Content>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">msp101</ResponseID>
+<BaseQuestion id="1">What is a clinical study?</BaseQuestion>
+</RQ>
+<RQ id="1">
+<ResponseID id="2">msp119</ResponseID>
+<BaseQuestion id="2">What is randomization? Is NODE-1 a randomized study?</BaseQuestion>
+</RQ>
+<RQ id="2">
+<ResponseID id="3">msp139</ResponseID>
+<BaseQuestion id="3">What is the purpose of the NODE-1 study?</BaseQuestion>
+</RQ>
+<RQ id="3">
+<ResponseID id="4">msp259</ResponseID>
+<BaseQuestion id="4">What is a comparative study?</BaseQuestion>
+</RQ>
+<RQ id="4">
+<ResponseID id="5">msp260</ResponseID>
+<BaseQuestion id="5">What are double-blind, single-blind, and open-label studies?</BaseQuestion>
+</RQ>
+<RQ id="5">
+<ResponseID id="6">msp261</ResponseID>
+<BaseQuestion id="6">What is a placebo?</BaseQuestion>
+</RQ>
+</RQs>
+</Response>
+<Response id="msp105">
+<ResponseID id="0">msp105</ResponseID>
+<BaseQuestion id="0">Who is managing the study?</BaseQuestion>
+<Content id="0">A research team that includes doctors, nurses, research assistants, data analysts, and other specialists manages the study. Your heart doctor is an electrophysiologist, a cardiologist with advanced training, and is the same doctor who will perform your ablation. He or she leads the research team in the electrophysiology room and is ultimately responsible for your safety during the study and ablation procedure. If at any time you feel too uncomfortable or if your heart doctor determines that your condition is unsafe, he or she will stop the paroxysmal supraventricular tachycardia, or PSVT, immediately with the usual procedures using the catheters already placed in your heart.</Content>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">msp113</ResponseID>
+<BaseQuestion id="1">What information will the study team be able to share with me?</BaseQuestion>
+</RQ>
+<RQ id="1">
+<ResponseID id="2">msp186</ResponseID>
+<BaseQuestion id="2">What qualifications does the study team have?</BaseQuestion>
+</RQ>
+<RQ id="2">
+<ResponseID id="3">msp188</ResponseID>
+<BaseQuestion id="3">Will the study team know what study treatment I'm getting?</BaseQuestion>
+</RQ>
+<RQ id="3">
+<ResponseID id="4">msp273</ResponseID>
+<BaseQuestion id="4">What is the risk of staying in an episode of paroxysmal supraventricular tachycardia (PSVT)?</BaseQuestion>
+</RQ>
+</RQs>
+</Response>
+<Response id="msp107">
+<ResponseID id="0">msp107</ResponseID>
+<BaseQuestion id="0">What is an Institutional Review Board (IRB) or Ethics Committee (EC)? Was NODE-1 approved by an IRB?</BaseQuestion>
+<Content id="0">An Institutional Review Board or Ethics Review Board is a committee at an institution such as a hospital or medical clinic that is charged with approving, monitoring, and reviewing clinical research involving people. The main goal of the committee is to make sure the study is ethical and the rights and welfare of participants are protected. Among other things, this includes making sure that research risks are minimized and are reasonable in relation to any potential benefits. Before a clinical study starts, this committee will conduct a risk-benefit analysis to determine whether the research should be performed. Several institutional review boards approved the NODE-1 study. The study doctor is your heart doctor and is the person who will perform your ablation. He or she has obtained approval to conduct the NODE-1 study at his or her hospital or institution. </Content>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">msp110</ResponseID>
+<BaseQuestion id="1">How are my rights protected while participating in a study?</BaseQuestion>
+</RQ>
+<RQ id="1">
+<ResponseID id="2">msp127</ResponseID>
+<BaseQuestion id="2">What rights do I have if I participate in a clinical study?</BaseQuestion>
+</RQ>
+<RQ id="2">
+<ResponseID id="3">msp124</ResponseID>
+<BaseQuestion id="3">What is informed consent?</BaseQuestion>
+</RQ>
+<RQ id="3">
+<ResponseID id="4">msp126</ResponseID>
+<BaseQuestion id="4">What if I do not understand the informed consent form? Who can help me understand the informed consent form?</BaseQuestion>
+</RQ>
+</RQs>
+</Response>
+<Response id="msp110">
+<ResponseID id="0">msp110</ResponseID>
+<BaseQuestion id="0">How are my rights protected while participating in a study?</BaseQuestion>
+<Content id="0">In order to conduct a clinical study, the research team must agree to comply with ethical guidelines and laws designed to protect patient volunteers, as well as to preserve the integrity of the research. One of the main points of the ethical guidelines is that individuals should be treated with respect from the time they are approached for possible participation in the study, throughout their participation, and after their participation ends. This includes, but is not limited to, your right to privacy and respecting your right to change your mind about being in the study at any point. </Content>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">msp127</ResponseID>
+<BaseQuestion id="1">What rights do I have if I participate in a clinical study?</BaseQuestion>
+</RQ>
+<RQ id="1">
+<ResponseID id="2">msp124</ResponseID>
+<BaseQuestion id="2">What is informed consent?</BaseQuestion>
+</RQ>
+<RQ id="2">
+<ResponseID id="3">msp107</ResponseID>
+<BaseQuestion id="3">What is an Institutional Review Board (IRB) or Ethics Committee (EC)? Was NODE-1 approved by an IRB?</BaseQuestion>
+</RQ>
+</RQs>
+</Response>
+<Response id="msp113">
+<ResponseID id="0">msp113</ResponseID>
+<BaseQuestion id="0">What information will the study team be able to share with me?</BaseQuestion>
+<Content id="0">Under the terms of the ethical guidelines and laws that govern clinical studies, all researchers must inform participants of the potential risks and benefits associated with participation in a clinical study, as well as available alternatives. Because NODE-1 is a double-blind study, the study team will not be able to tell you which study drug you are receiving in order to preserve the scientific integrity of the study. However, this information can be communicated to the study team if there is a medical need to know this information.  </Content>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">msp188</ResponseID>
+<BaseQuestion id="1">Will the study team know what study treatment I'm getting?</BaseQuestion>
+</RQ>
+<RQ id="1">
+<ResponseID id="2">msp260</ResponseID>
+<BaseQuestion id="2">What are double-blind, single-blind, and open-label studies?</BaseQuestion>
+</RQ>
+<RQ id="2">
+<ResponseID id="3">msp266</ResponseID>
+<BaseQuestion id="3">Is there a placebo in the NODE-1 study? What can happen if I receive the placebo?</BaseQuestion>
+</RQ>
+<RQ id="3">
+<ResponseID id="4">msp265</ResponseID>
+<BaseQuestion id="4">Is the NODE-1 study single blind or double blind?</BaseQuestion>
+</RQ>
+<RQ id="4">
+<ResponseID id="5">msp142</ResponseID>
+<BaseQuestion id="5">When will I find out about the study results?</BaseQuestion>
+</RQ>
+<RQ id="5">
+<ResponseID id="6">msp146</ResponseID>
+<BaseQuestion id="6">Will I be kept informed of my test results during the study?</BaseQuestion>
+</RQ>
+</RQs>
+</Response>
+<Response id="msp119">
+<ResponseID id="0">msp119</ResponseID>
+<BaseQuestion id="0">What is randomization? Is NODE-1 a randomized study?</BaseQuestion>
+<Content id="0">Randomization is the process by which study participants are assigned by chance to one of the study treatments. This process allows researchers to compare the safety and efficacy of different study drugs, including a placebo, without bias. In NODE-1, each participant is randomized to receive one of four doses of the investigational drug nasal spray, etripamil, or placebo, a spray that looks like etripamil but has no active ingredients. </Content>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">msp139</ResponseID>
+<BaseQuestion id="1">What is the purpose of the NODE-1 study?</BaseQuestion>
+</RQ>
+<RQ id="1">
+<ResponseID id="2">msp259</ResponseID>
+<BaseQuestion id="2">What is a comparative study?</BaseQuestion>
+</RQ>
+<RQ id="2">
+<ResponseID id="3">msp266</ResponseID>
+<BaseQuestion id="3">Is there a placebo in the NODE-1 study? What can happen if I receive the placebo?</BaseQuestion>
+</RQ>
+<RQ id="3">
+<ResponseID id="4">msp104</ResponseID>
+<BaseQuestion id="4">What are the common types of clinical research studies?</BaseQuestion>
+</RQ>
+</RQs>
+</Response>
+<Response id="msp123">
+<ResponseID id="0">msp123</ResponseID>
+<BaseQuestion id="0">Should I talk to my regular doctor about this study?</BaseQuestion>
+<Content id="0">It is recommended that you let your regular doctor know about your decision to participate in a clinical study. </Content>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">msp105</ResponseID>
+<BaseQuestion id="1">Who is managing the study?</BaseQuestion>
+</RQ>
+<RQ id="1">
+<ResponseID id="2">msp163</ResponseID>
+<BaseQuestion id="2">Should I keep taking my other medications?</BaseQuestion>
+</RQ>
+<RQ id="2">
+<ResponseID id="3">msp181</ResponseID>
+<BaseQuestion id="3">Is it normal to feel uncertain about participating in a study?</BaseQuestion>
+</RQ>
+<RQ id="3">
+<ResponseID id="4">msp138</ResponseID>
+<BaseQuestion id="4">Do my family/friends need to know that I'm participating in a clinical study?</BaseQuestion>
+</RQ>
+</RQs>
+</Response>
+<Response id="msp124">
+<ResponseID id="0">msp124</ResponseID>
+<BaseQuestion id="0">What is informed consent?</BaseQuestion>
+<Content id="0">Laws and ethical guidelines governing clinical research in many countries around the world require that prospective study participants be given relevant information about the proposed study through a process known as "informed consent." This process is designed to accurately inform individuals of the study purpose, procedures, risks, benefits, and alternatives. The informed consent process also ensures that participants understand information about the study and how it relates to their own health or interests. It also provides the opportunity for individuals to make voluntary and informed decisions about whether or not to participate in the study. Once you have had time to read and understand the informed consent form and discuss it with your heart doctor and the rest of the study team, you will be in a better position to decide if you wish to participate in the study. If you choose to participate, you will sign the informed consent form. Even if you sign the form, you can still withdraw from the study at any time, for any reason.  </Content>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">msp110</ResponseID>
+<BaseQuestion id="1">How are my rights protected while participating in a study?</BaseQuestion>
+</RQ>
+<RQ id="1">
+<ResponseID id="2">msp126</ResponseID>
+<BaseQuestion id="2">What if I do not understand the informed consent form? Who can help me understand the informed consent form?</BaseQuestion>
+</RQ>
+<RQ id="2">
+<ResponseID id="3">msp127</ResponseID>
+<BaseQuestion id="3">What rights do I have if I participate in a clinical study?</BaseQuestion>
+</RQ>
+<RQ id="3">
+<ResponseID id="4">msp137</ResponseID>
+<BaseQuestion id="4">Will my name be publically used during the study or when the results are published?</BaseQuestion>
+</RQ>
+<RQ id="4">
+<ResponseID id="5">msp242</ResponseID>
+<BaseQuestion id="5">Who will have access to my medical records and/or how will the study team protect my confidential personal information?</BaseQuestion>
+</RQ>
+<RQ id="5">
+<ResponseID id="6">msp279</ResponseID>
+<BaseQuestion id="6">What are the risks of my participation in this clinical study?</BaseQuestion>
+</RQ>
+<RQ id="6">
+<ResponseID id="7">msp181</ResponseID>
+<BaseQuestion id="7">Is it normal to feel uncertain about participating in a study?</BaseQuestion>
+</RQ>
+</RQs>
+</Response>
+<Response id="msp126">
+<ResponseID id="0">msp126</ResponseID>
+<BaseQuestion id="0">What if I do not understand the informed consent form? Who can help me understand the informed consent form?</BaseQuestion>
+<Content id="0">The consent form may contain words that you or your loved ones do not understand. Please ask your heart doctor or other members of the study team to explain any words or information that you do not understand. Before you make a decision to participate in the study, it is very important that you understand the information in the informed consent form. You should not sign this form if you have any questions that have not been fully answered by the study team or if you are not comfortable with the answers. </Content>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">msp124</ResponseID>
+<BaseQuestion id="1">What is informed consent?</BaseQuestion>
+</RQ>
+<RQ id="1">
+<ResponseID id="2">msp127</ResponseID>
+<BaseQuestion id="2">What rights do I have if I participate in a clinical study?</BaseQuestion>
+</RQ>
+<RQ id="2">
+<ResponseID id="3">msp181</ResponseID>
+<BaseQuestion id="3">Is it normal to feel uncertain about participating in a study?</BaseQuestion>
+</RQ>
+<RQ id="3">
+<ResponseID id="4">msp123</ResponseID>
+<BaseQuestion id="4">Should I talk to my regular doctor about this study?</BaseQuestion>
+</RQ>
+</RQs>
+</Response>
+<Response id="msp127">
+<ResponseID id="0">msp127</ResponseID>
+<BaseQuestion id="0">What rights do I have if I participate in a clinical study?</BaseQuestion>
+<Content id="0">Whether or not to take part in a clinical study is your decision. As a study participant you have certain rights. For example, you are to be given enough time to decide whether to participate and to make that decision without any pressure from the study team. You can also refuse to participate in the study or stop participating at any time. Your decision not to participate will not affect your right to your usual care. The plan for your ablation will be unaffected by whether or not you participate in the study. In addition, you have the right to be told why the clinical study is being done, what will happen, and what you will be asked to do if you are in the study. You will also be informed of any reasonably foreseeable risks, discomforts, or side effects that may occur during the study and who will pay for any treatment related to the clinical research. You have the right to have your questions answered by the study team at any time and to receive a copy of your signed informed consent form.  </Content>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">msp107</ResponseID>
+<BaseQuestion id="1">What is an Institutional Review Board (IRB) or Ethics Committee (EC)? Was NODE-1 approved by an IRB?</BaseQuestion>
+</RQ>
+<RQ id="1">
+<ResponseID id="2">msp110</ResponseID>
+<BaseQuestion id="2">How are my rights protected while participating in a study?</BaseQuestion>
+</RQ>
+<RQ id="2">
+<ResponseID id="3">msp124</ResponseID>
+<BaseQuestion id="3">What is informed consent?</BaseQuestion>
+</RQ>
+<RQ id="3">
+<ResponseID id="4">msp126</ResponseID>
+<BaseQuestion id="4">What if I do not understand the informed consent form? Who can help me understand the informed consent form?</BaseQuestion>
+</RQ>
+</RQs>
+</Response>
+<Response id="msp137">
+<ResponseID id="0">msp137</ResponseID>
+<BaseQuestion id="0">Will my name be publically used during the study or when the results are published?</BaseQuestion>
+<Content id="0">Any data collected about you as part of a clinical study is subject to privacy requirements. The informed consent form will describe how information may be used or disclosed for research purposes. The research team can publish, present, or otherwise disclose data from the study for research purposes only; your name will not be included in such public publications, presentations, or disclosures.</Content>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">msp242</ResponseID>
+<BaseQuestion id="1">Who will have access to my medical records and/or how will the study team protect my confidential personal information?</BaseQuestion>
+</RQ>
+<RQ id="1">
+<ResponseID id="2">msp138</ResponseID>
+<BaseQuestion id="2">Do my family/friends need to know that I'm participating in a clinical study?</BaseQuestion>
+</RQ>
+<RQ id="2">
+<ResponseID id="3">msp142</ResponseID>
+<BaseQuestion id="3">When will I find out about the study results?</BaseQuestion>
+</RQ>
+</RQs>
+</Response>
+<Response id="msp138">
+<ResponseID id="0">msp138</ResponseID>
+<BaseQuestion id="0">Do my family/friends need to know that I'm participating in a clinical study?</BaseQuestion>
+<Content id="0">If you choose to participate in NODE-1 or any clinical study, it is up to you whether or not to let your family and friends know of your decision. It can often be helpful to inform family or friends if you will need assistance during the study, such as obtaining transportation to and from study visits. You may wish to discuss the study with your heart doctor, who will perform your ablation. You may wish to discuss this study with your family, friends, and regular doctor before making your decision to participate.</Content>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">msp137</ResponseID>
+<BaseQuestion id="1">Will my name be publically used during the study or when the results are published?</BaseQuestion>
+</RQ>
+<RQ id="1">
+<ResponseID id="2">msp242</ResponseID>
+<BaseQuestion id="2">Who will have access to my medical records and/or how will the study team protect my confidential personal information?</BaseQuestion>
+</RQ>
+</RQs>
+</Response>
+<Response id="msp139">
+<ResponseID id="0">msp139</ResponseID>
+<BaseQuestion id="0">What is the purpose of the NODE-1 study?</BaseQuestion>
+<Content id="0">The purpose of the NODE-1 study is to evaluate whether an investigational drug called etripamil is safe and whether it may stop an episode of paroxysmal supraventricular tachycardia, or PSVT. Etripamil is a nasal spray that is absorbed through the nostrils. In this study, four different doses of etripamil will be compared to a placebo, which looks like etripamil but contains no active ingredients. If you participate in NODE-1, the study is conducted during your electrophysiology study, which is done just before your ablation procedure in order to identify and locate the source of your PSVT. Your heart doctor will perform the ablation as planned regardless of whether you decide to take part in the NODE-1 study.</Content>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">msp000</ResponseID>
+<BaseQuestion id="1">Introduction</BaseQuestion>
+</RQ>
+<RQ id="1">
+<ResponseID id="2">msp104</ResponseID>
+<BaseQuestion id="2">What are the common types of clinical research studies?</BaseQuestion>
+</RQ>
+<RQ id="2">
+<ResponseID id="3">msp140</ResponseID>
+<BaseQuestion id="3">Is this investigational drug already used for other diseases?</BaseQuestion>
+</RQ>
+<RQ id="3">
+<ResponseID id="4">msp265</ResponseID>
+<BaseQuestion id="4">Is the NODE-1 study single blind or double blind?</BaseQuestion>
+</RQ>
+</RQs>
+</Response>
+<Response id="msp140">
+<ResponseID id="0">msp140</ResponseID>
+<BaseQuestion id="0">Is this investigational drug already used for other diseases?</BaseQuestion>
+<Content id="0">Etripamil is an investigational drug that is not being used to treat any other diseases or conditions. Etripamil is thought to work similarly to some other medications that are already given intravenously in emergency rooms to patients with PSVT, but it is a nasal spray that patients may be able to self-administer at home when PSVT symptoms appear. </Content>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">msp139</ResponseID>
+<BaseQuestion id="1">What is the purpose of the NODE-1 study?</BaseQuestion>
+</RQ>
+<RQ id="1">
+<ResponseID id="2">msp147</ResponseID>
+<BaseQuestion id="2">How many people will be enrolled in this study? -</BaseQuestion>
+</RQ>
+<RQ id="2">
+<ResponseID id="3">msp263</ResponseID>
+<BaseQuestion id="3">What treatments are available for paroxysmal supraventricular tachycardia (PSVT)?</BaseQuestion>
+</RQ>
+</RQs>
+</Response>
+<Response id="msp142">
+<ResponseID id="0">msp142</ResponseID>
+<BaseQuestion id="0">When will I find out about the study results?</BaseQuestion>
+<Content id="0">Participants will not be informed about study results while the study is ongoing. NODE-1 study results will be published in a scientific journal several months after the study closes. If the investigational drug, etripamil, is found to be safe and effective in the NODE-1 study, additional studies will be done to test it in a larger number of people with paroxysmal supraventricular tachycardia, or PSVT. After all the necessary studies are successfully completed, all study data will be presented to regulatory agencies that will decide if etripamil is safe and effective to treat episodes of PSVT in the general public. This entire process usually takes several years.</Content>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">msp139</ResponseID>
+<BaseQuestion id="1">What is the purpose of the NODE-1 study?</BaseQuestion>
+</RQ>
+<RQ id="1">
+<ResponseID id="2">msp146</ResponseID>
+<BaseQuestion id="2">Will I be kept informed of my test results during the study?</BaseQuestion>
+</RQ>
+<RQ id="2">
+<ResponseID id="3">msp242</ResponseID>
+<BaseQuestion id="3">Who will have access to my medical records and/or how will the study team protect my confidential personal information?</BaseQuestion>
+</RQ>
+</RQs>
+</Response>
+<Response id="msp146">
+<ResponseID id="0">msp146</ResponseID>
+<BaseQuestion id="0">Will I be kept informed of my test results during the study?</BaseQuestion>
+<Content id="0">The results of your lab tests, such as your blood and urine tests, will be shared with you during the study. </Content>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">msp137</ResponseID>
+<BaseQuestion id="1">Will my name be publically used during the study or when the results are published?</BaseQuestion>
+</RQ>
+<RQ id="1">
+<ResponseID id="2">msp142</ResponseID>
+<BaseQuestion id="2">When will I find out about the study results?</BaseQuestion>
+</RQ>
+<RQ id="2">
+<ResponseID id="3">msp188</ResponseID>
+<BaseQuestion id="3">Will the study team know what study treatment I'm getting?</BaseQuestion>
+</RQ>
+</RQs>
+</Response>
+<Response id="msp147">
+<ResponseID id="0">msp147</ResponseID>
+<BaseQuestion id="0">How many people will be enrolled in this study? -</BaseQuestion>
+<Content id="0">About 100 people with paroxysmal supraventricular tachycardia, or PSVT, will participate in the NODE-1 study. Participants will be randomly assigned to 1 of 5 groups of 20 people each. Each group will receive one of four doses of the investigational drug, etripamil, or placebo.</Content>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">msp140</ResponseID>
+<BaseQuestion id="1">Is this investigational drug already used for other diseases?</BaseQuestion>
+</RQ>
+<RQ id="1">
+<ResponseID id="2">msp176</ResponseID>
+<BaseQuestion id="2">How long will I stay in the lab for the study?</BaseQuestion>
+</RQ>
+<RQ id="2">
+<ResponseID id="3">msp276</ResponseID>
+<BaseQuestion id="3">Will there be more needles or catheters for the purpose of the study compared to the ablation only?</BaseQuestion>
+</RQ>
+</RQs>
+</Response>
+<Response id="msp148">
+<ResponseID id="0">msp148</ResponseID>
+<BaseQuestion id="0">Will I have to pay for study drugs and tests?</BaseQuestion>
+<Content id="0">Study participants will not have to pay for the study drug, study visits, or procedures required for the study. The study sponsor will pay for these and any costs associated with the study. However, the sponsor will not cover the ablation because it is not part of the study. You or your insurance company may need to cover the costs for specific procedures or tests that you would have received if you were not participating in the study. If you have any questions or concerns related to cost, please ask the study team. </Content>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">msp153</ResponseID>
+<BaseQuestion id="1">What will my health insurance cover?</BaseQuestion>
+</RQ>
+<RQ id="1">
+<ResponseID id="2">msp155</ResponseID>
+<BaseQuestion id="2">Will I get paid to participate?</BaseQuestion>
+</RQ>
+</RQs>
+</Response>
+<Response id="msp153">
+<ResponseID id="0">msp153</ResponseID>
+<BaseQuestion id="0">What will my health insurance cover?</BaseQuestion>
+<Content id="0">The services provided to you specifically for the study are covered directly by the study sponsor and not your insurance company. However, charges for standard of care services will be billed in the usual manner to you or your insurance company. Physical examinations, scans, laboratory tests, the ablation procedure, and other treatments that would routinely be needed to monitor and treat your arrhythmia are known as standard of care services.  What your health insurance will cover will depend on your plan and provider.</Content>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">msp148</ResponseID>
+<BaseQuestion id="1">Will I have to pay for study drugs and tests?</BaseQuestion>
+</RQ>
+<RQ id="1">
+<ResponseID id="2">msp155</ResponseID>
+<BaseQuestion id="2">Will I get paid to participate?</BaseQuestion>
+</RQ>
+</RQs>
+</Response>
+<Response id="msp155">
+<ResponseID id="0">msp155</ResponseID>
+<BaseQuestion id="0">Will I get paid to participate?</BaseQuestion>
+<Content id="0">The study drug and all study-related procedures are provided at no cost. Ask your heart doctor or a study team member if compensation is available for this study at their institution. </Content>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">msp148</ResponseID>
+<BaseQuestion id="1">Will I have to pay for study drugs and tests?</BaseQuestion>
+</RQ>
+<RQ id="1">
+<ResponseID id="2">msp153</ResponseID>
+<BaseQuestion id="2">What will my health insurance cover?</BaseQuestion>
+</RQ>
+</RQs>
+</Response>
+<Response id="msp163">
+<ResponseID id="0">msp163</ResponseID>
+<BaseQuestion id="0">Should I keep taking my other medications?</BaseQuestion>
+<Content id="0">Your heart doctor will ask about the medications you are currently taking and will tell you if any of them cannot be taken before or during the study. If your regular doctor prescribes any other medications while you are in this study, you must first consult your heart doctor prior to taking them. </Content>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">msp123</ResponseID>
+<BaseQuestion id="1">Should I talk to my regular doctor about this study?</BaseQuestion>
+</RQ>
+<RQ id="1">
+<ResponseID id="2">msp263</ResponseID>
+<BaseQuestion id="2">What treatments are available for paroxysmal supraventricular tachycardia (PSVT)?</BaseQuestion>
+</RQ>
+<RQ id="2">
+<ResponseID id="3">msp270</ResponseID>
+<BaseQuestion id="3">Why do I need pregnancy tests and why should I use contraception?</BaseQuestion>
+</RQ>
+</RQs>
+</Response>
+<Response id="msp176">
+<ResponseID id="0">msp176</ResponseID>
+<BaseQuestion id="0">How long will I stay in the lab for the study?</BaseQuestion>
+<Content id="0">The study will increase the amount of time that you will be in the room by about 45 minutes.  After the study is completed you will have your scheduled ablation procedure. A follow-up visit is required 12 hours to 5 days after you receive the study drug. This follow-up visit may take up to 2 hours.</Content>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">msp138</ResponseID>
+<BaseQuestion id="1">Do my family/friends need to know that I'm participating in a clinical study?</BaseQuestion>
+</RQ>
+<RQ id="1">
+<ResponseID id="2">msp276</ResponseID>
+<BaseQuestion id="2">Will there be more needles or catheters for the purpose of the study compared to the ablation only?</BaseQuestion>
+</RQ>
+<RQ id="2">
+<ResponseID id="3">msp277</ResponseID>
+<BaseQuestion id="3">What kind of sedation/anesthesia will I receive?</BaseQuestion>
+</RQ>
+<RQ id="3">
+<ResponseID id="4">msp139</ResponseID>
+<BaseQuestion id="4">What is the purpose of the NODE-1 study?</BaseQuestion>
+</RQ>
+</RQs>
+</Response>
+<Response id="msp181">
+<ResponseID id="0">msp181</ResponseID>
+<BaseQuestion id="0">Is it normal to feel uncertain about participating in a study?</BaseQuestion>
+<Content id="0">Signing up to participate in a clinical study can be overwhelming, so it is perfectly normal to feel uncertain. You should carefully review the informed consent form that the study team has provided and ensure that you fully understand the nature and potential risks and benefits of taking part in the study. If you have any questions about the study, please talk to your heart doctor.  </Content>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">msp123</ResponseID>
+<BaseQuestion id="1">Should I talk to my regular doctor about this study?</BaseQuestion>
+</RQ>
+<RQ id="1">
+<ResponseID id="2">msp127</ResponseID>
+<BaseQuestion id="2">What rights do I have if I participate in a clinical study?</BaseQuestion>
+</RQ>
+<RQ id="2">
+<ResponseID id="3">msp186</ResponseID>
+<BaseQuestion id="3">What qualifications does the study team have?</BaseQuestion>
+</RQ>
+</RQs>
+</Response>
+<Response id="msp186">
+<ResponseID id="0">msp186</ResponseID>
+<BaseQuestion id="0">What qualifications does the study team have?</BaseQuestion>
+<Content id="0">A research team that includes doctors, nurses, research assistants, data analysts, and other specialists manages the study. The research team working in the electrophysiology room or catheterization lab   is fully specialized in electrophysiology procedures. Your heart doctor, who will perform your ablation, leads his or her research team and is ultimately responsible for any decisions concerning your safety during the study.</Content>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">msp105</ResponseID>
+<BaseQuestion id="1">Who is managing the study?</BaseQuestion>
+</RQ>
+<RQ id="1">
+<ResponseID id="2">msp188</ResponseID>
+<BaseQuestion id="2">Will the study team know what study treatment I'm getting?</BaseQuestion>
+</RQ>
+<RQ id="2">
+<ResponseID id="3">msp278</ResponseID>
+<BaseQuestion id="3">What is a study sponsor? Who is the study sponsor for the NODE-1 study?</BaseQuestion>
+</RQ>
+</RQs>
+</Response>
+<Response id="msp188">
+<ResponseID id="0">msp188</ResponseID>
+<BaseQuestion id="0">Will the study team know what study treatment I'm getting?</BaseQuestion>
+<Content id="0">Because NODE-1 is a double-blind study, the study team will not be able to tell you which study drug you are receiving in order to preserve the scientific integrity of the study.  However, this information can be communicated to the study team if there is a medical need to know it. If you have any concerns about receiving the study drug, please contact a member of the study team.  </Content>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">msp104</ResponseID>
+<BaseQuestion id="1">What are the common types of clinical research studies?</BaseQuestion>
+</RQ>
+<RQ id="1">
+<ResponseID id="2">msp113</ResponseID>
+<BaseQuestion id="2">What information will the study team be able to share with me?</BaseQuestion>
+</RQ>
+<RQ id="2">
+<ResponseID id="3">msp119</ResponseID>
+<BaseQuestion id="3">What is randomization? Is NODE-1 a randomized study?</BaseQuestion>
+</RQ>
+</RQs>
+</Response>
+<Response id="msp190">
+<ResponseID id="0">msp190</ResponseID>
+<BaseQuestion id="0">Does the investigational drug have any side effects?</BaseQuestion>
+<Content id="0">In a previous study, healthy male participants received the investigational drug, etripamil, without any serious problems. Several participants experienced nasal stuffiness and irritation. You may experience similar symptoms after receiving the study drug nasal spray.  A comprehensive list of potential known side effects of etripamil is included in the study informed consent form. You must tell the study team if you think that you are experiencing any symptoms while participating in the NODE-1 study.</Content>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">msp279</ResponseID>
+<BaseQuestion id="1">What are the risks of my participation in this clinical study?</BaseQuestion>
+</RQ>
+<RQ id="1">
+<ResponseID id="2">msp275</ResponseID>
+<BaseQuestion id="2">Will any of the procedure before or after the study be painful?</BaseQuestion>
+</RQ>
+<RQ id="2">
+<ResponseID id="3">msp273</ResponseID>
+<BaseQuestion id="3">What is the risk of staying in an episode of paroxysmal supraventricular tachycardia (PSVT)?</BaseQuestion>
+</RQ>
+<RQ id="3">
+<ResponseID id="4">msp258</ResponseID>
+<BaseQuestion id="4">What are the benefits of participating in the NODE-1 clinical study?</BaseQuestion>
+</RQ>
+</RQs>
+</Response>
+<Response id="msp242">
+<ResponseID id="0">msp242</ResponseID>
+<BaseQuestion id="0">Who will have access to my medical records and/or how will the study team protect my confidential personal information?</BaseQuestion>
+<Content id="0">The informed consent form describes who will have access to your medical records and how your confidential information will be used and protected. Access to your medical records or other information about your participation in this study will be limited to protect your confidentiality.</Content>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">msp137</ResponseID>
+<BaseQuestion id="1">Will my name be publically used during the study or when the results are published?</BaseQuestion>
+</RQ>
+<RQ id="1">
+<ResponseID id="2">msp142</ResponseID>
+<BaseQuestion id="2">When will I find out about the study results?</BaseQuestion>
+</RQ>
+</RQs>
+</Response>
+<Response id="msp258">
+<ResponseID id="0">msp258</ResponseID>
+<BaseQuestion id="0">What are the benefits of participating in the NODE-1 clinical study?</BaseQuestion>
+<Content id="0">You will not receive a personal benefit from participating in the NODE-1 study but patients with paroxysmal supraventricular tachycardia, or PSVT, could potentially benefit from your contribution in the future. The purpose of the NODE-1 study is to evaluate whether a nasal spray investigational drug called etripamil is safe and whether it may stop an episode of PSVT. This study is a required step to develop a new treatment for PSVT that can be self-administered at home when PSVT symptoms appear. A treatment option that can be administered at home is desirable because current treatment options for a long episode of PSVT require patients to go to the emergency room.</Content>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">msp262</ResponseID>
+<BaseQuestion id="1">What is paroxysmal supraventricular tachycardia (PSVT)?</BaseQuestion>
+</RQ>
+<RQ id="1">
+<ResponseID id="2">msp263</ResponseID>
+<BaseQuestion id="2">What treatments are available for paroxysmal supraventricular tachycardia (PSVT)?</BaseQuestion>
+</RQ>
+<RQ id="2">
+<ResponseID id="3">msp139</ResponseID>
+<BaseQuestion id="3">What is the purpose of the NODE-1 study?</BaseQuestion>
+</RQ>
+<RQ id="3">
+<ResponseID id="4">msp190</ResponseID>
+<BaseQuestion id="4">Does the investigational drug have any side effects?</BaseQuestion>
+</RQ>
+<RQ id="4">
+<ResponseID id="5">msp279</ResponseID>
+<BaseQuestion id="5">What are the risks of my participation in this clinical study?</BaseQuestion>
+</RQ>
+</RQs>
+</Response>
+<Response id="msp259">
+<ResponseID id="0">msp259</ResponseID>
+<BaseQuestion id="0">What is a comparative study?</BaseQuestion>
+<Content id="0">A comparative study compares the investigational drug to a medication already approved to treat the same condition or to a placebo. A placebo looks like the investigational drug but has no active ingredients. Participants in a comparative study are assigned by chance to any one of the study treatments through a process called randomization. This process allows researchers to compare the safety and efficacy of different study drugs, including a placebo, without bias.</Content>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">msp139</ResponseID>
+<BaseQuestion id="1">What is the purpose of the NODE-1 study?</BaseQuestion>
+</RQ>
+<RQ id="1">
+<ResponseID id="2">msp104</ResponseID>
+<BaseQuestion id="2">What are the common types of clinical research studies?</BaseQuestion>
+</RQ>
+<RQ id="2">
+<ResponseID id="3">msp260</ResponseID>
+<BaseQuestion id="3">What are double-blind, single-blind, and open-label studies?</BaseQuestion>
+</RQ>
+<RQ id="3">
+<ResponseID id="4">msp119</ResponseID>
+<BaseQuestion id="4">What is randomization? Is NODE-1 a randomized study?</BaseQuestion>
+</RQ>
+</RQs>
+</Response>
+<Response id="msp260">
+<ResponseID id="0">msp260</ResponseID>
+<BaseQuestion id="0">What are double-blind, single-blind, and open-label studies?</BaseQuestion>
+<Content id="0">In a "double-blind" study, neither the patient nor the study doctor knows which study treatment the patient is receiving. "Blinding" a study helps reduce the possibility that any intentional or unintentional biases are introduced into the study. Alternatively, in a "single-blind" study, the study doctor knows which study treatment the patient is receiving but the patient is not aware of what study treatment he or she is getting. In an "open-label" study, both the study doctor and the patient know which study treatment is being given and at which dose.</Content>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">msp139</ResponseID>
+<BaseQuestion id="1">What is the purpose of the NODE-1 study?</BaseQuestion>
+</RQ>
+<RQ id="1">
+<ResponseID id="2">msp104</ResponseID>
+<BaseQuestion id="2">What are the common types of clinical research studies?</BaseQuestion>
+</RQ>
+<RQ id="2">
+<ResponseID id="3">msp259</ResponseID>
+<BaseQuestion id="3">What is a comparative study?</BaseQuestion>
+</RQ>
+<RQ id="3">
+<ResponseID id="4">msp119</ResponseID>
+<BaseQuestion id="4">What is randomization? Is NODE-1 a randomized study?</BaseQuestion>
+</RQ>
+</RQs>
+</Response>
+<Response id="msp261">
+<ResponseID id="0">msp261</ResponseID>
+<BaseQuestion id="0">What is a placebo?</BaseQuestion>
+<Content id="0">Clinical studies often compare the investigational drug to a placebo. A placebo looks similar to the investigational drug but has no active ingredients. These studies are called "placebo-controlled." Patients participating in a placebo-controlled study are told during the informed consent process that there is a chance that they could receive the investigational drug or a placebo. Comparing the effects of an investigational drug to the effects of a placebo helps researchers find out if the investigational drug is safe and effective at treating the condition being studied. The NODE-1 study is testing four different doses of an investigational drug called etripamil against a placebo to see if it is safe and effective in terminating an episode of paroxysmal supraventricular tachycardia, or PSVT. In the NODE-1 study, one out of every five participants will receive placebo. In other words, a NODE-1 study participant has an 80 percent chance of receiving the investigational drug, etripamil, and a 20 percent chance of receiving placebo. If you receive placebo, it may be less likely that your PSVT episode will stop on its own, and your heart doctor may need to stop it with the usual procedures using the catheters already placed in your heart.</Content>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">msp266</ResponseID>
+<BaseQuestion id="1">Is there a placebo in the NODE-1 study? What can happen if I receive the placebo?</BaseQuestion>
+</RQ>
+<RQ id="1">
+<ResponseID id="2">msp139</ResponseID>
+<BaseQuestion id="2">What is the purpose of the NODE-1 study?</BaseQuestion>
+</RQ>
+<RQ id="2">
+<ResponseID id="3">msp104</ResponseID>
+<BaseQuestion id="3">What are the common types of clinical research studies?</BaseQuestion>
+</RQ>
+</RQs>
+</Response>
+<Response id="msp262">
+<ResponseID id="0">msp262</ResponseID>
+<BaseQuestion id="0">What is paroxysmal supraventricular tachycardia (PSVT)?</BaseQuestion>
+<Content id="0">Paroxysmal supraventricular tachycardia, also called PSVT, occurs due to an abnormality in the electrical system of the heart. People with this condition have episodes of rapid heart rate. These episodes typically start and stop without warning. A normal resting heart rate is between 60 and 100 beats per minute, but heart rates during an episode of PSVT may range from 125 to 300 beats per minute. PSVT is not typically life threatening, but the associated symptoms may be uncomfortable. This may impact a patient's lifestyle by limiting certain physical activities.   </Content>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">msp263</ResponseID>
+<BaseQuestion id="1">What treatments are available for paroxysmal supraventricular tachycardia (PSVT)?</BaseQuestion>
+</RQ>
+<RQ id="1">
+<ResponseID id="2">msp264</ResponseID>
+<BaseQuestion id="2">What is catheter ablation?</BaseQuestion>
+</RQ>
+<RQ id="2">
+<ResponseID id="3">msp271</ResponseID>
+<BaseQuestion id="3">Why does my heart doctor need to induce an episode of paroxysmal supraventricular tachycardia (PSVT) to test the investigational drug?</BaseQuestion>
+</RQ>
+</RQs>
+</Response>
+<Response id="msp263">
+<ResponseID id="0">msp263</ResponseID>
+<BaseQuestion id="0">What treatments are available for paroxysmal supraventricular tachycardia (PSVT)?</BaseQuestion>
+<Content id="0">Episodes of paroxysmal supraventricular tachycardia, or PSVT, can stop on their own or can sometimes be stopped by taking certain actions. Some examples of actions that may stop an episode of PSVT include holding your breath and straining as if you were trying to have a bowel movement, coughing while sitting with your upper body bent forward, or splashing ice water on your face. If the episode does not stop in a reasonable time frame, intravenous medication can be given in the emergency room. Long-term treatments for people who have repeat episodes of PSVT may include taking regular medications to reduce the frequency of episodes. For some patients, catheter ablation can permanently correct the abnormality in the electrical system of the heart. The NODE-1 study is evaluating whether an investigational nasal spray drug called etripamil can safely and effectively stop an episode of PSVT. Etripamil is thought to work similarly to some other medications that are already given to PSVT patients intravenously in emergency rooms, but it is a nasal spray that patients may be able to self-administer at home when PSVT symptoms appear. </Content>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">msp262</ResponseID>
+<BaseQuestion id="1">What is paroxysmal supraventricular tachycardia (PSVT)?</BaseQuestion>
+</RQ>
+<RQ id="1">
+<ResponseID id="2">msp264</ResponseID>
+<BaseQuestion id="2">What is catheter ablation?</BaseQuestion>
+</RQ>
+<RQ id="2">
+<ResponseID id="3">msp271</ResponseID>
+<BaseQuestion id="3">Why does my heart doctor need to induce an episode of paroxysmal supraventricular tachycardia (PSVT) to test the investigational drug?</BaseQuestion>
+</RQ>
+</RQs>
+</Response>
+<Response id="msp264">
+<ResponseID id="0">msp264</ResponseID>
+<BaseQuestion id="0">What is catheter ablation?</BaseQuestion>
+<Content id="0">Catheter ablation is a medical procedure used to treat many types of arrhythmias, including paroxysmal supraventricular tachycardia, or PSVT. During an ablation, a heart doctor trained in cardiac electrophysiology first places small wires called catheters into the heart. The doctor then induces an episode of PSVT to examine the electrical system of the heart and locate the abnormality causing the PSVT. Finally, the doctor uses the catheters to destroy the tissue that is causing the PSVT without damaging the rest of the heart.</Content>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">msp139</ResponseID>
+<BaseQuestion id="1">What is the purpose of the NODE-1 study?</BaseQuestion>
+</RQ>
+<RQ id="1">
+<ResponseID id="2">msp271</ResponseID>
+<BaseQuestion id="2">Why does my heart doctor need to induce an episode of paroxysmal supraventricular tachycardia (PSVT) to test the investigational drug?</BaseQuestion>
+</RQ>
+<RQ id="2">
+<ResponseID id="3">msp272</ResponseID>
+<BaseQuestion id="3">How long do I need to stay in an episode of paroxysmal supraventricular tachycardia (PSVT)? How does this compare to standard ablation tests for PSVT?</BaseQuestion>
+</RQ>
+<RQ id="3">
+<ResponseID id="4">msp276</ResponseID>
+<BaseQuestion id="4">Will there be more needles or catheters for the purpose of the study compared to the ablation only?</BaseQuestion>
+</RQ>
+</RQs>
+</Response>
+<Response id="msp265">
+<ResponseID id="0">msp265</ResponseID>
+<BaseQuestion id="0">Is the NODE-1 study single blind or double blind?</BaseQuestion>
+<Content id="0">This study is double blind. In a double-blind study, neither the study doctor nor the patient knows who is receiving the investigational drug. "Blinding" a study reduces the risk of intentional or unintentional biases are introduced into the study.</Content>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">msp260</ResponseID>
+<BaseQuestion id="1">What are double-blind, single-blind, and open-label studies?</BaseQuestion>
+</RQ>
+<RQ id="1">
+<ResponseID id="2">msp188</ResponseID>
+<BaseQuestion id="2">Will the study team know what study treatment I'm getting?</BaseQuestion>
+</RQ>
+<RQ id="2">
+<ResponseID id="3">msp266</ResponseID>
+<BaseQuestion id="3">Is there a placebo in the NODE-1 study? What can happen if I receive the placebo?</BaseQuestion>
+</RQ>
+</RQs>
+</Response>
+<Response id="msp266">
+<ResponseID id="0">msp266</ResponseID>
+<BaseQuestion id="0">Is there a placebo in the NODE-1 study? What can happen if I receive the placebo?</BaseQuestion>
+<Content id="0">Placebo is used in this study. A placebo looks like the investigational drug, but has no active ingredients. Comparing the effects of an investigational drug to the effects of placebo helps researchers find out if an investigational drug is safe and effective for the condition being studied. If you participate in the NODE-1 study, you will be randomly assigned to receive either the investigational drug or placebo. You will not know which study drug you receive, but you have an 80 percent chance of receiving the investigational drug and a 20 percent chance of receiving placebo. If you receive placebo, it may be less likely that your episode of paroxysmal supraventricular tachycardia, or PSVT, will stop on its own, and your heart doctor may need to stop it with the usual procedures using the catheters already placed in your heart. An electrophysiology study is always done right before an ablation to identify and locate the source of the PSVT. Therefore, the process of starting and stopping your PSVT episode through the catheters is the same process for any ablation, whether or not you participate in the NODE-1 study. If you participate in NODE-1, the total length of your induced PSVT episode will be longer than what is typical during an ablation procedure.</Content>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">msp139</ResponseID>
+<BaseQuestion id="1">What is the purpose of the NODE-1 study?</BaseQuestion>
+</RQ>
+<RQ id="1">
+<ResponseID id="2">msp260</ResponseID>
+<BaseQuestion id="2">What are double-blind, single-blind, and open-label studies?</BaseQuestion>
+</RQ>
+<RQ id="2">
+<ResponseID id="3">msp259</ResponseID>
+<BaseQuestion id="3">What is a comparative study?</BaseQuestion>
+</RQ>
+</RQs>
+</Response>
+<Response id="msp267">
+<ResponseID id="0">msp267</ResponseID>
+<BaseQuestion id="0">How is the investigational drug intended to work to stop an episode of paroxysmal supraventricular tachycardia (PSVT)?</BaseQuestion>
+<Content id="0">The investigational drug, etripamil, may stop an episode of paroxysmal supraventricular tachycardia, or PSVT, by changing the activity of the abnormal electrical system in the heart that is causing the PSVT. Etripamil is thought to work similarly to some other medications that are already given to PSVT patients intravenously in emergency rooms, but it is a nasal spray that patients may be able to self-administer at home when PSVT symptoms appear. </Content>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">msp139</ResponseID>
+<BaseQuestion id="1">What is the purpose of the NODE-1 study?</BaseQuestion>
+</RQ>
+<RQ id="1">
+<ResponseID id="2">msp268</ResponseID>
+<BaseQuestion id="2">How will you know if the investigational drug works for me?</BaseQuestion>
+</RQ>
+<RQ id="2">
+<ResponseID id="3">msp269</ResponseID>
+<BaseQuestion id="3">How will you know if the investigational drug works?</BaseQuestion>
+</RQ>
+</RQs>
+</Response>
+<Response id="msp268">
+<ResponseID id="0">msp268</ResponseID>
+<BaseQuestion id="0">How will you know if the investigational drug works for me?</BaseQuestion>
+<Content id="0">The electrodes that will be placed on your body and in your heart will allow your heart doctor to monitor your heart; this is necessary for both the study and the ablation procedure. For NODE-1 participants, your heart doctor will induce an episode of paroxysmal supraventricular tachycardia, or PSVT, similar to the episodes you had on your own. You will remain in the PSVT episode for at least 5 minutes before receiving the study drug as a nasal spray in your nostrils. The study team will observe you closely, and if the PSVT episode does not stop within 15 minutes of you receiving the study drug, your heart doctor will stop the PSVT with the usual procedures using the catheters already placed in your heart.</Content>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">msp139</ResponseID>
+<BaseQuestion id="1">What is the purpose of the NODE-1 study?</BaseQuestion>
+</RQ>
+<RQ id="1">
+<ResponseID id="2">msp267</ResponseID>
+<BaseQuestion id="2">How is the investigational drug intended to work to stop an episode of paroxysmal supraventricular tachycardia (PSVT)?</BaseQuestion>
+</RQ>
+<RQ id="2">
+<ResponseID id="3">msp269</ResponseID>
+<BaseQuestion id="3">How will you know if the investigational drug works?</BaseQuestion>
+</RQ>
+</RQs>
+</Response>
+<Response id="msp269">
+<ResponseID id="0">msp269</ResponseID>
+<BaseQuestion id="0">How will you know if the investigational drug works?</BaseQuestion>
+<Content id="0">After the end of the NODE-1 study and once all data from participants is compiled, a detailed analysis will be performed to determine whether one or more doses of the investigational drug, etripamil, is statistically more effective than placebo in stopping an episode of paroxysmal supraventricular tachycardia, or PSVT. If etripamil is found to be safe and effective in the NODE-1 study, additional studies will be done to test etripamil in a larger number of people with PSVT. After all the necessary studies are successfully completed, all study data will be presented to regulatory agencies that will decide if etripamil can be approved as a medication that should be made available to the general public. </Content>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">msp139</ResponseID>
+<BaseQuestion id="1">What is the purpose of the NODE-1 study?</BaseQuestion>
+</RQ>
+<RQ id="1">
+<ResponseID id="2">msp267</ResponseID>
+<BaseQuestion id="2">How is the investigational drug intended to work to stop an episode of paroxysmal supraventricular tachycardia (PSVT)?</BaseQuestion>
+</RQ>
+<RQ id="2">
+<ResponseID id="3">msp268</ResponseID>
+<BaseQuestion id="3">How will you know if the investigational drug works for me?</BaseQuestion>
+</RQ>
+</RQs>
+</Response>
+<Response id="msp270">
+<ResponseID id="0">msp270</ResponseID>
+<BaseQuestion id="0">Why do I need pregnancy tests and why should I use contraception?</BaseQuestion>
+<Content id="0">The effects of the investigational drug on a pregnancy or an unborn baby are unknown. If you become pregnant before the day of your scheduled ablation, you will not be able to participate in the study. You must use an approved birth control method or remain abstinent from the study screening visit until 30†days after you receive the study drug. A member of the study team will provide you with a list of approved birth control methods.</Content>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">msp190</ResponseID>
+<BaseQuestion id="1">Does the investigational drug have any side effects?</BaseQuestion>
+</RQ>
+<RQ id="1">
+<ResponseID id="2">msp279</ResponseID>
+<BaseQuestion id="2">What are the risks of my participation in this clinical study?</BaseQuestion>
+</RQ>
+</RQs>
+</Response>
+<Response id="msp271">
+<ResponseID id="0">msp271</ResponseID>
+<BaseQuestion id="0">Why does my heart doctor need to induce an episode of paroxysmal supraventricular tachycardia (PSVT) to test the investigational drug?</BaseQuestion>
+<Content id="0">An electrophysiology study, including induction of an episode of paroxysmal supraventricular tachycardia, or PSVT, is always done just before an ablation procedure in order to identify and locate the source of the PSVT. This electrophysiology study will be done even if you chose not to participate in the NODE-1 study. If you participate in the NODE-1 study, your episode of PSVT will last longer than what is typical during an electrophysiology study. In the NODE-1 study, it is necessary to induce or start an episode of PSVT because the goal of the study is to determine if an episode can be stopped after the administration of the investigational drug, etripamil. In the NODE-1 study, your heart doctor will induce an episode of PSVT similar to the ones you experienced on your own. The PSVT episode will be sustained for at least five minutes, and then you will receive the study drug as a nasal spray in your nostrils. You will be observed by the study team, and if the PSVT episode does not stop within 15 minutes, your heart doctor will stop the PSVT with the usual procedures using the catheters already placed in your heart.</Content>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">msp272</ResponseID>
+<BaseQuestion id="1">How long do I need to stay in an episode of paroxysmal supraventricular tachycardia (PSVT)? How does this compare to standard ablation tests for PSVT?</BaseQuestion>
+</RQ>
+<RQ id="1">
+<ResponseID id="2">msp273</ResponseID>
+<BaseQuestion id="2">What is the risk of staying in an episode of paroxysmal supraventricular tachycardia (PSVT)?</BaseQuestion>
+</RQ>
+<RQ id="2">
+<ResponseID id="3">msp274</ResponseID>
+<BaseQuestion id="3">Can my heart doctor stop the episode of paroxysmal supraventricular tachycardia (PSVT) if the investigational drug does not work?</BaseQuestion>
+</RQ>
+</RQs>
+</Response>
+<Response id="msp272">
+<ResponseID id="0">msp272</ResponseID>
+<BaseQuestion id="0">How long do I need to stay in an episode of paroxysmal supraventricular tachycardia (PSVT)? How does this compare to standard ablation tests for PSVT?</BaseQuestion>
+<Content id="0">For NODE-1 participants, your heart doctor will induce an episode of paroxysmal supraventricular tachycardia, or PSVT, similar to the episodes you experienced on your own. An electrophysiology study, including induction of a PSVT episode, is always done just before an ablation procedure in order to identify and locate the source of the PSVT. Your episode of PSVT will last longer if you participate in the study compared to the episode of PSVT you will experience if you only undergo the ablation. The PSVT episode will be sustained for at least five minutes and then you will receive the study drug as a nasal spray in your nostrils. The study team will observe your heart constantly, and if the PSVT episode does not stop within 15 minutes, your heart doctor will stop the PSVT with the usual procedures using the catheters already in place in your heart. If you participate in the NODE-1 study, the ablation procedure will be performed right after the study and will be the same as it would be if you did not participate in the study.</Content>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">msp271</ResponseID>
+<BaseQuestion id="1">Why does my heart doctor need to induce an episode of paroxysmal supraventricular tachycardia (PSVT) to test the investigational drug?</BaseQuestion>
+</RQ>
+<RQ id="1">
+<ResponseID id="2">msp273</ResponseID>
+<BaseQuestion id="2">What is the risk of staying in an episode of paroxysmal supraventricular tachycardia (PSVT)?</BaseQuestion>
+</RQ>
+<RQ id="2">
+<ResponseID id="3">msp274</ResponseID>
+<BaseQuestion id="3">Can my heart doctor stop the episode of paroxysmal supraventricular tachycardia (PSVT) if the investigational drug does not work?</BaseQuestion>
+</RQ>
+</RQs>
+</Response>
+<Response id="msp273">
+<ResponseID id="0">msp273</ResponseID>
+<BaseQuestion id="0">What is the risk of staying in an episode of paroxysmal supraventricular tachycardia (PSVT)?</BaseQuestion>
+<Content id="0">An episode of paroxysmal supraventricular tachycardia, or PSVT, causes stress on your body and organs, which is likely why you are undergoing an ablation in the first place. You will be under the supervision of your heart doctor and his or her trained study team at all times. If at any time you feel too uncomfortable or if your heart doctor determines that your condition is unsafe, he or she will stop the PSVT episode immediately with the usual procedures using the catheters already placed in your heart.</Content>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">msp271</ResponseID>
+<BaseQuestion id="1">Why does my heart doctor need to induce an episode of paroxysmal supraventricular tachycardia (PSVT) to test the investigational drug?</BaseQuestion>
+</RQ>
+<RQ id="1">
+<ResponseID id="2">msp272</ResponseID>
+<BaseQuestion id="2">How long do I need to stay in an episode of paroxysmal supraventricular tachycardia (PSVT)? How does this compare to standard ablation tests for PSVT?</BaseQuestion>
+</RQ>
+<RQ id="2">
+<ResponseID id="3">msp274</ResponseID>
+<BaseQuestion id="3">Can my heart doctor stop the episode of paroxysmal supraventricular tachycardia (PSVT) if the investigational drug does not work?</BaseQuestion>
+</RQ>
+</RQs>
+</Response>
+<Response id="msp274">
+<ResponseID id="0">msp274</ResponseID>
+<BaseQuestion id="0">Can my heart doctor stop the episode of paroxysmal supraventricular tachycardia (PSVT) if the investigational drug does not work?</BaseQuestion>
+<Content id="0">You will be under the supervision of your heart doctor and his or her trained study team at all times. Your heart doctor is an electrophysiologist, a cardiologist with advanced training, and is the same doctor who will perform your ablation. If at any time you feel too uncomfortable or if your heart doctor determines that your condition is unsafe, he or she will stop the PSVT episode immediately with the usual procedures using the catheters already placed in your heart.</Content>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">msp271</ResponseID>
+<BaseQuestion id="1">Why does my heart doctor need to induce an episode of paroxysmal supraventricular tachycardia (PSVT) to test the investigational drug?</BaseQuestion>
+</RQ>
+<RQ id="1">
+<ResponseID id="2">msp272</ResponseID>
+<BaseQuestion id="2">How long do I need to stay in an episode of paroxysmal supraventricular tachycardia (PSVT)? How does this compare to standard ablation tests for PSVT?</BaseQuestion>
+</RQ>
+<RQ id="2">
+<ResponseID id="3">msp273</ResponseID>
+<BaseQuestion id="3">What is the risk of staying in an episode of paroxysmal supraventricular tachycardia (PSVT)?</BaseQuestion>
+</RQ>
+</RQs>
+</Response>
+<Response id="msp275">
+<ResponseID id="0">msp275</ResponseID>
+<BaseQuestion id="0">Will any of the procedure before or after the study be painful?</BaseQuestion>
+<Content id="0">If you participate in the NODE-1 study, your episode of paroxysmal supraventricular tachycardia, or PSVT, will last longer than what is typical during an electrophysiology study. An electrophysiology study is done prior to an ablation procedure and therefore will be done regardless of whether you participate in the NODE-1 study. During this time, you may experience typical symptoms associated with an episode of PSVT. Some patients also experience pain caused by the catheter ablation procedure, which will take place immediately after the NODE-1 study, and will be performed regardless of whether you participate in the study. Sedation and local anesthesia will be available to make you as comfortable as possible.</Content>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">msp277</ResponseID>
+<BaseQuestion id="1">What kind of sedation/anesthesia will I receive?</BaseQuestion>
+</RQ>
+<RQ id="1">
+<ResponseID id="2">msp279</ResponseID>
+<BaseQuestion id="2">What are the risks of my participation in this clinical study?</BaseQuestion>
+</RQ>
+<RQ id="2">
+<ResponseID id="3">msp190</ResponseID>
+<BaseQuestion id="3">Does the investigational drug have any side effects?</BaseQuestion>
+</RQ>
+</RQs>
+</Response>
+<Response id="msp276">
+<ResponseID id="0">msp276</ResponseID>
+<BaseQuestion id="0">Will there be more needles or catheters for the purpose of the study compared to the ablation only?</BaseQuestion>
+<Content id="0">Any patient receiving an ablation procedure will have several special catheters positioned inside their heart; no additional catheter is required for the NODE-1 study. Study participants, however, will have three extra blood draws at three separate study visits.</Content>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">msp277</ResponseID>
+<BaseQuestion id="1">What kind of sedation/anesthesia will I receive?</BaseQuestion>
+</RQ>
+<RQ id="1">
+<ResponseID id="2">msp275</ResponseID>
+<BaseQuestion id="2">Will any of the procedure before or after the study be painful?</BaseQuestion>
+</RQ>
+<RQ id="2">
+<ResponseID id="3">msp267</ResponseID>
+<BaseQuestion id="3">How is the investigational drug intended to work to stop an episode of paroxysmal supraventricular tachycardia (PSVT)?</BaseQuestion>
+</RQ>
+</RQs>
+</Response>
+<Response id="msp277">
+<ResponseID id="0">msp277</ResponseID>
+<BaseQuestion id="0">What kind of sedation/anesthesia will I receive?</BaseQuestion>
+<Content id="0">You will receive sedation and local anesthesia as determined by your heart doctor. During the procedure, you will stay sufficiently conscious to be able to communicate with the study team.</Content>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">msp275</ResponseID>
+<BaseQuestion id="1">Will any of the procedure before or after the study be painful?</BaseQuestion>
+</RQ>
+<RQ id="1">
+<ResponseID id="2">msp105</ResponseID>
+<BaseQuestion id="2">Who is managing the study?</BaseQuestion>
+</RQ>
+<RQ id="2">
+<ResponseID id="3">msp272</ResponseID>
+<BaseQuestion id="3">How long do I need to stay in an episode of paroxysmal supraventricular tachycardia (PSVT)? How does this compare to standard ablation tests for PSVT?</BaseQuestion>
+</RQ>
+</RQs>
+</Response>
+<Response id="msp278">
+<ResponseID id="0">msp278</ResponseID>
+<BaseQuestion id="0">What is a study sponsor? Who is the study sponsor for the NODE-1 study?</BaseQuestion>
+<Content id="0">A study sponsor is a pharmaceutical company or other organization that initiates a clinical study to test one of its products. The sponsor typically finances the study and is responsible for running the study and managing the study team. Milestone Pharmaceuticals, Inc. is the sponsor of the NODE-1 study.  </Content>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">msp139</ResponseID>
+<BaseQuestion id="1">What is the purpose of the NODE-1 study?</BaseQuestion>
+</RQ>
+<RQ id="1">
+<ResponseID id="2">msp148</ResponseID>
+<BaseQuestion id="2">Will I have to pay for study drugs and tests?</BaseQuestion>
+</RQ>
+<RQ id="2">
+<ResponseID id="3">msp155</ResponseID>
+<BaseQuestion id="3">Will I get paid to participate?</BaseQuestion>
+</RQ>
+<RQ id="3">
+<ResponseID id="4">msp153</ResponseID>
+<BaseQuestion id="4">What will my health insurance cover?</BaseQuestion>
+</RQ>
+</RQs>
+</Response>
+<Response id="msp279">
+<ResponseID id="0">msp279</ResponseID>
+<BaseQuestion id="0">What are the risks of my participation in this clinical study?</BaseQuestion>
+<Content id="0">All medications can cause side effects.  A comprehensive list of potential known side effects of the investigational drug is included in the study informed consent form. You must tell the study team if you think you are experiencing any symptoms while participating in the study. Because the investigational drug in the NODE-1 study, etripamil, is investigational, there may be unknown side effects when it is taken alone or in combination with other medications.</Content>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">msp190</ResponseID>
+<BaseQuestion id="1">Does the investigational drug have any side effects?</BaseQuestion>
+</RQ>
+<RQ id="1">
+<ResponseID id="2">msp258</ResponseID>
+<BaseQuestion id="2">What are the benefits of participating in the NODE-1 clinical study?</BaseQuestion>
+</RQ>
+<RQ id="2">
+<ResponseID id="3">msp263</ResponseID>
+<BaseQuestion id="3">What treatments are available for paroxysmal supraventricular tachycardia (PSVT)?</BaseQuestion>
+</RQ>
+<RQ id="3">
+<ResponseID id="4">msp262</ResponseID>
+<BaseQuestion id="4">What is paroxysmal supraventricular tachycardia (PSVT)?</BaseQuestion>
+</RQ>
+</RQs>
+</Response>
+</xml>

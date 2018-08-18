@@ -1,0 +1,97 @@
+<xml>
+  <Module id='0'>
+    <Heading>
+      Overview: AlcoholSBIRT
+    </Heading>
+    <ResponseID>asb1_did001</ResponseID>
+  </Module>
+  <Module id='1'>
+    <Heading>
+      Module 1: Background
+    </Heading>
+    <ResponseID>asb1_did003</ResponseID>
+  </Module>
+  <Module id='2'>
+    <Heading>
+      Module 2: How AlcoholSBIRT Works
+    </Heading>
+    <ResponseID>asb1_did007</ResponseID>
+  </Module>
+  <Module id='3'>
+    <Heading>
+      Module 3: Screening with AUDIT-C
+    </Heading>
+    <ResponseID>asb1_did010</ResponseID>
+    <ResponseID>asb1_mod3_vig1</ResponseID>
+  </Module>
+  <Module id='4'>
+    <Heading>
+      Module 4: Bringing Attention to Elevated Drinking Levels
+    </Heading>
+    <ResponseID>asb1_did018</ResponseID>
+    <ResponseID>asb1_mod4_vig1</ResponseID>
+    <ResponseID>asb1_mod4_sp1intro</ResponseID>
+    <ResponseID>asb1_did021</ResponseID>
+  </Module>
+  <Module id='5'>
+    <Heading>
+      Module 5: Recommending Limiting use or Abstaining
+    </Heading>
+    <ResponseID>asb1_did022</ResponseID>
+  </Module>
+  <Module id='6'>
+    <Heading>
+      Module 6: Inform about the Effects of Alcohol
+    </Heading>
+    <ResponseID>asb1_did024</ResponseID>
+    <ResponseID>asb1_mod6_vig1</ResponseID>
+    <ResponseID>asb1_mod6_sp1intro</ResponseID>
+  </Module>
+  <Module id='7'>
+    <Heading>
+      Module 7: Exploring Low-Risk Drinking Goals
+    </Heading>
+    <ResponseID>asb1_did026</ResponseID>
+    <ResponseID>asb1_did027</ResponseID>
+    <ResponseID>asb1_mod7_vig1</ResponseID>
+    <ResponseID>asb1_mod7_sp1intro</ResponseID>
+    <ResponseID>asb1_did028</ResponseID>
+    <ResponseID>asb1_mod7_vig2</ResponseID>
+    <ResponseID>asb1_did029</ResponseID>
+    <ResponseID>asb1_mod7_vig3</ResponseID>
+    <ResponseID>asb1_mod7_sp2intro</ResponseID>
+    <ResponseID>asb1_did030</ResponseID>
+    <ResponseID>asb1_mod7_vig4</ResponseID>
+    <ResponseID>asb1_did031</ResponseID>
+  </Module>
+  <Module id='8'>
+    <Heading>
+      Module 8: Follow-Up
+    </Heading>
+    <ResponseID>asb1_did033</ResponseID>
+    <ResponseID>asb1_mod8_vig1</ResponseID>
+    <ResponseID>asb1_mod8_sp1intro</ResponseID>
+    <ResponseID>asb1_did034</ResponseID>
+  </Module>
+  <Module id='9'>
+    <Heading>
+      Module 9: Referral to Treatment
+    </Heading>
+    <ResponseID>asb1_did035</ResponseID>
+    <ResponseID>asb1_did036</ResponseID>
+    <ResponseID>asb1_mod9_vig1</ResponseID>
+  </Module>
+  <Module id='10'>
+    <Heading>
+      Patient Simulation
+    </Heading>
+    <ResponseID>asb1_did038</ResponseID>
+    <ResponseID>asb1_mod10_ps1s1</ResponseID>
+    <ResponseID>asb1_mod10_ps1s2</ResponseID>
+    <ResponseID>asb1_mod10_ps1s3</ResponseID>
+    <ResponseID>asb1_mod10_ps1s4</ResponseID>
+    <ResponseID>asb1_mod10_ps1s5</ResponseID>
+    <ResponseID>asb1_mod10_ps1s6</ResponseID>
+    <ResponseID>asb1_did039</ResponseID>
+  </Module>
+</xml>

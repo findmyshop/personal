@@ -1,0 +1,13 @@
+<xml>
+	<Module id='0' type='link'>
+		<ResponseID type="heading">fun0000</ResponseID>
+	</Module>
+	<Module id='1' type="link">
+		<ResponseID type="heading">enr0202</ResponseID>
+		<ResponseID type="sub-heading">enr0301</ResponseID>
+		<ResponseID type="sub-heading">enr0401</ResponseID>
+		<ResponseID type="sub-heading">enr0501</ResponseID>
+		<ResponseID type="sub-heading">enr0601</ResponseID>
+		<ResponseID type="heading">enr0702</ResponseID>
+	</Module>
+</xml>

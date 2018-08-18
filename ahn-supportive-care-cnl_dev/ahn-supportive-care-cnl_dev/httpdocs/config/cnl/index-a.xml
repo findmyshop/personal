@@ -1,0 +1,956 @@
+<xml>
+<Response id="cnl001">
+<ResponseID id="0">cnl001</ResponseID>
+<BaseQuestion id="0"></BaseQuestion>
+<Content id="0"></Content>
+</Response>
+
+
+<!--Introduction -->
+
+<Response id="cnl003">
+<ResponseID id="0">cnl003</ResponseID>
+<BaseQuestion id="0">Response to Patient User</BaseQuestion>
+<Content id="0">Response to Patient User</Content>
+</Response>
+
+<Response id="cnl010">
+<ResponseID id="0">cnl010</ResponseID>
+<BaseQuestion id="0">What is lung cancer?</BaseQuestion>
+<Content id="0">What is lung cancer?</Content>
+</Response>
+
+<Response id="cnl011">
+<ResponseID id="0">cnl011</ResponseID>
+<BaseQuestion id="0">What type of lung cancer?</BaseQuestion>
+<Content id="0">What type of lung cancer?</Content>
+</Response>
+
+<Response id="cnl032">
+<ResponseID id="0">cnl032</ResponseID>
+<BaseQuestion id="0">Segue to general lung cancer.</BaseQuestion>
+<Content id="0">Segue to general lung cancer.</Content>
+</Response>
+
+<Response id="cnl254">
+<ResponseID id="0">cnl254</ResponseID>
+<BaseQuestion id="0">How is cancer diagnosed?</BaseQuestion>
+<Content id="0">How is cancer diagnosed?</Content>
+</Response>
+
+<!-- Introduction -->
+<!-- PATH 4 -->
+<Response id="cnl015">
+<ResponseID id="0">cnl015</ResponseID>
+<BaseQuestion id="0"></BaseQuestion>
+<Content id="0"></Content>
+</Response>
+<Response id="cnl017a">
+<ResponseID id="0">cnl017a</ResponseID>
+<BaseQuestion id="0"></BaseQuestion>
+<Content id="0"></Content>
+</Response>
+<Response id="cnl018">
+<ResponseID id="0">cnl018</ResponseID>
+<BaseQuestion id="0"></BaseQuestion>
+<Content id="0"></Content>
+</Response>
+<Response id="cnl019">
+<ResponseID id="0">cnl019</ResponseID>
+<BaseQuestion id="0"></BaseQuestion>
+<Content id="0"></Content>
+</Response>
+<!-- PATH 4 -->
+<!-- Welcome Back -->
+<Response id="cnl353">
+<ResponseID id="0">cnl353</ResponseID>
+<BaseQuestion id="0"></BaseQuestion>
+<Content id="0">Welcome Back</Content>
+</Response>
+
+<Response id="cnl355">
+<ResponseID id="0">cnl355</ResponseID>
+<BaseQuestion id="0"></BaseQuestion>
+<Content id="0">Welcome Back</Content>
+</Response>
+
+<Response id="cnl354">
+<ResponseID id="0">cnl354</ResponseID>
+<BaseQuestion id="0"></BaseQuestion>
+<Content id="0">Welcome Back</Content>
+</Response>
+<!-- Welcome Back -->
+ <!-- Path 2  -->
+<Response id="cnl020a">
+<ResponseID id="0">cnl020a</ResponseID>
+<BaseQuestion id="0"></BaseQuestion>
+<Content id="0"></Content>
+</Response>
+<Response id="cnl034">
+<ResponseID id="0">cnl034</ResponseID>
+<BaseQuestion id="0"></BaseQuestion>
+<Content id="0"></Content>
+</Response>
+    <!-- Adencocaricinoma -->
+    <Response id="cnl035a">
+    <ResponseID id="0">cnl035a</ResponseID>
+    <BaseQuestion id="0"></BaseQuestion>
+    <Content id="0"></Content>
+    </Response> 
+    <!-- Adencocaricinoma -->
+    <!-- Squamaous -->
+        <Response id="cnl036a">
+    <ResponseID id="0">cnl036a</ResponseID>
+    <BaseQuestion id="0"></BaseQuestion>
+    <Content id="0"></Content>
+    </Response> 
+    <!-- Squamaous -->
+    <!-- Large Cell -->
+        <Response id="cnl037a">
+    <ResponseID id="0">cnl037a</ResponseID>
+    <BaseQuestion id="0"></BaseQuestion>
+    <Content id="0"></Content>
+    </Response>  
+    <!-- Large Cell -->
+    <!-- CUP -->
+    <Response id="cnl039a">
+    <ResponseID id="0">cnl039a</ResponseID>
+    <BaseQuestion id="0"></BaseQuestion>
+    <Content id="0"></Content>
+    </Response> 
+    <!-- CUP -->
+    <!-- IDK -->
+    <Response id="cnl358">
+    <ResponseID id="0">cnl358</ResponseID>
+    <BaseQuestion id="0"></BaseQuestion>
+    <Content id="0"></Content>
+    </Response> 
+        <Response id="cnl035">
+    <ResponseID id="0">cnl035</ResponseID>
+    <BaseQuestion id="0"></BaseQuestion>
+    <Content id="0"></Content>
+    </Response>
+    <Response id="cnl036">
+    <ResponseID id="0">cnl036</ResponseID>
+    <BaseQuestion id="0"></BaseQuestion>
+    <Content id="0"></Content>
+    </Response>
+    <Response id="cnl037">
+    <ResponseID id="0">cnl037</ResponseID>
+    <BaseQuestion id="0"></BaseQuestion>
+    <Content id="0"></Content>
+    </Response>
+    <Response id="cnl038">
+    <ResponseID id="0">cnl038</ResponseID>
+    <BaseQuestion id="0"></BaseQuestion>
+    <Content id="0"></Content>
+    </Response>
+    <Response id="cnl039">
+    <ResponseID id="0">cnl039</ResponseID>
+    <BaseQuestion id="0"></BaseQuestion>
+    <Content id="0"></Content>
+    </Response>
+    <!-- IDK -->
+    <Response id="cnl137">
+    <ResponseID id="0">cnl137</ResponseID>
+    <BaseQuestion id="0"></BaseQuestion>
+    <Content id="0"></Content>
+    </Response>
+    <Response id="cnl041">
+    <ResponseID id="0">cnl041</ResponseID>
+    <BaseQuestion id="0"></BaseQuestion>
+    <Content id="0"></Content>
+    </Response>
+    <!-- STAGE -->
+        <!-- STAGE1 -->
+                <Response id="cnl042a">
+                <ResponseID id="0">cnl042a</ResponseID>
+                <BaseQuestion id="0"></BaseQuestion>
+                <Content id="0"></Content>
+                </Response>   
+               <Response id="cnl049">
+                <ResponseID id="0">cnl049</ResponseID>
+                <BaseQuestion id="0"></BaseQuestion>
+                <Content id="0"></Content>
+                </Response>
+               <Response id="cnl050">
+                <ResponseID id="0">cnl050</ResponseID>
+                <BaseQuestion id="0"></BaseQuestion>
+                <Content id="0"></Content>
+                </Response>             
+               <Response id="cnl051">
+                <ResponseID id="0">cnl051</ResponseID>
+                <BaseQuestion id="0"></BaseQuestion>
+                <Content id="0"></Content>
+                </Response> 
+               <Response id="cnl052">
+                <ResponseID id="0">cnl052</ResponseID>
+                <BaseQuestion id="0"></BaseQuestion>
+                <Content id="0"></Content>
+                </Response>                               
+        <!-- STAGE1 -->
+        <!-- STAGE 2 -->
+                <Response id="cnl043a">
+                <ResponseID id="0">cnl043a</ResponseID>
+                <BaseQuestion id="0"></BaseQuestion>
+                <Content id="0"></Content>
+                </Response>          
+        <!-- STAGE 2 -->
+        <!-- STAGE 3A -->
+                <Response id="cnl044a">
+                <ResponseID id="0">cnl044a</ResponseID>
+                <BaseQuestion id="0"></BaseQuestion>
+                <Content id="0"></Content>
+                </Response>
+                <Response id="cnl053">
+                <ResponseID id="0">cnl053</ResponseID>
+                <BaseQuestion id="0"></BaseQuestion>
+                <Content id="0"></Content>
+                </Response>                 
+                <Response id="cnl054">
+                <ResponseID id="0">cnl054</ResponseID>
+                <BaseQuestion id="0"></BaseQuestion>
+                <Content id="0"></Content>
+                </Response> 
+                <Response id="cnl055">
+                <ResponseID id="0">cnl055</ResponseID>
+                <BaseQuestion id="0"></BaseQuestion>
+                <Content id="0"></Content>
+                </Response>     
+                <Response id="cnl056">
+                <ResponseID id="0">cnl056</ResponseID>
+                <BaseQuestion id="0"></BaseQuestion>
+                <Content id="0"></Content>
+                </Response>                             
+        <!-- STAGE 3A -->
+        <!-- STAGE 3B -->
+                <Response id="cnl044b">
+                <ResponseID id="0">cnl044b</ResponseID>
+                <BaseQuestion id="0"></BaseQuestion>
+                <Content id="0"></Content>
+                </Response>          
+                <Response id="cnl057">
+                <ResponseID id="0">cnl057</ResponseID>
+                <BaseQuestion id="0"></BaseQuestion>
+                <Content id="0"></Content>
+                </Response>              
+                <Response id="cnl058">
+                <ResponseID id="0">cnl058</ResponseID>
+                <BaseQuestion id="0"></BaseQuestion>
+                <Content id="0"></Content>
+                </Response>   
+                <Response id="cnl059">
+                <ResponseID id="0">cnl059</ResponseID>
+                <BaseQuestion id="0"></BaseQuestion>
+                <Content id="0"></Content>
+                </Response>    
+                <Response id="cnl060">
+                <ResponseID id="0">cnl060</ResponseID>
+                <BaseQuestion id="0"></BaseQuestion>
+                <Content id="0"></Content>
+                </Response>                  
+                                                
+        <!-- STAGE 3B -->
+        <!-- STAGE 4 -->
+                <Response id="cnl046a">
+                <ResponseID id="0">cnl046a</ResponseID>
+                <BaseQuestion id="0"></BaseQuestion>
+                <Content id="0"></Content>
+                </Response>        
+                <Response id="cnl061">
+                <ResponseID id="0">cnl061</ResponseID>
+                <BaseQuestion id="0"></BaseQuestion>
+                <Content id="0"></Content>
+                </Response>        
+                <Response id="cnl062">
+                <ResponseID id="0">cnl062</ResponseID>
+                <BaseQuestion id="0"></BaseQuestion>
+                <Content id="0"></Content>
+                </Response>
+                <Response id="cnl063a">
+                <ResponseID id="0">cnl063a</ResponseID>
+                <BaseQuestion id="0"></BaseQuestion>
+                <Content id="0"></Content>
+                </Response>
+                
+                                        
+        <!-- STAGE 4 -->
+        <!-- STAGE Recurrent -->
+                <Response id="cnl048">
+                <ResponseID id="0">cnl048</ResponseID>
+                <BaseQuestion id="0"></BaseQuestion>
+                <Content id="0"></Content>
+                </Response>
+        <!-- STAGE Recurrent -->        
+        <!-- IDK -->
+                <Response id="cnl047">
+                <ResponseID id="0">cnl047</ResponseID>
+                <BaseQuestion id="0"></BaseQuestion>
+                <Content id="0"></Content>
+                </Response>
+                <Response id="cnl042">
+                <ResponseID id="0">cnl042</ResponseID>
+                <BaseQuestion id="0"></BaseQuestion>
+                <Content id="0"></Content>
+                </Response>        
+                <Response id="cnl043">
+                <ResponseID id="0">cnl043</ResponseID>
+                <BaseQuestion id="0"></BaseQuestion>
+                <Content id="0"></Content>
+                </Response>      
+                <Response id="cnl044">
+                <ResponseID id="0">cnl044</ResponseID>
+                <BaseQuestion id="0"></BaseQuestion>
+                <Content id="0"></Content>
+                </Response>     
+                <Response id="cnl045">
+                <ResponseID id="0">cnl045</ResponseID>
+                <BaseQuestion id="0"></BaseQuestion>
+                <Content id="0"></Content>
+                </Response>     
+                <Response id="cnl046">
+                <ResponseID id="0">cnl046</ResponseID>
+                <BaseQuestion id="0"></BaseQuestion>
+                <Content id="0"></Content>
+                </Response>   
+                <Response id="cnl063">
+                <ResponseID id="0">cnl063</ResponseID>
+                <BaseQuestion id="0"></BaseQuestion>
+                <Content id="0"></Content>
+                </Response>                                                                
+        <!-- IDK -->
+
+    <!-- STAGE -->
+ <!-- Path 2 -->
+<!-- PATH 5 -->
+<Response id="cnl020">
+<ResponseID id="0">cnl020</ResponseID>
+<BaseQuestion id="0">What is non-small cell lung cancer?</BaseQuestion>
+<Content id="0">What is non-small cell lung cancer?</Content>
+</Response>
+
+<Response id="cnl021">
+<ResponseID id="0">cnl021</ResponseID>
+<BaseQuestion id="0"></BaseQuestion>
+<Content id="0"></Content>
+</Response>   
+
+<Response id="cnl022">
+<ResponseID id="0">cnl022</ResponseID>
+<BaseQuestion id="0"></BaseQuestion>
+<Content id="0"></Content>
+</Response>  
+
+<Response id="cnl023">
+<ResponseID id="0">cnl023</ResponseID>
+<BaseQuestion id="0">How is lung cancer staged?</BaseQuestion>
+<Content id="0">How is lung cancer staged?</Content>
+</Response>
+
+<Response id="cnl017">
+<ResponseID id="0">cnl017</ResponseID>
+<BaseQuestion id="0"></BaseQuestion>
+<Content id="0"></Content>
+</Response>
+
+<Response id="cnl027">
+<ResponseID id="0">cnl027</ResponseID>
+<BaseQuestion id="0"></BaseQuestion>
+<Content id="0"></Content>
+</Response>
+
+<Response id="cnl028">
+<ResponseID id="0">cnl028</ResponseID>
+<BaseQuestion id="0">How is lung cancer staged?</BaseQuestion>
+<Content id="0">How is lung cancer staged?</Content>
+</Response>
+
+<Response id="cnl029">
+<ResponseID id="0">cnl029</ResponseID>
+<BaseQuestion id="0">How is lung cancer staged?</BaseQuestion>
+<Content id="0">How is lung cancer staged?</Content>
+</Response>
+
+<Response id="cnl030">
+<ResponseID id="0">cnl030</ResponseID>
+<BaseQuestion id="0">How is lung cancer staged?</BaseQuestion>
+<Content id="0">How is lung cancer staged?</Content>
+</Response>
+
+<Response id="cnl031">
+<ResponseID id="0">cnl031</ResponseID>
+<BaseQuestion id="0">How is lung cancer staged?</BaseQuestion>
+<Content id="0">How is lung cancer staged?</Content>
+</Response>
+
+<Response id="cnl026">
+<ResponseID id="0">cnl026</ResponseID>
+<BaseQuestion id="0"></BaseQuestion>
+<Content id="0"></Content>
+</Response>
+
+<Response id="cnl359">
+<ResponseID id="0">cnl359</ResponseID>
+<BaseQuestion id="0">How is lung cancer staged?</BaseQuestion>
+<Content id="0">How is lung cancer staged?</Content>
+</Response>
+
+<Response id="cnl098">
+<ResponseID id="0">cnl098</ResponseID>
+<BaseQuestion id="0"></BaseQuestion>
+<Content id="0"></Content>
+</Response>
+<!-- PATH 5 -->
+<!-- PATH 6 -->
+<Response id="cnl111">
+<ResponseID id="0">cnl111</ResponseID>
+<BaseQuestion id="0"></BaseQuestion>
+<Content id="0"></Content>
+</Response>
+<Response id="cnl113">
+<ResponseID id="0">cnl113</ResponseID>
+<BaseQuestion id="0"></BaseQuestion>
+<Content id="0"></Content>
+</Response>
+<Response id="cnl114">
+<ResponseID id="0">cnl114</ResponseID>
+<BaseQuestion id="0"></BaseQuestion>
+<Content id="0"></Content>
+</Response>
+<Response id="cnl115">
+<ResponseID id="0">cnl115</ResponseID>
+<BaseQuestion id="0"></BaseQuestion>
+<Content id="0"></Content>
+</Response>
+<Response id="cnl116">
+<ResponseID id="0">cnl116</ResponseID>
+<BaseQuestion id="0"></BaseQuestion>
+<Content id="0"></Content>
+</Response>
+<Response id="cnl118">
+<ResponseID id="0">cnl118</ResponseID>
+<BaseQuestion id="0"></BaseQuestion>
+<Content id="0"></Content>
+</Response>
+<Response id="cnl119">
+<ResponseID id="0">cnl119</ResponseID>
+<BaseQuestion id="0"></BaseQuestion>
+<Content id="0"></Content>
+</Response>
+<Response id="cnl123">
+<ResponseID id="0">cnl123</ResponseID>
+<BaseQuestion id="0"></BaseQuestion>
+<Content id="0"></Content>
+</Response>
+
+
+<!-- PATH 6 -->
+<!-- PATH 7 -->
+<Response id="cnl126">
+<ResponseID id="0">cnl126</ResponseID>
+<BaseQuestion id="0"></BaseQuestion>
+<Content id="0"></Content>
+</Response>
+<Response id="cnl127">
+<ResponseID id="0">cnl127</ResponseID>
+<BaseQuestion id="0"></BaseQuestion>
+<Content id="0"></Content>
+</Response>
+<Response id="cnl128">
+<ResponseID id="0">cnl128</ResponseID>
+<BaseQuestion id="0"></BaseQuestion>
+<Content id="0"></Content>
+</Response>
+<Response id="cnl129">
+<ResponseID id="0">cnl129</ResponseID>
+<BaseQuestion id="0"></BaseQuestion>
+<Content id="0"></Content>
+</Response>
+<Response id="cnl130">
+<ResponseID id="0">cnl130</ResponseID>
+<BaseQuestion id="0"></BaseQuestion>
+<Content id="0"></Content>
+</Response>
+<Response id="cnl131">
+<ResponseID id="0">cnl131</ResponseID>
+<BaseQuestion id="0"></BaseQuestion>
+<Content id="0"></Content>
+</Response>
+<Response id="cnl131">
+<ResponseID id="0">cnl131</ResponseID>
+<BaseQuestion id="0"></BaseQuestion>
+<Content id="0"></Content>
+</Response>
+<Response id="cnl132">
+<ResponseID id="0">cnl132</ResponseID>
+<BaseQuestion id="0"></BaseQuestion>
+<Content id="0"></Content>
+</Response>
+<Response id="cnl133">
+<ResponseID id="0">cnl133</ResponseID>
+<BaseQuestion id="0"></BaseQuestion>
+<Content id="0"></Content>
+</Response>
+<Response id="cnl124">
+<ResponseID id="0">cnl124</ResponseID>
+<BaseQuestion id="0"></BaseQuestion>
+<Content id="0"></Content>
+</Response>
+<Response id="cnl125">
+<ResponseID id="0">cnl125</ResponseID>
+<BaseQuestion id="0"></BaseQuestion>
+<Content id="0"></Content>
+</Response>
+<Response id="cnl141">
+<ResponseID id="0">cnl141</ResponseID>
+<BaseQuestion id="0"></BaseQuestion>
+<Content id="0"></Content>
+</Response>
+<!-- PATH 7 -->
+<!-- PATH 8 -->
+<Response id="cnl303">
+<ResponseID id="0">cnl303</ResponseID>
+<BaseQuestion id="0"></BaseQuestion>
+<Content id="0"></Content>
+</Response>
+
+<Response id="cnl140">
+<ResponseID id="0">cnl140</ResponseID>
+<BaseQuestion id="0"></BaseQuestion>
+<Content id="0"></Content>
+</Response>
+<Response id="cnl154">
+<ResponseID id="0">cnl154</ResponseID>
+<BaseQuestion id="0"></BaseQuestion>
+<Content id="0"></Content>
+</Response>
+<Response id="cnl173">
+<ResponseID id="0">cnl173</ResponseID>
+<BaseQuestion id="0"></BaseQuestion>
+<Content id="0"></Content>
+</Response>
+<Response id="cnl204">
+<ResponseID id="0">cnl204</ResponseID>
+<BaseQuestion id="0"></BaseQuestion>
+<Content id="0"></Content>
+</Response>
+<Response id="cnl294">
+<ResponseID id="0">cnl294</ResponseID>
+<BaseQuestion id="0"></BaseQuestion>
+<Content id="0"></Content>
+</Response>
+<!-- PATH 8 -->
+<!-- PATH 3 -->
+<Response id="cnl072">
+<ResponseID id="0">cnl072</ResponseID>
+<BaseQuestion id="0"></BaseQuestion>
+<Content id="0"></Content>
+</Response>
+<Response id="cnl071">
+<ResponseID id="0">cnl071</ResponseID>
+<BaseQuestion id="0"></BaseQuestion>
+<Content id="0"></Content>
+</Response>
+<Response id="cnl074">
+<ResponseID id="0">cnl074</ResponseID>
+<BaseQuestion id="0"></BaseQuestion>
+<Content id="0"></Content>
+</Response>
+<Response id="cnl077">
+<ResponseID id="0">cnl077</ResponseID>
+<BaseQuestion id="0"></BaseQuestion>
+<Content id="0"></Content>
+</Response>
+<Response id="cnl078">
+<ResponseID id="0">cnl078</ResponseID>
+<BaseQuestion id="0"></BaseQuestion>
+<Content id="0"></Content>
+</Response>
+<Response id="cnl079">
+<ResponseID id="0">cnl079</ResponseID>
+<BaseQuestion id="0"></BaseQuestion>
+<Content id="0"></Content>
+</Response>
+<Response id="cnl075">
+<ResponseID id="0">cnl075</ResponseID>
+<BaseQuestion id="0"></BaseQuestion>
+<Content id="0"></Content>
+</Response>
+<Response id="cnl080">
+<ResponseID id="0">cnl080</ResponseID>
+<BaseQuestion id="0"></BaseQuestion>
+<Content id="0"></Content>
+</Response>
+<Response id="cnl081">
+<ResponseID id="0">cnl081</ResponseID>
+<BaseQuestion id="0"></BaseQuestion>
+<Content id="0"></Content>
+</Response>
+<Response id="cnl082">
+<ResponseID id="0">cnl082</ResponseID>
+<BaseQuestion id="0"></BaseQuestion>
+<Content id="0"></Content>
+</Response>
+<Response id="cnl083">
+<ResponseID id="0">cnl083</ResponseID>
+<BaseQuestion id="0"></BaseQuestion>
+<Content id="0"></Content>
+</Response>
+<Response id="cnl084">
+<ResponseID id="0">cnl084</ResponseID>
+<BaseQuestion id="0"></BaseQuestion>
+<Content id="0"></Content>
+</Response>
+<Response id="cnl085">
+<ResponseID id="0">cnl085</ResponseID>
+<BaseQuestion id="0"></BaseQuestion>
+<Content id="0"></Content>
+</Response>
+<Response id="cnl076">
+<ResponseID id="0">cnl076</ResponseID>
+<BaseQuestion id="0"></BaseQuestion>
+<Content id="0"></Content>
+</Response>
+<Response id="cnl086">
+<ResponseID id="0">cnl086</ResponseID>
+<BaseQuestion id="0"></BaseQuestion>
+<Content id="0"></Content>
+</Response>
+<Response id="cnl074a">
+<ResponseID id="0">cnl074a</ResponseID>
+<BaseQuestion id="0"></BaseQuestion>
+<Content id="0"></Content>
+</Response>
+<Response id="cnl075a">
+<ResponseID id="0">cnl075a</ResponseID>
+<BaseQuestion id="0"></BaseQuestion>
+<Content id="0"></Content>
+</Response>
+<Response id="cnl089">
+<ResponseID id="0">cnl089</ResponseID>
+<BaseQuestion id="0"></BaseQuestion>
+<Content id="0"></Content>
+</Response>
+<!-- PATH 3 -->
+<Response id="cnl395">
+<ResponseID id="0">cnl395</ResponseID>
+<BaseQuestion id="0">How to use this site?</BaseQuestion>
+<Content id="0">How to use this site?</Content>
+</Response>
+
+
+<Response id="cnl347">
+<ResponseID id="0">cnl347</ResponseID>
+<BaseQuestion id="0">How do the lungs work?</BaseQuestion>
+<Content id="0">How do the lungs work?</Content>
+</Response>
+
+
+<Response id="cnl013">
+<ResponseID id="0">cnl013</ResponseID>
+<BaseQuestion id="0">What are nodules/masses?</BaseQuestion>
+<Content id="0">What are nodules/masses?</Content>
+</Response>
+
+
+<Response id="cnl010b">
+<ResponseID id="0">cnl010b</ResponseID>
+<BaseQuestion id="0">What is lung cancer?</BaseQuestion>
+<Content id="0">What is lung cancer?</Content>
+</Response>
+
+
+<Response id="cnl087">
+<ResponseID id="0">cnl087</ResponseID>
+<BaseQuestion id="0">What are the types of lung cancer?</BaseQuestion>
+<Content id="0">What are the types of lung cancer?</Content>
+</Response>
+
+
+<Response id="cnl070">
+<ResponseID id="0">cnl070</ResponseID>
+<BaseQuestion id="0">What is small cell lung cancer?</BaseQuestion>
+<Content id="0">What is small cell lung cancer?</Content>
+</Response>
+
+
+
+<Response id="cnl253">
+<ResponseID id="0">cnl253</ResponseID>
+<BaseQuestion id="0">What are the symptoms of lung cancer?</BaseQuestion>
+<Content id="0">What are the symptoms of lung cancer?</Content>
+</Response>
+
+<Response id="cnl266">
+<ResponseID id="0">cnl266</ResponseID>
+<BaseQuestion id="0">What causes lung cancer?</BaseQuestion>
+<Content id="0">What causes lung cancer?</Content>
+</Response>
+
+<!--Diagnosis-->
+
+<Response id="cnl254">
+<ResponseID id="0">cnl254</ResponseID>
+<BaseQuestion id="0">How is lung cancer diagnosed?</BaseQuestion>
+<Content id="0">How is lung cancer diagnosed?</Content>
+</Response>
+
+<Response id="cnl272">
+<ResponseID id="0">cnl272</ResponseID>
+<BaseQuestion id="0">What tests are used to diagnose lung cancer?</BaseQuestion>
+<Content id="0">What tests are used to diagnose lung cancer?</Content>
+</Response>
+
+
+
+<Response id="cnl267">
+<ResponseID id="0">cnl267</ResponseID>
+<BaseQuestion id="0">What are metastases?</BaseQuestion>
+<Content id="0">What are metastases?</Content>
+</Response>
+
+
+<Response id="cnl207">
+<ResponseID id="0">cnl207</ResponseID>
+<BaseQuestion id="0">What is genetic testing?</BaseQuestion>
+<Content id="0">What is genetic testing?</Content>
+</Response>
+
+
+<Response id="cnl012">
+<ResponseID id="0">cnl012</ResponseID>
+<BaseQuestion id="0">What is a CT Scan?</BaseQuestion>
+<Content id="0">What is a CT Scan?</Content>
+</Response>
+
+<Response id="cnl016">
+<ResponseID id="0">cnl016</ResponseID>
+<BaseQuestion id="0">What is a biopsy?</BaseQuestion>
+<Content id="0">What is a biopsy?</Content>
+</Response>
+
+
+<Response id="cnl369">
+<ResponseID id="0">cnl369</ResponseID>
+<BaseQuestion id="0">How do I talk to my loved ones about my diagnosis?</BaseQuestion>
+<Content id="0">How do I talk to my loved ones about my diagnosis?</Content>
+</Response>
+
+<Response id="cnl331">
+<ResponseID id="0">cnl331</ResponseID>
+<BaseQuestion id="0">Should we get a second opinion? / Are there more tests we can do?</BaseQuestion>
+<Content id="0">Should we get a second opinion? / Are there more tests we can do?</Content>
+</Response>
+
+
+
+<!--Treatment-->
+
+<Response id="cnl025">
+<ResponseID id="0">cnl025</ResponseID>
+<BaseQuestion id="0">How is lung cancer treated?</BaseQuestion>
+<Content id="0">How is lung cancer treated?</Content>
+</Response>
+
+<Response id="cnl024">
+<ResponseID id="0">cnl024</ResponseID>
+<BaseQuestion id="0">What should I know about getting treatment for cancer?</BaseQuestion>
+<Content id="0">What should I know about getting treatment for cancer?</Content>
+</Response>
+
+<Response id="cnl321">
+<ResponseID id="0">cnl321</ResponseID>
+<BaseQuestion id="0">Can I work while getting cancer treatments?</BaseQuestion>
+<Content id="0">Can I work while getting cancer treatments?</Content>
+</Response>
+
+
+<Response id="cnl292">
+<ResponseID id="0">cnl292</ResponseID>
+<BaseQuestion id="0">How can I keep track of my cancer treatment?</BaseQuestion>
+<Content id="0">How can I keep track of my cancer treatment?</Content>
+</Response>
+
+
+<Response id="cnl110">
+<ResponseID id="0">cnl110</ResponseID>
+<BaseQuestion id="0">How can I participate in my cancer care?</BaseQuestion>
+<Content id="0">How can I participate in my cancer care?</Content>
+</Response>
+
+
+<Response id="cnl378">
+<ResponseID id="0">cnl378</ResponseID>
+<BaseQuestion id="0">How to make treatment decisions / set treatment goals?</BaseQuestion>
+<Content id="0">How to make treatment decisions / set treatment goals?</Content>
+</Response>
+
+<Response id="cnl210">
+<ResponseID id="0">cnl210</ResponseID>
+<BaseQuestion id="0">Should I think about a clinical trial?</BaseQuestion>
+<Content id="0">Should I think about a clinical trial?</Content>
+</Response>
+
+<Response id="cnl338">
+<ResponseID id="0">cnl368</ResponseID>
+<BaseQuestion id="0">How do I know what treatment to get?</BaseQuestion>
+<Content id="0">How do I know what treatment to get?</Content>
+</Response>
+
+<Response id="cnl138">
+<ResponseID id="0">cnl138</ResponseID>
+<BaseQuestion id="0">What to expect from cancer treatment?</BaseQuestion>
+<Content id="0">What to expect from cancer treatment?</Content>
+</Response>
+
+<Response id="cnl117">
+<ResponseID id="0">cnl117</ResponseID>
+<BaseQuestion id="0">Will I have pain?</BaseQuestion>
+<Content id="0">Will I have pain?</Content>
+</Response>
+
+
+<Response id="cnl112">
+<ResponseID id="0">cnl112</ResponseID>
+<BaseQuestion id="0">Will I have side effects?</BaseQuestion>
+<Content id="0">Will I have side effects?</Content>
+</Response>
+
+
+<Response id="cnl382">
+<ResponseID id="0">cnl382</ResponseID>
+<BaseQuestion id="0">When will I start treatment?</BaseQuestion>
+<Content id="0">When will I start treatment?</Content>
+</Response>
+
+
+<Response id="cnl334">
+<ResponseID id="0">cnl334</ResponseID>
+<BaseQuestion id="0">What is palliative care?</BaseQuestion>
+<Content id="0">What is palliative care?</Content>
+</Response>
+
+
+<Response id="cnl206">
+<ResponseID id="0">cnl206</ResponseID>
+<BaseQuestion id="0">What if my cancer treatment stops working / my cancer gets worse / spreads?</BaseQuestion>
+<Content id="0">What if my cancer treatment stops working / my cancer gets worse / spreads?</Content>
+</Response>
+
+<!--Support-->
+
+<Response id="cnl119">
+<ResponseID id="0">cnl119</ResponseID>
+<BaseQuestion id="0">Does cancer cause depression?</BaseQuestion>
+<Content id="0">Does cancer cause depression?</Content>
+</Response>
+
+<Response id="cnl120">
+<ResponseID id="0">cnl120</ResponseID>
+<BaseQuestion id="0">How can I deal with anxiety?</BaseQuestion>
+<Content id="0">How can I deal with anxiety?</Content>
+</Response>
+
+
+<Response id="cnl320">
+<ResponseID id="0">cnl320</ResponseID>
+<BaseQuestion id="0">What if I can’t afford my medications?</BaseQuestion>
+<Content id="0">What if I can’t afford my medications?</Content>
+</Response>
+
+
+<Response id="cnl324">
+<ResponseID id="0">cnl324</ResponseID>
+<BaseQuestion id="0">What if I can’t work during my treatment?</BaseQuestion>
+<Content id="0">What if I can’t work during my treatment?</Content>
+</Response>
+
+
+<Response id="cnl339">
+<ResponseID id="0">cnl339</ResponseID>
+<BaseQuestion id="0">Where can I find other sources of support?</BaseQuestion>
+<Content id="0">Where can I find other sources of support?</Content>
+</Response>
+
+
+<Response id="cnl148">
+<ResponseID id="0">cnl148</ResponseID>
+<BaseQuestion id="0">Who can help us with financial issues?</BaseQuestion>
+<Content id="0">Who can help us with financial issues?</Content>
+</Response>
+
+
+<Response id="cnl342">
+<ResponseID id="0">cnl342</ResponseID>
+<BaseQuestion id="0">Who can tell me what benefits I have / talk to me about financial concerns?</BaseQuestion>
+<Content id="0">Who can tell me what benefits I have / talk to me about financial concerns?</Content>
+</Response>
+
+
+<Response id="cnl370">
+<ResponseID id="0">cnl370</ResponseID>
+<BaseQuestion id="0">Who is on my care team?</BaseQuestion>
+<Content id="0">Who is on my care team?</Content>
+</Response>
+
+
+<Response id="cnl313">
+<ResponseID id="0">cnl313</ResponseID>
+<BaseQuestion id="0">How can I deal with stress?</BaseQuestion>
+<Content id="0">How can I deal with stress?</Content>
+</Response>
+
+
+<Response id="cnl166">
+<ResponseID id="0">cnl166</ResponseID>
+<BaseQuestion id="0">What other services are available to support someone with cancer?</BaseQuestion>
+<Content id="0">What other services are available to support someone with cancer?</Content>
+</Response>
+
+<Response id="cnl302">
+<ResponseID id="0">cnl302</ResponseID>
+<BaseQuestion id="0">What role do caregivers play?</BaseQuestion>
+<Content id="0">What role do caregivers play?</Content>
+</Response>
+
+
+
+<!--Life After Cancer Treatment-->
+
+
+<Response id="cnl390">
+<ResponseID id="0">cnl390</ResponseID>
+<BaseQuestion id="0">Survivorship Care</BaseQuestion>
+<Content id="0">Survivorship Care</Content>
+</Response>
+
+
+<Response id="cnl335">
+<ResponseID id="0">cnl335</ResponseID>
+<BaseQuestion id="0">What can I do to keep my cancer from returning?</BaseQuestion>
+<Content id="0">What can I do to keep my cancer from returning?</Content>
+</Response>
+
+
+<Response id="cnl344">
+<ResponseID id="0">cnl344</ResponseID>
+<BaseQuestion id="0">What should I do about follow-up visits?</BaseQuestion>
+<Content id="0">What should I do about follow-up visits?</Content>
+</Response>
+
+
+<Response id="cnl005">
+<ResponseID id="0">cnl005</ResponseID>
+<BaseQuestion id="0">When should I tell my doctor about new symptoms after cancer treatment has ended?</BaseQuestion>
+<Content id="0">When should I tell my doctor about new symptoms after cancer treatment has ended?</Content>
+</Response>
+
+<Response id="cnl312">
+<ResponseID id="0">cnl312</ResponseID>
+<BaseQuestion id="0">Will my cancer come back?</BaseQuestion>
+<Content id="0">Will my cancer come back?</Content>
+</Response>
+
+
+
+</xml>

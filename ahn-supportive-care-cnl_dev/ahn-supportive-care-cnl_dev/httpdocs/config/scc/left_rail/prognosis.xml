@@ -1,0 +1,35 @@
+<xml>
+  <Module id='1'>
+    <Heading>
+      Understanding the Prognosis
+    </Heading>
+    <ResponseID>scc020</ResponseID>
+    <ResponseID>scc003</ResponseID>
+    <ResponseID>scc093</ResponseID>
+    <ResponseID>scc001</ResponseID>
+  </Module>
+  <Module id='2'>
+    <Heading>
+      Treatment Options
+    </Heading>
+    <ResponseID>scc007</ResponseID>
+    <ResponseID>scc048</ResponseID>
+    <ResponseID>scc021</ResponseID>
+    <ResponseID>scc025</ResponseID>
+    <ResponseID>scc028</ResponseID>
+  </Module>
+  <Module id='3'>
+    <Heading>
+      Words you may hear
+    </Heading>
+    <ResponseID>scc007</ResponseID>
+    <ResponseID>scc014</ResponseID>
+    <ResponseID>scc017</ResponseID>
+    <ResponseID>scc018</ResponseID>
+    <ResponseID>scc015</ResponseID>
+    <ResponseID>scc124</ResponseID>
+    <ResponseID>scc019</ResponseID>
+    <ResponseID>scc083</ResponseID>
+    <ResponseID>scc092</ResponseID>
+  </Module>
+</xml>

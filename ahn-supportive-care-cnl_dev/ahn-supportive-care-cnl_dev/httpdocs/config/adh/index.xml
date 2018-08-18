@@ -1,0 +1,617 @@
+<xml>
+<Response id="adh001">
+<ResponseID id="0">adh001</ResponseID>
+<BaseQuestion id="0">Response to off-topic questions (i.e., Why is the sky blue?)</BaseQuestion>
+<Content id="0">I don't have an answer to that question. Please contact a member of the study staff for more information or ask a new question.</Content>
+</Response>
+<Response id="adh002">
+<ResponseID id="0">adh002</ResponseID>
+<BaseQuestion id="0">Response to profanity </BaseQuestion>
+<Content id="0">Please keep your questions and comments respectful and on topic. Thank you!</Content>
+</Response>
+<Response id="adh003">
+<ResponseID id="0">adh003</ResponseID>
+<BaseQuestion id="0">Multiple possible answers</BaseQuestion>
+<Content id="0">I can think of more than one answer for your question. Which would you like to hear first?  Select a question from the list to your right.</Content>
+</Response>
+<Response id="adh004">
+<ResponseID id="0">adh004</ResponseID>
+<BaseQuestion id="0">Word count exceeded</BaseQuestion>
+<Content id="0">Please limit your questions to 50 words or less.</Content>
+</Response>
+<Response id="adh005">
+<ResponseID id="0">adh005</ResponseID>
+<BaseQuestion id="0">Introduction to Program</BaseQuestion>
+<Content id="0">The goal of this website is to help you learn more about clinical trials and this study. I invite you to explore the site. If you have a question, type it into the box below and I will provide the closest available pre-recorded response. This site is not intended to provide medical advice or to replace a conversation with your regular, primary care doctor. If you have unanswered questions after exploring the site, you should take them to your regular doctor or a member of the study team. This site cannot provide answers specific to your diagnosis or other medical advice. This website is not intended for reporting adverse events or product complaints.</Content>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">adh006</ResponseID>
+<BaseQuestion id="1">Instructions for how to use the site  </BaseQuestion>
+</RQ>
+<RQ id="1">
+<ResponseID id="2">adh139</ResponseID>
+<BaseQuestion id="2">What is being tested in this study? </BaseQuestion>
+</RQ>
+</RQs>
+</Response>
+<Response id="adh006">
+<ResponseID id="0">adh006</ResponseID>
+<BaseQuestion id="0">Instructions for how to use the site  </BaseQuestion>
+<Content id="0">You can explore the site by typing questions of your own into the text box or by clicking on a related or frequently asked question. You can also select topics from the menu to your left. If you need assistance, click on the help button.</Content>
+</Response>
+<Response id="adh007">
+<ResponseID id="0">adh007</ResponseID>
+<BaseQuestion id="0">Who are you?</BaseQuestion>
+<Content id="0">Thank you for asking, but I'm here to answer your questions about clinical studies and study participation.</Content>
+</Response>
+<Response id="adh008">
+<ResponseID id="0">adh008</ResponseID>
+<BaseQuestion id="0">Contact information requests (i.e., How do I get in touch with you?)  </BaseQuestion>
+<Content id="0">Please contact a member of the study staff for more information. Participating study sites can be found on <![CDATA[<a href="https://www.clinicaltrials.gov/" target="_blank">https://www.clinicaltrials.gov/</a>]]>.</Content>
+</Response>
+<Response id="adh101">
+<ResponseID id="0">adh101</ResponseID>
+<BaseQuestion id="0">What is a clinical research study?</BaseQuestion>
+<Content id="0">A clinical research study, also called a clinical trial, looks at an investigational treatment to see if it is safe, how it works in the body, and if it works to treat a disease. Clinical studies are run by qualified doctors who are responsible for the study participants' study-related care. In the United States, the U.S. Food and Drug Administration, or FDA, requires several phases of clinical research to help develop new treatments. </Content>
+</Response>
+<Response id="adh102">
+<ResponseID id="0">adh102</ResponseID>
+<BaseQuestion id="0">How are clinical studies regulated? How are participants protected?</BaseQuestion>
+<Content id="0">Clinical study are regulated in several ways to protect study participants.
+
+Each clinical study follows a carefully controlled written research plan called a protocol, which describes what researchers will do in the study. The protocol includes safeguards like participant eligibility requirements to ensure the safety of study participants and protect their interests.
+
+All clinical studies and their protocols are also overseen by regulatory agencies around the world that help protect the interests and safety of study participants. In the United States, clinical research is regulated by the U.S. Food and Drug Administration, often referred to as the FDA. Clinical studies in the United States are also monitored by an Institutional Review Board, also called an IRB, which is a committee of independent doctors and members of the community who help review clinical research to ensure the rights of study participants are protected.</Content>
+</Response>
+<Response id="adh104">
+<ResponseID id="0">adh104</ResponseID>
+<BaseQuestion id="0">What are the common types of clinical research studies?</BaseQuestion>
+<Content id="0">There are two main types of clinical studies: Placebo-controlled studies and head-to-head studies.
+
+A placebo-controlled study means that one group of patients will receive the investigational drug, while a second group, known as the control group, will receive placebo. This placebo usually looks like the investigational drug but is designed to have no effect on patients.
+
+In a head-to-head study, one group of patients receives the investigational drug, while a second group of patients receives a different treatment. This allows researchers to compare the investigational drug to other treatments, which are often standard of care treatments already used to treat a given disease. There is no placebo in a head-to-head study, and each patient has a chance of receiving either the investigational drug or another treatment.</Content>
+</Response>
+<Response id="adh105">
+<ResponseID id="0">adh105</ResponseID>
+<BaseQuestion id="0">Who manages a study? </BaseQuestion>
+<Content id="0">A clinical study is typically managed by a team that includes qualified doctors and other health care professionals who provide study-related care and monitor the health of each study participant.</Content>
+</Response>
+<Response id="adh107">
+<ResponseID id="0">adh107</ResponseID>
+<BaseQuestion id="0">What is an Institutional Review Board (IRB) or Ethics Committee (EC)? </BaseQuestion>
+<Content id="0">An Institutional Review Board, often referred to as an IRB, is a committee of independent doctors and members of the community who help approve, review, and monitor clinical research to ensure the rights of study participants are protected. An Ethics Committee, often called an EC, is similar to an IRB. IRBs are specific to the United States, the rest of the world uses ECs.</Content>
+</Response>
+<Response id="adh108">
+<ResponseID id="0">adh108</ResponseID>
+<BaseQuestion id="0">What is a clinical study protocol?</BaseQuestion>
+<Content id="0">A protocol is a carefully controlled written research plan that describes a clinical study and how it will be done. A protocol generally describes study objectives, participation requirements, how long the study will last, and the schedule of tests and procedures, and other key information.</Content>
+</Response>
+<Response id="adh109">
+<ResponseID id="0">adh109</ResponseID>
+<BaseQuestion id="0">Where can participants get a copy of a study protocol? </BaseQuestion>
+<Content id="0">Study participants are not allowed to see the protocol. However, they will be given an informed consent form that will discuss in detail the objectives of the study, participants' responsibilities, and risks and benefits of participating. </Content>
+</Response>
+<Response id="adh112">
+<ResponseID id="0">adh112</ResponseID>
+<BaseQuestion id="0">What is a placebo?</BaseQuestion>
+<Content id="0">A placebo looks like the investigational drug, but is designed to have no effect on patients. Placebos are used in placebo-controlled studies where some participants receive placebo while others receive the investigational drug. This direct comparison helps the researchers see the effects of the investigational drug while also controlling for the "placebo effect," which refers to any effect of study participation that is not caused by the actual investigational drug. </Content>
+</Response>
+<Response id="adh114">
+<ResponseID id="0">adh114</ResponseID>
+<BaseQuestion id="0">Are there risks involved in clinical study participation? </BaseQuestion>
+<Content id="0">The risks of a particular clinical study vary. Under the terms of the informed consent process, potential participants will be informed about the risks and benefits of participating in a particular clinical study. All known risks will be fully explained by the study doctor. If new information about risks becomes available over the course of the clinical study, the study team is required to inform participants.</Content>
+</Response>
+<Response id="adh115">
+<ResponseID id="0">adh115</ResponseID>
+<BaseQuestion id="0">What if the study treatment does not work? </BaseQuestion>
+<Content id="0">Participants may or may not personally benefit from participating in a clinical study. If the study is placebo-controlled, there is a chance that the participant will receive a placebo and not the drug being tested.  Participants are encouraged to discuss any health concerns with the study doctor at any time. </Content>
+</Response>
+<Response id="adh119">
+<ResponseID id="0">adh119</ResponseID>
+<BaseQuestion id="0">Is there any way to make sure that a participant gets the investigational treatment instead of the placebo or standard of care treatments?</BaseQuestion>
+<Content id="0">In randomized studies, there is no way to ensure a participant gets a particular study treatment. However, there are some studies, called open-label studies, where all participants receive the investigational treatment. Study participants are informed about the study treatments and their chances of receiving each during the study informed consent process.</Content>
+</Response>
+<Response id="adh119a">
+<ResponseID id="0">adh119a</ResponseID>
+<BaseQuestion id="0">What is randomization? Why is a study randomized?</BaseQuestion>
+<Content id="0">Randomization is a random selection process that assigns study participants by chance to one of the study treatments without any input from the study team. This process allows researchers to evaluate the study treatments without any unintentional biases. </Content>
+</Response>
+<Response id="adh120">
+<ResponseID id="0">adh120</ResponseID>
+<BaseQuestion id="0">Can we change study sites if we move?</BaseQuestion>
+<Content id="0">If you and your child move during the study, you may have the option to switch to a closer study site, if one is available. Please let the study staff know if you have any plans to move over the course of the study.</Content>
+</Response>
+<Response id="adh123">
+<ResponseID id="0">adh123</ResponseID>
+<BaseQuestion id="0">Should participants talk to their primary care doctor about study participation?</BaseQuestion>
+<Content id="0">It is recommended that study participants inform their regular, primary care doctors about their participation in the study. A primary care provider can be a good source of information on whether a clinical study is the best option for a particular patient, but it is ultimately the patient's decision whether or not to participate.</Content>
+</Response>
+<Response id="adh124">
+<ResponseID id="0">adh124</ResponseID>
+<BaseQuestion id="0">What is informed consent?</BaseQuestion>
+<Content id="0">The informed consent process explains key information about a particular clinical research study, including the purpose of the research, its potential risks and benefits, and what is required of study participants. This process is intended to help people make an informed decision about whether to participate in a particular clinical study.
+
+Before joining any clinical study, potential participants who are age 18 or older are required to sign an informed consent form to acknowledge that they were informed about the study and agreed to participate in the research. For children who are younger than 18 years old, a parent or guardian will be required to sign the informed consent form for their child. Children may also be asked to sign an informed assent form, which contains information similar to that in the informed consent form.
+
+Participants can still choose to leave the study at any time, for any reason, even after signing the consent form.</Content>
+</Response>
+<Response id="adh126">
+<ResponseID id="0">adh126</ResponseID>
+<BaseQuestion id="0">What if I do not understand the informed consent form? </BaseQuestion>
+<Content id="0">During the informed consent process, the study team will help address any questions or concerns you may have about the study. Please ask members of the study team to explain any words or information that you do not clearly understand.
+
+You should only sign an informed consent form once all of your questions have been fully answered by the study team and you are comfortable with the answers.</Content>
+</Response>
+<Response id="adh127">
+<ResponseID id="0">adh127</ResponseID>
+<BaseQuestion id="0">What rights does the participant have in a clinical study?</BaseQuestion>
+<Content id="0">Potential participants have the right to refuse to participate in a clinical study. They must also be given enough time to decide whether to participate and to make that decision without any pressure from the study team. Study participants always have the right to stop participating at any time and for any reason without any effect on their routine medical care.
+
+Participants have the right to be told why the clinical study is being done, what will happen, and what will be asked of them in the study, as well as any reasonably foreseeable risks, discomforts, or side effects that may occur during the study. The study team must also answer all of a participant's questions at any time and provide a copy of the signed informed consent form.</Content>
+</Response>
+<Response id="adh128">
+<ResponseID id="0">adh128</ResponseID>
+<BaseQuestion id="0">Who can help me decide what is best for my child?</BaseQuestion>
+<Content id="0">Learning about clinical studies in general, asking questions, and actively participating in the informed consent process can help you decide whether your child should take part in the Shine study. You may also wish to discuss study participation with your child's regular pediatrician or pediatric psychiatrist.</Content>
+</Response>
+<Response id="adh129">
+<ResponseID id="0">adh129</ResponseID>
+<BaseQuestion id="0">Can I get a second opinion before making a decision to participate?</BaseQuestion>
+<Content id="0">You are free to get as many opinions as you want before making a decision about a clinical study. A second opinion can help you better understand and evaluate your options.</Content>
+</Response>
+<Response id="adh130">
+<ResponseID id="0">adh130</ResponseID>
+<BaseQuestion id="0"> If I say no to a study now, can I change my mind later?</BaseQuestion>
+<Content id="0">As long as the study is still accepting new patients and you still qualify, you may decide to enroll in the study at any time.</Content>
+</Response>
+<Response id="adh131">
+<ResponseID id="0">adh131</ResponseID>
+<BaseQuestion id="0">Will there be other opportunities to enroll in a clinical study?</BaseQuestion>
+<Content id="0">It is difficult to say whether you will have other opportunities to participate in other clinical studies. Although new investigational treatments are constantly in clinical studies, there is no guarantee that you will be eligible for another study. Talk to your regular, primary care doctor to learn more about any other clinical research opportunities that may be available to you.</Content>
+</Response>
+<Response id="adh132">
+<ResponseID id="0">adh132</ResponseID>
+<BaseQuestion id="0">How soon do I have to make my decision?</BaseQuestion>
+<Content id="0">Ask the study team how long you have to make a decision regarding participation in a particular clinical study.</Content>
+</Response>
+<Response id="adh134">
+<ResponseID id="0">adh134</ResponseID>
+<BaseQuestion id="0">Will the study still proceed if a participant decides to not enroll?</BaseQuestion>
+<Content id="0">If a potential participant decides not to participate in the study, the study will still continue as planned with other participants. </Content>
+</Response>
+<Response id="adh137">
+<ResponseID id="0">adh137</ResponseID>
+<BaseQuestion id="0">Will personal information be kept confidential? </BaseQuestion>
+<Content id="0">Any participation data collected as part of a clinical study is subject to privacy requirements, including the Health Insurance Portability and Accountability Act, or HIPAA, Privacy Rule. Under this rule, the study team can only publish, present, or otherwise disclose data strictly for research purposes, and only after the participant's name has been removed. The study team is not allowed to publicly disclose a participant's name in connection with the study.</Content>
+</Response>
+<Response id="adh138">
+<ResponseID id="0">adh138</ResponseID>
+<BaseQuestion id="0">Do my family or friends need to know about participation in a clinical study?</BaseQuestion>
+<Content id="0">It is up to you whether you tell your family and friends know about your participation in a clinical study. It can often be helpful to inform family or friends, especially if you will need assistance during the study.</Content>
+</Response>
+<Response id="adh139">
+<ResponseID id="0">adh139</ResponseID>
+<BaseQuestion id="0">What is being tested in this study? </BaseQuestion>
+<Content id="0">The Shine study will evaluate whether Vyvanse&#174;, a central nervous system stimulant, is safe and effective in treating ADHD in children who are 4 or 5 years old. Vyvanse&#174; has already been approved to treat ADHD in adults and children 6 of age and older. Because Vyvanse&#174; has not been approved to treat children who are younger than 6 years of age, it is considered investigational in this study. Vyvanse&#174; is taken by mouth.</Content>
+</Response>
+<Response id="adh140">
+<ResponseID id="0">adh140</ResponseID>
+<BaseQuestion id="0">Has Vyvanse&#174; ever been tested before? Will I be shown the results of earlier studies?</BaseQuestion>
+<Content id="0">In previous clinical studies, Vyvanse&#174; was found to be safe and effective to treat ADHD in people 6 years of age and older, so it has been approved for use in that population. The study doctor can discuss the results of these previous studies with you.</Content>
+</Response>
+<Response id="adh142">
+<ResponseID id="0">adh142</ResponseID>
+<BaseQuestion id="0">When will I find out about the study results?</BaseQuestion>
+<Content id="0">After the study is completed, it may take several months or even years for the study team to analyze the data collected and report the results, at which point the study findings will be made publically available.
+
+During the study, you will not know any information about ongoing study results, but you will be informed of any new safety findings regarding the investigational drug.</Content>
+</Response>
+<Response id="adh145">
+<ResponseID id="0">adh145</ResponseID>
+<BaseQuestion id="0">Will I be able to talk to the study doctors during the study?</BaseQuestion>
+<Content id="0">Over the course of the study, you will have regular communication with the clinical research team, which includes the study doctor and nurses.
+
+You may not be able to see the study doctor at each study visit, but you will have opportunities to meet with the study doctor on a regular basis to ask questions or discuss any concerns you may have throughout the study.</Content>
+</Response>
+<Response id="adh146">
+<ResponseID id="0">adh146</ResponseID>
+<BaseQuestion id="0">Will I be kept informed of test results during the study? </BaseQuestion>
+<Content id="0">The results of basic lab tests, such as blood and urine tests, will be shared with you during the study. Lab tests that evaluate the effectiveness of the investigational drug will not be shared until after the study ends and study results are analyzed.</Content>
+</Response>
+<Response id="adh147">
+<ResponseID id="0">adh147</ResponseID>
+<BaseQuestion id="0">How many children will participate in this study?  </BaseQuestion>
+<Content id="0">Approximately 124 children with ADHD will participate in the Shine study.</Content>
+</Response>
+<Response id="adh148">
+<ResponseID id="0">adh148</ResponseID>
+<BaseQuestion id="0">Who pays for the study drug and tests?</BaseQuestion>
+<Content id="0">The Shine study sponsor, which is Shire Pharmaceuticals, Inc., pays for the study drug and study-related tests and procedures. However, the sponsor will not cover the cost of non-study-related, standard of care tests or treatments that would be routinely required regardless of study participation. Study participants' parents or guardians and/or their insurance providers will be asked to cover their individual standard care costs as they usually would.</Content>
+</Response>
+<Response id="adh150">
+<ResponseID id="0">adh150</ResponseID>
+<BaseQuestion id="0">Will it cost me money to have my child participate? What will health insurance cover? </BaseQuestion>
+<Content id="0">You will not have to pay for any study-related drugs and procedures. However, you and/or your insurance provider will be required to cover the cost of any non-study-related, standard of care tests or treatments that would routinely be required to treat your child's ADHD regardless of study participation. It is important that you provide the study staff with your insurance information and discuss whether your child will need any standard of care services beyond the study-related services covered by the study sponsor. The standard of care services required and their costs to you or your insurance company may vary based on your child's needs and health status.</Content>
+</Response>
+<Response id="adh153">
+<ResponseID id="0">adh153</ResponseID>
+<BaseQuestion id="0">What if I don't have health insurance?</BaseQuestion>
+<Content id="0">Health insurance is not required for your child to participate in the Shine study, and the study-related drugs and procedures are provided at no cost. If you do not have insurance coverage for your child, you should talk with the study staff about whether your child will need any non-study-related, standard of care treatments, as you will be expected to cover those costs. Standard of care services may vary based on your child's individual needs and health status.</Content>
+</Response>
+<Response id="adh155">
+<ResponseID id="0">adh155</ResponseID>
+<BaseQuestion id="0">Will participants get paid to participate?</BaseQuestion>
+<Content id="0">Participant compensation for the Shine study varies by study site. Ask the study staff if study compensation is available at their site. Regardless, the study drug and all study-related procedures are provided at no cost.</Content>
+</Response>
+<Response id="adh155a">
+<ResponseID id="0">adh155a</ResponseID>
+<BaseQuestion id="0">Are study participants paid for participation?  </BaseQuestion>
+<Content id="0">Some studies offer compensation for participation, while others may offer reimbursement for time and travel. </Content>
+</Response>
+<Response id="adh157">
+<ResponseID id="0">adh157</ResponseID>
+<BaseQuestion id="0">Do the doctors get paid/who pays the doctors?</BaseQuestion>
+<Content id="0">The Shine study sponsor, which is Shire Pharmaceuticals, Inc. pays the study doctor and other members of the study team for their roles in this study.</Content>
+</Response>
+<Response id="adh158">
+<ResponseID id="0">adh158</ResponseID>
+<BaseQuestion id="0">Who can participate in this study? What are the eligibility criteria for participating in this study?</BaseQuestion>
+<Content id="0">The study staff will discuss all the eligibility criteria for this clinical study in detail with you. They will also conduct tests and procedures to help determine if your child may qualify for the clinical study.
+
+In general, your child may be eligible to participate in the study if he or she is 4 or 5 years old and has symptoms of ADHD, which may include inattention to details, difficulty focusing on tasks, difficulty with organization, and forgetfulness, difficulty sitting still, interrupting someone who is speaking, or disturbing someone else's activities. Your child does not have to be officially diagnosed with ADHD ahead of time to be considered for this clinical study, as long as he or she has symptoms of ADHD.</Content>
+</Response>
+<Response id="adh159">
+<ResponseID id="0">adh159</ResponseID>
+<BaseQuestion id="0">Why might my child be excluded from the study?</BaseQuestion>
+<Content id="0">Your child may be excluded from the study if he or she does not meet all of the eligibility requirements established by the study protocol.
+
+Clinical study protocols are carefully designed to ensure the safety of participants. Having specific eligibility criteria helps ensure that all participants are good candidates for the study and can participate safely.</Content>
+</Response>
+<Response id="adh161">
+<ResponseID id="0">adh161</ResponseID>
+<BaseQuestion id="0">Can my child participate in more than one study?</BaseQuestion>
+<Content id="0">Your child may only participate in one study at a time. This is to ensure your child's safety, as well as the accuracy and validity of study data.</Content>
+</Response>
+<Response id="adh163">
+<ResponseID id="0">adh163</ResponseID>
+<BaseQuestion id="0">Can my child keep taking other medications while in the study?</BaseQuestion>
+<Content id="0">The study staff will ask you about the medications your child is currently taking and will let you know if there are any medications you should stop during the study.
+
+If another doctor prescribes your child any other medication during study, tell the study doctor before your child starts taking it, as the use of some medications is restricted during the study.</Content>
+</Response>
+<Response id="adh164">
+<ResponseID id="0">adh164</ResponseID>
+<BaseQuestion id="0">Can participants use alternative or complementary treatments during the study?</BaseQuestion>
+<Content id="0">You should discuss with the study doctor all of your child's current medications, including over-the-counter medications or supplements. The use of some medications and supplements, especially those known to impact the central nervous system, is not permitted while participating in this study. The study doctor will tell you if your child is taking any medications or supplements that cannot be used during the study.</Content>
+</Response>
+<Response id="adh166">
+<ResponseID id="0">adh166</ResponseID>
+<BaseQuestion id="0">How will my child receive the study drug/medication? </BaseQuestion>
+<Content id="0">The study drug will be provided as a capsule to be taken by mouth. Your child should swallow the capsule whole, or you can empty out the capsule's contents into yogurt, water, or orange juice for your child.</Content>
+</Response>
+<Response id="adh167">
+<ResponseID id="0">adh167</ResponseID>
+<BaseQuestion id="0">How long will the study last?</BaseQuestion>
+<Content id="0">Your child's participation in the study will last approximately 12 weeks. You will need to make weekly visits to the study site over the course of 8 weeks.</Content>
+</Response>
+<Response id="adh168">
+<ResponseID id="0">adh168</ResponseID>
+<BaseQuestion id="0">How many times will my child have to visit the study doctor?</BaseQuestion>
+<Content id="0">Your child will visit the study doctor about 10 times over the course of approximately 12 weeks.</Content>
+</Response>
+<Response id="adh170">
+<ResponseID id="0">adh170</ResponseID>
+<BaseQuestion id="0">What kind of tests, therapies, and procedures will my child have during this study? </BaseQuestion>
+<Content id="0">The study doctor and staff will discuss the study procedures and tests in detail with you. Your child will have blood and vital signs taken and have his or her ADHD symptoms evaluated over the course of the study. You will also have to update a 5-minute daily electronic sleep diary for your child.</Content>
+</Response>
+<Response id="adh177">
+<ResponseID id="0">adh177</ResponseID>
+<BaseQuestion id="0">What if my child misses a dose? </BaseQuestion>
+<Content id="0">If your child misses a dose of study drug, inform the study doctor and study staff immediately. They will tell you what you should do next.</Content>
+</Response>
+<Response id="adh178">
+<ResponseID id="0">adh178</ResponseID>
+<BaseQuestion id="0">What happens after a participant completes a study? </BaseQuestion>
+<Content id="0">Participants who complete study participation will have an end-of-treatment visit after receiving the last dose of study drug. Typically, participants will have tests and procedures at this follow-up visit. For some studies, the study staff may need to continue monitoring participants for a certain amount of time after the study ends, which is typically done through phone interviews.</Content>
+</Response>
+<Response id="adh179">
+<ResponseID id="0">adh179</ResponseID>
+<BaseQuestion id="0">If we travel a lot, can my child still participate?</BaseQuestion>
+<Content id="0">The Shine study requires weekly visits to the study site over two months.  While there is some flexibility, each study visit must be completed within a 3-day window. If you child misses a study visit by more than that 3-day window, he or she may no longer be eligible to continue in the study. Please tell the study team if you have plans to travel or move, as some accommodations may be made if planned in advance.</Content>
+</Response>
+<Response id="adh180">
+<ResponseID id="0">adh180</ResponseID>
+<BaseQuestion id="0">What support is available during the study?</BaseQuestion>
+<Content id="0">Support services such as parking and travel reimbursement vary across different study sites. Contact a member of the study staff for more information on the support services offered by their study site.</Content>
+</Response>
+<Response id="adh181">
+<ResponseID id="0">adh181</ResponseID>
+<BaseQuestion id="0">Is it normal to be scared?</BaseQuestion>
+<Content id="0">Participation in a clinical study can seem overwhelming, so it is perfectly normal to feel scared or nervous. Carefully reviewing the informed consent form and asking the study team questions will help you make an informed decision about whether the Shine study is good option for your child. We encourage you to share any concerns with the study team.</Content>
+</Response>
+<Response id="adh183">
+<ResponseID id="0">adh183</ResponseID>
+<BaseQuestion id="0">Who is in charge of my child's care while he or she is participating in the study?</BaseQuestion>
+<Content id="0">A study doctor who is a leading pediatric psychologists will be responsible for overseeing your child's care during the study. The study doctor will coordinate your child's care with other study team members including nurses, study coordinators, mental health professionals, and others, all of whom have expertise in pediatrics and research.
+
+Your child should continue to see their regular primary care doctor or specialists for any non-study-related care during the study.</Content>
+</Response>
+<Response id="adh185">
+<ResponseID id="0">adh185</ResponseID>
+<BaseQuestion id="0">What happens if my child gets sick while participating in the study?</BaseQuestion>
+<Content id="0">Notify a member of the study staff immediately if your child is not feeling well. The study doctor and staff will coordinate care with your child's regular doctors as needed.  </Content>
+</Response>
+<Response id="adh186">
+<ResponseID id="0">adh186</ResponseID>
+<BaseQuestion id="0">What qualifications do study personnel have?</BaseQuestion>
+<Content id="0">The Shine study doctors are leading pediatric psychiatrists who have experience treating children with ADHD. The study staff also includes nurses, mental health professionals, research assistants, and others, all of whom have expertise in pediatrics and research.</Content>
+</Response>
+<Response id="adh188">
+<ResponseID id="0">adh188</ResponseID>
+<BaseQuestion id="0">Will the study staff know what study drug each participant is getting?</BaseQuestion>
+<Content id="0">The Shine study is a double-blind study, which means that neither you nor the study staff will know whether your child is receiving VyvanseÆ or placebo. The study doctor can find out this information if there is a medical emergency.</Content>
+</Response>
+<Response id="adh190">
+<ResponseID id="0">adh190</ResponseID>
+<BaseQuestion id="0">What are the known side effects and risks of Vyvanse&#174;?</BaseQuestion>
+<Content id="0">In previous studies, some of the side effects of Vyvanse&#174; in children included anxiety, decreased appetite, decreased weight, diarrhea, dizziness, dry mouth, irritability, insomnia, nausea, upper abdominal pain, and vomiting. The study doctor will advise of all known risks and side effects during the informed consent process prior to your child's participation. Some risks or side effects may not be known. The study staff is required to tell you if any new information becomes available at any time during the study.</Content>
+</Response>
+<Response id="adh192">
+<ResponseID id="0">adh192</ResponseID>
+<BaseQuestion id="0">What happens if my child's ADHD gets worse during the study?</BaseQuestion>
+<Content id="0">You child's physical and mental health will be assessed at each study visit. If your child's ADHD worsens, the study doctor will evaluate whether to change your child's dose of study drug or have your child discontinue the study.</Content>
+</Response>
+<Response id="adh193">
+<ResponseID id="0">adh193</ResponseID>
+<BaseQuestion id="0">What should I do if my child experiences side effects?</BaseQuestion>
+<Content id="0">If there are any changes to your child's health, you should tell the study doctor and study team immediately.</Content>
+</Response>
+<Response id="adh201">
+<ResponseID id="0">adh201</ResponseID>
+<BaseQuestion id="0">Does a patient get better care if they enroll in a clinical study?</BaseQuestion>
+<Content id="0">Participants may or may not directly benefit from participating in a clinical study. However, most clinical research requires that study participants receive closer monitoring than would otherwise be given during routine care.</Content>
+</Response>
+<Response id="adh202">
+<ResponseID id="0">adh202</ResponseID>
+<BaseQuestion id="0">Will participants have to switch from their regular doctors once enrolled in a study?</BaseQuestion>
+<Content id="0">There is no reason why a participant should switch his or her regular care to the study doctor. The study doctor only provides care related to study, which is different from the care that is provided by the participant's regular doctors. Thus, it is important that a participant keep seeing his or her regular primary care doctor or any specialists during participation in the study.</Content>
+</Response>
+<Response id="adh204">
+<ResponseID id="0">adh204</ResponseID>
+<BaseQuestion id="0">What is blinding? Why is a study blinded?</BaseQuestion>
+<Content id="0">Clinical studies, are often described as being "single-blind" or "double-blind."
+
+A single-blind study means that the study researchers know what study treatment each participant is getting, but the participants do not.
+
+In a double-blind study, neither the researchers nor the study participants know which study treatment each participant is receiving.
+
+Studies are blinded to avoid bias and ensure that study results are not affected by researcher or participant beliefs about what study results will show.</Content>
+</Response>
+<Response id="adh207">
+<ResponseID id="0">adh207</ResponseID>
+<BaseQuestion id="0">Where can I find out about studies for a disease or condition?</BaseQuestion>
+<Content id="0">Clinical studies available for many conditions are listed on ClinicalTrials.gov, a website sponsored by the U.S. National Institutes of Health. Your regular, primary care doctor may also be a good resource.</Content>
+</Response>
+<Response id="adh237">
+<ResponseID id="0">adh237</ResponseID>
+<BaseQuestion id="0">Who do I contact in an emergency?</BaseQuestion>
+<Content id="0">If there is a health emergency, you should always call 911. Let the doctors at the hospital know that your child is participating in a clinical study. You will also be provided with study site contact information so that other doctors can reach the study doctor in an emergency.</Content>
+</Response>
+<Response id="adh238">
+<ResponseID id="0">adh238</ResponseID>
+<BaseQuestion id="0">Can I withdraw my child from the study? </BaseQuestion>
+<Content id="0">You have the right to withdraw your child from the study at any time and for any reason. Your child's regular, routine medical care would not be affected by a decision to leave the study.</Content>
+</Response>
+<Response id="adh242">
+<ResponseID id="0">adh242</ResponseID>
+<BaseQuestion id="0">Who will have access to participant medical records? </BaseQuestion>
+<Content id="0">Access to medical records or other information about a participant in a clinical study is be limited to protect confidentiality. The study informed consent form describes who will have access to medical records and how confidential information will be used and protected in a study.  </Content>
+</Response>
+<Response id="adh279">
+<ResponseID id="0">adh279</ResponseID>
+<BaseQuestion id="0">Why is clinical research important?</BaseQuestion>
+<Content id="0">Clinical research studies help determine if investigational medications and treatments are safe and effective. Before any treatment is made available to the general public, it has to go through several phases of clinical research and regulatory approvals. Every medicine and treatment available today is the result of past clinical studies. Without clinical research, there would be no medical advancements.</Content>
+</Response>
+<Response id="adh280">
+<ResponseID id="0">adh280</ResponseID>
+<BaseQuestion id="0">What do I need to know if I am thinking about participating in a clinical study?</BaseQuestion>
+<Content id="0">INSERT RESPONSE</Content>
+</Response>
+<Response id="adh281">
+<ResponseID id="0">adh281</ResponseID>
+<BaseQuestion id="0">Do study participants have to pay to participate?</BaseQuestion>
+<Content id="0">Clinical study participants do not pay to participate and receive all study-related drugs and procedures at no cost. If there are additional standard of care tests or treatments that would be routinely required regardless of study participation, study participants and/or their insurance providers may be asked to cover their individual standard care costs as they usually would.</Content>
+</Response>
+<Response id="adh282">
+<ResponseID id="0">adh282</ResponseID>
+<BaseQuestion id="0">What if the potential participant fails at the screening stage? </BaseQuestion>
+<Content id="0">For some studies, potential participants who fail at the screening stage may screen again later. For other studies, participants who do not meet all study eligibility criteria up front at screening will not be allowed to participate in the study. </Content>
+</Response>
+<Response id="adh283">
+<ResponseID id="0">adh283</ResponseID>
+<BaseQuestion id="0">What happens when a study is over and completed?</BaseQuestion>
+<Content id="0">Once all participants have completed a study, all study data is provided to country-specific regulatory agencies. These agencies review the study results and decide if the investigational treatment should be approved and made available to the general public.</Content>
+</Response>
+<Response id="adh284">
+<ResponseID id="0">adh284</ResponseID>
+<BaseQuestion id="0">What is a healthy volunteer? </BaseQuestion>
+<Content id="0">Healthy volunteers are often needed in the early phase clinical studies where researchers test an investigational drug in a small group of healthy people to evaluate its safety and identify potential side effects before testing it on people with a particular disease or condition for whom the investigational drug may carry additional risks.</Content>
+</Response>
+<Response id="adh285">
+<ResponseID id="0">adh285</ResponseID>
+<BaseQuestion id="0">What is attention-deficit/hyperactivity disorder (ADHD)?</BaseQuestion>
+<Content id="0">ADHD, which stands for attention-deficit/hyperactivity disorder, is a mental condition that affects a person's ability to focus on and complete tasks effectively. ADHD symptoms usually start before age 12 and can occur as early as age 3.
+
+While it is typical for young children to get distracted and not finish tasks completely, when these symptoms persist and interfere with school or social interactions, it may be a sign that your child has ADHD.</Content>
+</Response>
+<Response id="adh286">
+<ResponseID id="0">adh286</ResponseID>
+<BaseQuestion id="0">What are the different types of ADHD? </BaseQuestion>
+<Content id="0">ADHD is usually categorized into three types: inattentive ADHD, hyperactive ADHD, or combination ADHD.
+
+Symptoms of inattentive ADHD include difficulty focusing on tasks and organization.
+
+Symptoms of hyperactive ADHD include difficulty sitting still and interrupting others.
+
+People with combination ADHD show symptoms characteristic of both inattentive and hyperactive ADHD.</Content>
+</Response>
+<Response id="adh287">
+<ResponseID id="0">adh287</ResponseID>
+<BaseQuestion id="0">What are the symptoms of ADHD in children? </BaseQuestion>
+<Content id="0">Symptoms of ADHD can range from forgetfulness and disorganization to hyperactivity and disruptive behavior. Specific symptoms vary and may be more apparent in some children than others. The study doctor or your child's regular, primary care doctor will evaluate your child's symptoms to determine if he or she has ADHD.</Content>
+</Response>
+<Response id="adh288">
+<ResponseID id="0">adh288</ResponseID>
+<BaseQuestion id="0">What causes ADHD?</BaseQuestion>
+<Content id="0">The causes of ADHD are still not clearly understood, but genetics, environment, and problems with the nervous system at key points in development may all play a role.</Content>
+</Response>
+<Response id="adh289">
+<ResponseID id="0">adh289</ResponseID>
+<BaseQuestion id="0">What treatments exist for ADHD? </BaseQuestion>
+<Content id="0">There are a number of medications approved to treat adults and children with ADHD. Some commonly prescribed medications include stimulants such as amphetamine and antidepressants such as bupropion. Not all of these treatments are approved for children under 6 years of age.</Content>
+</Response>
+<Response id="adh290">
+<ResponseID id="0">adh290</ResponseID>
+<BaseQuestion id="0">Will my child have ADHD for life? </BaseQuestion>
+<Content id="0">There is no way to predict how an individual's ADHD will progress or whether it will go away later in life. Your child's ADHD symptoms may decrease as they grow up, or they may continue into adulthood. </Content>
+</Response>
+<Response id="adh291">
+<ResponseID id="0">adh291</ResponseID>
+<BaseQuestion id="0">What is Vyvanse&#174; (lisdexamfetamine dimesylate)?</BaseQuestion>
+<Content id="0">Vyvanse&#174; is the brand name for lisdexamfetamine dimesylate, a central nervous stimulant that is taken by mouth. In adults and children over the age of Vyvanse&#174; is thought to work by helping to balance certain chemicals in the brain, thereby reducing the severity of ADHD symptoms like hyperactivity and impulse control issues.</Content>
+</Response>
+<Response id="adh292">
+<ResponseID id="0">adh292</ResponseID>
+<BaseQuestion id="0">Is Vyvanse&#174; being used to treat any other conditions?</BaseQuestion>
+<Content id="0">In addition to treating ADHD in patients 6 years of age and older, Vyvanse&#174; is also approved to treat patients with severe binge eating disorder. </Content>
+</Response>
+<Response id="adh293">
+<ResponseID id="0">adh293</ResponseID>
+<BaseQuestion id="0">How is my child's safety monitored in this study?</BaseQuestion>
+<Content id="0">Your child's health will be closely monitored using various tests and procedures at each study visit. These tests and procedures are designed not only to gather data for the study, but also to ensure that your child's safety is protected.</Content>
+</Response>
+<Response id="adh294">
+<ResponseID id="0">adh294</ResponseID>
+<BaseQuestion id="0">What if my child can't swallow the study drug/medication? </BaseQuestion>
+<Content id="0">Your child does not need to be able to swallow the study drug capsule whole. You can empty out the capsule's contents into yogurt, water, or orange juice and have your child take it that way instead.</Content>
+</Response>
+<Response id="maadh992">
+<ResponseID id="0">maadh992</ResponseID>
+<BaseQuestion id="0">Multiple answers possible</BaseQuestion>
+<Content id="0">What do I do?</Content>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">adh005</ResponseID>
+<BaseQuestion id="1">Introduction to Program</BaseQuestion>
+</RQ>
+<RQ id="1">
+<ResponseID id="2">adh139</ResponseID>
+<BaseQuestion id="2">What is being tested in this study? </BaseQuestion>
+</RQ>
+<RQ id="2">
+<ResponseID id="3">adh166</ResponseID>
+<BaseQuestion id="3">How will my child receive the study drug/medication? </BaseQuestion>
+</RQ>
+</RQs>
+</Response>
+<Response id="maadh993">
+<ResponseID id="0">maadh993</ResponseID>
+<BaseQuestion id="0">Multiple answer possible</BaseQuestion>
+<Content id="0">What is a clinical trial? / What is this clinical trial?</Content>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">adh101</ResponseID>
+<BaseQuestion id="1">What is a clinical research study?</BaseQuestion>
+</RQ>
+<RQ id="1">
+<ResponseID id="2">adh139</ResponseID>
+<BaseQuestion id="2">What is being tested in this study? </BaseQuestion>
+</RQ>
+</RQs>
+</Response>
+<Response id="maadh994">
+<ResponseID id="0">maadh994</ResponseID>
+<BaseQuestion id="0">Multiple answers possible</BaseQuestion>
+<Content id="0">What is something comes up?</Content>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">adh177</ResponseID>
+<BaseQuestion id="1">What if my child misses a dose? </BaseQuestion>
+</RQ>
+<RQ id="1">
+<ResponseID id="2">adh120</ResponseID>
+<BaseQuestion id="2">Can we change study sites if we move?</BaseQuestion>
+</RQ>
+<RQ id="2">
+<ResponseID id="3">adh164</ResponseID>
+<BaseQuestion id="3">Can participants use alternative or complementary treatments during the study?</BaseQuestion>
+</RQ>
+<RQ id="3">
+<ResponseID id="4">adh190</ResponseID>
+<BaseQuestion id="4">What are the known side effects and risks of Vyvanse&#174;?</BaseQuestion>
+</RQ>
+</RQs>
+</Response>
+<Response id="maadh995">
+<ResponseID id="0">maadh995</ResponseID>
+<BaseQuestion id="0">Multiple answers possible</BaseQuestion>
+<Content id="0">How is it different?</Content>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">adh104</ResponseID>
+<BaseQuestion id="1">What are the common types of clinical research studies?</BaseQuestion>
+</RQ>
+<RQ id="1">
+<ResponseID id="2">adh123</ResponseID>
+<BaseQuestion id="2">Should participants talk to their primary care doctor about study participation?</BaseQuestion>
+</RQ>
+<RQ id="2">
+<ResponseID id="3">adh005</ResponseID>
+<BaseQuestion id="3">Introduction to Program</BaseQuestion>
+</RQ>
+<RQ id="3">
+<ResponseID id="4">adh201</ResponseID>
+<BaseQuestion id="4">Does a patient get better care if they enroll in a clinical study?</BaseQuestion>
+</RQ>
+</RQs>
+</Response>
+<Response id="maadh996">
+<ResponseID id="0">maadh996</ResponseID>
+<BaseQuestion id="0"></BaseQuestion>
+<Content id="0"></Content>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">adh279</ResponseID>
+<BaseQuestion id="1">Why is clinical research important?</BaseQuestion>
+</RQ>
+<RQ id="1">
+<ResponseID id="2">adh101</ResponseID>
+<BaseQuestion id="2">What is a clinical research study?</BaseQuestion>
+</RQ>
+<RQ id="2">
+<ResponseID id="3">adh131</ResponseID>
+<BaseQuestion id="3">Will there be other opportunities to enroll in a clinical study?</BaseQuestion>
+</RQ>
+</RQs>
+</Response>
+<Response id="maadh998">
+<ResponseID id="0">maadh998</ResponseID>
+<BaseQuestion id="0">Multiple answers possible</BaseQuestion>
+<Content id="0">Who will pay for this?</Content>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">adh157</ResponseID>
+<BaseQuestion id="1">Do the doctors get paid/who pays the doctors?</BaseQuestion>
+</RQ>
+<RQ id="1">
+<ResponseID id="2">adh155</ResponseID>
+<BaseQuestion id="2">Will participants get paid to participate?</BaseQuestion>
+</RQ>
+<RQ id="2">
+<ResponseID id="3">adh148</ResponseID>
+<BaseQuestion id="3">Who pays for the study drug and tests?</BaseQuestion>
+</RQ>
+</RQs>
+</Response>
+</xml>

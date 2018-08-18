@@ -1,0 +1,65 @@
+<xml>
+  <Module id='0'>
+    <Heading>
+      Introduction to Clinical Trials
+    </Heading>
+    <ResponseID>pkd009</ResponseID>
+    <ResponseID>pkd011</ResponseID>
+    <ResponseID>pkd012</ResponseID>
+    <ResponseID>pkd015</ResponseID>
+    <ResponseID>pkd014</ResponseID>
+  </Module>
+  <Module id='1'>
+    <Heading>
+      Participating in a Clinical Trial
+    </Heading>
+    <ResponseID>pkd070</ResponseID>
+    <ResponseID>pkd084</ResponseID>
+    <ResponseID>pkd047</ResponseID>
+    <ResponseID>pkd027</ResponseID>
+    <ResponseID>pkd067</ResponseID>
+  </Module>
+  <Module id='2'>
+    <Heading>
+      Rights and Responsibilities
+    </Heading>
+    <ResponseID>pkd022</ResponseID>
+    <ResponseID>pkd024</ResponseID>
+    <ResponseID>pkd048</ResponseID>
+  </Module>
+  <Module id='3'>
+    <Heading>
+      Privacy
+    </Heading>
+    <ResponseID>pkd030</ResponseID>
+    <ResponseID>pkd081</ResponseID>
+  </Module>
+  <Module id='4'>
+    <Heading>
+      About the REPRISE Study
+    </Heading>
+    <ResponseID>pkd031</ResponseID>
+    <ResponseID>pkd043</ResponseID>
+    <ResponseID>pkd032</ResponseID>
+    <ResponseID>pkd076</ResponseID>
+    <ResponseID>pkd034</ResponseID>
+    <ResponseID>pkd036</ResponseID>
+    <ResponseID>pkd053</ResponseID>
+    <ResponseID>pkd056</ResponseID>
+  </Module>
+  <Module id='5'>
+    <Heading>
+      Costs &amp; Compensation
+    </Heading>
+    <ResponseID>pkd039</ResponseID>
+    <ResponseID>pkd040</ResponseID>
+  </Module>
+</xml>
+
+
+
+
+
+
+
+

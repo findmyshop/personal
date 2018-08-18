@@ -1,0 +1,51 @@
+<xml>
+	<Module id='0'>
+		<Heading>
+			Introduction to Clinical Studies
+		</Heading>
+		<ResponseID>adh101</ResponseID>
+		<ResponseID>adh102</ResponseID>
+		<ResponseID>adh104</ResponseID>
+		<ResponseID>adh105</ResponseID>
+		<ResponseID>adh107</ResponseID>
+		<ResponseID>adh108</ResponseID>
+	</Module>
+	<Module id='1'>
+		<Heading>
+			Participating in a Clinical Study
+		</Heading>
+		<ResponseID>adh112</ResponseID>
+                <ResponseID>adh115</ResponseID>
+                <ResponseID>adh119</ResponseID>
+                <ResponseID>adh131</ResponseID>
+                <ResponseID>adh201</ResponseID>
+                <ResponseID>adh207</ResponseID>
+                <ResponseID>adh280</ResponseID>
+                <ResponseID>adh282</ResponseID>
+	</Module>
+	<Module id='2'>
+		<Heading>
+			Risks and Benefits
+		</Heading>
+		<ResponseID>adh114</ResponseID>
+	</Module>
+	<Module id='3'>
+		<Heading>
+			Patient Rights and Responsibilities
+		</Heading>
+		<ResponseID>adh124</ResponseID>
+		<ResponseID>adh126</ResponseID>
+		<ResponseID>adh127</ResponseID>
+                <ResponseID>adh202</ResponseID>
+	</Module>
+	<Module id='4'>
+		<Heading>
+			Ethics and Privacy
+		</Heading>
+		<ResponseID>adh129</ResponseID>
+		<ResponseID>adh138</ResponseID>
+                <ResponseID>adh155a</ResponseID>
+		<ResponseID>adh204</ResponseID>
+                <ResponseID>adh281</ResponseID>
+	</Module>
+</xml>

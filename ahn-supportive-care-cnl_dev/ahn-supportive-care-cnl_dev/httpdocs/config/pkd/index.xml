@@ -1,0 +1,1986 @@
+<!--* Index Resource* 06-17-2015-->
+<xml>
+<Response id="mapkd992">
+<ResponseID id="0">mapkd992</ResponseID>
+<BaseQuestion id="0">Multiple Answers Possible</BaseQuestion>
+<Content id="0">What do I have to do?</Content>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">pkd006</ResponseID>
+<BaseQuestion id="1">Instructions for how to use the site</BaseQuestion>
+</RQ>
+<RQ id="1">
+<ResponseID id="2">pkd005</ResponseID>
+<BaseQuestion id="2">Introduction to program</BaseQuestion>
+</RQ>
+<RQ id="2">
+<ResponseID id="3">pkd031</ResponseID>
+<BaseQuestion id="3">What is being tested in this trial? What is the purpose of this trial?</BaseQuestion>
+</RQ>
+<RQ id="3">
+<ResponseID id="4">pkd053</ResponseID>
+<BaseQuestion id="4">What will the treatment entail? Administration method? Dose?</BaseQuestion>
+</RQ>
+<RQ id="4">
+<ResponseID id="5">pkd060</ResponseID>
+<BaseQuestion id="5">Will there be lots of needles? Will I have to have blood tests?</BaseQuestion>
+</RQ>
+<RQ id="5">
+<ResponseID id="6">pkd061</ResponseID>
+<BaseQuestion id="6">Do I have to do everything the doctor tells me to do?</BaseQuestion>
+</RQ>
+</RQs>
+</Response>
+<Response id="mapkd993">
+<ResponseID id="0">mapkd993</ResponseID>
+<BaseQuestion id="0">Multiple Answers Possible</BaseQuestion>
+<Content id="0">What is a clinical trial about? / What is this clinical trial about?</Content>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">pkd009</ResponseID>
+<BaseQuestion id="1">What is a clinical trial?</BaseQuestion>
+</RQ>
+<RQ id="1">
+<ResponseID id="2">pkd031</ResponseID>
+<BaseQuestion id="2">What is being tested in this trial? What is the purpose of this trial?</BaseQuestion>
+</RQ>
+</RQs>
+</Response>
+<Response id="mapkd994">
+<ResponseID id="0">mapkd994</ResponseID>
+<BaseQuestion id="0">Multiple Answers Possible</BaseQuestion>
+<Content id="0">What if something comes up?</Content>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">pkd063</ResponseID>
+<BaseQuestion id="1">What will happen if I miss some appointments?</BaseQuestion>
+</RQ>
+<RQ id="1">
+<ResponseID id="2">pkd082</ResponseID>
+<BaseQuestion id="2">Can I change study sites if I move?</BaseQuestion>
+</RQ>
+<RQ id="2">
+<ResponseID id="3">pkd050</ResponseID>
+<BaseQuestion id="3">Can I use alternative or complementary treatments during the study?</BaseQuestion>
+</RQ>
+<RQ id="3">
+<ResponseID id="4">pkd076</ResponseID>
+<BaseQuestion id="4">What are the risks/side effects of this treatment?</BaseQuestion>
+</RQ>
+</RQs>
+</Response>
+<Response id="mapkd995">
+<ResponseID id="0">mapkd995</ResponseID>
+<BaseQuestion id="0">Multiple Answers Possible</BaseQuestion>
+<Content id="0">How is it different?</Content>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">pkd012</ResponseID>
+<BaseQuestion id="1">What are the types of clinical trials?</BaseQuestion>
+</RQ>
+<RQ id="1">
+<ResponseID id="2">pkd011</ResponseID>
+<BaseQuestion id="2">What are the phases of a clinical trial?</BaseQuestion>
+</RQ>
+<RQ id="2">
+<ResponseID id="3">pkd021</ResponseID>
+<BaseQuestion id="3">What is Standard Treatment?</BaseQuestion>
+</RQ>
+<RQ id="3">
+<ResponseID id="4">pkd086</ResponseID>
+<BaseQuestion id="4">Should I talk to my doctor about this trial?</BaseQuestion>
+</RQ>
+<RQ id="4">
+<ResponseID id="5">pkd005</ResponseID>
+<BaseQuestion id="5">Introduction to program</BaseQuestion>
+</RQ>
+</RQs>
+</Response>
+<Response id="mapkd996">
+<ResponseID id="0">mapkd996</ResponseID>
+<BaseQuestion id="0">Multiple Answers Possible</BaseQuestion>
+<Content id="0">Why do clinical trials?</Content>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">pkd058</ResponseID>
+<BaseQuestion id="1">If standard treatment works for me, why should I participate in a trial?</BaseQuestion>
+</RQ>
+<RQ id="1">
+<ResponseID id="2">pkd009</ResponseID>
+<BaseQuestion id="2">What is a clinical trial?</BaseQuestion>
+</RQ>
+<RQ id="2">
+<ResponseID id="3">pkd028</ResponseID>
+<BaseQuestion id="3">What will be the impact on the study if I decide not to participate?</BaseQuestion>
+</RQ>
+<RQ id="3">
+<ResponseID id="4">pkd029</ResponseID>
+<BaseQuestion id="4">Will the study still proceed if I decide not to enroll?</BaseQuestion>
+</RQ>
+</RQs>
+</Response>
+<Response id="mapkd998">
+<ResponseID id="0">mapkd998</ResponseID>
+<BaseQuestion id="0">Multiple Answers Possible</BaseQuestion>
+<Content id="0">Who will pay for this?</Content>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">pkd039</ResponseID>
+<BaseQuestion id="1">Would I have to pay for the medication? Who pays for the medicine? Would I have to pay for the tests? Who pays for the tests?</BaseQuestion>
+</RQ>
+<RQ id="1">
+<ResponseID id="2">pkd042</ResponseID>
+<BaseQuestion id="2">Do the doctors get paid? Who pays the doctors?</BaseQuestion>
+</RQ>
+<RQ id="2">
+<ResponseID id="3">pkd040</ResponseID>
+<BaseQuestion id="3">Will I get paid to participate?</BaseQuestion>
+</RQ>
+</RQs>
+</Response>
+<Response id="pkd001">
+<ResponseID id="0">pkd001</ResponseID>
+<BaseQuestion id="0">Response to off topic questions (e.e. Why is the sky blue?)</BaseQuestion>
+<Content id="0">I don't have an answer to that question. Please contact a member of the study staff for more information or ask a new question.</Content>
+</Response>
+<Response id="pkd002">
+<ResponseID id="0">pkd002</ResponseID>
+<BaseQuestion id="0">Response to profanity</BaseQuestion>
+<Content id="0">Please keep your questions and comments respectful and on topic. Thank you!</Content>
+</Response>
+<Response id="pkd003">
+<ResponseID id="0">pkd003</ResponseID>
+<BaseQuestion id="0">Multiple Answer</BaseQuestion>
+<Content id="0">I can think of more than one answer for your question. Which would you like to hear first? Select a question from the list to the right.</Content>
+</Response>
+<Response id="pkd004">
+<ResponseID id="0">pkd004</ResponseID>
+<BaseQuestion id="0">Word count</BaseQuestion>
+<Content id="0">Please limit your questions to 50 words or less.</Content>
+</Response>
+<Response id="pkd005">
+<ResponseID id="0">pkd005</ResponseID>
+<BaseQuestion id="0">Introduction to program</BaseQuestion>
+<Content id="0">The goal of this website is to help you understand as much as possible about clinical trials and the REPRISE study. The purpose of the REPRISE study is to evaluate the safety and effectiveness of an investigational medication called tolvaptan in patients with late stage 2 to early stage 4 chronic kidney disease caused by autosomal dominant polycystic kidney disease (ADPKD). This communication tool has been developed to help answer questions you may have about the REPRISE clinical trial. You can ask the questions you are interested in to learn more about clinical trials and study participation.If you have a question that is not listed, try typing it into the box below; we may be able to answer it. If you have unanswered questions, you should take those questions to the study doctor or staff.This site is not intended to replace a conversation with your study doctor.Questions specific to your diagnosis or other trials that your doctor may recommend cannot be answered here; however, the goal of this site is to give you more information about what it is like to take part in a clinical trial and why clinical trials are an important to consideration.I invite you now to explore the site and ask your questions.</Content>
+</Response>
+<Response id="pkd006">
+<ResponseID id="0">pkd006</ResponseID>
+<BaseQuestion id="0">Instructions for how to use the site</BaseQuestion>
+<Content id="0">Let me tell you how the program works; you can explore the program by typing questions of your own into the text box, or by clicking on a related or frequently asked question, or you can select topics from the menu to your left. If you need assistance, click on the help button</Content>
+</Response>
+<Response id="pkd007">
+<ResponseID id="0">pkd007</ResponseID>
+<BaseQuestion id="0">Who are you?</BaseQuestion>
+<Content id="0">Thank you for asking, but I'm here to answer your questions about clinical trials and trial participation.</Content>
+</Response>
+<Response id="pkd008">
+<ResponseID id="0">pkd008</ResponseID>
+<BaseQuestion id="0">Contact information (ie, How do I get in touch with you?)</BaseQuestion>
+<Content id="0">Please contact a member of the study staff for more information. Do you have another question?</Content>
+</Response>
+<Response id="pkd009">
+<ResponseID id="0">pkd009</ResponseID>
+<BaseQuestion id="0">What is a clinical trial?</BaseQuestion>
+<Content id="0">Clinical research is often conducted by means of a "clinical trial" defined by The United States National Institute of Health (NIH) as "one type of clinical research that follows a pre-defined plan or protocol." A clinical trial is scientifically controlled study of the safety and effectiveness of investigational treatments and devices for various diseases and conditions. These trials determine if treatments are safe to use and will improve the health of people. Before a medication, therapy, or medical device can be made available to the general public, it has to go through several phases of clinical research. There are also observational studies, in which people who have a certain condition or disease or who receive a particular treatment are followed, or observed, over time and compared with another group of people who are not affected by the condition.</Content>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">pkd011</ResponseID>
+<BaseQuestion id="1">What are the phases of a clinical trial?</BaseQuestion>
+</RQ>
+<RQ id="1">
+<ResponseID id="2">pkd031</ResponseID>
+<BaseQuestion id="2">What is being tested in this trial? What is the purpose of this trial?</BaseQuestion>
+</RQ>
+<RQ id="2">
+<ResponseID id="3">pkd012</ResponseID>
+<BaseQuestion id="3">What are the types of clinical trials?</BaseQuestion>
+</RQ>
+<RQ id="3">
+<ResponseID id="4">pkd015</ResponseID>
+<BaseQuestion id="4">What is a clinical trial protocol?</BaseQuestion>
+</RQ>
+</RQs>
+</Response>
+<Response id="pkd010">
+<ResponseID id="0">pkd010</ResponseID>
+<BaseQuestion id="0">What agency regulates clinical trials?</BaseQuestion>
+<Content id="0">Clinical trials in the United States are regulated by the U.S. Food and Drug Administration (FDA) in the United States. The role of the FDA is to ensure adherence to a set of principles known as good clinical practices, or GCPs. These principles are designed to enhance the quality of clinical trial data, as well as to ensure the protection of study participants like you.</Content>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">pkd013</ResponseID>
+<BaseQuestion id="1">What is a Data Safety and Monitoring Committee?</BaseQuestion>
+</RQ>
+<RQ id="1">
+<ResponseID id="2">pkd014</ResponseID>
+<BaseQuestion id="2">What is an Institutional Review Board (IRB)?</BaseQuestion>
+</RQ>
+<RQ id="2">
+<ResponseID id="3">pkd081</ResponseID>
+<BaseQuestion id="3">Will my name be publically used during the study or when the results are published?</BaseQuestion>
+</RQ>
+<RQ id="3">
+<ResponseID id="4">pkd022</ResponseID>
+<BaseQuestion id="4">What is informed consent?</BaseQuestion>
+</RQ>
+</RQs>
+</Response>
+<Response id="pkd011">
+<ResponseID id="0">pkd011</ResponseID>
+<BaseQuestion id="0">What are the phases of a clinical trial?</BaseQuestion>
+<Content id="0">Clinical trials are typically performed in "phases." These phases are designed to build evidence that an investigational treatment will be beneficial to patients with a particular disease or condition.Before a medication can be tested in human subjects, pre-clinical testing occurs in a lab environment to gather data on whether the investigational treatment has the potential to work in treating the disease. Next, the therapy transitions to a Phase I clinical trial, which typically involves a small number of healthy patients and is designed to test whether the experimental treatment is safe and to determine what dose should be given. If the results show that the treatment is safe, it will transition into Phase II clinical trials, where it will be tested in patients with the disease or condition to see whether the treatment has any effect on this disease. The overall safety of the drug will also continue to be assessed. If the therapy works to treat a disease, it will enter Phase III trials, which involve a large number of patients to assess the effectiveness of the new treatment and how it compares to existing therapies, if applicable. And again, the overall safety of the drug will continue to be assessed.Often times, more than one trial will be conducted in Phase II and Phase III, although this is not always the case.</Content>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">pkd012</ResponseID>
+<BaseQuestion id="1">What are the types of clinical trials?</BaseQuestion>
+</RQ>
+<RQ id="1">
+<ResponseID id="2">pkd031</ResponseID>
+<BaseQuestion id="2">What is being tested in this trial? What is the purpose of this trial?</BaseQuestion>
+</RQ>
+<RQ id="2">
+<ResponseID id="3">pkd009</ResponseID>
+<BaseQuestion id="3">What is a clinical trial?</BaseQuestion>
+</RQ>
+<RQ id="3">
+<ResponseID id="4">pkd015</ResponseID>
+<BaseQuestion id="4">What is a clinical trial protocol?</BaseQuestion>
+</RQ>
+</RQs>
+</Response>
+<Response id="pkd012">
+<ResponseID id="0">pkd012</ResponseID>
+<BaseQuestion id="0">What are the types of clinical trials?</BaseQuestion>
+<Content id="0">There are two main types of clinical trials: Placebo-controlled and head-to-head trials.A placebo-controlled trial means that one group of patients will receive the treatment to be evaluated, while a second group, often known as the control group, will receive a placebo treatment. This placebo often looks just like the experimental treatment but is designed to have no real effect on patients. Placebos are often used in blinded trials, which are trials where the patients do not know whether they are receiving the real or placebo treatment; this is done to account for the "placebo effect," which is what the effect of participation in the study that does not result from the therapy itself is called.It's also important to note that placebo trials are usually, but not always, done where no standard of care or FDA-approved treatment exists.In a head-to-head or comparative effectiveness trial, one group of patients receives the treatment to be evaluated, while a second group of patients receives a different therapy. In most cases, the other therapy, or comparator, is a treatment that is already commonly used by patients. This is often referred to as the "standard of care." These types of trials allow researchers to see how the experimental therapy performs in comparison to other therapies.When discussing clinical trials, you might notice that they can also be referred to as "single-blind" or "double-blind." A single-blind trial means that the investigators involved in the trial know whether the patient is getting the investigational treatment, but the patient is not aware. In a double-blind trial, neither the investigator nor the patient knows who is receiving the investigational therapy. By "blinding" the trials, no biases--whether real or unintentional--are introduced into the trial.</Content>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">pkd018</ResponseID>
+<BaseQuestion id="1">Are placebos ethical?</BaseQuestion>
+</RQ>
+<RQ id="1">
+<ResponseID id="2">pkd075</ResponseID>
+<BaseQuestion id="2">Will the nurses/physician’s/etc know what treatment I’m getting?</BaseQuestion>
+</RQ>
+<RQ id="2">
+<ResponseID id="3">pkd053</ResponseID>
+<BaseQuestion id="3">What will the treatment entail? Administration method? Dose?</BaseQuestion>
+</RQ>
+<RQ id="3">
+<ResponseID id="4">pkd009</ResponseID>
+<BaseQuestion id="4">What is a clinical trial?</BaseQuestion>
+</RQ>
+<RQ id="4">
+<ResponseID id="5">pkd011</ResponseID>
+<BaseQuestion id="5">What are the phases of a clinical trial?</BaseQuestion>
+</RQ>
+</RQs>
+</Response>
+<Response id="pkd013">
+<ResponseID id="0">pkd013</ResponseID>
+<BaseQuestion id="0">What is a Data Safety and Monitoring Committee?</BaseQuestion>
+<Content id="0">A Data Safety and Monitoring Committee, sometimes known as a Data and Safety Monitoring Board, is an independent group of experts who monitor patient safety and treatment efficacy data during the course of a clinical trial. The group, which typically includes 3 to 10 members, is authorized to recommend that a trial be stopped due to safety concerns, because the treatment is not effective, or if the new treatment is so beneficial that it should be immediately considered for approval. Members of the Data Safety and Monitoring Committee are not related to the institution or company conducting or sponsoring the trial and are usually made up of clinicians with knowledge of the disease or condition being treated, statisticians, and sometimes a patient advocacy representative.</Content>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">pkd010</ResponseID>
+<BaseQuestion id="1">What agency regulates clinical trials?</BaseQuestion>
+</RQ>
+<RQ id="1">
+<ResponseID id="2">pkd014</ResponseID>
+<BaseQuestion id="2">What is an Institutional Review Board (IRB)?</BaseQuestion>
+</RQ>
+<RQ id="2">
+<ResponseID id="3">pkd016</ResponseID>
+<BaseQuestion id="3">Will I be taken advantage of?</BaseQuestion>
+</RQ>
+<RQ id="3">
+<ResponseID id="4">pkd018</ResponseID>
+<BaseQuestion id="4">Are placebos ethical?</BaseQuestion>
+</RQ>
+<RQ id="4">
+<ResponseID id="5">pkd057</ResponseID>
+<BaseQuestion id="5">What if the treatment does not work?</BaseQuestion>
+</RQ>
+</RQs>
+</Response>
+<Response id="pkd014">
+<ResponseID id="0">pkd014</ResponseID>
+<BaseQuestion id="0">What is an Institutional Review Board (IRB)?</BaseQuestion>
+<Content id="0">An Institutional Review Board, or ethical review board, is a committee charged with approving, monitoring and reviewing clinical research involving humans. The main goal of the board is to make sure the study is ethical and the rights and welfare of participants are protected. This includes making sure that research risks are minimized and are reasonable in relation to any potential benefits, among other things. Prior to the start of the clinical trial, this committee will conduct a risk- benefit analysis to determine whether the research should be performed.</Content>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">pkd010</ResponseID>
+<BaseQuestion id="1">What agency regulates clinical trials?</BaseQuestion>
+</RQ>
+<RQ id="1">
+<ResponseID id="2">pkd013</ResponseID>
+<BaseQuestion id="2">What is a Data Safety and Monitoring Committee?</BaseQuestion>
+</RQ>
+<RQ id="2">
+<ResponseID id="3">pkd016</ResponseID>
+<BaseQuestion id="3">Will I be taken advantage of?</BaseQuestion>
+</RQ>
+<RQ id="3">
+<ResponseID id="4">pkd018</ResponseID>
+<BaseQuestion id="4">Are placebos ethical?</BaseQuestion>
+</RQ>
+<RQ id="4">
+<ResponseID id="5">pkd019</ResponseID>
+<BaseQuestion id="5">Will the doctor tell the truth?</BaseQuestion>
+</RQ>
+</RQs>
+</Response>
+<Response id="pkd015">
+<ResponseID id="0">pkd015</ResponseID>
+<BaseQuestion id="0">What is a clinical trial protocol?</BaseQuestion>
+<Content id="0">A protocol is a written document outlining the study research plan. A clinical trial protocol is designed to answer specific research questions, as well as safeguard the health of participants. In general, a protocol describes an overview of the trial objectives; what types of people may participate; the number of participants needed for the trial, the schedule of tests, procedures, medications, and dosages; the length of the trial; and what information will be gathered about participants.</Content>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">pkd046</ResponseID>
+<BaseQuestion id="1">Where can I get a copy of the REPRISE study protocol?</BaseQuestion>
+</RQ>
+<RQ id="1">
+<ResponseID id="2">pkd009</ResponseID>
+<BaseQuestion id="2">What is a clinical trial?</BaseQuestion>
+</RQ>
+<RQ id="2">
+<ResponseID id="3">pkd043</ResponseID>
+<BaseQuestion id="3">What are the eligibility criteria for this study?</BaseQuestion>
+</RQ>
+<RQ id="3">
+<ResponseID id="4">pkd044</ResponseID>
+<BaseQuestion id="4">What are the exclusions?</BaseQuestion>
+</RQ>
+</RQs>
+</Response>
+<Response id="pkd016">
+<ResponseID id="0">pkd016</ResponseID>
+<BaseQuestion id="0">Will I be taken advantage of?</BaseQuestion>
+<Content id="0">In order to conduct a clinical trial, the research team must agree to comply with ethical guidelines designed to protect patient volunteers, as well as to preserve the integrity of the research. One of the main points of the ethical guidelines is that individuals should be treated with respect from the time they are approached for possible participation in the study, throughout their participation, and after their participation ends. This includes, but is not limited to, your right to privacy and respecting your right to change your mind about being in the trial at any point.</Content>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">pkd017</ResponseID>
+<BaseQuestion id="1">How will I be protected from unnecessary experiments?</BaseQuestion>
+</RQ>
+<RQ id="1">
+<ResponseID id="2">pkd014</ResponseID>
+<BaseQuestion id="2">What is an Institutional Review Board (IRB)?</BaseQuestion>
+</RQ>
+<RQ id="2">
+<ResponseID id="3">pkd013</ResponseID>
+<BaseQuestion id="3">What is a Data Safety and Monitoring Committee?</BaseQuestion>
+</RQ>
+<RQ id="3">
+<ResponseID id="4">pkd019</ResponseID>
+<BaseQuestion id="4">Will the doctor tell the truth?</BaseQuestion>
+</RQ>
+<RQ id="4">
+<ResponseID id="5">pkd018</ResponseID>
+<BaseQuestion id="5">Are placebos ethical?</BaseQuestion>
+</RQ>
+<RQ id="5">
+<ResponseID id="6">pkd022</ResponseID>
+<BaseQuestion id="6">What is informed consent?</BaseQuestion>
+</RQ>
+</RQs>
+</Response>
+<Response id="pkd017">
+<ResponseID id="0">pkd017</ResponseID>
+<BaseQuestion id="0">How will I be protected from unnecessary experiments?</BaseQuestion>
+<Content id="0">The nature of participating in a clinical trial means that you may receive an investigational treatment, which could be observed by some as making you a "guinea pig." However, all procedures and tests performed prior to participation, during participation, and after participation ends are clearly outlined in the clinical trial protocol and are subject to ethical guidelines, which include that the study is designed in a way so as to answer a specific scientific question. Therefore, unnecessary experiments or those that are not aimed at answering the pre-determined scientific question cannot be performed.</Content>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">pkd016</ResponseID>
+<BaseQuestion id="1">Will I be taken advantage of?</BaseQuestion>
+</RQ>
+<RQ id="1">
+<ResponseID id="2">pkd014</ResponseID>
+<BaseQuestion id="2">What is an Institutional Review Board (IRB)?</BaseQuestion>
+</RQ>
+<RQ id="2">
+<ResponseID id="3">pkd018</ResponseID>
+<BaseQuestion id="3">Are placebos ethical?</BaseQuestion>
+</RQ>
+<RQ id="3">
+<ResponseID id="4">pkd035</ResponseID>
+<BaseQuestion id="4">Will I be able to talk to the study doctors during the study?</BaseQuestion>
+</RQ>
+<RQ id="4">
+<ResponseID id="5">pkd067</ResponseID>
+<BaseQuestion id="5">Is it normal to be scared?</BaseQuestion>
+</RQ>
+</RQs>
+</Response>
+<Response id="pkd018">
+<ResponseID id="0">pkd018</ResponseID>
+<BaseQuestion id="0">Are placebos ethical?</BaseQuestion>
+<Content id="0">Patients participating in a placebo-controlled clinical trial are told during the informed-consent process that there is a chance that they could receive the investigational treatment or an inactive placebo while participating in the study. A placebo often looks like the investigational medication, but it has no active ingredient in it. Placebos are used in clinical research to help evaluate the effectiveness of an investigational medication. Because some participants receive the inactive placebo, the researchers can see the affect the investigational medication has in those who take it. Using a placebo during a study is ethical because the patient has been informed that there is a possibility that they will be receiving no treatment. It is also important to note that depending on the disease, an approved standard of care therapy may not exist. Therefore, if you are participating in a study that has a placebo, the placebo may actually be the standard of care.</Content>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">pkd053</ResponseID>
+<BaseQuestion id="1">What will the treatment entail? Administration method? Dose?</BaseQuestion>
+</RQ>
+<RQ id="1">
+<ResponseID id="2">pkd075</ResponseID>
+<BaseQuestion id="2">Will the nurses/physician’s/etc know what treatment I’m getting?</BaseQuestion>
+</RQ>
+<RQ id="2">
+<ResponseID id="3">pkd012</ResponseID>
+<BaseQuestion id="3">What are the types of clinical trials?</BaseQuestion>
+</RQ>
+<RQ id="3">
+<ResponseID id="4">pkd014</ResponseID>
+<BaseQuestion id="4">What is an Institutional Review Board (IRB)?</BaseQuestion>
+</RQ>
+<RQ id="4">
+<ResponseID id="5">pkd016</ResponseID>
+<BaseQuestion id="5">Will I be taken advantage of?</BaseQuestion>
+</RQ>
+<RQ id="5">
+<ResponseID id="6">pkd019</ResponseID>
+<BaseQuestion id="6">Will the doctor tell the truth?</BaseQuestion>
+</RQ>
+</RQs>
+</Response>
+<Response id="pkd019">
+<ResponseID id="0">pkd019</ResponseID>
+<BaseQuestion id="0">Will the doctor tell the truth?</BaseQuestion>
+<Content id="0">Under the terms of the ethical guidelines that govern clinical trials, all researchers are required to tell the truth about the conduct of the clinical trial, including informing participants of the potential risks, benefits, and available alternatives associated with participation in a clinical trial. However, it should be noted that in blinded studies, researchers will not be able to tell you which treatment you are receiving because they need to preserve the scientific integrity of the trial.</Content>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">pkd075</ResponseID>
+<BaseQuestion id="1">Will the nurses/physician’s/etc know what treatment I’m getting?</BaseQuestion>
+</RQ>
+<RQ id="1">
+<ResponseID id="2">pkd077</ResponseID>
+<BaseQuestion id="2">Could there be side effects that you can’t predict?</BaseQuestion>
+</RQ>
+<RQ id="2">
+<ResponseID id="3">pkd201</ResponseID>
+<BaseQuestion id="3">If I participate in this trial, will I be told if a better treatment develops?</BaseQuestion>
+</RQ>
+<RQ id="3">
+<ResponseID id="4">pkd012</ResponseID>
+<BaseQuestion id="4">What are the types of clinical trials?</BaseQuestion>
+</RQ>
+<RQ id="4">
+<ResponseID id="5">pkd013</ResponseID>
+<BaseQuestion id="5">What is a Data Safety and Monitoring Committee?</BaseQuestion>
+</RQ>
+<RQ id="5">
+<ResponseID id="6">pkd024</ResponseID>
+<BaseQuestion id="6">What rights do I have if I participate in a clinical trial? Can I quit the clinical trial at any time? Will the risks/side effects be explained to me?</BaseQuestion>
+</RQ>
+<RQ id="6">
+<ResponseID id="7">pkd018</ResponseID>
+<BaseQuestion id="7">Are placebos ethical?</BaseQuestion>
+</RQ>
+<RQ id="7">
+<ResponseID id="8">pkd016</ResponseID>
+<BaseQuestion id="8">Will I be taken advantage of?</BaseQuestion>
+</RQ>
+</RQs>
+</Response>
+<Response id="pkd021">
+<ResponseID id="0">pkd021</ResponseID>
+<BaseQuestion id="0">What is Standard Treatment?</BaseQuestion>
+<Content id="0">In a clinical trial, the standard treatment refers to any therapy that is accepted by medical professionals as an appropriate treatment for a certain type of disease and one that is typically widely used by health care professionals. Standard treatment can also be known as best practice, standard medical care, or standard of care.</Content>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">pkd058</ResponseID>
+<BaseQuestion id="1">If standard treatment works for me, why should I participate in a trial?</BaseQuestion>
+</RQ>
+<RQ id="1">
+<ResponseID id="2">pkd012</ResponseID>
+<BaseQuestion id="2">What are the types of clinical trials?</BaseQuestion>
+</RQ>
+<RQ id="2">
+<ResponseID id="3">pkd018</ResponseID>
+<BaseQuestion id="3">Are placebos ethical?</BaseQuestion>
+</RQ>
+</RQs>
+</Response>
+<Response id="pkd022">
+<ResponseID id="0">pkd022</ResponseID>
+<BaseQuestion id="0">What is informed consent?</BaseQuestion>
+<Content id="0">The U.S. Food and Drug Administration requires that potential study participants be given complete information about the planned trial under a process known as "informed consent." This process is designed to accurately inform individuals of the purpose, risks, benefits, and alternatives to the clinical trial; ensure that participants understand this information and how it relates to their own health or interests; and provides an opportunity for an individual to make a voluntary decision about whether to participate in the study.Once you have had enough time to read and understand the informed consent form and had time to discuss with the study doctor, you can choose to participate in the trial by signing a written informed consent form. Even if you sign the form, you can still withdraw from the study at any time, for any reason.</Content>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">pkd023</ResponseID>
+<BaseQuestion id="1">What if I do not understand the IC form? Who can help me understand the IC form?</BaseQuestion>
+</RQ>
+<RQ id="1">
+<ResponseID id="2">pkd038</ResponseID>
+<BaseQuestion id="2">Do I have to read the entire Informed Consent form?</BaseQuestion>
+</RQ>
+<RQ id="2">
+<ResponseID id="3">pkd024</ResponseID>
+<BaseQuestion id="3">What rights do I have if I participate in a clinical trial? Can I quit the clinical trial at any time? Will the risks/side effects be explained to me?</BaseQuestion>
+</RQ>
+<RQ id="3">
+<ResponseID id="4">pkd047</ResponseID>
+<BaseQuestion id="4">Who can help me decide what is best for me?</BaseQuestion>
+</RQ>
+</RQs>
+</Response>
+<Response id="pkd023">
+<ResponseID id="0">pkd023</ResponseID>
+<BaseQuestion id="0">What if I do not understand the IC form? Who can help me understand the IC form?</BaseQuestion>
+<Content id="0">The consent form may contain words that you or your loved ones do not understand. Pease ask the study doctor or other members of the research team to explain any words or information that you do not clearly understand. Before you make a decision to participate in the study, it is important that you understand the information in this form. You should not sign this form if you have any questions that have not been fully answered by the study staff.</Content>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">pkd022</ResponseID>
+<BaseQuestion id="1">What is informed consent?</BaseQuestion>
+</RQ>
+<RQ id="1">
+<ResponseID id="2">pkd038</ResponseID>
+<BaseQuestion id="2">Do I have to read the entire Informed Consent form?</BaseQuestion>
+</RQ>
+<RQ id="2">
+<ResponseID id="3">pkd047</ResponseID>
+<BaseQuestion id="3">Who can help me decide what is best for me?</BaseQuestion>
+</RQ>
+<RQ id="3">
+<ResponseID id="4">pkd025</ResponseID>
+<BaseQuestion id="4">Can I get a second opinion before I decide to participate?</BaseQuestion>
+</RQ>
+</RQs>
+</Response>
+<Response id="pkd024">
+<ResponseID id="0">pkd024</ResponseID>
+<BaseQuestion id="0">What rights do I have if I participate in a clinical trial? Can I quit the clinical trial at any time? Will the risks/side effects be explained to me?</BaseQuestion>
+<Content id="0">If you participate in a clinical trial, you are guaranteed certain right that may be referred to as a "Bill of Rights." Taking part in a clinical trial is your decision, and it affords you certain rights. For example, the Clinical Trial Volunteer's Bill of Rights states that you be given enough time to decide whether to participate and to make that decision without any pressure from the people who are doing the research; that you can refuse to participate in the study and to stop participating at any time; and that your decision not to participate will not affect your right to your usual care not related to the research. In addition, this bill of rights states that you have the right to be told why the clinical trial is being done, what will happen, and what you will be asked to do if you are in the trial, as well as to be informed of any reasonably foreseeable risks, discomforts, or side effects that may occur during the trial and who will pay for any research-related treatment. This bill of rights also empowers you to have your questions answered by the research team at any time and requires that you receive a copy of your signed Informed Consent form.</Content>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">pkd048</ResponseID>
+<BaseQuestion id="1">Can I withdraw from the study?</BaseQuestion>
+</RQ>
+<RQ id="1">
+<ResponseID id="2">pkd016</ResponseID>
+<BaseQuestion id="2">Will I be taken advantage of?</BaseQuestion>
+</RQ>
+<RQ id="2">
+<ResponseID id="3">pkd022</ResponseID>
+<BaseQuestion id="3">What is informed consent?</BaseQuestion>
+</RQ>
+<RQ id="3">
+<ResponseID id="4">pkd026</ResponseID>
+<BaseQuestion id="4">If I say no to a trial now, can I change my mind later?</BaseQuestion>
+</RQ>
+<RQ id="4">
+<ResponseID id="5">pkd076</ResponseID>
+<BaseQuestion id="5">What are the risks/side effects of this treatment?</BaseQuestion>
+</RQ>
+<RQ id="5">
+<ResponseID id="6">pkd014</ResponseID>
+<BaseQuestion id="6">What is an Institutional Review Board (IRB)?</BaseQuestion>
+</RQ>
+<RQ id="6">
+<ResponseID id="7">pkd027</ResponseID>
+<BaseQuestion id="7">How long do I have to make my decision?</BaseQuestion>
+</RQ>
+</RQs>
+</Response>
+<Response id="pkd025">
+<ResponseID id="0">pkd025</ResponseID>
+<BaseQuestion id="0">Can I get a second opinion before I decide to participate?</BaseQuestion>
+<Content id="0">You can opt to get a second opinion before you decide to participate in a clinical trial. A second- opinion can help you to better understand the existing treatments available to you and help you determine if participation in the trial is a good option for you both personally and from a medical point of view.</Content>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">pkd086</ResponseID>
+<BaseQuestion id="1">Should I talk to my doctor about this trial?</BaseQuestion>
+</RQ>
+<RQ id="1">
+<ResponseID id="2">pkd047</ResponseID>
+<BaseQuestion id="2">Who can help me decide what is best for me?</BaseQuestion>
+</RQ>
+<RQ id="2">
+<ResponseID id="3">pkd026</ResponseID>
+<BaseQuestion id="3">If I say no to a trial now, can I change my mind later?</BaseQuestion>
+</RQ>
+<RQ id="3">
+<ResponseID id="4">pkd027</ResponseID>
+<BaseQuestion id="4">How long do I have to make my decision?</BaseQuestion>
+</RQ>
+<RQ id="4">
+<ResponseID id="5">pkd024</ResponseID>
+<BaseQuestion id="5">What rights do I have if I participate in a clinical trial? Can I quit the clinical trial at any time? Will the risks/side effects be explained to me?</BaseQuestion>
+</RQ>
+</RQs>
+</Response>
+<Response id="pkd026">
+<ResponseID id="0">pkd026</ResponseID>
+<BaseQuestion id="0">If I say no to a trial now, can I change my mind later?</BaseQuestion>
+<Content id="0">If you decline to participate in a clinical trial, you can change your mind later as long as the study is still accepting new patients. It is recommended that you discuss with your research team any concerns that you may have about the trial during the informed consent process, at which point you should also ask how long they plan to enroll study participants and if there will be an additional enrollment period at a later date. At no point will you be pressured by the research team to join the study. It should also be noted that if you enroll in the study and decide that you no longer wish to participate, you can withdraw at any time without penalty.</Content>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">pkd087</ResponseID>
+<BaseQuestion id="1">Will there be other opportunities to participate in a clinical trial?</BaseQuestion>
+</RQ>
+<RQ id="1">
+<ResponseID id="2">pkd027</ResponseID>
+<BaseQuestion id="2">How long do I have to make my decision?</BaseQuestion>
+</RQ>
+<RQ id="2">
+<ResponseID id="3">pkd028</ResponseID>
+<BaseQuestion id="3">What will be the impact on the study if I decide not to participate?</BaseQuestion>
+</RQ>
+<RQ id="3">
+<ResponseID id="4">pkd029</ResponseID>
+<BaseQuestion id="4">Will the study still proceed if I decide not to enroll?</BaseQuestion>
+</RQ>
+<RQ id="4">
+<ResponseID id="5">pkd048</ResponseID>
+<BaseQuestion id="5">Can I withdraw from the study?</BaseQuestion>
+</RQ>
+<RQ id="5">
+<ResponseID id="6">pkd022</ResponseID>
+<BaseQuestion id="6">What is informed consent?</BaseQuestion>
+</RQ>
+<RQ id="6">
+<ResponseID id="7">pkd024</ResponseID>
+<BaseQuestion id="7">What rights do I have if I participate in a clinical trial? Can I quit the clinical trial at any time? Will the risks/side effects be explained to me?</BaseQuestion>
+</RQ>
+</RQs>
+</Response>
+<Response id="pkd027">
+<ResponseID id="0">pkd027</ResponseID>
+<BaseQuestion id="0">How long do I have to make my decision?</BaseQuestion>
+<Content id="0">When you meet with your research team, ask them how long you have to make a decision on whether or not to participate in the clinical trial. In general, you can decide to participate at any time during the enrollment period, which for some studies is only a few months, but for others, can be years. At no point will you be pressured by the research team to join the study.</Content>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">pkd026</ResponseID>
+<BaseQuestion id="1">If I say no to a trial now, can I change my mind later?</BaseQuestion>
+</RQ>
+<RQ id="1">
+<ResponseID id="2">pkd024</ResponseID>
+<BaseQuestion id="2">What rights do I have if I participate in a clinical trial? Can I quit the clinical trial at any time? Will the risks/side effects be explained to me?</BaseQuestion>
+</RQ>
+<RQ id="2">
+<ResponseID id="3">pkd028</ResponseID>
+<BaseQuestion id="3">What will be the impact on the study if I decide not to participate?</BaseQuestion>
+</RQ>
+<RQ id="3">
+<ResponseID id="4">pkd029</ResponseID>
+<BaseQuestion id="4">Will the study still proceed if I decide not to enroll?</BaseQuestion>
+</RQ>
+</RQs>
+</Response>
+<Response id="pkd028">
+<ResponseID id="0">pkd028</ResponseID>
+<BaseQuestion id="0">What will be the impact on the study if I decide not to participate?</BaseQuestion>
+<Content id="0">If you choose not to participate in the study, the study will still continue as planned, but may be delayed while the research staff recruits additional patients.</Content>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">pkd029</ResponseID>
+<BaseQuestion id="1">Will the study still proceed if I decide not to enroll?</BaseQuestion>
+</RQ>
+<RQ id="1">
+<ResponseID id="2">pkd026</ResponseID>
+<BaseQuestion id="2">If I say no to a trial now, can I change my mind later?</BaseQuestion>
+</RQ>
+<RQ id="2">
+<ResponseID id="3">pkd027</ResponseID>
+<BaseQuestion id="3">How long do I have to make my decision?</BaseQuestion>
+</RQ>
+</RQs>
+</Response>
+<Response id="pkd029">
+<ResponseID id="0">pkd029</ResponseID>
+<BaseQuestion id="0">Will the study still proceed if I decide not to enroll?</BaseQuestion>
+<Content id="0">If you choose not to enroll in a clinical trial, the study will still continue as planned. However, if the trial is recruiting patients with a rare disease or has enrollment criteria that might stop many patients from participating, it may end up being delayed.</Content>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">pkd028</ResponseID>
+<BaseQuestion id="1">What will be the impact on the study if I decide not to participate?</BaseQuestion>
+</RQ>
+<RQ id="1">
+<ResponseID id="2">pkd026</ResponseID>
+<BaseQuestion id="2">If I say no to a trial now, can I change my mind later?</BaseQuestion>
+</RQ>
+<RQ id="2">
+<ResponseID id="3">pkd027</ResponseID>
+<BaseQuestion id="3">How long do I have to make my decision?</BaseQuestion>
+</RQ>
+</RQs>
+</Response>
+<Response id="pkd030">
+<ResponseID id="0">pkd030</ResponseID>
+<BaseQuestion id="0">Do my family/friends need to know that I’m participating in a clinical trial?</BaseQuestion>
+<Content id="0">If you choose to participate in a clinical trial, it is up to you if you would like to let your family and friends know of your decision. It can often be helpful to inform family or friends if you will need assistance during the trial, such as to obtain transportation to and from clinical site visits or if you will need their help to stick to the treatment plan outlined in the study. You may wish to discuss this study with your family, friends, or your personal doctor before making your decision to participate.</Content>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">pkd081</ResponseID>
+<BaseQuestion id="1">Will my name be publically used during the study or when the results are published?</BaseQuestion>
+</RQ>
+<RQ id="1">
+<ResponseID id="2">pkd080</ResponseID>
+<BaseQuestion id="2">Will my employer be told about my participation in this clinical trial?</BaseQuestion>
+</RQ>
+<RQ id="2">
+<ResponseID id="3">pkd038</ResponseID>
+<BaseQuestion id="3">Do I have to read the entire Informed Consent form?</BaseQuestion>
+</RQ>
+</RQs>
+</Response>
+<Response id="pkd031">
+<ResponseID id="0">pkd031</ResponseID>
+<BaseQuestion id="0">What is being tested in this trial? What is the purpose of this trial?</BaseQuestion>
+<Content id="0">The purpose of this trial is to evaluate the safety and effectiveness of an investigational medication called tolvaptan in patients with late stage 2 to early stage 4 chronic kidney disease caused by autosomal dominant polycystic kidney disease, or ADPKD. For people with ADPKD, the kidneys respond abnormally to the hormone vasopressin, which may be involved in cyst development or growth in humans. The investigational medication is designed to interfere with or block the effect of vasopressin on the kidneys. The purpose of this trial is to test how useful tolvaptan will be in treating ADPKD. You are being asked to take part in this study because you have been diagnosed with late stage 2 and to early stage 4 chronic kidney disease caused by ADPKD.</Content>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">pkd053</ResponseID>
+<BaseQuestion id="1">What will the treatment entail? Administration method? Dose?</BaseQuestion>
+</RQ>
+<RQ id="1">
+<ResponseID id="2">pkd032</ResponseID>
+<BaseQuestion id="2">Has this drug ever been tested before? Will I be shown the results of these earlier trials?</BaseQuestion>
+</RQ>
+<RQ id="2">
+<ResponseID id="3">pkd033</ResponseID>
+<BaseQuestion id="3">Is this drug being used to treat any other conditions?</BaseQuestion>
+</RQ>
+<RQ id="3">
+<ResponseID id="4">pkd012</ResponseID>
+<BaseQuestion id="4">What are the types of clinical trials?</BaseQuestion>
+</RQ>
+</RQs>
+</Response>
+<Response id="pkd032">
+<ResponseID id="0">pkd032</ResponseID>
+<BaseQuestion id="0">Has this drug ever been tested before? Will I be shown the results of these earlier trials?</BaseQuestion>
+<Content id="0">The drug, which is called tolvaptan, has so far been tested in nearly 7,000 people worldwide, including more than 1,000 people with ADPKD and in more than 900 patients for 36 months or more.</Content>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">pkd033</ResponseID>
+<BaseQuestion id="1">Is this drug being used to treat any other conditions?</BaseQuestion>
+</RQ>
+<RQ id="1">
+<ResponseID id="2">pkd031</ResponseID>
+<BaseQuestion id="2">What is being tested in this trial? What is the purpose of this trial?</BaseQuestion>
+</RQ>
+<RQ id="2">
+<ResponseID id="3">pkd011</ResponseID>
+<BaseQuestion id="3">What are the phases of a clinical trial?</BaseQuestion>
+</RQ>
+<RQ id="3">
+<ResponseID id="4">pkd053</ResponseID>
+<BaseQuestion id="4">What will the treatment entail? Administration method? Dose?</BaseQuestion>
+</RQ>
+</RQs>
+</Response>
+<Response id="pkd033">
+<ResponseID id="0">pkd033</ResponseID>
+<BaseQuestion id="0">Is this drug being used to treat any other conditions?</BaseQuestion>
+<Content id="0">Although tolvaptan is still considered experimental in the treatment of ADPKD, it was approved in the United States in 2009 for the treatment of patients with certain types of hyponatremia, which is a low amount of sodium or salt in the blood. Tolvaptan was also approved in Europe in 2009 for hyponatremia due to syndrome of inappropriate antidiuretic hormone secretion, or SIADH. It was also recently approved in Japan for the treatment of ADPKD and is now being studied in several other countries in the REPRISE study as a potential treatment for ADPKD.</Content>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">pkd032</ResponseID>
+<BaseQuestion id="1">Has this drug ever been tested before? Will I be shown the results of these earlier trials?</BaseQuestion>
+</RQ>
+<RQ id="1">
+<ResponseID id="2">pkd031</ResponseID>
+<BaseQuestion id="2">What is being tested in this trial? What is the purpose of this trial?</BaseQuestion>
+</RQ>
+<RQ id="2">
+<ResponseID id="3">pkd053</ResponseID>
+<BaseQuestion id="3">What will the treatment entail? Administration method? Dose?</BaseQuestion>
+</RQ>
+</RQs>
+</Response>
+<Response id="pkd034">
+<ResponseID id="0">pkd034</ResponseID>
+<BaseQuestion id="0">When will I find out about the trial results?</BaseQuestion>
+<Content id="0">Although the study is only scheduled to last for a maximum of 20 months for the majority of participants, it may take several months or even years for the research team to analyze the data collected and report the results. During the study, you will not have the right to know any information about ongoing study results.</Content>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">pkd036</ResponseID>
+<BaseQuestion id="1">Will I be kept informed of my test results during the study?</BaseQuestion>
+</RQ>
+<RQ id="1">
+<ResponseID id="2">pkd054</ResponseID>
+<BaseQuestion id="2">How long will the trial last?</BaseQuestion>
+</RQ>
+<RQ id="2">
+<ResponseID id="3">pkd031</ResponseID>
+<BaseQuestion id="3">What is being tested in this trial? What is the purpose of this trial?</BaseQuestion>
+</RQ>
+</RQs>
+</Response>
+<Response id="pkd035">
+<ResponseID id="0">pkd035</ResponseID>
+<BaseQuestion id="0">Will I be able to talk to the study doctors during the study?</BaseQuestion>
+<Content id="0">Over the course of the clinical trial, you will have regular communication with your research team, including your study doctor. You may not be able to see the study doctor at each study site visit, but you will have opportunities to meet with the study doctor to ask questions or discuss any concerns you may have throughout the trial.</Content>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">pkd036</ResponseID>
+<BaseQuestion id="1">Will I be kept informed of my test results during the study?</BaseQuestion>
+</RQ>
+<RQ id="1">
+<ResponseID id="2">pkd086</ResponseID>
+<BaseQuestion id="2">Should I talk to my doctor about this trial?</BaseQuestion>
+</RQ>
+<RQ id="2">
+<ResponseID id="3">pkd069</ResponseID>
+<BaseQuestion id="3">Who is managing my trial?</BaseQuestion>
+</RQ>
+<RQ id="3">
+<ResponseID id="4">pkd070</ResponseID>
+<BaseQuestion id="4">Who will be caring for me during the clinical trial?</BaseQuestion>
+</RQ>
+<RQ id="4">
+<ResponseID id="5">pkd071</ResponseID>
+<BaseQuestion id="5">Can I use my own doctor/lab/hospital for the tests?</BaseQuestion>
+</RQ>
+<RQ id="5">
+<ResponseID id="6">pkd072</ResponseID>
+<BaseQuestion id="6">If I get sick during the study, who will be there to help me?</BaseQuestion>
+</RQ>
+</RQs>
+</Response>
+<Response id="pkd036">
+<ResponseID id="0">pkd036</ResponseID>
+<BaseQuestion id="0">Will I be kept informed of my test results during the study?</BaseQuestion>
+<Content id="0">The results of your lab tests will be shared with you throughout the study.</Content>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">pkd034</ResponseID>
+<BaseQuestion id="1">When will I find out about the trial results?</BaseQuestion>
+</RQ>
+<RQ id="1">
+<ResponseID id="2">pkd081</ResponseID>
+<BaseQuestion id="2">Will my name be publically used during the study or when the results are published?</BaseQuestion>
+</RQ>
+<RQ id="2">
+<ResponseID id="3">pkd019</ResponseID>
+<BaseQuestion id="3">Will the doctor tell the truth?</BaseQuestion>
+</RQ>
+<RQ id="3">
+<ResponseID id="4">pkd070</ResponseID>
+<BaseQuestion id="4">Who will be caring for me during the clinical trial?</BaseQuestion>
+</RQ>
+<RQ id="4">
+<ResponseID id="5">pkd035</ResponseID>
+<BaseQuestion id="5">Will I be able to talk to the study doctors during the study?</BaseQuestion>
+</RQ>
+</RQs>
+</Response>
+<Response id="pkd037">
+<ResponseID id="0">pkd037</ResponseID>
+<BaseQuestion id="0">How many people will be enrolled in this trial?</BaseQuestion>
+<Content id="0">This study is expected to enroll approximately 1,300 patients with ADPKD from all over the world.</Content>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">pkd054</ResponseID>
+<BaseQuestion id="1">How long will the trial last?</BaseQuestion>
+</RQ>
+<RQ id="1">
+<ResponseID id="2">pkd055</ResponseID>
+<BaseQuestion id="2">How many times will I have to visit the study doctor?</BaseQuestion>
+</RQ>
+<RQ id="2">
+<ResponseID id="3">pkd012</ResponseID>
+<BaseQuestion id="3">What are the types of clinical trials?</BaseQuestion>
+</RQ>
+</RQs>
+</Response>
+<Response id="pkd038">
+<ResponseID id="0">pkd038</ResponseID>
+<BaseQuestion id="0">Do I have to read the entire Informed Consent form?</BaseQuestion>
+<Content id="0">Before choosing to be part of this study, you should read the informed consent form. You can also review the form together with your loved one to ensure you both understand the commitment you are making by signing the consent form. Although not limited to the following, the consent form tells you what will happen during the study and the risks and benefits you may experience if you choose to participate. It also explains the other treatment options you have besides taking part in this study, as well as your right to stop taking part in the study at any time.</Content>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">pkd022</ResponseID>
+<BaseQuestion id="1">What is informed consent?</BaseQuestion>
+</RQ>
+<RQ id="1">
+<ResponseID id="2">pkd023</ResponseID>
+<BaseQuestion id="2">What if I do not understand the IC form? Who can help me understand the IC form?</BaseQuestion>
+</RQ>
+<RQ id="2">
+<ResponseID id="3">pkd030</ResponseID>
+<BaseQuestion id="3">Do my family/friends need to know that I’m participating in a clinical trial?</BaseQuestion>
+</RQ>
+<RQ id="3">
+<ResponseID id="4">pkd047</ResponseID>
+<BaseQuestion id="4">Who can help me decide what is best for me?</BaseQuestion>
+</RQ>
+<RQ id="4">
+<ResponseID id="5">pkd067</ResponseID>
+<BaseQuestion id="5">Is it normal to be scared?</BaseQuestion>
+</RQ>
+</RQs>
+</Response>
+<Response id="pkd039">
+<ResponseID id="0">pkd039</ResponseID>
+<BaseQuestion id="0">Would I have to pay for the medication? Who pays for the medicine? Would I have to pay for the tests? Who pays for the tests?</BaseQuestion>
+<Content id="0">Study participants will not have to pay for the investigational medication, study visits, or study procedures during participation in this study. The study sponsor will pay for these costs. You, your insurance company, or your standard health care provider will cover the costs for specific procedures or tests that are part of the standard treatment for patients with your medical condition. If you have any questions or concerns related to cost, please ask your study doctor.</Content>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">pkd040</ResponseID>
+<BaseQuestion id="1">Will I get paid to participate?</BaseQuestion>
+</RQ>
+<RQ id="1">
+<ResponseID id="2">pkd041</ResponseID>
+<BaseQuestion id="2">Why is there no compensation?</BaseQuestion>
+</RQ>
+<RQ id="2">
+<ResponseID id="3">pkd042</ResponseID>
+<BaseQuestion id="3">Do the doctors get paid? Who pays the doctors?</BaseQuestion>
+</RQ>
+<RQ id="3">
+<ResponseID id="4">pkd066</ResponseID>
+<BaseQuestion id="4">What support is available for participants during the trial?</BaseQuestion>
+</RQ>
+</RQs>
+</Response>
+<Response id="pkd040">
+<ResponseID id="0">pkd040</ResponseID>
+<BaseQuestion id="0">Will I get paid to participate?</BaseQuestion>
+<Content id="0">You will not be paid for participating in this clinical trial. If you have to travel more often for visits relating to the study than your regular appointments for your condition, your travel expenses may be reimbursed. Please ask your study doctor for more information.</Content>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">pkd039</ResponseID>
+<BaseQuestion id="1">Would I have to pay for the medication? Who pays for the medicine? Would I have to pay for the tests? Who pays for the tests?</BaseQuestion>
+</RQ>
+<RQ id="1">
+<ResponseID id="2">pkd041</ResponseID>
+<BaseQuestion id="2">Why is there no compensation?</BaseQuestion>
+</RQ>
+<RQ id="2">
+<ResponseID id="3">pkd042</ResponseID>
+<BaseQuestion id="3">Do the doctors get paid? Who pays the doctors?</BaseQuestion>
+</RQ>
+<RQ id="3">
+<ResponseID id="4">pkd066</ResponseID>
+<BaseQuestion id="4">What support is available for participants during the trial?</BaseQuestion>
+</RQ>
+</RQs>
+</Response>
+<Response id="pkd041">
+<ResponseID id="0">pkd041</ResponseID>
+<BaseQuestion id="0">Why is there no compensation?</BaseQuestion>
+<Content id="0">Often times, trial sponsors decide not to offer financial compensation so as to avoid unduly influencing enrollment decisions. The research team wants patients to make their decision to enter into a clinical trial based only on whether it is a good choice from a physical and psychological perspective, as opposed to for financial reasons.</Content>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">pkd039</ResponseID>
+<BaseQuestion id="1">Would I have to pay for the medication? Who pays for the medicine? Would I have to pay for the tests? Who pays for the tests?</BaseQuestion>
+</RQ>
+<RQ id="1">
+<ResponseID id="2">pkd040</ResponseID>
+<BaseQuestion id="2">Will I get paid to participate?</BaseQuestion>
+</RQ>
+<RQ id="2">
+<ResponseID id="3">pkd042</ResponseID>
+<BaseQuestion id="3">Do the doctors get paid? Who pays the doctors?</BaseQuestion>
+</RQ>
+<RQ id="3">
+<ResponseID id="4">pkd066</ResponseID>
+<BaseQuestion id="4">What support is available for participants during the trial?</BaseQuestion>
+</RQ>
+</RQs>
+</Response>
+<Response id="pkd042">
+<ResponseID id="0">pkd042</ResponseID>
+<BaseQuestion id="0">Do the doctors get paid? Who pays the doctors?</BaseQuestion>
+<Content id="0">The study doctors are being paid by Otsuka Pharmaceutical Development and Commercialization, Inc. to conduct this study.</Content>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">pkd039</ResponseID>
+<BaseQuestion id="1">Would I have to pay for the medication? Who pays for the medicine? Would I have to pay for the tests? Who pays for the tests?</BaseQuestion>
+</RQ>
+<RQ id="1">
+<ResponseID id="2">pkd040</ResponseID>
+<BaseQuestion id="2">Will I get paid to participate?</BaseQuestion>
+</RQ>
+<RQ id="2">
+<ResponseID id="3">pkd041</ResponseID>
+<BaseQuestion id="3">Why is there no compensation?</BaseQuestion>
+</RQ>
+<RQ id="3">
+<ResponseID id="4">pkd066</ResponseID>
+<BaseQuestion id="4">What support is available for participants during the trial?</BaseQuestion>
+</RQ>
+</RQs>
+</Response>
+<Response id="pkd043">
+<ResponseID id="0">pkd043</ResponseID>
+<BaseQuestion id="0">What are the eligibility criteria for this study?</BaseQuestion>
+<Content id="0">You may be eligible to participate in this trial if you are between 18 and 65 years old. Other initial and ongoing eligibility criteria affecting your participation in the study include the number and distribution of cysts in your kidneys, your kidneys' ability to function, and your ability to safely tolerate the study drug.</Content>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">pkd031</ResponseID>
+<BaseQuestion id="1">What is being tested in this trial? What is the purpose of this trial?</BaseQuestion>
+</RQ>
+<RQ id="1">
+<ResponseID id="2">pkd044</ResponseID>
+<BaseQuestion id="2">What are the exclusions?</BaseQuestion>
+</RQ>
+<RQ id="2">
+<ResponseID id="3">pkd045</ResponseID>
+<BaseQuestion id="3">Can I participate in more than one trial?</BaseQuestion>
+</RQ>
+</RQs>
+</Response>
+<Response id="pkd044">
+<ResponseID id="0">pkd044</ResponseID>
+<BaseQuestion id="0">What are the exclusions?</BaseQuestion>
+<Content id="0">This study will not enroll patients who have liver damage other than that expected for ADPKD. Nor will it enroll those patients who have evidence of significant renal diseases, recent renal surgery, acute kidney injury, or who are already on dialysis. The study is also not seeking to enroll patients with advanced diabetes or who have a limited ability to urinate. In addition, you should not plan to join the trial if you are pregnant, are planning to become pregnant, or are currently breastfeeding. You should not join this trial if you have had a bad reaction to tolvaptan in the past or if you have had a bad reaction to benzazapine derivatives, such as benazepril, mirtazapine, conivaptan, and fenoldopam mesylate. If you are unsure of whether you are eligible to enroll in the trial, please ask the study doctor.</Content>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">pkd043</ResponseID>
+<BaseQuestion id="1">What are the eligibility criteria for this study?</BaseQuestion>
+</RQ>
+<RQ id="1">
+<ResponseID id="2">pkd031</ResponseID>
+<BaseQuestion id="2">What is being tested in this trial? What is the purpose of this trial?</BaseQuestion>
+</RQ>
+<RQ id="2">
+<ResponseID id="3">pkd045</ResponseID>
+<BaseQuestion id="3">Can I participate in more than one trial?</BaseQuestion>
+</RQ>
+</RQs>
+</Response>
+<Response id="pkd045">
+<ResponseID id="0">pkd045</ResponseID>
+<BaseQuestion id="0">Can I participate in more than one trial?</BaseQuestion>
+<Content id="0">Participants in this clinical trial may have enrolled in earlier trials of the investigational medication. If you have participated in earlier studies of tolvaptan, it will exclude your participation in this trial. If you have participated in clinical trials of other drugs or are planning on participating in future studies of other medications, please contact your study doctor to discuss your enrollment options.</Content>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">pkd043</ResponseID>
+<BaseQuestion id="1">What are the eligibility criteria for this study?</BaseQuestion>
+</RQ>
+<RQ id="1">
+<ResponseID id="2">pkd044</ResponseID>
+<BaseQuestion id="2">What are the exclusions?</BaseQuestion>
+</RQ>
+<RQ id="2">
+<ResponseID id="3">pkd031</ResponseID>
+<BaseQuestion id="3">What is being tested in this trial? What is the purpose of this trial?</BaseQuestion>
+</RQ>
+</RQs>
+</Response>
+<Response id="pkd046">
+<ResponseID id="0">pkd046</ResponseID>
+<BaseQuestion id="0">Where can I get a copy of the REPRISE study protocol?</BaseQuestion>
+<Content id="0">You will not be provided with a copy of the protocol. However, the clinical trial protocol will be reviewed with you by study staff prior to your enrollment in the trial. During this review process, the research team will help to address any questions or concerns you may have about the study design, objective, or what your participation in the trial will entail.</Content>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">pkd015</ResponseID>
+<BaseQuestion id="1">What is a clinical trial protocol?</BaseQuestion>
+</RQ>
+<RQ id="1">
+<ResponseID id="2">pkd024</ResponseID>
+<BaseQuestion id="2">What rights do I have if I participate in a clinical trial? Can I quit the clinical trial at any time? Will the risks/side effects be explained to me?</BaseQuestion>
+</RQ>
+<RQ id="2">
+<ResponseID id="3">pkd031</ResponseID>
+<BaseQuestion id="3">What is being tested in this trial? What is the purpose of this trial?</BaseQuestion>
+</RQ>
+<RQ id="3">
+<ResponseID id="4">pkd035</ResponseID>
+<BaseQuestion id="4">Will I be able to talk to the study doctors during the study?</BaseQuestion>
+</RQ>
+</RQs>
+</Response>
+<Response id="pkd047">
+<ResponseID id="0">pkd047</ResponseID>
+<BaseQuestion id="0">Who can help me decide what is best for me?</BaseQuestion>
+<Content id="0">Knowing all you can about clinical trials can help you decide whether to take part in one. In order to gather information about this clinical trial you are considering, you should review the key points of the study protocol with the study physician, participate in the informed consent process, ask questions of the study physician and other research staff, and discuss the clinical trial with your physician if desired. Ultimately, however, it is up to you to decide whether participation in the clinical trial is right for you.</Content>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">pkd086</ResponseID>
+<BaseQuestion id="1">Should I talk to my doctor about this trial?</BaseQuestion>
+</RQ>
+<RQ id="1">
+<ResponseID id="2">pkd067</ResponseID>
+<BaseQuestion id="2">Is it normal to be scared?</BaseQuestion>
+</RQ>
+<RQ id="2">
+<ResponseID id="3">pkd022</ResponseID>
+<BaseQuestion id="3">What is informed consent?</BaseQuestion>
+</RQ>
+<RQ id="3">
+<ResponseID id="4">pkd023</ResponseID>
+<BaseQuestion id="4">What if I do not understand the IC form? Who can help me understand the IC form?</BaseQuestion>
+</RQ>
+<RQ id="4">
+<ResponseID id="5">pkd038</ResponseID>
+<BaseQuestion id="5">Do I have to read the entire Informed Consent form?</BaseQuestion>
+</RQ>
+</RQs>
+</Response>
+<Response id="pkd048">
+<ResponseID id="0">pkd048</ResponseID>
+<BaseQuestion id="0">Can I withdraw from the study?</BaseQuestion>
+<Content id="0">You can withdraw from study participation at any time. For the REPRISE study, it is very important that the researchers be able to follow your progress and health even if you do not want to continue taking the investigational medication. If you wish to stop taking the investigational medication, the study doctor will ask you a series of questions, including whether you would be willing to continue to participate in the study tests and procedures that would normally be done during the remaining planned course of the study. You will not be considered fully withdrawn from the study (i.e. you will not be asked to take the study medication, you will not participate in study procedures, you will not participate in study follow activities) unless you answer "No" to all of the questions.</Content>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">pkd024</ResponseID>
+<BaseQuestion id="1">What rights do I have if I participate in a clinical trial? Can I quit the clinical trial at any time? Will the risks/side effects be explained to me?</BaseQuestion>
+</RQ>
+<RQ id="1">
+<ResponseID id="2">pkd026</ResponseID>
+<BaseQuestion id="2">If I say no to a trial now, can I change my mind later?</BaseQuestion>
+</RQ>
+<RQ id="2">
+<ResponseID id="3">pkd027</ResponseID>
+<BaseQuestion id="3">How long do I have to make my decision?</BaseQuestion>
+</RQ>
+<RQ id="3">
+<ResponseID id="4">pkd022</ResponseID>
+<BaseQuestion id="4">What is informed consent?</BaseQuestion>
+</RQ>
+</RQs>
+</Response>
+<Response id="pkd049">
+<ResponseID id="0">pkd049</ResponseID>
+<BaseQuestion id="0">Should I keep taking my other medications?</BaseQuestion>
+<Content id="0">Tolvaptan will not replace any of your medications; however, the use of some medications is restricted during the study. Your study doctor will ask you about the medications you are currently taking and will tell you if any of them cannot be taken during the study. Otherwise, you will continue taking your other usual medication as prescribed by your doctor. If your personal physician prescribes any other medication while you are in this study, you must first consult your study doctor prior to taking them.</Content>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">pkd068</ResponseID>
+<BaseQuestion id="1">Can I get treatment for other medical problems during this trial?</BaseQuestion>
+</RQ>
+<RQ id="1">
+<ResponseID id="2">pkd050</ResponseID>
+<BaseQuestion id="2">Can I use alternative or complementary treatments during the study?</BaseQuestion>
+</RQ>
+<RQ id="2">
+<ResponseID id="3">pkd086</ResponseID>
+<BaseQuestion id="3">Should I talk to my doctor about this trial?</BaseQuestion>
+</RQ>
+</RQs>
+</Response>
+<Response id="pkd050">
+<ResponseID id="0">pkd050</ResponseID>
+<BaseQuestion id="0">Can I use alternative or complementary treatments during the study?</BaseQuestion>
+<Content id="0">If you are currently taking any alternative or complementary treatments, please discuss these therapies with your study doctor. The study doctor will tell you if any of treatments cannot be taken during the study. You should continue to take the therapies unless told to stop by the study doctor.</Content>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">pkd068</ResponseID>
+<BaseQuestion id="1">Can I get treatment for other medical problems during this trial?</BaseQuestion>
+</RQ>
+<RQ id="1">
+<ResponseID id="2">pkd049</ResponseID>
+<BaseQuestion id="2">Should I keep taking my other medications?</BaseQuestion>
+</RQ>
+<RQ id="2">
+<ResponseID id="3">pkd086</ResponseID>
+<BaseQuestion id="3">Should I talk to my doctor about this trial?</BaseQuestion>
+</RQ>
+</RQs>
+</Response>
+<Response id="pkd051">
+<ResponseID id="0">pkd051</ResponseID>
+<BaseQuestion id="0">Diet while on the trial?</BaseQuestion>
+<Content id="0">While participating in the trial, your study doctor may recommended that you follow the diet recommended to all subjects diagnosed with advanced ADPKD. Additionally, you should drink 1 to 2 cups of water before bedtime regardless of how thirsty you are and drink water after each time you urinate during the night. You should also drink enough fluids to avoid dehydration, about 2 to 3 liters (approximately 64 to 100 ounces), during the day unless otherwise directed by your study doctor. This should start during screening and continue through the end of the study. Please do not eat or drink anything that contains pomelo (a type of grapefruit), grapefruit, or Seville orange products for the whole time you are in the study from screening until the last follow-up visit.</Content>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">pkd052</ResponseID>
+<BaseQuestion id="1">Exercise while on the trial?</BaseQuestion>
+</RQ>
+<RQ id="1">
+<ResponseID id="2">pkd068</ResponseID>
+<BaseQuestion id="2">Can I get treatment for other medical problems during this trial?</BaseQuestion>
+</RQ>
+<RQ id="2">
+<ResponseID id="3">pkd086</ResponseID>
+<BaseQuestion id="3">Should I talk to my doctor about this trial?</BaseQuestion>
+</RQ>
+</RQs>
+</Response>
+<Response id="pkd052">
+<ResponseID id="0">pkd052</ResponseID>
+<BaseQuestion id="0">Exercise while on the trial?</BaseQuestion>
+<Content id="0">If you choose to participate in this clinical trial, the study doctors may recommend that you maintain a stable exercise routine. In particular, they may ask that you avoid very different or heavy physical activity/exercise the day before you are scheduled to attend a study site visit. If you have any questions or concerns about these exercise recommendations, please speak with your study doctor.</Content>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">pkd051</ResponseID>
+<BaseQuestion id="1">Diet while on the trial?</BaseQuestion>
+</RQ>
+<RQ id="1">
+<ResponseID id="2">pkd068</ResponseID>
+<BaseQuestion id="2">Can I get treatment for other medical problems during this trial?</BaseQuestion>
+</RQ>
+<RQ id="2">
+<ResponseID id="3">pkd086</ResponseID>
+<BaseQuestion id="3">Should I talk to my doctor about this trial?</BaseQuestion>
+</RQ>
+</RQs>
+</Response>
+<Response id="pkd053">
+<ResponseID id="0">pkd053</ResponseID>
+<BaseQuestion id="0">What will the treatment entail? Administration method? Dose?</BaseQuestion>
+<Content id="0">For the majority of the time you are participating in the study, you will be randomly assigned to receive either tolvaptan or placebo. "Randomly assigned" means that you will be assigned by chance, like the toss of a coin, to receive either tolvaptan or placebo. Your chance of receiving either tolvaptan or placebo is 50 percent. Once you have been randomly assigned to treatment, neither you, your study doctor, nor Otsuka Pharmaceutical Development and Commercialization, Inc. will know if you are taking tolvaptan or placebo Both tolvaptan and placebo are an oral tablet that is self-administered once upon wakening and again approximately 8 to 9 hours later. During a small portion of the treatment period, you will be exposed to tolvaptan and placebo and may be switched back and forth between treatments at different times for defined intervals. You will also go through a short phase where you will be given gradually increasing doses of the investigational medication but you will not be told whether it is tolvaptan or placebo. The study doctor may adjust the dosage over the course of the treatment period based on your reaction to tolvaptan or placebo.</Content>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">pkd060</ResponseID>
+<BaseQuestion id="1">Will there be lots of needles? Will I have to have blood tests?</BaseQuestion>
+</RQ>
+<RQ id="1">
+<ResponseID id="2">pkd031</ResponseID>
+<BaseQuestion id="2">What is being tested in this trial? What is the purpose of this trial?</BaseQuestion>
+</RQ>
+<RQ id="2">
+<ResponseID id="3">pkd032</ResponseID>
+<BaseQuestion id="3">Has this drug ever been tested before? Will I be shown the results of these earlier trials?</BaseQuestion>
+</RQ>
+<RQ id="3">
+<ResponseID id="4">pkd033</ResponseID>
+<BaseQuestion id="4">Is this drug being used to treat any other conditions?</BaseQuestion>
+</RQ>
+<RQ id="4">
+<ResponseID id="5">pkd012</ResponseID>
+<BaseQuestion id="5">What are the types of clinical trials?</BaseQuestion>
+</RQ>
+</RQs>
+</Response>
+<Response id="pkd054">
+<ResponseID id="0">pkd054</ResponseID>
+<BaseQuestion id="0">How long will the trial last?</BaseQuestion>
+<Content id="0">In total, the study will last approximately 15 months from start to finish. You will enter a 1- to 2- week screening period where study staff will determine whether you meet the qualifications to enroll in the trial. The screening period may be extended up to an additional 8 weeks if needed to allow you to adjust to changes made in certain medications or to repeat certain blood tests. Once you have successfully enrolled in the trial, you will enter the treatment period of the study and will be given either placebo or tolvaptan during the next 13 to 14 months. Finally, once you have stopped taking the study medication you will enter the follow-up period, which will last for 3 weeks.</Content>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">pkd055</ResponseID>
+<BaseQuestion id="1">How many times will I have to visit the study doctor?</BaseQuestion>
+</RQ>
+<RQ id="1">
+<ResponseID id="2">pkd062</ResponseID>
+<BaseQuestion id="2">How long will I be in the trial? How long will each appointment be?</BaseQuestion>
+</RQ>
+<RQ id="2">
+<ResponseID id="3">pkd037</ResponseID>
+<BaseQuestion id="3">How many people will be enrolled in this trial?</BaseQuestion>
+</RQ>
+</RQs>
+</Response>
+<Response id="pkd055">
+<ResponseID id="0">pkd055</ResponseID>
+<BaseQuestion id="0">How many times will I have to visit the study doctor?</BaseQuestion>
+<Content id="0">During the screening period, you will typically have 3 study visits that are at least 24 hours apart. Additional visits will be required if the study doctor determines that your screening period should be extended. Once you have entered the treatment period, you will have 7 visits during the first 6 weeks. During the next 52 weeks of the treatment period, 12 monthly visits will occur. During the follow-up period, no visits will occur during the first week. Three visits will occur, at least 24 hours apart, during the last two weeks of the follow-up period.</Content>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">pkd054</ResponseID>
+<BaseQuestion id="1">How long will the trial last?</BaseQuestion>
+</RQ>
+<RQ id="1">
+<ResponseID id="2">pkd056</ResponseID>
+<BaseQuestion id="2">Where will I go for study visits?</BaseQuestion>
+</RQ>
+<RQ id="2">
+<ResponseID id="3">pkd066</ResponseID>
+<BaseQuestion id="3">What support is available for participants during the trial?</BaseQuestion>
+</RQ>
+<RQ id="3">
+<ResponseID id="4">pkd083</ResponseID>
+<BaseQuestion id="4">Will I have to go to a different doctor for my trial?</BaseQuestion>
+</RQ>
+<RQ id="4">
+<ResponseID id="5">pkd037</ResponseID>
+<BaseQuestion id="5">How many people will be enrolled in this trial?</BaseQuestion>
+</RQ>
+</RQs>
+</Response>
+<Response id="pkd056">
+<ResponseID id="0">pkd056</ResponseID>
+<BaseQuestion id="0">Where will I go for study visits?</BaseQuestion>
+<Content id="0">In this clinical trial, you will be asked to visit the study clinic for study visits. Depending on your circumstances, you may be offered an opportunity to have certain study visits performed at your home or another location more convenient than the study clinic. The option to complete study visits at a location other than the study clinic is not available in all regions. Please speak to your study doctor and study staff for more information on this potential option.</Content>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">pkd082</ResponseID>
+<BaseQuestion id="1">Can I change study sites if I move?</BaseQuestion>
+</RQ>
+<RQ id="1">
+<ResponseID id="2">pkd065</ResponseID>
+<BaseQuestion id="2">If I travel a lot, can I still participate?</BaseQuestion>
+</RQ>
+<RQ id="2">
+<ResponseID id="3">pkd083</ResponseID>
+<BaseQuestion id="3">Will I have to go to a different doctor for my trial?</BaseQuestion>
+</RQ>
+</RQs>
+</Response>
+<Response id="pkd057">
+<ResponseID id="0">pkd057</ResponseID>
+<BaseQuestion id="0">What if the treatment does not work?</BaseQuestion>
+<Content id="0">Under the terms of the informed consent process, you will be informed about the risks and benefits of participating in this clinical trial. One of the risks associated with participation is that the experimental treatment may have no therapeutic benefit. However, if you decide that the research does not match your interests or simply change your mind, you can withdraw from the clinical trial at any time without penalty.</Content>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">pkd078</ResponseID>
+<BaseQuestion id="1">Could my ADPKD get worse?</BaseQuestion>
+</RQ>
+<RQ id="1">
+<ResponseID id="2">pkd013</ResponseID>
+<BaseQuestion id="2">What is a Data Safety and Monitoring Committee?</BaseQuestion>
+</RQ>
+<RQ id="2">
+<ResponseID id="3">pkd072</ResponseID>
+<BaseQuestion id="3">If I get sick during the study, who will be there to help me?</BaseQuestion>
+</RQ>
+<RQ id="3">
+<ResponseID id="4">pkd076</ResponseID>
+<BaseQuestion id="4">What are the risks/side effects of this treatment?</BaseQuestion>
+</RQ>
+<RQ id="4">
+<ResponseID id="5">pkd067</ResponseID>
+<BaseQuestion id="5">Is it normal to be scared?</BaseQuestion>
+</RQ>
+</RQs>
+</Response>
+<Response id="pkd058">
+<ResponseID id="0">pkd058</ResponseID>
+<BaseQuestion id="0">If standard treatment works for me, why should I participate in a trial?</BaseQuestion>
+<Content id="0">Some potential benefits of participating in well-designed and well-executed clinical trials is the ability to get actively involved in your health care, gain access to potentially new research treatments, have access to expert medical care for the condition being studied, since investigators are often specialists in the disease area being studied, and help others by contributing to medical research.</Content>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">pkd021</ResponseID>
+<BaseQuestion id="1">What is Standard Treatment?</BaseQuestion>
+</RQ>
+<RQ id="1">
+<ResponseID id="2">pkd086</ResponseID>
+<BaseQuestion id="2">Should I talk to my doctor about this trial?</BaseQuestion>
+</RQ>
+<RQ id="2">
+<ResponseID id="3">pkd057</ResponseID>
+<BaseQuestion id="3">What if the treatment does not work?</BaseQuestion>
+</RQ>
+</RQs>
+</Response>
+<Response id="pkd059">
+<ResponseID id="0">pkd059</ResponseID>
+<BaseQuestion id="0">Could I die if I participate this clinical trial?</BaseQuestion>
+<Content id="0">People taking the investigation medication, Tolvaptan, have experienced some side effects. All known risks associated with tolvaptan have been explained in the Informed Consent Form. Please see the Risk and Discomfort section of your Informed Consent Form for a full list of the side effects reported. Please speak with the study doctor if you have any questions or concerns about the risks listed.</Content>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">pkd067</ResponseID>
+<BaseQuestion id="1">Is it normal to be scared?</BaseQuestion>
+</RQ>
+<RQ id="1">
+<ResponseID id="2">pkd078</ResponseID>
+<BaseQuestion id="2">Could my ADPKD get worse?</BaseQuestion>
+</RQ>
+<RQ id="2">
+<ResponseID id="3">pkd076</ResponseID>
+<BaseQuestion id="3">What are the risks/side effects of this treatment?</BaseQuestion>
+</RQ>
+<RQ id="3">
+<ResponseID id="4">pkd077</ResponseID>
+<BaseQuestion id="4">Could there be side effects that you can’t predict?</BaseQuestion>
+</RQ>
+</RQs>
+</Response>
+<Response id="pkd060">
+<ResponseID id="0">pkd060</ResponseID>
+<BaseQuestion id="0">Will there be lots of needles? Will I have to have blood tests?</BaseQuestion>
+<Content id="0">In this trial, some study visits will require the collection of blood samples. The purpose of collecting a blood sample is to check your general health, kidney function, liver function, other safety factors, the progress of your disease, and the effects of treatment on your body; the amounts taken will be between approximately 1 to 4 teaspoons (5 to 20 mL) of blood at each visit. Although the blood collected will be used for multiple tests, where possible, the research team will only collect blood once per clinic visit.Additionally, if you agree to take part in the optional genetic testing, an additional blood sample will be collected during the screening period for genetic analysis; the amount taken will be approximately 2 teaspoons (10 mL). You will be provided separate genetic testing information sheet and consent form to explain this testing and record your understanding and agreement;If you have any concerns about the collection of blood samples during this trial, please speak with your study doctor.</Content>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">pkd053</ResponseID>
+<BaseQuestion id="1">What will the treatment entail? Administration method? Dose?</BaseQuestion>
+</RQ>
+<RQ id="1">
+<ResponseID id="2">pkd054</ResponseID>
+<BaseQuestion id="2">How long will the trial last?</BaseQuestion>
+</RQ>
+<RQ id="2">
+<ResponseID id="3">pkd055</ResponseID>
+<BaseQuestion id="3">How many times will I have to visit the study doctor?</BaseQuestion>
+</RQ>
+</RQs>
+</Response>
+<Response id="pkd061">
+<ResponseID id="0">pkd061</ResponseID>
+<BaseQuestion id="0">Do I have to do everything the doctor tells me to do?</BaseQuestion>
+<Content id="0">If you decide to participate in the clinical trial, you are agreeing to follow the instructions given to you by the study doctor and the rest of the research team. This includes attending site visits as scheduled, taking investigational medication as instructed, and following any other directions given by your study doctor. If you have any concerns about your ability to follow the instructions outlined in the trial, please speak with your study doctor.</Content>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">pkd063</ResponseID>
+<BaseQuestion id="1">What will happen if I miss some appointments?</BaseQuestion>
+</RQ>
+<RQ id="1">
+<ResponseID id="2">pkd049</ResponseID>
+<BaseQuestion id="2">Should I keep taking my other medications?</BaseQuestion>
+</RQ>
+<RQ id="2">
+<ResponseID id="3">pkd086</ResponseID>
+<BaseQuestion id="3">Should I talk to my doctor about this trial?</BaseQuestion>
+</RQ>
+<RQ id="3">
+<ResponseID id="4">pkd085</ResponseID>
+<BaseQuestion id="4">Does my doctor know about this trial?</BaseQuestion>
+</RQ>
+</RQs>
+</Response>
+<Response id="pkd062">
+<ResponseID id="0">pkd062</ResponseID>
+<BaseQuestion id="0">How long will I be in the trial? How long will each appointment be?</BaseQuestion>
+<Content id="0">Because of the nature of the assessments, you should plan to be at the study center for several hours, so it's a good idea to bring items with you to help you pass the time, such as reading material and devices to play music or games. For more information on the various study visits and what they will entail, please speak with your study doctor.</Content>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">pkd054</ResponseID>
+<BaseQuestion id="1">How long will the trial last?</BaseQuestion>
+</RQ>
+<RQ id="1">
+<ResponseID id="2">pkd063</ResponseID>
+<BaseQuestion id="2">What will happen if I miss some appointments?</BaseQuestion>
+</RQ>
+<RQ id="2">
+<ResponseID id="3">pkd060</ResponseID>
+<BaseQuestion id="3">Will there be lots of needles? Will I have to have blood tests?</BaseQuestion>
+</RQ>
+</RQs>
+</Response>
+<Response id="pkd063">
+<ResponseID id="0">pkd063</ResponseID>
+<BaseQuestion id="0">What will happen if I miss some appointments?</BaseQuestion>
+<Content id="0">When you sign up to participate in this clinical trial, you are expected to attend each of the study appointments. The study team will schedule your appointments for you in advance and have provided a two-day window around each planned study visit to provide some flexibility to patients. If you expect to miss an appointment, contact your study team immediately to reschedule. If you anticipate that it will be difficult for you to attend any of the planned study visits, please let the research team know as soon as possible so that they can discuss your continued eligibility and enrollment in the trial.</Content>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">pkd065</ResponseID>
+<BaseQuestion id="1">If I travel a lot, can I still participate?</BaseQuestion>
+</RQ>
+<RQ id="1">
+<ResponseID id="2">pkd062</ResponseID>
+<BaseQuestion id="2">How long will I be in the trial? How long will each appointment be?</BaseQuestion>
+</RQ>
+<RQ id="2">
+<ResponseID id="3">pkd061</ResponseID>
+<BaseQuestion id="3">Do I have to do everything the doctor tells me to do?</BaseQuestion>
+</RQ>
+</RQs>
+</Response>
+<Response id="pkd064">
+<ResponseID id="0">pkd064</ResponseID>
+<BaseQuestion id="0">Will there be any follow up after the conclusion of the trial?</BaseQuestion>
+<Content id="0">Following the 12-month treatment period, there is a three-week follow-up period. No further follow up beyond the three weeks is anticipated at this time.</Content>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">pkd055</ResponseID>
+<BaseQuestion id="1">How many times will I have to visit the study doctor?</BaseQuestion>
+</RQ>
+<RQ id="1">
+<ResponseID id="2">pkd054</ResponseID>
+<BaseQuestion id="2">How long will the trial last?</BaseQuestion>
+</RQ>
+<RQ id="2">
+<ResponseID id="3">pkd048</ResponseID>
+<BaseQuestion id="3">Can I withdraw from the study?</BaseQuestion>
+</RQ>
+</RQs>
+</Response>
+<Response id="pkd065">
+<ResponseID id="0">pkd065</ResponseID>
+<BaseQuestion id="0">If I travel a lot, can I still participate?</BaseQuestion>
+<Content id="0">If you travel extensively, you may still be able to participate in the trial. Where possible, your study team will attempt to make accommodations for your study visits. Depending on your region, you may have the option to have certain study visits performed at your home. However, if you plan to be out of the country or otherwise unable to undergo testing in connection with the trial for a prolonged period, please inform your study doctor before agreeing to take part in this trial. The study doctor will need this information to evaluate how your travel may impact your participation and help advise on whether you should participate in the trial at this time. If you have any questions about your particular travel schedule or the home visit option, please contact your study team.</Content>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">pkd056</ResponseID>
+<BaseQuestion id="1">Where will I go for study visits?</BaseQuestion>
+</RQ>
+<RQ id="1">
+<ResponseID id="2">pkd063</ResponseID>
+<BaseQuestion id="2">What will happen if I miss some appointments?</BaseQuestion>
+</RQ>
+<RQ id="2">
+<ResponseID id="3">pkd062</ResponseID>
+<BaseQuestion id="3">How long will I be in the trial? How long will each appointment be?</BaseQuestion>
+</RQ>
+<RQ id="3">
+<ResponseID id="4">pkd081</ResponseID>
+<BaseQuestion id="4">Will my name be publically used during the study or when the results are published?</BaseQuestion>
+</RQ>
+</RQs>
+</Response>
+<Response id="pkd066">
+<ResponseID id="0">pkd066</ResponseID>
+<BaseQuestion id="0">What support is available for participants during the trial?</BaseQuestion>
+<Content id="0">If you choose to participate in this clinical trial, you will have access to a variety of support services. The support services that are available to you vary based on the site (such as parking and travel reimbursement). For more information on the support services available to you, please contact your research team.</Content>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">pkd040</ResponseID>
+<BaseQuestion id="1">Will I get paid to participate?</BaseQuestion>
+</RQ>
+<RQ id="1">
+<ResponseID id="2">pkd039</ResponseID>
+<BaseQuestion id="2">Would I have to pay for the medication? Who pays for the medicine? Would I have to pay for the tests? Who pays for the tests?</BaseQuestion>
+</RQ>
+<RQ id="2">
+<ResponseID id="3">pkd041</ResponseID>
+<BaseQuestion id="3">Why is there no compensation?</BaseQuestion>
+</RQ>
+</RQs>
+</Response>
+<Response id="pkd067">
+<ResponseID id="0">pkd067</ResponseID>
+<BaseQuestion id="0">Is it normal to be scared?</BaseQuestion>
+<Content id="0">Signing up to participate in a clinical trial can be overwhelming, so it is perfectly normal to feel scared. You should carefully review the Informed Consent document that the study staff has provided to you and ensure you fully understand the nature, risks, and benefits of taking part in the trial. If you have any questions about the trial, please talk to your study doctor.</Content>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">pkd047</ResponseID>
+<BaseQuestion id="1">Who can help me decide what is best for me?</BaseQuestion>
+</RQ>
+<RQ id="1">
+<ResponseID id="2">pkd038</ResponseID>
+<BaseQuestion id="2">Do I have to read the entire Informed Consent form?</BaseQuestion>
+</RQ>
+<RQ id="2">
+<ResponseID id="3">pkd086</ResponseID>
+<BaseQuestion id="3">Should I talk to my doctor about this trial?</BaseQuestion>
+</RQ>
+</RQs>
+</Response>
+<Response id="pkd068">
+<ResponseID id="0">pkd068</ResponseID>
+<BaseQuestion id="0">Can I get treatment for other medical problems during this trial?</BaseQuestion>
+<Content id="0">Over the course of the clinical trial, you will continue to be treated by your regular doctor. This doctor will be in charge of providing all non-study related care, including care for any existing or new medical problems. It is important that you discuss any existing medical conditions with your research team so that they have a complete picture of your health ahead of the study, including any other medications or treatments that you may use. Tolvaptan is not a substitute for any of your current treatments. Tolvaptan will not replace any of your medications; however, the use of some medications is restricted during the study. Your study doctor will ask you about the medications you are currently taking and will tell you if any of them cannot be taken during the study. Otherwise, you will continue taking your other usual medication as prescribed by your doctor. If your personal physician prescribes any other medication while you are in this study, you must first consult your study doctor prior to taking them. Tell your doctor about any other medications you are taking since taking tolvaptan, as this may alter how well your medication works. In some cases, your doctor may need to adjust your medication or monitor blood levels of your medication more often to ensure that the medication is working properly. In the event that a new medical problem arises over the course of the study period, please inform both your existing physician and study physician so that they can best coordinate your care.</Content>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">pkd049</ResponseID>
+<BaseQuestion id="1">Should I keep taking my other medications?</BaseQuestion>
+</RQ>
+<RQ id="1">
+<ResponseID id="2">pkd050</ResponseID>
+<BaseQuestion id="2">Can I use alternative or complementary treatments during the study?</BaseQuestion>
+</RQ>
+<RQ id="2">
+<ResponseID id="3">pkd070</ResponseID>
+<BaseQuestion id="3">Who will be caring for me during the clinical trial?</BaseQuestion>
+</RQ>
+</RQs>
+</Response>
+<Response id="pkd069">
+<ResponseID id="0">pkd069</ResponseID>
+<BaseQuestion id="0">Who is managing my trial?</BaseQuestion>
+<Content id="0">The REPRISE study is managed by a research team that includes doctors, nurses, research assistants, data analysts, and other specialists. The research team also often works with other health professionals, including other doctors and nurses, laboratory technicians, pharmacists, and others, to closely monitor your health during the clinical trial and provide medical and other supportive care as needed.</Content>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">pkd070</ResponseID>
+<BaseQuestion id="1">Who will be caring for me during the clinical trial?</BaseQuestion>
+</RQ>
+<RQ id="1">
+<ResponseID id="2">pkd071</ResponseID>
+<BaseQuestion id="2">Can I use my own doctor/lab/hospital for the tests?</BaseQuestion>
+</RQ>
+<RQ id="2">
+<ResponseID id="3">pkd072</ResponseID>
+<BaseQuestion id="3">If I get sick during the study, who will be there to help me?</BaseQuestion>
+</RQ>
+<RQ id="3">
+<ResponseID id="4">pkd035</ResponseID>
+<BaseQuestion id="4">Will I be able to talk to the study doctors during the study?</BaseQuestion>
+</RQ>
+</RQs>
+</Response>
+<Response id="pkd070">
+<ResponseID id="0">pkd070</ResponseID>
+<BaseQuestion id="0">Who will be caring for me during the clinical trial?</BaseQuestion>
+<Content id="0">If you choose to enroll in the clinical trial, you will be cared for by a research team for all study- related procedures. The research team includes doctors, nurses, research assistants, and data analyst, among others. This research team also often works with other health professionals, including other doctors and nurses, laboratory technicians, and pharmacists during the clinical trial who provide medical and other supportive care as needed. You will also be treated by your regular physician over the course of the study for any non-study related care.</Content>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">pkd083</ResponseID>
+<BaseQuestion id="1">Will I have to go to a different doctor for my trial?</BaseQuestion>
+</RQ>
+<RQ id="1">
+<ResponseID id="2">pkd084</ResponseID>
+<BaseQuestion id="2">Will I have to switch doctors if I enroll in a trial?</BaseQuestion>
+</RQ>
+<RQ id="2">
+<ResponseID id="3">pkd069</ResponseID>
+<BaseQuestion id="3">Who is managing my trial?</BaseQuestion>
+</RQ>
+<RQ id="3">
+<ResponseID id="4">pkd071</ResponseID>
+<BaseQuestion id="4">Can I use my own doctor/lab/hospital for the tests?</BaseQuestion>
+</RQ>
+<RQ id="4">
+<ResponseID id="5">pkd072</ResponseID>
+<BaseQuestion id="5">If I get sick during the study, who will be there to help me?</BaseQuestion>
+</RQ>
+</RQs>
+</Response>
+<Response id="pkd071">
+<ResponseID id="0">pkd071</ResponseID>
+<BaseQuestion id="0">Can I use my own doctor/lab/hospital for the tests?</BaseQuestion>
+<Content id="0">If you choose to participate in the study, you will be required to go to designated facilities for all study-related procedures and testing. The reason this is required is because the health care workers at these sites have been trained in how to perform the tests in accordance with the study protocol. However, it should be noted that you will continue to see your regular physician for any non-study related testing and care throughout the trial period.</Content>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">pkd070</ResponseID>
+<BaseQuestion id="1">Who will be caring for me during the clinical trial?</BaseQuestion>
+</RQ>
+<RQ id="1">
+<ResponseID id="2">pkd083</ResponseID>
+<BaseQuestion id="2">Will I have to go to a different doctor for my trial?</BaseQuestion>
+</RQ>
+<RQ id="2">
+<ResponseID id="3">pkd084</ResponseID>
+<BaseQuestion id="3">Will I have to switch doctors if I enroll in a trial?</BaseQuestion>
+</RQ>
+<RQ id="3">
+<ResponseID id="4">pkd069</ResponseID>
+<BaseQuestion id="4">Who is managing my trial?</BaseQuestion>
+</RQ>
+<RQ id="4">
+<ResponseID id="5">pkd072</ResponseID>
+<BaseQuestion id="5">If I get sick during the study, who will be there to help me?</BaseQuestion>
+</RQ>
+</RQs>
+</Response>
+<Response id="pkd072">
+<ResponseID id="0">pkd072</ResponseID>
+<BaseQuestion id="0">If I get sick during the study, who will be there to help me?</BaseQuestion>
+<Content id="0">If you get sick while participating in the trial, please notify your study doctor immediately. The study doctor and study staff will coordinate with your with your regular physician as needed.</Content>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">pkd070</ResponseID>
+<BaseQuestion id="1">Who will be caring for me during the clinical trial?</BaseQuestion>
+</RQ>
+<RQ id="1">
+<ResponseID id="2">pkd083</ResponseID>
+<BaseQuestion id="2">Will I have to go to a different doctor for my trial?</BaseQuestion>
+</RQ>
+<RQ id="2">
+<ResponseID id="3">pkd069</ResponseID>
+<BaseQuestion id="3">Who is managing my trial?</BaseQuestion>
+</RQ>
+<RQ id="3">
+<ResponseID id="4">pkd071</ResponseID>
+<BaseQuestion id="4">Can I use my own doctor/lab/hospital for the tests?</BaseQuestion>
+</RQ>
+</RQs>
+</Response>
+<Response id="pkd073">
+<ResponseID id="0">pkd073</ResponseID>
+<BaseQuestion id="0">How qualified are the study personal?</BaseQuestion>
+<Content id="0">The study staff involved in this trial has expertise in the field of ADPKD. In particular, study physicians involved in this trial have in-depth knowledge of ADPKD and have experience treating patients with ADPKD.</Content>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">pkd074</ResponseID>
+<BaseQuestion id="1">How familiar with the study are the nurses and clinicians?</BaseQuestion>
+</RQ>
+<RQ id="1">
+<ResponseID id="2">pkd071</ResponseID>
+<BaseQuestion id="2">Can I use my own doctor/lab/hospital for the tests?</BaseQuestion>
+</RQ>
+<RQ id="2">
+<ResponseID id="3">pkd035</ResponseID>
+<BaseQuestion id="3">Will I be able to talk to the study doctors during the study?</BaseQuestion>
+</RQ>
+<RQ id="3">
+<ResponseID id="4">pkd085</ResponseID>
+<BaseQuestion id="4">Does my doctor know about this trial?</BaseQuestion>
+</RQ>
+</RQs>
+</Response>
+<Response id="pkd074">
+<ResponseID id="0">pkd074</ResponseID>
+<BaseQuestion id="0">How familiar with the study are the nurses and clinicians?</BaseQuestion>
+<Content id="0">All medical professionals participating in the clinical trial are very familiar with the study. The study physician in particular will have thoroughly reviewed the study protocol. The nurses and other clinicians are also very knowledgeable about the trial, with a particular interest in how they are required to care for you as part of the trial. If you have questions about your participation in the trial, you can feel confident asking any member of the research team.</Content>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">pkd073</ResponseID>
+<BaseQuestion id="1">How qualified are the study personal?</BaseQuestion>
+</RQ>
+<RQ id="1">
+<ResponseID id="2">pkd071</ResponseID>
+<BaseQuestion id="2">Can I use my own doctor/lab/hospital for the tests?</BaseQuestion>
+</RQ>
+<RQ id="2">
+<ResponseID id="3">pkd072</ResponseID>
+<BaseQuestion id="3">If I get sick during the study, who will be there to help me?</BaseQuestion>
+</RQ>
+</RQs>
+</Response>
+<Response id="pkd075">
+<ResponseID id="0">pkd075</ResponseID>
+<BaseQuestion id="0">Will the nurses/physician’s/etc know what treatment I’m getting?</BaseQuestion>
+<Content id="0">This trial is designed to be double-blind, which means that neither you, as the participant, nor the research team will know whether you are getting tolvaptan or the inactive placebo. This is done to ensure that the trial results are not influenced by what is known as the placebo effect, whereby an effect is caused by the patient's belief that they are receiving a certain treatment, or through researcher bias. If you have concerns about receiving either of the study treatments, please contact the research team.</Content>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">pkd018</ResponseID>
+<BaseQuestion id="1">Are placebos ethical?</BaseQuestion>
+</RQ>
+<RQ id="1">
+<ResponseID id="2">pkd012</ResponseID>
+<BaseQuestion id="2">What are the types of clinical trials?</BaseQuestion>
+</RQ>
+<RQ id="2">
+<ResponseID id="3">pkd035</ResponseID>
+<BaseQuestion id="3">Will I be able to talk to the study doctors during the study?</BaseQuestion>
+</RQ>
+<RQ id="3">
+<ResponseID id="4">pkd019</ResponseID>
+<BaseQuestion id="4">Will the doctor tell the truth?</BaseQuestion>
+</RQ>
+</RQs>
+</Response>
+<Response id="pkd076">
+<ResponseID id="0">pkd076</ResponseID>
+<BaseQuestion id="0">What are the risks/side effects of this treatment?</BaseQuestion>
+<Content id="0">Please review the informed consent documents given to you by your research team for a full explanation of the potential risks and side effects associated with this clinical trial. If you have any questions please speak with your study doctor.</Content>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">pkd077</ResponseID>
+<BaseQuestion id="1">Could there be side effects that you can’t predict?</BaseQuestion>
+</RQ>
+<RQ id="1">
+<ResponseID id="2">pkd078</ResponseID>
+<BaseQuestion id="2">Could my ADPKD get worse?</BaseQuestion>
+</RQ>
+<RQ id="2">
+<ResponseID id="3">pkd079</ResponseID>
+<BaseQuestion id="3">What should I do if I experience side effects?</BaseQuestion>
+</RQ>
+<RQ id="3">
+<ResponseID id="4">pkd024</ResponseID>
+<BaseQuestion id="4">What rights do I have if I participate in a clinical trial? Can I quit the clinical trial at any time? Will the risks/side effects be explained to me?</BaseQuestion>
+</RQ>
+</RQs>
+</Response>
+<Response id="pkd077">
+<ResponseID id="0">pkd077</ResponseID>
+<BaseQuestion id="0">Could there be side effects that you can’t predict?</BaseQuestion>
+<Content id="0">There may be other risks that are not known, including effects or reactions that may be life threatening. All drugs have the risk of an allergic reaction that could become life threatening. If you have any questions, please speak with your study doctor.</Content>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">pkd076</ResponseID>
+<BaseQuestion id="1">What are the risks/side effects of this treatment?</BaseQuestion>
+</RQ>
+<RQ id="1">
+<ResponseID id="2">pkd078</ResponseID>
+<BaseQuestion id="2">Could my ADPKD get worse?</BaseQuestion>
+</RQ>
+<RQ id="2">
+<ResponseID id="3">pkd079</ResponseID>
+<BaseQuestion id="3">What should I do if I experience side effects?</BaseQuestion>
+</RQ>
+<RQ id="3">
+<ResponseID id="4">pkd024</ResponseID>
+<BaseQuestion id="4">What rights do I have if I participate in a clinical trial? Can I quit the clinical trial at any time? Will the risks/side effects be explained to me?</BaseQuestion>
+</RQ>
+<RQ id="4">
+<ResponseID id="5">pkd019</ResponseID>
+<BaseQuestion id="5">Will the doctor tell the truth?</BaseQuestion>
+</RQ>
+</RQs>
+</Response>
+<Response id="pkd078">
+<ResponseID id="0">pkd078</ResponseID>
+<BaseQuestion id="0">Could my ADPKD get worse?</BaseQuestion>
+<Content id="0">It cannot be guaranteed or promised that you will receive any benefits from the investigational medication or from participating in this study. Your participation will help us better understand the effectiveness and safety of the investigational medication. There is a possibility that your condition could worsen while you participate in the clinical trial.</Content>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">pkd076</ResponseID>
+<BaseQuestion id="1">What are the risks/side effects of this treatment?</BaseQuestion>
+</RQ>
+<RQ id="1">
+<ResponseID id="2">pkd077</ResponseID>
+<BaseQuestion id="2">Could there be side effects that you can’t predict?</BaseQuestion>
+</RQ>
+<RQ id="2">
+<ResponseID id="3">pkd079</ResponseID>
+<BaseQuestion id="3">What should I do if I experience side effects?</BaseQuestion>
+</RQ>
+</RQs>
+</Response>
+<Response id="pkd079">
+<ResponseID id="0">pkd079</ResponseID>
+<BaseQuestion id="0">What should I do if I experience side effects?</BaseQuestion>
+<Content id="0">If you agree to participate in the study you should report any discomforts, problems, or study- related injuries immediately to your doctor or research team.</Content>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">pkd076</ResponseID>
+<BaseQuestion id="1">What are the risks/side effects of this treatment?</BaseQuestion>
+</RQ>
+<RQ id="1">
+<ResponseID id="2">pkd077</ResponseID>
+<BaseQuestion id="2">Could there be side effects that you can’t predict?</BaseQuestion>
+</RQ>
+<RQ id="2">
+<ResponseID id="3">pkd024</ResponseID>
+<BaseQuestion id="3">What rights do I have if I participate in a clinical trial? Can I quit the clinical trial at any time? Will the risks/side effects be explained to me?</BaseQuestion>
+</RQ>
+</RQs>
+</Response>
+<Response id="pkd080">
+<ResponseID id="0">pkd080</ResponseID>
+<BaseQuestion id="0">Will my employer be told about my participation in this clinical trial?</BaseQuestion>
+<Content id="0">If you choose to participate in the REPRISE clinical trial, you are not required to tell your employer. However, it may be wise to inform your boss or manager if participating in the trial will interfere with your ability to do your job, including if appointments with your research team will require you to take time off work.</Content>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">pkd081</ResponseID>
+<BaseQuestion id="1">Will my name be publically used during the study or when the results are published?</BaseQuestion>
+</RQ>
+<RQ id="1">
+<ResponseID id="2">pkd030</ResponseID>
+<BaseQuestion id="2">Do my family/friends need to know that I’m participating in a clinical trial?</BaseQuestion>
+</RQ>
+<RQ id="2">
+<ResponseID id="3">pkd085</ResponseID>
+<BaseQuestion id="3">Does my doctor know about this trial?</BaseQuestion>
+</RQ>
+</RQs>
+</Response>
+<Response id="pkd081">
+<ResponseID id="0">pkd081</ResponseID>
+<BaseQuestion id="0">Will my name be publically used during the study or when the results are published?</BaseQuestion>
+<Content id="0">Any data collected about you as part of a clinical trial is subject to the Health Insurance Portability and Accountability Act, or HIPAA, Privacy Rule. This rule establishes the conditions under which protected health information may be used or disclosed by groups for research purposes. Under this rule, your research team can publish, present, or otherwise disclose data on you for research purposes and only after it has been de-identified, meaning that there is no way that anyone outside of the study could know that it is you. As such, your name will never be publicly revealed in connection with the study.OPDC personnel and its designees including central laboratory, study monitors, and auditors, the Institutional Review Board or Ethics Committee overseeing this study and the regulatory authorities, including the FDA, will have access to your health records and test results containing your personal information. If you choose to use the visiting nurse option, the visiting nurse, visiting nurse agency, and the visiting nurse service provider will have access to your individually identifiable protected health information. Also, for safety reasons, if the study doctor is unable to locate you, an independent firm (contracted by OPDC) may be hired to assist the study doctor in locating you or information regarding your health status. The firm will only be given limited information necessary to locate you.</Content>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">pkd030</ResponseID>
+<BaseQuestion id="1">Do my family/friends need to know that I’m participating in a clinical trial?</BaseQuestion>
+</RQ>
+<RQ id="1">
+<ResponseID id="2">pkd080</ResponseID>
+<BaseQuestion id="2">Will my employer be told about my participation in this clinical trial?</BaseQuestion>
+</RQ>
+<RQ id="2">
+<ResponseID id="3">pkd016</ResponseID>
+<BaseQuestion id="3">Will I be taken advantage of?</BaseQuestion>
+</RQ>
+<RQ id="3">
+<ResponseID id="4">pkd036</ResponseID>
+<BaseQuestion id="4">Will I be kept informed of my test results during the study?</BaseQuestion>
+</RQ>
+</RQs>
+</Response>
+<Response id="pkd082">
+<ResponseID id="0">pkd082</ResponseID>
+<BaseQuestion id="0">Can I change study sites if I move?</BaseQuestion>
+<Content id="0">If you move over the course of the study and a different study site is closer to your new home, you have the option of switching to a closer study site. However, in some cases, there may not be a study site close to your new home, which could affect your continued participation in the clinical trial. Please let the study investigator know if you have any immediate plans to move so that they can ensure that you can attend site visits over the course of the study.</Content>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">pkd056</ResponseID>
+<BaseQuestion id="1">Where will I go for study visits?</BaseQuestion>
+</RQ>
+<RQ id="1">
+<ResponseID id="2">pkd065</ResponseID>
+<BaseQuestion id="2">If I travel a lot, can I still participate?</BaseQuestion>
+</RQ>
+<RQ id="2">
+<ResponseID id="3">pkd083</ResponseID>
+<BaseQuestion id="3">Will I have to go to a different doctor for my trial?</BaseQuestion>
+</RQ>
+</RQs>
+</Response>
+<Response id="pkd083">
+<ResponseID id="0">pkd083</ResponseID>
+<BaseQuestion id="0">Will I have to go to a different doctor for my trial?</BaseQuestion>
+<Content id="0">Over the course of the clinical trial, you will be seen by a research team that includes doctors, nurses, research assistants, data analysts, and other specialists. However, this research team will only provide care as part of the clinical trial, so it's important that you keep seeing your current doctor for regular checkups and other care while you participate in the trial. You should tell your regular doctor that you are participating in a clinical trial, and you should tell the study doctor if you start taking any new medications not associated with the clinical trial.</Content>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">pkd070</ResponseID>
+<BaseQuestion id="1">Who will be caring for me during the clinical trial?</BaseQuestion>
+</RQ>
+<RQ id="1">
+<ResponseID id="2">pkd084</ResponseID>
+<BaseQuestion id="2">Will I have to switch doctors if I enroll in a trial?</BaseQuestion>
+</RQ>
+<RQ id="2">
+<ResponseID id="3">pkd071</ResponseID>
+<BaseQuestion id="3">Can I use my own doctor/lab/hospital for the tests?</BaseQuestion>
+</RQ>
+<RQ id="3">
+<ResponseID id="4">pkd072</ResponseID>
+<BaseQuestion id="4">If I get sick during the study, who will be there to help me?</BaseQuestion>
+</RQ>
+</RQs>
+</Response>
+<Response id="pkd084">
+<ResponseID id="0">pkd084</ResponseID>
+<BaseQuestion id="0">Will I have to switch doctors if I enroll in a trial?</BaseQuestion>
+<Content id="0">Because your research team will be focused on providing care related only to the clinical trial, it is important for you to keep seeing your regular physician. There is no reason why you would need to switch doctors because the care that he or she will provide will be different from the care that is provided by the research physician and staff.</Content>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">pkd070</ResponseID>
+<BaseQuestion id="1">Who will be caring for me during the clinical trial?</BaseQuestion>
+</RQ>
+<RQ id="1">
+<ResponseID id="2">pkd083</ResponseID>
+<BaseQuestion id="2">Will I have to go to a different doctor for my trial?</BaseQuestion>
+</RQ>
+<RQ id="2">
+<ResponseID id="3">pkd071</ResponseID>
+<BaseQuestion id="3">Can I use my own doctor/lab/hospital for the tests?</BaseQuestion>
+</RQ>
+</RQs>
+</Response>
+<Response id="pkd085">
+<ResponseID id="0">pkd085</ResponseID>
+<BaseQuestion id="0">Does my doctor know about this trial?</BaseQuestion>
+<Content id="0">Often, your doctor will be the one to tell you about a clinical trial eligible for the study However, in some cases, your doctor may not know about the study that you are considering.</Content>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">pkd086</ResponseID>
+<BaseQuestion id="1">Should I talk to my doctor about this trial?</BaseQuestion>
+</RQ>
+<RQ id="1">
+<ResponseID id="2">pkd070</ResponseID>
+<BaseQuestion id="2">Who will be caring for me during the clinical trial?</BaseQuestion>
+</RQ>
+<RQ id="2">
+<ResponseID id="3">pkd072</ResponseID>
+<BaseQuestion id="3">If I get sick during the study, who will be there to help me?</BaseQuestion>
+</RQ>
+</RQs>
+</Response>
+<Response id="pkd086">
+<ResponseID id="0">pkd086</ResponseID>
+<BaseQuestion id="0">Should I talk to my doctor about this trial?</BaseQuestion>
+<Content id="0">It is recommended that you let your regular doctor know about your decision to participate in a clinical trial. Your doctor knows you and your health history, which makes him or her a good resource to discuss whether participating in a clinical trial might be right for you. In addition, your participation in a clinical trial may mean that you will take a different medication or undergo testing that may alter the way in which he or she approaches your treatment.</Content>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">pkd085</ResponseID>
+<BaseQuestion id="1">Does my doctor know about this trial?</BaseQuestion>
+</RQ>
+<RQ id="1">
+<ResponseID id="2">pkd047</ResponseID>
+<BaseQuestion id="2">Who can help me decide what is best for me?</BaseQuestion>
+</RQ>
+<RQ id="2">
+<ResponseID id="3">pkd068</ResponseID>
+<BaseQuestion id="3">Can I get treatment for other medical problems during this trial?</BaseQuestion>
+</RQ>
+</RQs>
+</Response>
+<Response id="pkd087">
+<ResponseID id="0">pkd087</ResponseID>
+<BaseQuestion id="0">Will there be other opportunities to participate in a clinical trial?</BaseQuestion>
+<Content id="0">It is difficult to say whether there will be other opportunities to participate in future clinical trials. Although new therapies are constantly moving through the clinical trial process, there is no guarantee that you will be a good candidate for these treatments.</Content>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">pkd026</ResponseID>
+<BaseQuestion id="1">If I say no to a trial now, can I change my mind later?</BaseQuestion>
+</RQ>
+<RQ id="1">
+<ResponseID id="2">pkd027</ResponseID>
+<BaseQuestion id="2">How long do I have to make my decision?</BaseQuestion>
+</RQ>
+<RQ id="2">
+<ResponseID id="3">pkd028</ResponseID>
+<BaseQuestion id="3">What will be the impact on the study if I decide not to participate?</BaseQuestion>
+</RQ>
+<RQ id="3">
+<ResponseID id="4">pkd029</ResponseID>
+<BaseQuestion id="4">Will the study still proceed if I decide not to enroll?</BaseQuestion>
+</RQ>
+</RQs>
+</Response>
+<Response id="pkd201">
+<ResponseID id="0">pkd201</ResponseID>
+<BaseQuestion id="0">If I participate in this trial, will I be told if a better treatment develops?</BaseQuestion>
+<Content id="0">Under the terms of the ethical guidelines that govern clinical trials, your research team is expected to inform you of new information that might emerge over the course of the research, particularly data that might change their assessment of the risks and benefits of participating in the clinical trial.</Content>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">pkd013</ResponseID>
+<BaseQuestion id="1">What is a Data Safety and Monitoring Committee?</BaseQuestion>
+</RQ>
+<RQ id="1">
+<ResponseID id="2">pkd019</ResponseID>
+<BaseQuestion id="2">Will the doctor tell the truth?</BaseQuestion>
+</RQ>
+<RQ id="2">
+<ResponseID id="3">pkd010</ResponseID>
+<BaseQuestion id="3">What agency regulates clinical trials?</BaseQuestion>
+</RQ>
+</RQs>
+</Response>
+</xml>

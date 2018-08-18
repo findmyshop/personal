@@ -1,0 +1,59 @@
+<xml>
+  <Module id='0'>
+    <Heading>
+      Introduction to Clinical Trials
+    </Heading>
+    <ResponseID>msp101</ResponseID>
+    <ResponseID>msp104</ResponseID>
+    <ResponseID>msp259</ResponseID>
+    <ResponseID>msp260</ResponseID>
+    <ResponseID>msp107</ResponseID>
+  </Module>
+  <Module id='1'>
+    <Heading>
+      Participating in a Clinical Trial
+    </Heading>
+    <ResponseID>msp110</ResponseID>
+    <ResponseID>msp261</ResponseID>
+    <ResponseID>msp119</ResponseID>
+    <ResponseID>msp124</ResponseID>
+    <ResponseID>msp127</ResponseID>
+    <ResponseID>msp126</ResponseID>
+  </Module>
+  <Module id='2'>
+    <Heading>
+      About PSVT
+    </Heading>
+    <ResponseID>msp262</ResponseID>
+    <ResponseID>msp263</ResponseID>
+    <ResponseID>msp264</ResponseID>
+  </Module>
+  <Module id='3'>
+    <Heading>
+      Node-1 Study
+    </Heading>
+    <ResponseID>msp139</ResponseID>
+    <ResponseID>msp265</ResponseID>
+    <ResponseID>msp266</ResponseID>
+    <ResponseID>msp267</ResponseID>
+    <ResponseID>msp268</ResponseID>
+    <ResponseID>msp258</ResponseID>
+    <ResponseID>msp148</ResponseID>
+    <ResponseID>msp278</ResponseID>
+    <ResponseID>msp123</ResponseID>
+  </Module>
+  <Module id='4'>
+    <Heading>
+      Participant Information
+    </Heading>
+    <ResponseID>msp126</ResponseID>
+    <ResponseID>msp138</ResponseID>
+    <ResponseID>msp155</ResponseID>
+    <ResponseID>msp147</ResponseID>
+    <ResponseID>msp279</ResponseID>
+    <ResponseID>msp275</ResponseID>
+    <ResponseID>msp176</ResponseID>
+    <ResponseID>msp276</ResponseID>
+    <ResponseID>msp008</ResponseID>
+  </Module>
+</xml>

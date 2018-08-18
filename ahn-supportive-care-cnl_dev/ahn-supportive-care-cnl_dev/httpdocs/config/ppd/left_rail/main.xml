@@ -1,0 +1,35 @@
+<xml>
+    <Module id='0'>
+    <Heading>
+      	About Postpartum Depression
+    </Heading>
+    <ResponseID>ppd001</ResponseID>
+    <ResponseID>ppd002</ResponseID>
+    <ResponseID>ppd003</ResponseID>
+    <ResponseID>ppd007</ResponseID>
+    <ResponseID>ppd008</ResponseID>
+    <ResponseID>ppd015</ResponseID>
+  </Module>
+    <Module id='1'>
+    <Heading>
+      Treatment
+    </Heading>
+    <ResponseID>ppd004</ResponseID>
+    <ResponseID>ppd010</ResponseID>
+    <ResponseID>ppd011</ResponseID>
+    <ResponseID>ppd013</ResponseID>
+  </Module>
+    <Module id='2'>
+    <Heading>
+      Getting Help During a Crisis
+    </Heading>
+    <ResponseID>ppd006</ResponseID>
+    <ResponseID>ppd014</ResponseID>
+  </Module>
+    <Module id='3'>
+    <Heading>
+      	Partners &amp; Other Caregivers
+    </Heading>
+    <ResponseID>ppd009</ResponseID>
+  </Module>
+</xml>

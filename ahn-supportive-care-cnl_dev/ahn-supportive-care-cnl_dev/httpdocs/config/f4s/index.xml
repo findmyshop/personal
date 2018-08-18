@@ -1,0 +1,1869 @@
+<xml>
+<Response id="f4s001">
+<ResponseID id="0">f4s001</ResponseID>
+<BaseQuestion id="0">Introduction by Dr. Culig</BaseQuestion>
+<Content id="0">Hello, I'm Dr. Michael Culig of the Cardiology Department at Forbes Hospital, and I'm very pleased to welcome you to our "Fit for Surgery" program.  We developed this program because we wanted you to have an easy-to-use, interactive tool giving you all the information you need to prepare for your surgery and recovery.
+
+We know facing cardiac surgery is intimidating. You have new, unfamiliar medical terms to learn, and instructions that you have to follow just so. There's a lot on your plate, but don't let it overwhelm you. We'll be coaching you through it, step-by-step, explaining why each step is so important, and telling you what you can expect at each stage of your journey through preparation, surgery and recovery.
+
+We've found that patients who are prepared have fewer complications and recover more quickly and easily, so I want to ask you a favor. No matter what your age or level of fitness, you can partner with us in making yourself healthier, and our job easier, so spend these next few days getting Fit for Surgery. Go over the program, ask questions when you need to, and come back to it any time you want, until you're confident that you know what you need to know and understand what you need to do.
+
+I also want to ask you to share this program with those who will be taking care of you after you get home. That way, we'll have everyone on the same page, working toward the same goal, which is getting you healthy again.</Content>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">f4s007</ResponseID>
+<BaseQuestion id="1">Introduction to the Fit for Surgery program</BaseQuestion>
+</RQ>
+<RQ id="1">
+<ResponseID id="2">f4s008</ResponseID>
+<BaseQuestion id="2">Instructions for this program</BaseQuestion>
+</RQ>
+</RQs>
+</Response>
+<Response id="f4s002">
+<ResponseID id="0">f4s002</ResponseID>
+<BaseQuestion id="0">How are you doing today?</BaseQuestion>
+<Content id="0">How are you doing today?</Content>
+</Response>
+<Response id="f4s003">
+<ResponseID id="0">f4s003</ResponseID>
+<BaseQuestion id="0">You are doing well today.</BaseQuestion>
+<Content id="0">Great! I'm glad you're in a good frame of mind.  Your positive attitude is key to helping you get Fit for Surgery. We've created this program so that you receive the information you need, when you need it, to help you be as comfortable as possible before, during, and after your operation. The more you know, the faster and better you will recover, no matter what your age or level of fitness.  Knowledge helps increase your peace of mind and reduces tension, so do explore Fit for Surgery -- it's a great opportunity to learn more about how to have the best recovery you can.</Content>
+</Response>
+<Response id="f4s004">
+<ResponseID id="0">f4s004</ResponseID>
+<BaseQuestion id="0">You are not doing so well today.</BaseQuestion>
+<Content id="0">It's entirely normal to feel nervous or down before having major surgery. We give you a lot to remember, and waiting can make you very tense, so we created this Fit for Surgery program to help you to be as comfortable as possible before, during, and after your surgery. No matter what your age or level of fitness, you can take an active role in making your recovery easier, and to do that, we want to give you the information you need, when you need it. Knowing that you're on the right track will give you confidence and reduce your tension, so utilize some of that waiting time by going through the Fit for Surgery program and come back to it whenever you want. </Content>
+</Response>
+<Response id="f4s005">
+<ResponseID id="0">f4s005</ResponseID>
+<BaseQuestion id="0">Introduction of Darieth by Dr. Culig</BaseQuestion>
+<Content id="0">Now I'd like to introduce you to Darieth Chisholm, who will be your Fit for Surgery guide. You'll be checking in with her at least 3 times: the week before your surgery, the day before, and the first week that you're home, and she will walk you through what you need to know each step of the way.  Darieth ...</Content>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">f4s008</ResponseID>
+<BaseQuestion id="1">Instructions for this program</BaseQuestion>
+</RQ>
+</RQs>
+</Response>
+<Response id="f4s007">
+<ResponseID id="0">f4s007</ResponseID>
+<BaseQuestion id="0">Introduction to the Fit for Surgery program</BaseQuestion>
+<Content id="0">Thank you, Dr. Culig. I'm happy to be here with you, to take you through the Fit for Surgery program.  It's divided into three sections, which we we'll go through together, one section at a time.
+
+
+In the first section we discuss what happens the week before your surgery, including what tests you'll be given, things you'll need to do for yourself, and why.
+
+
+In the second section, we'll cover what you should and shouldn't do the night before and the day of your surgery, and what to expect the day of your surgery.
+
+
+And in the third section we'll talk about the course of your recovery during your first week at home.</Content>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">f4s009</ResponseID>
+<BaseQuestion id="1">General Overview</BaseQuestion>
+</RQ>
+<RQ id="1">
+<ResponseID id="2">f4s029</ResponseID>
+<BaseQuestion id="2">Day before surgery - introduction</BaseQuestion>
+</RQ>
+<RQ id="2">
+<ResponseID id="3">f4s044</ResponseID>
+<BaseQuestion id="3">Recovery from surgery - introduction</BaseQuestion>
+</RQ>
+<RQ id="3">
+<ResponseID id="4">f4s066</ResponseID>
+<BaseQuestion id="4">Week after surgery - how are you doing?</BaseQuestion>
+</RQ>
+</RQs>
+</Response>
+<Response id="f4s008">
+<ResponseID id="0">f4s008</ResponseID>
+<BaseQuestion id="0">Instructions for this program</BaseQuestion>
+<Content id="0">Our program was designed to be straightforward and user-friendly, but let's just give you a few tips to get started: When you open the program, you'll see three options: "Week Before Surgery," "Day Before Surgery," and "First Week Home." Just click on the section you need and I'll cover the information you need. So, if you need the "Week Before Surgery" section, click on it. When you finish that section, you can move on to the "Day Before Surgery" section, and so on. If you need to leave before you've finished a section, the program will remember where you left off, and start at that place the next time you open it. It's important that you don't miss anything, so be sure to watch all three sections! They will make a big difference to your positive experience of surgery and recovery.
+
+Each time we finish a section, the menu on the left and the text box will appear. If you want to ask questions or just explore the material we have to offer, type your questions in the textbox or click on links to the left.  And don't forget the "Also Consider Asking" section to learn more about what interests you.
+
+Return to the program whenever you want to review what we've covered, or you can choose to skip ahead to find out what you can expect at the hospital and once you're recovering back home. I want you to feel, and be, "Fit for Surgery," so it's very important to review all of the pre-surgery sections and follow the instructions.
+
+So are you ready? Let's begin!</Content>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">f4s001</ResponseID>
+<BaseQuestion id="1">Introduction by Dr. Culig</BaseQuestion>
+</RQ>
+</RQs>
+</Response>
+<Response id="f4s009">
+<ResponseID id="0">f4s009</ResponseID>
+<BaseQuestion id="0">General Overview</BaseQuestion>
+<Content id="0">In this first section, I'll tell you what you need to do the week before your surgery, and give you a quick lesson on how your heart works. Then we'll meet your team, all the doctors, nurses, and healthcare professionals who will be performing the surgery and caring for you. We'll be looking at the tests you need to take ahead of surgery, and many people want to see the operating room, so we'll give you a tour.
+
+Finally, we'll go to the recovery room, for a look at where you're taken just after surgery. There's a lot to see, learn and absorb, so let's get going!</Content>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">f4s029</ResponseID>
+<BaseQuestion id="1">Day before surgery - introduction</BaseQuestion>
+</RQ>
+<RQ id="1">
+<ResponseID id="2">f4s044</ResponseID>
+<BaseQuestion id="2">Recovery from surgery - introduction</BaseQuestion>
+</RQ>
+<RQ id="2">
+<ResponseID id="3">f4s066</ResponseID>
+<BaseQuestion id="3">Week after surgery - how are you doing?</BaseQuestion>
+</RQ>
+</RQs>
+</Response>
+<Response id="f4s010">
+<ResponseID id="0">f4s010</ResponseID>
+<BaseQuestion id="0">How the heart works </BaseQuestion>
+<Content id="0">When the heart muscle contracts, it is called systole, and this action pumps blood out of the heart. This contraction happens in two stages: first the right and left atria, or upper chambers, contract simultaneously, pumping blood to the right and left ventricles or lower chambers. Then these ventricles contract together to push the blood out of the heart. Then the heart muscle relaxes, this is called diastole, before the next heartbeat. During diastole, the heart fills up with blood again. The right and left sides of the heart have specific functions. The right side of the heart collects oxygen-poor blood from the body and pumps it to the lungs, where it picks up oxygen and releases carbon dioxide. The left side of the heart collects oxygen-rich blood from the lungs and delivers it to the rest of the body so that your cells and organs have the nutrients they need to work properly.</Content>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">f4s084</ResponseID>
+<BaseQuestion id="1">Week after surgery - conclusion</BaseQuestion>
+</RQ>
+<RQ id="1">
+<ResponseID id="2">f4s086</ResponseID>
+<BaseQuestion id="2">What is a heart attack?</BaseQuestion>
+</RQ>
+<RQ id="2">
+<ResponseID id="3">f4s087</ResponseID>
+<BaseQuestion id="3">What are symptoms of a heart attack?</BaseQuestion>
+</RQ>
+</RQs>
+<MediaList id="0">
+<Media id="0">
+<ListOrder id="0">0</ListOrder>
+<Description id="0">How the Heart Works</Description>
+<Location id="0"><![CDATA[http://www.nlm.nih.gov/medlineplus/ency/anatomyvideos/000067.htm]]></Location>
+<MediaType id="0">Link</MediaType>
+<FileSize id="0"></FileSize>
+</Media>
+</MediaList>
+</Response>
+<Response id="f4s011">
+<ResponseID id="0">f4s011</ResponseID>
+<BaseQuestion id="0">Team members</BaseQuestion>
+<Content id="0">You will have a whole team of specialized healthcare providers taking care of you at every step of your journey through surgery to recovery and beyond, so let's meet them now:
+
+Your doctors include:
+&#8226;Your surgeon,
+&#8226;Your cardiologist,
+&#8226;Your primary care physician,
+&#8226;The anesthesiologist, who is in charge of administering the drugs to keep you comfortable during the operation,
+&#8226;And a Physician's Assistant, or PA, who aids the surgeon,
+
+You will also be cared for by:
+&#8226;Nurses,
+&#8226;Nurse's aides,
+&#8226;Lab and X-ray personnel,
+&#8226;A respiratory therapist, who monitors and assists breathing function,
+&#8226;A social worker, who will help you plan for your needs after you go home,
+&#8226;And a dietician who will teach you how to eat well for your heart and health.
+
+And for your spiritual needs, we also have chaplains and clergy of various denominations available for you.</Content>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">f4s200</ResponseID>
+<BaseQuestion id="1">What's the role of a Physician Assistant?</BaseQuestion>
+</RQ>
+<RQ id="1">
+<ResponseID id="2">f4s219</ResponseID>
+<BaseQuestion id="2">The anesthetist is present and monitoring during surgery</BaseQuestion>
+</RQ>
+</RQs>
+</Response>
+<Response id="f4s012">
+<ResponseID id="0">f4s012</ResponseID>
+<BaseQuestion id="0">Pre-operative testing</BaseQuestion>
+<Content id="0">Once your surgery date is set, your surgeon or physician's assistant is going to get you started on a number of tests. Some of them may be familiar, and you may wonder, why so many, and why take this test again?
+
+One reason modern cardiac surgery is so effective is how much information your healthcare team has to work with before you ever enter the operating room. Your heart is imaged and mapped out in fine detail, but we also need the most complete, current picture of your overall health.
+
+Some of the most common tests you can expect are:
+&#8226;Electrocardiogram or EKG to help determine the dosage of anesthesia
+&#8226;Urine tests to check for infections
+&#8226;Blood tests in case you need a transfusion, to check your kidney function, and to make sure you're not anemic. We also use these tests to check your blood sugar levels.
+
+Other tests that you might be given include:
+&#8226;Carotid artery Doppler study to make sure there are no blockages in the arteries in your neck and to prevent stroke
+&#8226;Echocardiogram to look at how the valves are working and test the strength of your heart
+&#8226;Vein mapping of the legs to check for the vein that is used in bypass surgery
+&#8226;And pulmonary function tests to check how well your lungs are working.
+
+If you would like to learn more about each of these tests, look in the Also Consider Asking Area.</Content>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">f4s118</ResponseID>
+<BaseQuestion id="1">What is an EKG?</BaseQuestion>
+</RQ>
+<RQ id="1">
+<ResponseID id="2">f4s119</ResponseID>
+<BaseQuestion id="2">What is a urine test?</BaseQuestion>
+</RQ>
+<RQ id="2">
+<ResponseID id="3">f4s120</ResponseID>
+<BaseQuestion id="3">What is a blood test?</BaseQuestion>
+</RQ>
+<RQ id="3">
+<ResponseID id="4">f4s122</ResponseID>
+<BaseQuestion id="4">What is a carotid artery Doppler study?</BaseQuestion>
+</RQ>
+<RQ id="4">
+<ResponseID id="5">f4s115</ResponseID>
+<BaseQuestion id="5">What is an echocardiogram?</BaseQuestion>
+</RQ>
+<RQ id="5">
+<ResponseID id="6">f4s116</ResponseID>
+<BaseQuestion id="6">What is vein mapping of legs?</BaseQuestion>
+</RQ>
+<RQ id="6">
+<ResponseID id="7">f4s117</ResponseID>
+<BaseQuestion id="7">What are pulmonary function tests?</BaseQuestion>
+</RQ>
+</RQs>
+</Response>
+<Response id="f4s013">
+<ResponseID id="0">f4s013</ResponseID>
+<BaseQuestion id="0">Have you scheduled your pre-operative testing?</BaseQuestion>
+<Content id="0">Once your surgeon or Physician's assistant has told you which preoperative tests you need, it's time to schedule them and get them done so that you can have your surgery.
+
+Have you scheduled your pre-operative tests?</Content>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">f4s012</ResponseID>
+<BaseQuestion id="1">Pre-operative testing</BaseQuestion>
+</RQ>
+<RQ id="1">
+<ResponseID id="2">f4s115</ResponseID>
+<BaseQuestion id="2">What is an echocardiogram?</BaseQuestion>
+</RQ>
+<RQ id="2">
+<ResponseID id="3">f4s116</ResponseID>
+<BaseQuestion id="3">What is vein mapping of legs?</BaseQuestion>
+</RQ>
+<RQ id="3">
+<ResponseID id="4">f4s117</ResponseID>
+<BaseQuestion id="4">What are pulmonary function tests?</BaseQuestion>
+</RQ>
+<RQ id="4">
+<ResponseID id="5">f4s118</ResponseID>
+<BaseQuestion id="5">What is an EKG?</BaseQuestion>
+</RQ>
+</RQs>
+</Response>
+<Response id="f4s014">
+<ResponseID id="0">f4s014</ResponseID>
+<BaseQuestion id="0">You have scheduled pre-op testing already.</BaseQuestion>
+<Content id="0">Good for you. I'm glad to hear you're keeping up.  It's a big help to get those tests done so that we can have those results in good time to get you squared away and ready for your surgery.</Content>
+</Response>
+<Response id="f4s015">
+<ResponseID id="0">f4s015</ResponseID>
+<BaseQuestion id="0">You have not scheduled pre-op testing yet.</BaseQuestion>
+<Content id="0">We need to have your test results within a week of your surgery so your healthcare team can review the results. I'm worried that if your testing isn't finished in time, your surgery will have to be delayed. Please give us a call to get your tests done as soon as possible. The contact information for the Ambulatory Surgery Center is located in the resources area. We can work together to make sure you're caught up and on track for this important step in taking care of your health.</Content>
+</Response>
+<Response id="f4s016">
+<ResponseID id="0">f4s016</ResponseID>
+<BaseQuestion id="0">You're not sure if you have scheduled pre-op testing.</BaseQuestion>
+<Content id="0">Remember, we need your test results in hand within a week of your surgery so we can review them. If you're not sure whether all your tests have been completed, please give us a call right away, and we'll see where you are and what still needs to be done. The contact information for the Ambulatory Surgery Center is located in the resources area. If all the testing isn't done, there's a strong probability that your surgery will have to be delayed, so let's work to make sure that doesn't happen. We want you to be on track for this important step in taking care of your health.</Content>
+</Response>
+<Response id="f4s017">
+<ResponseID id="0">f4s017</ResponseID>
+<BaseQuestion id="0">Open heart surgery video</BaseQuestion>
+<Content id="0">If you would like to see a video of the specific surgery you'll be having, we have provided a link in the resources section.  There is also a transcript option at the start of each video if you'd like to learn about your procedure without viewing the actual surgery.  The videos give you a background on the procedures.
+
+You will be seeing actual surgery.  By doctors performing the surgery. And, of course, if you have any questions about your specific surgery, your healthcare team members will be glad to answer them. Helping you stay informed about your health helps us all to work better together.</Content>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">f4s011</ResponseID>
+<BaseQuestion id="1">Team members</BaseQuestion>
+</RQ>
+<RQ id="1">
+<ResponseID id="2">f4s040</ResponseID>
+<BaseQuestion id="2">What happens before surgery?</BaseQuestion>
+</RQ>
+</RQs>
+</Response>
+<Response id="f4s018">
+<ResponseID id="0">f4s018</ResponseID>
+<BaseQuestion id="0">Pre-operative instructions</BaseQuestion>
+<Content id="0">During your pre-operative exam and testing, you may be greeted by other members of your heart and vascular team, who will have important instructions for you about your recovery and surgery. These team members may include a respiratory therapist and a nurse from the Cardio Thoracic Intensive Care Unit, or CTICU, where you'll be recovering after surgery. You will find their expertise tremendously helpful in speeding your recovery, so think of them as your fitness coaches: the more closely you follow their instructions, the better you'll do.
+
+You may well have heard some of their instructions before, but listen carefully anyway: first, we know we repeat ourselves, but in cardiology, repetition of safeguards is a good thing, and second, you may be given special instructions specifically meant for your particular case.
+
+Your cardiac recovery coaches will talk with you about:
+
+&#8226;Breathing exercises for which you'll use a plastic device called an Spirometer
+&#8226;What to do the day and evening before surgery
+&#8226;What to do the morning of surgery
+&#8226;Your recovery in the hospital.
+
+We'll be describing each of these for you as you go through the Fit for Surgery program.</Content>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">f4s020</ResponseID>
+<BaseQuestion id="1">Pre-operative prescriptions</BaseQuestion>
+</RQ>
+</RQs>
+</Response>
+<Response id="f4s019">
+<ResponseID id="0">f4s019</ResponseID>
+<BaseQuestion id="0">Spirometry</BaseQuestion>
+<Content id="0">To help strengthen your lungs, at your pre-operative consult, we're going to give you a plastic, handheld device called a spirometer to use every day, both before and after your surgery. It looks almost toylike, but it's a seriously effective exercise tool that fights pulmonary infections. After surgery, breathing is sometimes difficult and you might want to take only shallow breaths, which isn't good because fluid and mucus can build up in your lungs and lead to pneumonia. It's important to know how much you can help yourself: the more you exercise with the spirometer before surgery, the easier it will be to breathe afterwards.
+
+
+While you're asleep during surgery, you'll be on a ventilator, so your lungs won't be inflating and emptying the way they usually do. Instead, they'll be flat, an unusual condition for them, and the tiny hairs inside your lungs called "cilia," start to stick to themselves, preventing your lungs from expanding. This is a dangerous condition called "atelectasis," (at-uh-LEK-tuh-sis) which you may know of as "collapsed lung," and it's how post-surgical patients develop pneumonia. All the more reason to practice with your spirometer before surgery. This little device will end up being one of your best friends. Your lungs will be stronger, better able to expand, and during your recovery, using the spirometer will come more easily, helping you fight off atelectasis and pneumonia.</Content>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">f4s124</ResponseID>
+<BaseQuestion id="1">How to use an incentive spirometer</BaseQuestion>
+</RQ>
+</RQs>
+</Response>
+<Response id="f4s020">
+<ResponseID id="0">f4s020</ResponseID>
+<BaseQuestion id="0">Pre-operative prescriptions</BaseQuestion>
+<Content id="0">When your surgery is scheduled, you'll be given two prescriptions. We all carry bacteria on the surface of our skin that are usually harmless, but they can enter the body during surgery, so both prescriptions are to protect you from infection while you're in the hospital.
+
+The first, Mupirocin ointment, is an antibiotic. Put this ointment on a cotton swab and swab around the outside of your nostrils every day, starting two days before surgery, but no earlier.  This antibiotic prevents infections like MRSA, which stands for Methicillin- resistant Staph Aureus.  MRSA is much easier to prevent than to treat, so follow the directions you are given carefully.
+
+Use exactly the amount you are told to use, not more and not less. Using more won't mean you get better protection.  In fact, it can lessen the effectiveness of the treatment.
+
+The other prescription is for Chlorhexidine an antiseptic shower gel that kills germs on your skin.  You'll wash with this gel either the night before, or the morning of your surgery.  We'll tell you more about it when we talk about the day before your surgery.
+
+In the meantime, when you get your prescriptions, read the instructions and if you have any questions, do ask your healthcare team.</Content>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">f4s201</ResponseID>
+<BaseQuestion id="1">The importance of showering with Chlorhexidine</BaseQuestion>
+</RQ>
+</RQs>
+</Response>
+<Response id="f4s021">
+<ResponseID id="0">f4s021</ResponseID>
+<BaseQuestion id="0">Insulin drip protocol</BaseQuestion>
+<Content id="0">You may be surprised to hear that you'll need insulin after surgery. You may wonder, isn't insulin just for diabetics? Is heart surgery going to give me diabetes?  No, but it does increase the blood sugar levels of most patients temporarily, so whether or not you are a diabetic, you will have an insulin drip before surgery and insulin injections for a short while during your recovery.
+
+Why are we so concerned with managing your blood sugar? Because maintaining the proper level helps your sternum, or breastbone, and your incisions heal faster, and reduces the risk of postoperative infections. This is why we'll be putting you on a treatment called Insulin Drip Protocol. We use it for all of our open-heart surgery patients to manage this temporary rise in blood sugar.
+
+You might remember that one of your preoperative tests was for blood sugar. If your sugar is high, we have you stay at the hospital the night before, and start you on the Insulin Drip Protocol then. You'll get the insulin through your IV, or intravenous line, and you'll be getting your insulin that way during surgery.
+
+If your test shows you have normal sugar, you'll start getting insulin the morning you come in for surgery. In either case, after surgery, you'll get insulin injections, and you may need to keep taking them for a while after you go home. Most patients do, even if they're not diabetic. Keeping your blood sugar controlled is important to help you heal more quickly and avoid infections, so you'll continue to be on insulin until your doctor says you can stop.</Content>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">f4s258</ResponseID>
+<BaseQuestion id="1">Insulin Use in the CTICU</BaseQuestion>
+</RQ>
+</RQs>
+</Response>
+<Response id="f4s022">
+<ResponseID id="0">f4s022</ResponseID>
+<BaseQuestion id="0">Do you use any form of tobacco?</BaseQuestion>
+<Content id="0">Do you use any form of tobacco, including smoking cigarettes cigars or pipes, dipping snuff or chewing tobacco?  Do you use electronic cigarettes or nicotine gum, nicotine patches or e-cigarettes?</Content>
+</Response>
+<Response id="f4s023">
+<ResponseID id="0">f4s023</ResponseID>
+<BaseQuestion id="0">You do not use tobacco.</BaseQuestion>
+<Content id="0">I'm so glad to hear that. Staying away from nicotine means you're less likely to have complications and more likely to have a speedier, better recovery.</Content>
+</Response>
+<Response id="f4s024">
+<ResponseID id="0">f4s024</ResponseID>
+<BaseQuestion id="0">You do use tobacco.</BaseQuestion>
+<Content id="0">You probably know what I'm going to say, you should try to stop using all forms of tobacco or nicotine as soon as you can. We usually hear about the harm caused by smoking, but even smokeless tobacco, nicotine patches and gum, and e-cigarettes contain nicotine, a drug that can directly affect the success of your surgery.
+
+If you can't quit smoking, try to cut down to four cigarettes a day in the two weeks before surgery.
+
+And if you use dip, remember one can of Skoal equals four packs of cigarettes.
+
+Nicotine users are less stable and react more unpredictably to anesthesia, so not using it for as long as you can before surgery makes a big difference.
+
+If you're having trouble quitting, let your healthcare team know -- we can take measures that could help you.
+
+Quitting permanently will help keep you from needing to have more heart surgery or developing other problems down the line.</Content>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">f4s215</ResponseID>
+<BaseQuestion id="1">Does it really matter if I quit smoking before surgery? </BaseQuestion>
+</RQ>
+<RQ id="1">
+<ResponseID id="2">f4s028</ResponseID>
+<BaseQuestion id="2">Summary of week before surgery</BaseQuestion>
+</RQ>
+<RQ id="2">
+<ResponseID id="3">f4s060</ResponseID>
+<BaseQuestion id="3">Tobacco after surgery</BaseQuestion>
+</RQ>
+<RQ id="3">
+<ResponseID id="4">f4s084</ResponseID>
+<BaseQuestion id="4">Week after surgery - conclusion</BaseQuestion>
+</RQ>
+<RQ id="4">
+<ResponseID id="5">f4s074</ResponseID>
+<BaseQuestion id="5">Restriction Reminder</BaseQuestion>
+</RQ>
+</RQs>
+</Response>
+<Response id="f4s025">
+<ResponseID id="0">f4s025</ResponseID>
+<BaseQuestion id="0">Making arrangements for surgery - introduction</BaseQuestion>
+<Content id="0">It may seem to you that your surgery is a long way off right but let's start planning for your return home.   You'll need someone who's able to look after you 24 hours a day.
+
+There are a great many things you won't be able to do for a while:
+
+&#8226;You won't be able to lift anything over 5 pounds. To put things in perspective, a gallon of milk weighs 8 pounds.
+&#8226;You won't be able to push or pull anything, so no pushing grocery carts, no walking the dog, no opening doors for other people. Doors will have to be pushed or pulled open for you. Even using a cane or a walker involves pushing, so if you need help walking, we'll provide you with a wheeled walker for you to use at home during your recovery.
+&#8226;You won't be able to lift your arms above your head, or put your hands behind your back.
+
+If you think of the motion of a bird spreading its wings, that is exactly what we don't want you to do, for now.
+
+Your breastbone will heal and become extremely strong in time, but for now we don't want pressure on it from any direction.
+
+You won't be able to drive for several weeks, so you'll need someone to drive you to your follow up doctor visits until the doctor clears you to drive yourself.</Content>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">f4s025a</ResponseID>
+<BaseQuestion id="1">Preparing your home</BaseQuestion>
+</RQ>
+</RQs>
+</Response>
+<Response id="f4s025a">
+<ResponseID id="0">f4s025a</ResponseID>
+<BaseQuestion id="0">Preparing your home</BaseQuestion>
+<Content id="0">As you can see, you're going to need a great deal of help for a while after you get home.
+
+You can also help yourself heal by preparing your home for a comfortable, safe, recovery:
+
+&#8226;Make sure you have groceries -- paper goods, and nutritious, easy-to-prepare foods.
+&#8226;Put chairs in strategic places so that you can do some chores from a seated position, but make sure the chairs aren't low so you don't have to push yourself out of them.
+&#8226;Clear the floors of obstacles and anything that could trip you -- cords, throw rugs, and toys.
+&#8226;If you have a cat or dog that might jump on you or weave between your legs, you may want someone else to watch your pet while you recover to prevent any accidents.
+&#8226;You may want grab bars installed in the shower. They're for balance, not for pulling yourself out of the bath. Towel bars aren't reliable and will not support you if you slip.
+&#8226;Try to make sure the everyday things you use will be reachable without stretching or bending --- put everything at counter height, not on bottom or top shelves.
+&#8226;A reacher/grabber is a great help as well. You can find them at drugstores, medical warehouses or online.
+
+It's not unusual to be impatient with all the restrictions placed on you. It's much better to deal with the inconvenience of temporary limitations than to set yourself back, so I hope you'll try to be patient.</Content>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">f4s025</ResponseID>
+<BaseQuestion id="1">Making arrangements for surgery - introduction</BaseQuestion>
+</RQ>
+</RQs>
+</Response>
+<Response id="f4s026">
+<ResponseID id="0">f4s026</ResponseID>
+<BaseQuestion id="0">Do you have any concerns about making these arrangements?</BaseQuestion>
+<Content id="0">Do you have any concerns about making these arrangements?</Content>
+</Response>
+<Response id="f4s026a">
+<ResponseID id="0">f4s026a</ResponseID>
+<BaseQuestion id="0">You do have concerns about making arrangements.</BaseQuestion>
+<Content id="0">We need to be completely sure that you're going to be able to recover safely at home, so it's important that you make arrangements for your care now. If you need help planning for your care, call the social worker at the number listed in the Resources section.</Content>
+</Response>
+<Response id="f4s027">
+<ResponseID id="0">f4s027</ResponseID>
+<BaseQuestion id="0">You do not have concerns about arrangements.</BaseQuestion>
+<Content id="0">Great! We need to be completely sure that you're going to be able to recover safely at home, so it's important that you make arrangements for your care now. If you do think of anything you need help with in planning for your care, call the social worker at the number listed in the Resources section.</Content>
+</Response>
+<Response id="f4s028">
+<ResponseID id="0">f4s028</ResponseID>
+<BaseQuestion id="0">Summary of week before surgery</BaseQuestion>
+<Content id="0">Thanks for taking time to come back today so we can discuss your preparations for surgery.   I know you have plenty to do, but let's underline the most important things you need to remember from this section:
+
+First, it's important to quit or at least cut down on your use of nicotine, from any source.  If you can't quit totally, please limit yourself to just four cigarettes a day in the two weeks before surgery.  If you're having a rough time quitting, your healthcare team can help.
+
+Second, all your tests must be done within the week before your surgery.
+
+Third, you must make arrangements for help at home after your surgery to give yourself time to heal.
+
+Fourth, practice your spirometer at home before your surgery to prevent post-operative pneumonia. The more you use the spirometer now, the easier it will be for you afterwards. If you're watching TV use your spirometer during commercials.</Content>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">f4s065</ResponseID>
+<BaseQuestion id="1">Before and After Surgery Conclusion</BaseQuestion>
+</RQ>
+<RQ id="1">
+<ResponseID id="2">f4s084</ResponseID>
+<BaseQuestion id="2">Week after surgery - conclusion</BaseQuestion>
+</RQ>
+<RQ id="2">
+<ResponseID id="3">f4s024</ResponseID>
+<BaseQuestion id="3">You do use tobacco.</BaseQuestion>
+</RQ>
+<RQ id="3">
+<ResponseID id="4">f4s060</ResponseID>
+<BaseQuestion id="4">Tobacco after surgery</BaseQuestion>
+</RQ>
+<RQ id="4">
+<ResponseID id="5">f4s215</ResponseID>
+<BaseQuestion id="5">Does it really matter if I quit smoking before surgery? </BaseQuestion>
+</RQ>
+</RQs>
+</Response>
+<Response id="f4s029">
+<ResponseID id="0">f4s029</ResponseID>
+<BaseQuestion id="0">Day before surgery - introduction</BaseQuestion>
+<Content id="0">Hello, and welcome back.  I'm glad you took the time to check in with me. We're covering the day before your surgery in this section. What you do in the 24 hours before your surgery affects how well everything will go the next day, so pay close attention, and we'll map out what you need to do so that your surgery goes smoothly. I'll tell you how to contact the Ambulatory Surgery Center to find out what time to get to the hospital, what you can and can't eat and drink the day before and morning of, and how to use your prescription shower gel.</Content>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">f4s009</ResponseID>
+<BaseQuestion id="1">General Overview</BaseQuestion>
+</RQ>
+<RQ id="1">
+<ResponseID id="2">f4s044</ResponseID>
+<BaseQuestion id="2">Recovery from surgery - introduction</BaseQuestion>
+</RQ>
+<RQ id="2">
+<ResponseID id="3">f4s066</ResponseID>
+<BaseQuestion id="3">Week after surgery - how are you doing?</BaseQuestion>
+</RQ>
+</RQs>
+</Response>
+<Response id="f4s030">
+<ResponseID id="0">f4s030</ResponseID>
+<BaseQuestion id="0">What time do we need to be at the hospital?</BaseQuestion>
+<Content id="0">Call the ambulatory surgery center after 2:00 p.m. the day before your surgery, and they'll tell you what time to arrive. If your surgery is scheduled for a Monday, call the Friday before. The number for the ambulatory surgery center is in the resources area.
+
+Most surgeries are scheduled for very early in the morning, but that's not always the case, so be sure to call and confirm the time.</Content>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">f4s033</ResponseID>
+<BaseQuestion id="1">Personal effects</BaseQuestion>
+</RQ>
+<RQ id="1">
+<ResponseID id="2">f4s034</ResponseID>
+<BaseQuestion id="2">Where are things at the hospital?</BaseQuestion>
+</RQ>
+<RQ id="2">
+<ResponseID id="3">f4s035</ResponseID>
+<BaseQuestion id="3">Where to enter the hospital</BaseQuestion>
+</RQ>
+</RQs>
+</Response>
+<Response id="f4s031">
+<ResponseID id="0">f4s031</ResponseID>
+<BaseQuestion id="0">Eating and drinking on the night before surgery</BaseQuestion>
+<Content id="0">The day before surgery, we want you to eat lightly.  Stick with salads and clear broths or soup, rather than heavy meals like steak.
+
+We tell you to eat lightly the day before surgery and have nothing after midnight because when you're in surgery, you run the risk of vomiting while you're under anesthesia.
+
+If you vomit, you could inhale it into your lungs, which can cause serious problems like pneumonia and breathing difficulties that can seriously affect your recovery.
+
+Another reason to eat lightly is to avoid something called ileus. Ileus is a disruption of normal bowel function. It causes cramping, bloating, diarrhea, constipation.
+
+Nausea and vomiting are also common with ileus, which can happen if you eat a heavy meal the night before surgery, so don't eat or drink anything after midnight and that includes some things you might not think of as food such as breath mints and gum. No chewing tobacco either, and no fluids, not even water.
+
+The only exception is if your doctor has instructed you to take any medications, and even then, take them with small sips of water. You can brush your teeth and use mouthwash, but don't swallow. The day before surgery, we want you to eat lightly.
+Stick with salads and clear broths or soup, rather than heavy meals like steak.</Content>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">f4s203</ResponseID>
+<BaseQuestion id="1">Why can't I have anything to eat or drink after midnight?</BaseQuestion>
+</RQ>
+<RQ id="1">
+<ResponseID id="2">f4s204</ResponseID>
+<BaseQuestion id="2">What kind of meal should I have the night before surgery?</BaseQuestion>
+</RQ>
+<RQ id="2">
+<ResponseID id="3">f4s046</ResponseID>
+<BaseQuestion id="3">Ice chips, water, and food</BaseQuestion>
+</RQ>
+<RQ id="3">
+<ResponseID id="4">f4s082</ResponseID>
+<BaseQuestion id="4">Diet</BaseQuestion>
+</RQ>
+</RQs>
+</Response>
+<Response id="f4s032">
+<ResponseID id="0">f4s032</ResponseID>
+<BaseQuestion id="0">Showering and bathing before surgery</BaseQuestion>
+<Content id="0">Either the night before or morning of your surgery, bathe or shower with the chlorhexidine soap that was prescribed for you. Here's how we want you to use it:
+
+First, you're going to need a freshly laundered towel, washcloth, and a timer. You're going to begin by wetting your skin, and then you'll wash with the gel chin to ankles, using the washcloth to scrub small areas of your body at a time, including your armpits and groin, and then you're going to leave the soap on without rinsing, for five minutes, so it can do its job of killing germs on your skin.
+
+Don't wash your face, eyes or ears with the gel because it's very strong and can irritate delicate skin. For the same reason, we want you to wash your groin, but avoid your genitals and anal area. If you feel stinging, you can rinse the stinging area with clear water. But you should leave the soap on your skin for five minutes.
+
+Once the five minutes are up, rinse yourself thoroughly, and dry yourself with the freshly laundered towel.  Put on freshly laundered clothes or sleepwear.  Don't put on any deodorant, body powder or lotion. The gel has killed germs on your skin to protect you against infection, and personal cosmetics can damage its effectiveness.
+
+Because this soap is so strong, only use it as instructed. Don't use more of it, use it more often, or use it for a longer time than your doctor ordered, and keep it out of the reach of children. Read all the precautions that come with it and call your healthcare team if you have any questions.</Content>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">f4s201</ResponseID>
+<BaseQuestion id="1">The importance of showering with Chlorhexidine</BaseQuestion>
+</RQ>
+</RQs>
+</Response>
+<Response id="f4s033">
+<ResponseID id="0">f4s033</ResponseID>
+<BaseQuestion id="0">Personal effects</BaseQuestion>
+<Content id="0">If you're spending the night before your surgery in the hospital, ask your family members to take all of your personal belongings home with them that night. If you're coming in the morning of your surgery, leave your valuables at home, and bring only the personal items you need such as eyeglasses or contacts, hearing aids and dentures. Leave your jewelry and watch at home.</Content>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">f4s036</ResponseID>
+<BaseQuestion id="1">What will my family members do on the day of surgery?</BaseQuestion>
+</RQ>
+</RQs>
+</Response>
+<Response id="f4s034">
+<ResponseID id="0">f4s034</ResponseID>
+<BaseQuestion id="0">Where are things at the hospital?</BaseQuestion>
+<Content id="0">For a map and directions to key areas in the hospital, look in the Resources section.</Content>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">f4s035</ResponseID>
+<BaseQuestion id="1">Where to enter the hospital</BaseQuestion>
+</RQ>
+<RQ id="1">
+<ResponseID id="2">f4s030</ResponseID>
+<BaseQuestion id="2">What time do we need to be at the hospital?</BaseQuestion>
+</RQ>
+</RQs>
+</Response>
+<Response id="f4s035">
+<ResponseID id="0">f4s035</ResponseID>
+<BaseQuestion id="0">Where to enter the hospital</BaseQuestion>
+<Content id="0">When you come to the hospital for your surgery, go to the Ambulatory Surgery parking lot B and enter the hospital through the door with the awning. If you're already in the hospital, your family members should go directly to your room no later than 6 AM so that they can see you before surgery.</Content>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">f4s030</ResponseID>
+<BaseQuestion id="1">What time do we need to be at the hospital?</BaseQuestion>
+</RQ>
+<RQ id="1">
+<ResponseID id="2">f4s034</ResponseID>
+<BaseQuestion id="2">Where are things at the hospital?</BaseQuestion>
+</RQ>
+</RQs>
+</Response>
+<Response id="f4s036">
+<ResponseID id="0">f4s036</ResponseID>
+<BaseQuestion id="0">What will my family members do on the day of surgery?</BaseQuestion>
+<Content id="0">Your family members, or whoever you have designated to act as your support, can stay with you until you're taken into the operating room holding area. Give them your personal things like your glasses or hearing aid for safekeeping while you're in surgery. After surgery, the nurse from the Cardio Thoracic Intensive Care Unit, or CTICU, will pick them up from your family for you.
+
+
+Once you're taken to the operating room holding area, your family goes to the CTICU family waiting lounge on the second floor. There they will be given a pager so that they can move freely about the hospital and outside campus but still stay in touch with your healthcare team.  A member of the operating team will phone the CTICU when the surgery begins and when it's over. Nurses will only use the pager for updates if your family members can't be found in the waiting room. The pager vibrates and flashes red lights. After a page, your family should return as soon as possible to the family waiting lounge and dial extension 7722 to be updated on your condition by the CTICU nursing staff.</Content>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">f4s070a</ResponseID>
+<BaseQuestion id="1">Asking for help</BaseQuestion>
+</RQ>
+<RQ id="1">
+<ResponseID id="2">f4s037</ResponseID>
+<BaseQuestion id="2">Who will let my family know I'm all right?</BaseQuestion>
+</RQ>
+<RQ id="2">
+<ResponseID id="3">f4s038</ResponseID>
+<BaseQuestion id="3">When will my family be able to see me after surgery?</BaseQuestion>
+</RQ>
+<RQ id="3">
+<ResponseID id="4">f4s030</ResponseID>
+<BaseQuestion id="4">What time do we need to be at the hospital?</BaseQuestion>
+</RQ>
+</RQs>
+</Response>
+<Response id="f4s037">
+<ResponseID id="0">f4s037</ResponseID>
+<BaseQuestion id="0">Who will let my family know I'm all right?</BaseQuestion>
+<Content id="0">Your healthcare team makes sure your family members know when surgery has begun and when it is finished. The operating room calls the CTICU with the start time, which is the time that the first incision is made. The next time the operating room calls will be when the surgery is over. Once the surgery is complete, the surgeon will speak with your family in the CTICU consultation room near the family waiting lounge. The surgeon will let them know how you're doing and answer any questions they have.</Content>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">f4s036</ResponseID>
+<BaseQuestion id="1">What will my family members do on the day of surgery?</BaseQuestion>
+</RQ>
+<RQ id="1">
+<ResponseID id="2">f4s038</ResponseID>
+<BaseQuestion id="2">When will my family be able to see me after surgery?</BaseQuestion>
+</RQ>
+</RQs>
+</Response>
+<Response id="f4s038">
+<ResponseID id="0">f4s038</ResponseID>
+<BaseQuestion id="0">When will my family be able to see me after surgery?</BaseQuestion>
+<Content id="0">We know your family is understandably anxious to see you after surgery, but for the first hour or two after you're out of the operating room, the skilled staff of the CTICU is busy taking care of you. They'll be watching you very closely while you recover from the anesthesia, so please let your family know that even though they're not yet able to see you, this wait is normal and doesn't mean anything is wrong. After a while, they'll be able to see you for a short time.</Content>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">f4s036</ResponseID>
+<BaseQuestion id="1">What will my family members do on the day of surgery?</BaseQuestion>
+</RQ>
+<RQ id="1">
+<ResponseID id="2">f4s037</ResponseID>
+<BaseQuestion id="2">Who will let my family know I'm all right?</BaseQuestion>
+</RQ>
+<RQ id="2">
+<ResponseID id="3">f4s030</ResponseID>
+<BaseQuestion id="3">What time do we need to be at the hospital?</BaseQuestion>
+</RQ>
+</RQs>
+</Response>
+<Response id="f4s039">
+<ResponseID id="0">f4s039</ResponseID>
+<BaseQuestion id="0">What will they do to prepare me for surgery?</BaseQuestion>
+<Content id="0">Let's talk about what you can expect as you're prepped for going into the operating room. Remember your family will be there with you for as long as possible, and nurses will be with you to explain what they're doing and answer any questions you have.
+
+First, nurses will check your pulse, blood pressure, and temperature.  Then they will have you remove all jewelry, glasses, contacts, hearing aids or dentures, and they'll give them to your family or caregiver for safekeeping.
+
+The next step doesn't hurt, but we know it isn't welcome:  your body hair will be clipped from chin to ankles, including your groin. We do this to prevent infection.
+
+Afterwards, you again wash with chlorhexidine, soap, and are given a fresh surgical gown and cap. Then it will be time for nurses to put an intravenous, or iv, line into your arm, and you will get medicine through the iv to put you into a twilight sleep so that you feel drowsy, but are not fully asleep, after which you will be taken to the or, transferred to the table, and greeted by your OR team, including your anesthesiologist.</Content>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">f4s040</ResponseID>
+<BaseQuestion id="1">What happens before surgery?</BaseQuestion>
+</RQ>
+<RQ id="1">
+<ResponseID id="2">f4s041</ResponseID>
+<BaseQuestion id="2">Do you want to hear more about how your healthcare team prepares you for surgery?</BaseQuestion>
+</RQ>
+</RQs>
+</Response>
+<Response id="f4s040">
+<ResponseID id="0">f4s040</ResponseID>
+<BaseQuestion id="0">What happens before surgery?</BaseQuestion>
+<Content id="0">Once you're on the table, you'll be given medicine through your IV line in your arm to put you to sleep. While you're asleep, your healthcare team will make the final preparations for surgery. Some of these sound uncomfortable, and it may make you uneasy to hear about them, but remember, you're asleep by now and can't feel them. Your healthcare team is highly skilled and extremely practiced at these procedures, which are necessary to make sure your surgery is successful and your recovery as smooth as possible.</Content>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">f4s039</ResponseID>
+<BaseQuestion id="1">What will they do to prepare me for surgery?</BaseQuestion>
+</RQ>
+</RQs>
+</Response>
+<Response id="f4s041">
+<ResponseID id="0">f4s041</ResponseID>
+<BaseQuestion id="0">Do you want to hear more about how your healthcare team prepares you for surgery?</BaseQuestion>
+<Content id="0">Do you want to hear more about how your healthcare team prepares you for surgery?</Content>
+</Response>
+<Response id="f4s042">
+<ResponseID id="0">f4s042</ResponseID>
+<BaseQuestion id="0">Yes, please tell me more about how my healthcare team prepares me for surgery.</BaseQuestion>
+<Content id="0">OK, let me give you a short description of how your healthcare team readies you for surgery. You are going to be given a number of tubes, but let me remind you that you'll be asleep while they're being put in place.
+
+A nurse will put an IV line into the right side of your neck so that you can get fluids before and after the operation. That IV comes out the day after your surgery.
+
+You will also have a line that looks like an IV catheter, called an arterial line, going into the left side of your groin, so that the blood pressure in your artery can be monitored continuously.
+
+The next tube is the Foley catheter, which goes into your bladder to empty your urine into a bag. Don't forget, you'll be asleep, and won't feel it being placed.
+
+Because you'll have medicine to keep you still during the operation, you will need to be given a breathing tube, or intubated. The breathing tube goes down your throat, and is connected to a machine called a ventilator, which breathes for you until the anesthesia wears off and your breathing muscles are able to move again.
+
+Depending on your doctor and the type of surgery you'll be having, you may also be put on a heart lung machine.</Content>
+</Response>
+<Response id="f4s044">
+<ResponseID id="0">f4s044</ResponseID>
+<BaseQuestion id="0">Recovery from surgery - introduction</BaseQuestion>
+<Content id="0">When your surgery is over, you'll be moved to the CTICU, where your nurse will be in the room with you, monitoring you as you come out of the anesthesia. You're going to be groggy in the beginning, but that's entirely normal.
+
+
+Now I'm going to tell you something very important, that I want you to remember: you will still have the breathing tube down your throat, so you won't be able to speak or swallow, but you are safe. You may be scared and uncomfortable, but your nurse is there with you, you are not alone. Try to stay calm and remember that the nurse stays right there with you at all times, watching over you very carefully to make sure you're okay.
+
+
+You'll hear sounds such as bubbling and alarms beeping. These are normal sounds made by the equipment around you. You'll also hear people talking. Someone may ask you to squeeze their hand or wiggle your toes. They may tell you that surgery is over.</Content>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">f4s009</ResponseID>
+<BaseQuestion id="1">General Overview</BaseQuestion>
+</RQ>
+<RQ id="1">
+<ResponseID id="2">f4s029</ResponseID>
+<BaseQuestion id="2">Day before surgery - introduction</BaseQuestion>
+</RQ>
+<RQ id="2">
+<ResponseID id="3">f4s066</ResponseID>
+<BaseQuestion id="3">Week after surgery - how are you doing?</BaseQuestion>
+</RQ>
+</RQs>
+</Response>
+<Response id="f4s045">
+<ResponseID id="0">f4s045</ResponseID>
+<BaseQuestion id="0">Breathing tube</BaseQuestion>
+<Content id="0">We know you want that breathing tube out as soon as possible, and we do too, but you have to be fully awake first. You have to be able to hold your head off the bed for at least 10 seconds. Why 10 seconds? When you can hold your head up for 10 seconds, the nurses know that the anesthesia has begun to leave your body and you are fully able to breathe on your own.
+When you are ready to have the breathing tube removed, a respiratory therapist and nurse will ask you to take a deep breath and the tube will be removed.  After the breathing tube is out there will be secretions in your mouth and throat, which will be removed with a suction instrument.</Content>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">f4s044</ResponseID>
+<BaseQuestion id="1">Recovery from surgery - introduction</BaseQuestion>
+</RQ>
+<RQ id="1">
+<ResponseID id="2">f4s243</ResponseID>
+<BaseQuestion id="2">What is it like waking up from surgery?</BaseQuestion>
+</RQ>
+</RQs>
+</Response>
+<Response id="f4s046">
+<ResponseID id="0">f4s046</ResponseID>
+<BaseQuestion id="0">Ice chips, water, and food</BaseQuestion>
+<Content id="0">Once the breathing tube is out the nurses wait usually about a half hour to 45 minutes before starting to give you ice chips, Your throat is going to be sore, your voice is going to be raspy, that's all normal.
+
+
+Later on you will be given water.  Anesthesia makes some people nauseated and sick to their stomachs, so liquids and food need to be introduced slowly.  Depending on whether you're able to keep the water down, starting with breakfast the next morning you will get clear liquids and foods like jello, juice, broth and tea.  Then for lunch you'll have cream soup, some pudding, maybe some ice-cream.  For dinner you will have regular consistency food.</Content>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">f4s082</ResponseID>
+<BaseQuestion id="1">Diet</BaseQuestion>
+</RQ>
+<RQ id="1">
+<ResponseID id="2">f4s031</ResponseID>
+<BaseQuestion id="2">Eating and drinking on the night before surgery</BaseQuestion>
+</RQ>
+<RQ id="2">
+<ResponseID id="3">f4s082</ResponseID>
+<BaseQuestion id="3">Diet</BaseQuestion>
+</RQ>
+<RQ id="3">
+<ResponseID id="4">f4s203</ResponseID>
+<BaseQuestion id="4">Why can't I have anything to eat or drink after midnight?</BaseQuestion>
+</RQ>
+<RQ id="4">
+<ResponseID id="5">f4s204</ResponseID>
+<BaseQuestion id="5">What kind of meal should I have the night before surgery?</BaseQuestion>
+</RQ>
+</RQs>
+</Response>
+<Response id="f4s047">
+<ResponseID id="0">f4s047</ResponseID>
+<BaseQuestion id="0">What is ileus?</BaseQuestion>
+<Content id="0">Another reason that food is introduced slowly after surgery is because anesthesia can also cause the bowel to stop moving.  This condition is called ileus.  It causes cramping, bloating, diarrhea, constipation.  Nausea and vomiting are also common with ileus.  Ileus can also happen if you eat a heavy meal the night before surgery.  </Content>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">f4s259</ResponseID>
+<BaseQuestion id="1">Constipation and the importance of a bowel movement</BaseQuestion>
+</RQ>
+</RQs>
+</Response>
+<Response id="f4s050">
+<ResponseID id="0">f4s050</ResponseID>
+<BaseQuestion id="0">Sitting up</BaseQuestion>
+<Content id="0">Two hours after you come off the breathing machine, as long as everything's stable, you will sit up in a chair.  It may seem like a lot to do so soon after surgery, but sitting up and moving around helps your lungs expand, decreasing the chance of getting pneumonia after surgery</Content>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">f4s053</ResponseID>
+<BaseQuestion id="1">Walking after surgery</BaseQuestion>
+</RQ>
+</RQs>
+</Response>
+<Response id="f4s052">
+<ResponseID id="0">f4s052</ResponseID>
+<BaseQuestion id="0">Chest tubes and wires</BaseQuestion>
+<Content id="0">When you come out of surgery there are a lot of tubes and wires coming out of you. As you recover over the next few days, those tubes and wires will be taken out.
+
+Depending on your type of surgery, you will have two or three chest tubes called Blake drains. They come directly out of your chest, and are hooked up to boxes. The boxes are hooked up to suction which pulls out the old blood and fluid draining from around your heart and the space between your lung and your ribcage.
+
+The day after surgery, the two Blake drains around your heart will come out. That one that's in that left chest space will stay in for several days.
+
+You may or may not have temporary pacing wires in your chest. These look like pieces of thread with a blunt needle on the end.  When they're not being used they are hidden in a syringe and taped to your chest. After heart surgery, you may have some irregular heartbeats. This is normal. The temporary pacing wires help to keep your heart beat stable.
+
+After a few days a physician's assistant's will take these wires out. Removal is simple and usually doesn't hurt.   the wires are out you need to stay sitting in the chair for 30 minutes while your vital signs are monitored.</Content>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">f4s243</ResponseID>
+<BaseQuestion id="1">What is it like waking up from surgery?</BaseQuestion>
+</RQ>
+</RQs>
+</Response>
+<Response id="f4s053">
+<ResponseID id="0">f4s053</ResponseID>
+<BaseQuestion id="0">Walking after surgery</BaseQuestion>
+<Content id="0">You might think that recovery from open-heart surgery means that you'll be in bed most of the time.  But getting up and getting walking after your surgery is very important.  Why is that?  Because walking improves circulation in your legs and prevents swelling.   In the CTICU there is a section of green tile on the floor they call the path.  One full lap around this path is 100 feet.  Your goal, prior to discharge is 4 to 6 laps around the path, 4 to 6 times a day.  So, do a lap around the time of every meal; before or after breakfast, lunch and dinner and another lap in the evening.  The first time you may only do one lap, but every time you're out in the hallway try to increase your laps by one.</Content>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">f4s266</ResponseID>
+<BaseQuestion id="1">The importance of walking around after surgery</BaseQuestion>
+</RQ>
+</RQs>
+</Response>
+<Response id="f4s055">
+<ResponseID id="0">f4s055</ResponseID>
+<BaseQuestion id="0">Will I be in pain?</BaseQuestion>
+<Content id="0">Even though your healthcare team will do everything they can to keep it manageable, you will have some pain. Unfortunately it is part of the healing process. We do our best to minimize your pain, so you're able to take an active part in your recovery.
+Families sometimes get very anxious when they see their loved ones in pain and want it taken away. Your healthcare team will explain your pain management with your family.</Content>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">f4s264</ResponseID>
+<BaseQuestion id="1">Pain medications, addiction concerns and preventing pneumonia</BaseQuestion>
+</RQ>
+<RQ id="1">
+<ResponseID id="2">f4s073</ResponseID>
+<BaseQuestion id="2">Are you having issues performing these daily activities?</BaseQuestion>
+</RQ>
+</RQs>
+</Response>
+<Response id="f4s057">
+<ResponseID id="0">f4s057</ResponseID>
+<BaseQuestion id="0">Coughing and deep breathing</BaseQuestion>
+<Content id="0">Your healthcare providers will talk to you about coughing and deep breathing exercises that you need to do after surgery.  These exercises clear fluid from your lungs and respiratory system to prevent infection.
+
+The location of your incision makes it hard to take deep breathes, so you will use an incentive spirometer for your deep breathing exercises. This device will enable you to take those very important deeper breaths.
+
+You need to use the spirometer every hour. Each time, taking ten deep breaths. It may hurt at first, but with adequate pain medication you will be able to make progress each time you use it.
+This is how it works.
+
+You place your mouth on the mouthpiece of the unit.
+Then take a slow deep breath in.
+Hold that breath.
+Then slowly release the breath out.</Content>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">f4s058</ResponseID>
+<BaseQuestion id="1">Heart pillow</BaseQuestion>
+</RQ>
+</RQs>
+</Response>
+<Response id="f4s058">
+<ResponseID id="0">f4s058</ResponseID>
+<BaseQuestion id="0">Heart pillow</BaseQuestion>
+<Content id="0">Coughing exercises are also very important to keep you lungs clear.
+
+Every patient gets a heart pillow. This pillow helps patients take nice deep breaths and makes coughing easier.  You will hold the pillow firmly against your chest; take a deep breath and cough.</Content>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">f4s124</ResponseID>
+<BaseQuestion id="1">How to use an incentive spirometer</BaseQuestion>
+</RQ>
+<RQ id="1">
+<ResponseID id="2">f4s057</ResponseID>
+<BaseQuestion id="2">Coughing and deep breathing</BaseQuestion>
+</RQ>
+</RQs>
+</Response>
+<Response id="f4s059">
+<ResponseID id="0">f4s059</ResponseID>
+<BaseQuestion id="0">How long until discharge?</BaseQuestion>
+<Content id="0">Most people are very anxious to get home.  If you have surgery, you are usually in the hospital anywhere from 4 - 7 days, sometimes 3 days depending on when you meet the milestones for discharge.</Content>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">f4s063</ResponseID>
+<BaseQuestion id="1">Follow up visits</BaseQuestion>
+</RQ>
+</RQs>
+</Response>
+<Response id="f4s060">
+<ResponseID id="0">f4s060</ResponseID>
+<BaseQuestion id="0">Tobacco after surgery</BaseQuestion>
+<Content id="0">If you used tobacco before your surgery, it's very important that you do not using any forms of tobacco during your recovery.   All tobacco contains nicotine, which narrows the blood vessels, causing your blood pressure and heart rate to increase and damaging organs.   Your healthcare providers can help you quit if you find that you're not able to stay away from tobacco use on your own.</Content>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">f4s074</ResponseID>
+<BaseQuestion id="1">Restriction Reminder</BaseQuestion>
+</RQ>
+<RQ id="1">
+<ResponseID id="2">f4s084</ResponseID>
+<BaseQuestion id="2">Week after surgery - conclusion</BaseQuestion>
+</RQ>
+<RQ id="2">
+<ResponseID id="3">f4s024</ResponseID>
+<BaseQuestion id="3">You do use tobacco.</BaseQuestion>
+</RQ>
+<RQ id="3">
+<ResponseID id="4">f4s028</ResponseID>
+<BaseQuestion id="4">Summary of week before surgery</BaseQuestion>
+</RQ>
+<RQ id="4">
+<ResponseID id="5">f4s215</ResponseID>
+<BaseQuestion id="5">Does it really matter if I quit smoking before surgery? </BaseQuestion>
+</RQ>
+</RQs>
+</Response>
+<Response id="f4s061">
+<ResponseID id="0">f4s061</ResponseID>
+<BaseQuestion id="0">What is Coumadin?</BaseQuestion>
+<Content id="0">Coumadin is a blood thinner. It is given to valve surgery patients to prevent blood clots from forming on the valves. It takes a few days to establish the adequate amount of Coumadin in your system. If you have a tissue valve surgery, you usually stay on Coumadin for at least a few months after surgery. If you have a mechanical valve you need to stay on Coumadin for the rest of your life.</Content>
+</Response>
+<Response id="f4s062">
+<ResponseID id="0">f4s062</ResponseID>
+<BaseQuestion id="0">Written instructions</BaseQuestion>
+<Content id="0">I know we've given you a lot to remember. You may be nervous about keeping it all straight, but keep in mind that you can open this program any time you have a question or want to review a section. And before you're discharged from the hospital, a nurse will sit down with you and go over all your discharge instructions, write them down for you, and answer any questions you may have about them. For good measure, your discharge instructions are posted in your room in the CTICU as well, so you and your family members can look at them before you go home, and you can always find them in the Resources area.</Content>
+</Response>
+<Response id="f4s063">
+<ResponseID id="0">f4s063</ResponseID>
+<BaseQuestion id="0">Follow up visits</BaseQuestion>
+<Content id="0">Your healthcare team will be following up to make sure you're recovering well after your surgery. One week after discharge, you'll see the physician assistant.
+
+At this appointment, the physician assistant looks at your incision and makes sure everything's healing properly. The PA will take your blood pressure and answer any questions you have. Call the number in the Resources area to make your appointment.
+
+In two weeks, you'll see your cardiologist, and if you're able to, you may see your Primary Care Physician or PCP two weeks after you're discharged as well.
+
+In one month, you are going to see your surgeon for your final follow-up visit.
+
+Also, if you are on Coumadin following a valve operation, you are going to have blood work about 3 times a week for the first couple of weeks until your doctor feels that you're on the proper dose. After your dose is set, you will have blood work monthly. A nurse will come to your home the first week to get your blood sample. After that you will need transportation to either the hospital Coumadin clinic or a laboratory close to you. Your test results are forwarded automatically to your cardiologist.</Content>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">f4s226</ResponseID>
+<BaseQuestion id="1">What does a PA do after surgery?</BaseQuestion>
+</RQ>
+</RQs>
+</Response>
+<Response id="f4s064">
+<ResponseID id="0">f4s064</ResponseID>
+<BaseQuestion id="0">Sternal precautions</BaseQuestion>
+<Content id="0">After your open-heart surgery, your breastbone and incisions need to heal. Your surgeon uses strong closures on many layers of skin, muscle, and bone, and to insure that they knit together properly, you need to follow what are called sternal precautions. Following these precautions protects your chest and allows you to heal. So please do not hold your breath during activities, lift objects greater than 5 pounds or lift your arms above shoulder level without keeping your elbows close to your body.
+
+Also, do not push or pull with your arms when getting up or down from a chair or bed. This is one of the most common ways people re-injure their breastbone.
+
+Avoid any deep bending or twisting, do not use a cane or walker unless instructed by a therapist, do not repeat any activity if you feel a pulling or stretching in your chest and remember to brace your chest with a pillow when coughing and sneezing.
+
+Your doctor will tell you when you can return to normal activities without precautions.</Content>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">f4s220</ResponseID>
+<BaseQuestion id="1">The closures are more than just stitches</BaseQuestion>
+</RQ>
+</RQs>
+</Response>
+<Response id="f4s065">
+<ResponseID id="0">f4s065</ResponseID>
+<BaseQuestion id="0">Before and After Surgery Conclusion</BaseQuestion>
+<Content id="0">Thank you for spending time with us while we took you through what you need to know and do to be an informed, aware patient actively participating in having a better, faster recovery. It's a lot of material to wade through, I know, so let's go over the main points together:
+
+First, eat lightly the day before your surgery, and have nothing to eat or drink after midnight the night before.
+
+After surgery, you will wake up with a breathing tube down your throat, but try to stay calm and remember that the nurse is right there in the room with you, watching you carefully to make sure you are okay.
+
+Also, while you're in the hospital, you'll need to walk, and use your spirometer regularly. Follow the doctor's instructions for deep breathing and coughing exercises as well. These things are absolutely necessary for your recovery.
+
+You will be on a bowel regimen to get your bowels working again, and having a bowel movement is a requirement before you go home.
+
+Finally, your healthcare team will be doing everything they can to take care of you and help minimize your pain so that you can get moving on getting yourself strong and going home.
+
+That's it for now, but don't forget to open this program up after your surgery so that we can talk about that first week home. I also hope you'll come back any time you have questions or want to review any of the information we've talked about. Just use the menu on the left or type your own questions into the text box. And of course, if you don't find what you need to know here, you can always print out your questions for your healthcare team.  We're all pulling for you to be on the road to a good recovery, and we're happy to answer any questions you have about how to get there.
+
+Thanks again, and see you in part three, 1st Week Home From the Hospital!</Content>
+</Response>
+<Response id="f4s066">
+<ResponseID id="0">f4s066</ResponseID>
+<BaseQuestion id="0">Week after surgery - how are you doing?</BaseQuestion>
+<Content id="0">Hello, good to have you back! We'll be going over a few things to help the rest of your recovery go smoothly, but before we do that, tell me how are you doing?</Content>
+</Response>
+<Response id="f4s067">
+<ResponseID id="0">f4s067</ResponseID>
+<BaseQuestion id="0">I'm doing fine the week after surgery.</BaseQuestion>
+<Content id="0">Great. I'm glad to hear that you're doing well. A positive attitude definitely helps your recovery, but I want you to keep in mind that you've been through a major procedure, so you're likely to have some good days, and other, not-so-good days. Aside from the physical aftereffects of surgery such as pain and fatigue, you may also have lingering side effects from the anesthesia, hormones, and even some of the medications that you're taking. In this section, we'll talk about some of the things you should watch out for, when to call your doctor, and we'll also talk about daily activities to help keep you feeling good.</Content>
+</Response>
+<Response id="f4s068">
+<ResponseID id="0">f4s068</ResponseID>
+<BaseQuestion id="0">I'm not doing fine the week after surgery</BaseQuestion>
+<Content id="0">I'm sorry to hear you're not feeling well. You've been through a major procedure, and some days will be more difficult than others. Aside from the physical aftereffects of surgery such as pain and fatigue, you may also have lingering side effects from the anesthesia, hormones, and even some of the medications that you're taking. In this section, we'll talk about some of the things you should watch out for, when to call your doctor. We'll also talk about daily activities to help you start feeling better.</Content>
+</Response>
+<Response id="f4s069">
+<ResponseID id="0">f4s069</ResponseID>
+<BaseQuestion id="0">I'm just OK the week after surgery.</BaseQuestion>
+<Content id="0">You've been through a major procedure, and recovery takes some time. It's not surprising that you wouldn't feel at your best right now. Some days are more difficult than others, and bear in mind that aside from the physical aftereffects of surgery such as pain and fatigue, you may also have lingering side effects from the anesthesia, hormones, and even some of the medications that you're taking. In this section, we'll talk about some of the things you should watch out for, when to call your doctor. We'll also talk about daily activities to help you start feeling better.</Content>
+</Response>
+<Response id="f4s070">
+<ResponseID id="0">f4s070</ResponseID>
+<BaseQuestion id="0">Emotions</BaseQuestion>
+<Content id="0">Feeling down after open-heart surgery is fairly common--about a quarter of open-heart surgery patients have some depression afterwards. Everyone is an individual, and will react to a major surgical procedure like open heart differently, so it's not definite that you'll have mood swings, but they do happen. It may help to remind yourself that if you're feeling especially down after your surgery, it's a very normal reaction, and usually gets better in a couple of weeks. If, after a couple of weeks, you're still feeling the same way, talk with your doctor. If other areas of your life are worrying you and interfering with your recovery, call the social worker, whose contact information is in the resources area.</Content>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">f4s217</ResponseID>
+<BaseQuestion id="1">How common is it to experience depression after surgery, and what are some of the signs?</BaseQuestion>
+</RQ>
+</RQs>
+</Response>
+<Response id="f4s070a">
+<ResponseID id="0">f4s070a</ResponseID>
+<BaseQuestion id="0">Asking for help</BaseQuestion>
+<Content id="0">Remember, now of all times is the time when you must focus on yourself, rather than taking care of others. If you're used to being the caretaker, it can be hard to put yourself first, but that's exactly what you need to do.  You may have a hard time accepting 24-hour help the first week, too, and you may feel frustrated by the limitations on your activities, but you are laying the foundation for your post-surgery, healthy life, so accepting these temporary conditions and working with them now will prevent you from setting yourself back when you are impatient to go forward.
+
+Your family and friends will be eager to visit, and they can be great mood-lifters, but for the first week you're going to be tired, so you should limit how many of them visit you at a time to 2 or 3, and keep the length of their visits to a half hour. Ask your caregiver to run interference for you if you have a hard time saying no.  Above all, focus on getting the rest and gentle exercise you need for your recuperation.
+
+Now let's talk about the daily activities you can do to speed it along.</Content>
+</Response>
+<Response id="f4s072">
+<ResponseID id="0">f4s072</ResponseID>
+<BaseQuestion id="0">Daily activities</BaseQuestion>
+<Content id="0">The first week that you're home you should be doing some basic things every day.
+
+&#8226;Get a shower every day - remember, no tub baths, swimming or hot tubs for 6 weeks.
+&#8226;This is a good time to do a daily check of your incision in front of the mirror.
+&#8226;Check your incisions for any signs of infection (swelling, warmth, fever, redness, pain).
+&#8226;Weigh yourself daily - you need to contact the doctor if you gain more than 2 pounds in a day.
+&#8226;Balance rest with daily activity.
+&#8226;Rest with legs elevated four times daily, above the level of the heart.
+&#8226;Avoid sleeping during the day if you find that you are not sleeping at night.
+&#8226;Stay active.
+&#8226;Get up and get dressed every day.
+&#8226;And, remember good hand washing, especially before touching your incision.</Content>
+</Response>
+<Response id="f4s073">
+<ResponseID id="0">f4s073</ResponseID>
+<BaseQuestion id="0">Are you having issues performing these daily activities?</BaseQuestion>
+<Content id="0">All of these activities really are necessary to keep you on the road to recovery.  Your doctors need to know if you're not able to do all of these things every day.  So, if you are having trouble performing any of these daily activities, please contact your doctor.</Content>
+</Response>
+<Response id="f4s074">
+<ResponseID id="0">f4s074</ResponseID>
+<BaseQuestion id="0">Restriction Reminder</BaseQuestion>
+<Content id="0">I know I just told you to stay active, but you do need to remember the restrictions that we went over before.
+
+&#8226;Do not lift anything over 5 pounds.
+&#8226;No driving until cleared by your surgeon.
+&#8226;No pushing or pulling with your arms.
+&#8226;No lifting your arms above your head or behind your back.
+&#8226;And no sexual intercourse until cleared by your surgeon.
+
+Along with these restrictions, remember that if you have been in the habit of using tobacco before your surgery, you must stop using all forms of tobacco. As you know, smoking and other tobacco use is a major contributor to heart disease. All tobacco contains nicotine, which narrows the blood vessels, causing your blood pressure and heart rate to increase and damaging organs. Quitting all tobacco use will help your recovery and keep you from having to have more heart surgery and other health problems in the future. Your healthcare providers can help you quit if you find that you're not able to stay away from tobacco use on your own.</Content>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">f4s060</ResponseID>
+<BaseQuestion id="1">Tobacco after surgery</BaseQuestion>
+</RQ>
+<RQ id="1">
+<ResponseID id="2">f4s215</ResponseID>
+<BaseQuestion id="2">Does it really matter if I quit smoking before surgery? </BaseQuestion>
+</RQ>
+<RQ id="2">
+<ResponseID id="3">f4s024</ResponseID>
+<BaseQuestion id="3">You do use tobacco.</BaseQuestion>
+</RQ>
+<RQ id="3">
+<ResponseID id="4">f4s028</ResponseID>
+<BaseQuestion id="4">Summary of week before surgery</BaseQuestion>
+</RQ>
+<RQ id="4">
+<ResponseID id="5">f4s074</ResponseID>
+<BaseQuestion id="5">Restriction Reminder</BaseQuestion>
+</RQ>
+</RQs>
+</Response>
+<Response id="f4s075">
+<ResponseID id="0">f4s075</ResponseID>
+<BaseQuestion id="0">Are you keeping up with your spirometer?</BaseQuestion>
+<Content id="0">Also, you need to use your spirometer every day.  Remember that using your spirometer helps you heal and prevents problems like pneumonia.  Use your spirometer 10 times a day, 10 breaths each time.  Are you using the spirometer every day as directed?</Content>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">f4s124</ResponseID>
+<BaseQuestion id="1">How to use an incentive spirometer</BaseQuestion>
+</RQ>
+</RQs>
+</Response>
+<Response id="f4s076">
+<ResponseID id="0">f4s076</ResponseID>
+<BaseQuestion id="0">Yes I am keeping up with my spirometer.</BaseQuestion>
+<Content id="0">Wonderful.  Keep up the good work!</Content>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">f4s124</ResponseID>
+<BaseQuestion id="1">How to use an incentive spirometer</BaseQuestion>
+</RQ>
+</RQs>
+</Response>
+<Response id="f4s077">
+<ResponseID id="0">f4s077</ResponseID>
+<BaseQuestion id="0">No, I am not keeping up with my spirometer.</BaseQuestion>
+<Content id="0">While it may seem like a lot of work, using the spirometer is very important to your recovery. Not using the spirometer can lead to pneumonia and that would slow all the progress that you've made. If you are having trouble using the spirometer, look in the related questions area for a demonstration on spirometer use or contact your doctor.</Content>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">f4s124</ResponseID>
+<BaseQuestion id="1">How to use an incentive spirometer</BaseQuestion>
+</RQ>
+</RQs>
+</Response>
+<Response id="f4s078">
+<ResponseID id="0">f4s078</ResponseID>
+<BaseQuestion id="0">Call if any of these things happen</BaseQuestion>
+<Content id="0">As you recover at home, you and the person taking care of you should both be on alert for problems.
+
+If you have sudden chest pain not relieved by rest or pain medication, call 911.
+
+You should call your doctor if you experience any of the following:
+
+&#8226;There is worsening redness, swelling or drainage from your incisions.
+&#8226;You feel unstable breastbone-clicking or excessive movement.
+&#8226;You have leg pain and/or unusual swelling of legs or ankles.
+&#8226;You have chills and fever over 101 degrees by mouth.
+&#8226;You're coughing up blood.
+&#8226;You experience dizziness, confusion or fainting.
+&#8226;You have palpitations or fluttering of your heart.
+&#8226;You gain two pounds of weight or more in one day.
+&#8226;You have worsening shortness of breath.</Content>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">f4s080</ResponseID>
+<BaseQuestion id="1">Incision care</BaseQuestion>
+</RQ>
+</RQs>
+</Response>
+<Response id="f4s079">
+<ResponseID id="0">f4s079</ResponseID>
+<BaseQuestion id="0">Medicines and pain management</BaseQuestion>
+<Content id="0">Your discharge instruction sheet lists the medications that you should be taking.  It is important to follow all the instructions and take your medication on schedule.  If you had valve surgery, check with your doctor before taking ANY over-the-counter medications.
+
+
+You have a prescription for pain medication which you should use before activity and at bedtime.</Content>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">f4s264</ResponseID>
+<BaseQuestion id="1">Pain medications, addiction concerns and preventing pneumonia</BaseQuestion>
+</RQ>
+</RQs>
+</Response>
+<Response id="f4s080">
+<ResponseID id="0">f4s080</ResponseID>
+<BaseQuestion id="0">Incision care</BaseQuestion>
+<Content id="0">You may be concerned about your incision coming open. Your healthcare team is very experienced and has taken every step to make sure that it won't.
+
+Your incision has several lay  First, your sternum, or breastbone is wired so that the two halves of the bone will grow back together. Then there are three layers of stiches to keep your muscles and skin closed so that they can heal as well. As a final precaution, medical glue is used to hold the top layer of your skin closed. This glue will flake off on its own over time. Your incision is sturdy and as long as you follow the sternal precautions and restrictions that we talked about you should not have any problems with your incision.
+
+However, you should take good care of your incision so let's go over it in more detail.
+&#8226;Inspect your incision in the mirror every day and look for signs of infection. It is normal to have some redness, itching and soreness around your incision, but it should get a little better every day. If it becomes redder, or there is drainage or pus, call your doctor immediately.
+&#8226;Leave your incision open to air. Do not put bandages over your incision. Women may use gauze under their bra to prevent rubbing.
+&#8226;Wash your hands with soap and water before touching your incision.
+&#8226;Shower daily and wash your incision with mild soap and water. Avoid soaps with perfume because they can irritate your incisions.
+&#8226;Also, don't stand in the direct spray of the shower. Instead, stand with you back to the spray and let the water wash over your chest.
+&#8226;Pat your incision dry with a freshly laundered towel each day, do not reuse your towels.
+&#8226;Do not use any ointments, creams powders or lotions on your scar.
+&#8226;Do not take a tub bath, go swimming or use a hot tub or spa for 6 weeks.</Content>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">f4s078</ResponseID>
+<BaseQuestion id="1">Call if any of these things happen</BaseQuestion>
+</RQ>
+</RQs>
+</Response>
+<Response id="f4s082">
+<ResponseID id="0">f4s082</ResponseID>
+<BaseQuestion id="0">Diet</BaseQuestion>
+<Content id="0">Your appetite may decrease after surgery. This is normal and it will improve as you recover. You may feel a little nauseated from the medications, dehydration or simply the stress of surgery. Don't push yourself to eat. Listen to your body and you'll know what to eat and when. If you were on a special diet, such as a low salt diet, before surgery, ask your doctor if you should follow it during recovery. Be sure to follow any specific post-operative instructions from your surgeon, nurse or dietician.
+
+Now is the perfect time to make improvements in your diet to decrease the risk of future heart problems. While you are in the hospital a dietician will speak to you about your diet. There is also more information on diet in the Resources section.</Content>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">f4s046</ResponseID>
+<BaseQuestion id="1">Ice chips, water, and food</BaseQuestion>
+</RQ>
+<RQ id="1">
+<ResponseID id="2">f4s031</ResponseID>
+<BaseQuestion id="2">Eating and drinking on the night before surgery</BaseQuestion>
+</RQ>
+<RQ id="2">
+<ResponseID id="3">f4s203</ResponseID>
+<BaseQuestion id="3">Why can't I have anything to eat or drink after midnight?</BaseQuestion>
+</RQ>
+<RQ id="3">
+<ResponseID id="4">f4s204</ResponseID>
+<BaseQuestion id="4">What kind of meal should I have the night before surgery?</BaseQuestion>
+</RQ>
+<RQ id="4">
+<ResponseID id="5">f4s083</ResponseID>
+<BaseQuestion id="5">Exercise</BaseQuestion>
+</RQ>
+</RQs>
+</Response>
+<Response id="f4s083">
+<ResponseID id="0">f4s083</ResponseID>
+<BaseQuestion id="0">Exercise</BaseQuestion>
+<Content id="0">During your first week home from the hospital, you should be walking around your house or yard 5 to 10 minutes 4 times a day.  You can go up and down stairs if you're able, but try to take as few trips up and down as you can and take the stairs slowly.  Talk to your doctor about an exercise plan to maintain your heart health once you are cleared for more physical activity by your surgeon.</Content>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">f4s082</ResponseID>
+<BaseQuestion id="1">Diet</BaseQuestion>
+</RQ>
+<RQ id="1">
+<ResponseID id="2">f4s084</ResponseID>
+<BaseQuestion id="2">Week after surgery - conclusion</BaseQuestion>
+</RQ>
+</RQs>
+</Response>
+<Response id="f4s084">
+<ResponseID id="0">f4s084</ResponseID>
+<BaseQuestion id="0">Week after surgery - conclusion</BaseQuestion>
+<Content id="0">Thanks for allowing me to accompany you on this journey. You have come through one of the most remarkable experiences a human being can undergo, and we have reached the end of the Fit For Surgery program, but only the beginning of what I hope will be your active involvement in your newly healthy life. But before I say good bye, I have a few important reminders for you:
+
+&#8226;Don't forget to use your sternal precautions to protect that healing breastbone.
+
+&#8226;Check your incision every day.
+
+&#8226;Keep up with your spirometer.
+
+
+And this is the perfect time to make healthy changes, so go ahead and make a commitment to stop smoking! If trying to stay tobacco-free is giving you a rough time, call your healthcare provider to help you quit. We love to see our post-Open Heart people doing well, and we want you to experience all the benefits of being able to call yourself a non-smoker.
+
+You've already come quite a distance on this road to improve your health, and I'm proud to have been able to share it with you as part of this program. This isn't entirely good-bye, because if you have any questions you want answered or further information you want to know, just click on the menu on the left, or type your questions in the text box.
+
+And don't forget to check out the Resources Area for help in taking the next steps in your journey, maintaining your heart health.
+
+Take good care, and very best wishes from all of us at Fit for Surgery and Allegheny Health Network for a happy and healthy life!</Content>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">f4s074</ResponseID>
+<BaseQuestion id="1">Restriction Reminder</BaseQuestion>
+</RQ>
+<RQ id="1">
+<ResponseID id="2">f4s216</ResponseID>
+<BaseQuestion id="2">How long will it take for my breastbone to knit?</BaseQuestion>
+</RQ>
+<RQ id="2">
+<ResponseID id="3">f4s024</ResponseID>
+<BaseQuestion id="3">You do use tobacco.</BaseQuestion>
+</RQ>
+<RQ id="3">
+<ResponseID id="4">f4s028</ResponseID>
+<BaseQuestion id="4">Summary of week before surgery</BaseQuestion>
+</RQ>
+<RQ id="4">
+<ResponseID id="5">f4s215</ResponseID>
+<BaseQuestion id="5">Does it really matter if I quit smoking before surgery? </BaseQuestion>
+</RQ>
+<RQ id="5">
+<ResponseID id="6">f4s060</ResponseID>
+<BaseQuestion id="6">Tobacco after surgery</BaseQuestion>
+</RQ>
+</RQs>
+</Response>
+<Response id="f4s085">
+<ResponseID id="0">f4s085</ResponseID>
+<BaseQuestion id="0">What is angina?</BaseQuestion>
+<Content id="0">Angina is pain caused by the heart muscle not receiving enough blood. When the heart pulses to push clean, oxygenated blood out to the rest of the body, a small amount of blood is diverted directly to the heart muscle. If this blood supply is compromised due to heart disease in the coronary arteries -- the main arteries that lead directly to the heart muscle -- angina can occur. Muscle spasms of the heart may alone be responsible for angina, but is a quite rare.</Content>
+</Response>
+<Response id="f4s086">
+<ResponseID id="0">f4s086</ResponseID>
+<BaseQuestion id="0">What is a heart attack?</BaseQuestion>
+<Content id="0">A heart attack occurs when blood flow to a part of your heart is blocked for a long enough time that part of the heart muscle is damaged or dies. This also called a myocardial infarction. Most heart attacks are caused by a blood clot that blocks one of the coronary arteries. The coronary arteries bring blood and oxygen to the heart. If the blood flow is blocked, the heart is starved of oxygen and heart cells die. A heart attack may also occur if not enough oxygen-rich blood can flow through a partial blockage. This is more likely to happen when your body is stressed by physical demands or emotions, however most often occur from midnight to 10 AM without exertion.</Content>
+</Response>
+<Response id="f4s087">
+<ResponseID id="0">f4s087</ResponseID>
+<BaseQuestion id="0">What are symptoms of a heart attack?</BaseQuestion>
+<Content id="0">What are the symptoms of a heart attack?
+
+The symptoms of a heart attack include:
+&#8226;Chest pain or discomfort (like pressure, fullness or squeezing)
+&#8226;Discomfort in the upper body (either arm, back, neck, jaw or stomach)
+&#8226;Shortness of breath
+&#8226;Cold sweats
+&#8226;Nausea
+&#8226;Sudden or extreme fatigue not related to lack of sleep.
+
+These symptoms can come and go, and they can be different in each person. Women more often experience different symptoms than men. The reason that heart attack symptoms are sometime hard to diagnose is because the heart itself does not feel pain. The symptoms of heart attack are due to the nerves leading from the heart causing other nerves to short circuit, leading to pain, nausea, cold sweat and other symptoms. However, sometimes you may not have any pain at all, which is why people sometimes have no idea that they are experiencing a heart attack. This is one reason why it is so important to have your heart checked out and to assess your risk factors for heart disease. If you experience any symptoms, please seek help immediately.</Content>
+</Response>
+<Response id="f4s088">
+<ResponseID id="0">f4s088</ResponseID>
+<BaseQuestion id="0">What does angina feel like?</BaseQuestion>
+<Content id="0">Angina is often described as "chest pain" but this can be misleading. Angina is not always painful, and it isn't always felt in the chest. Angina might feel like this:
+
+&#8226;Discomfort, aching, tightness or pressure that comes and goes.  You may feel this in your chest, back, abdomen, arm, shoulder, neck or jaw.
+&#8226;More fatigue than usual for no clear reason.
+&#8226;Shortness of breath while doing something that used to be easy.
+&#8226;Heartburn, indigestion, nausea, or sweating.</Content>
+</Response>
+<Response id="f4s089">
+<ResponseID id="0">f4s089</ResponseID>
+<BaseQuestion id="0">When does angina happen?</BaseQuestion>
+<Content id="0">Angina usually happens during activity.  It can also occur when you're upset or after a large meal.  If angina starts occurring more frequently, lasts longer or causes more discomfort, you may have unstable angina.  It's a sign that your heart problem may be getting worse.</Content>
+</Response>
+<Response id="f4s090">
+<ResponseID id="0">f4s090</ResponseID>
+<BaseQuestion id="0">What is high blood pressure?</BaseQuestion>
+<Content id="0">Blood pressure is the force of blood pushing against the walls of the arteries as the heart pumps blood. If this pressure rises and stays high over time, it is called high blood pressure or hypertension and it can damage the body in many ways. High blood pressure leads to heart disease, heart failure, stroke, kidney failure, and other health problems. About 1 in 3 adults in the United States has HBP. Knowing your blood pressure numbers is important, even when you're feeling good. Blood pressure is measured as systolic, or contracting, and diastolic, or releasing and filling, pressures. You most often will see blood pressure numbers written with the systolic number above or before the diastolic number, such as 120/80. Both systolic and diastolic blood pressure measures are important.</Content>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">f4s110</ResponseID>
+<BaseQuestion id="1">What is systolic pressure?</BaseQuestion>
+</RQ>
+<RQ id="1">
+<ResponseID id="2">f4s107</ResponseID>
+<BaseQuestion id="2">What is diastolic pressure?</BaseQuestion>
+</RQ>
+</RQs>
+</Response>
+<Response id="f4s091">
+<ResponseID id="0">f4s091</ResponseID>
+<BaseQuestion id="0">What is arrhythmia?</BaseQuestion>
+<Content id="0">An arrhythmia is an irregularity with the rate or rhythm of the heartbeat. During an arrhythmia, the heart can beat too fast, too slow, or with an irregular rhythm. A heartbeat that is too fast, greater than 100 beats per minute, is called tachycardia. A heartbeat that is too slow, less than 60 beats per minute, is called bradycardia. Most arrhythmias are harmless, but some can be serious or even life threatening. During an arrhythmia, the heart may not be able to pump enough blood to the body. Lack of blood flow can damage the brain, heart, and other organs. Arrhythmias can be genetic, or be caused by other illnesses such as thyroid disease. It's important to note that every heart experiences arrhythmia every day, usually a very small percentage of the 100,000 beats per day in normal hearts, and most often it goes away.</Content>
+</Response>
+<Response id="f4s092">
+<ResponseID id="0">f4s092</ResponseID>
+<BaseQuestion id="0">What is plaque?</BaseQuestion>
+<Content id="0">Plaque that accumulates on the inner walls of your arteries is made from the calcium, fat, cholesterol, cellular waste, and fibrin in your blood. As this plaque builds up, cells in your artery walls secrete other substances that can increase the build-up even more. And, as plaque deposits grow, the arteries narrow and harden, this is called atherosclerosis.</Content>
+</Response>
+<Response id="f4s093">
+<ResponseID id="0">f4s093</ResponseID>
+<BaseQuestion id="0">What is a stroke?</BaseQuestion>
+<Content id="0">A stroke happens when blood flow to a part of the brain stops. This can be caused either by blockage of a vein or artery leading to the brain by a blood clot called ischemic stroke, or by rupture of a blood vessel, called a hemorrhagic stroke. If blood flow to the brain is stopped for longer than a few seconds it deprives the cells of blood and oxygen causing cell death and permanent damage.</Content>
+</Response>
+<Response id="f4s094">
+<ResponseID id="0">f4s094</ResponseID>
+<BaseQuestion id="0">What is stenosis?</BaseQuestion>
+<Content id="0">Stenosis is the abnormal narrowing of a blood vessel, such as an artery or a valve, and can be caused by atherosclerosis and other heart disease including calcium buildup or it may be congenital.</Content>
+</Response>
+<Response id="f4s095">
+<ResponseID id="0">f4s095</ResponseID>
+<BaseQuestion id="0">What is an angiogram?</BaseQuestion>
+<Content id="0">An angiogram is a special X-ray of a blood vessel.</Content>
+</Response>
+<Response id="f4s096">
+<ResponseID id="0">f4s096</ResponseID>
+<BaseQuestion id="0">What is the aorta?</BaseQuestion>
+<Content id="0">The aorta is the body's largest artery.  It carries blood from the heart to the rest of the body.</Content>
+</Response>
+<Response id="f4s097">
+<ResponseID id="0">f4s097</ResponseID>
+<BaseQuestion id="0">What is an artery?</BaseQuestion>
+<Content id="0">An artery is a blood vessel that carried blood from the heart to the body.</Content>
+</Response>
+<Response id="f4s098">
+<ResponseID id="0">f4s098</ResponseID>
+<BaseQuestion id="0">What is atria or atrium?</BaseQuestion>
+<Content id="0">The atria are the heart's two upper chambers.  They receive blood from the lungs and body.</Content>
+</Response>
+<Response id="f4s099">
+<ResponseID id="0">f4s099</ResponseID>
+<BaseQuestion id="0">What is a balloon angioplasty?</BaseQuestion>
+<Content id="0">A balloon angioplasty is a procedure that uses a balloon-tipped catheter to open an artery narrowed or blocked by plaque.</Content>
+</Response>
+<Response id="f4s100">
+<ResponseID id="0">f4s100</ResponseID>
+<BaseQuestion id="0">What is blood serum cholesterol?</BaseQuestion>
+<Content id="0">Blood serum cholesterol is a fatty substance produced by the body and carried in the blood.  It can build up within artery walls as plaque.</Content>
+</Response>
+<Response id="f4s101">
+<ResponseID id="0">f4s101</ResponseID>
+<BaseQuestion id="0">What are blood vessels?</BaseQuestion>
+<Content id="0">Blood vessels are tubes that carry blood throughout the body.  Arteries and veins are blood vessels.  Bypass provides a new pathway for blood flow.</Content>
+</Response>
+<Response id="f4s102">
+<ResponseID id="0">f4s102</ResponseID>
+<BaseQuestion id="0">What is CABG (cabbage)?</BaseQuestion>
+<Content id="0">CABG is another term for coronary artery bypass graft surgery.</Content>
+</Response>
+<Response id="f4s103">
+<ResponseID id="0">f4s103</ResponseID>
+<BaseQuestion id="0">What is cardiomyopathy?</BaseQuestion>
+<Content id="0">Cardiomyopathy is the weakening of or structural change in the heart muscle that reduces the heart's ability to pump.</Content>
+</Response>
+<Response id="f4s104">
+<ResponseID id="0">f4s104</ResponseID>
+<BaseQuestion id="0">What is a catheter?</BaseQuestion>
+<Content id="0">A catheter is a long thin flexible plastic tube.</Content>
+</Response>
+<Response id="f4s105">
+<ResponseID id="0">f4s105</ResponseID>
+<BaseQuestion id="0">What are coronary arteries?</BaseQuestion>
+<Content id="0">Coronary arteries are blood vessels that wrap around the heart and supply the heart muscle with oxygen-rich blood.</Content>
+</Response>
+<Response id="f4s106">
+<ResponseID id="0">f4s106</ResponseID>
+<BaseQuestion id="0">What is coronary artery disease?</BaseQuestion>
+<Content id="0">Coronary artery disease or CAD is a narrowing of the small blood vessels that supply blood and oxygen to the heart. It is often called coronary heart disease. The coronary arteries bring blood and oxygen to your heart. Over time fatty materials like cholesterol and other substances form a plaque build-up on the walls of the arteries. This buildup causes the arteries to become narrower. As a result, blood flow to the heart can slow down or stop. This can damage the heart muscle and other organs as well. CTA can identify these plaques even before they calcify.</Content>
+</Response>
+<Response id="f4s107">
+<ResponseID id="0">f4s107</ResponseID>
+<BaseQuestion id="0">What is diastolic pressure?</BaseQuestion>
+<Content id="0">Diastolic pressure is the pressure of blood between heartbeats.  It appears as the bottom number in a blood pressure measurement.</Content>
+</Response>
+<Response id="f4s108">
+<ResponseID id="0">f4s108</ResponseID>
+<BaseQuestion id="0">What is myocardial infarction?</BaseQuestion>
+<Content id="0">A myocardial infarction is the death of heart muscle tissue.  It is also known as a heart attack.</Content>
+</Response>
+<Response id="f4s109">
+<ResponseID id="0">f4s109</ResponseID>
+<BaseQuestion id="0">What is a pulmonary artery?</BaseQuestion>
+<Content id="0">The pulmonary artery is the large artery that carries blood from the heart to the lungs to get oxygen.</Content>
+</Response>
+<Response id="f4s110">
+<ResponseID id="0">f4s110</ResponseID>
+<BaseQuestion id="0">What is systolic pressure?</BaseQuestion>
+<Content id="0">Systolic pressure is the pressure of the blood against the inside of artery walls during a heartbeat, when the heart pumps.  It appears as the top number in a blood pressure measurement.</Content>
+</Response>
+<Response id="f4s111">
+<ResponseID id="0">f4s111</ResponseID>
+<BaseQuestion id="0">What is an ultrasound?</BaseQuestion>
+<Content id="0">An ultrasound is a test that uses sound waves to create images of structures inside the body.</Content>
+</Response>
+<Response id="f4s112">
+<ResponseID id="0">f4s112</ResponseID>
+<BaseQuestion id="0">What are valves?</BaseQuestion>
+<Content id="0">Valves are doorways that open and close to let blood move are prevent backflow of blood.  There are valves between the hearts chambers.</Content>
+</Response>
+<Response id="f4s113">
+<ResponseID id="0">f4s113</ResponseID>
+<BaseQuestion id="0">What is a vein?</BaseQuestion>
+<Content id="0">A vein is a blood vessel that carries blood from the body back to the heart.</Content>
+</Response>
+<Response id="f4s114">
+<ResponseID id="0">f4s114</ResponseID>
+<BaseQuestion id="0">What are ventricles?</BaseQuestion>
+<Content id="0">Ventricles are the heart's two lower chambers.  They pump blood to the body and lungs.</Content>
+</Response>
+<Response id="f4s115">
+<ResponseID id="0">f4s115</ResponseID>
+<BaseQuestion id="0">What is an echocardiogram?</BaseQuestion>
+<Content id="0">An echocardiogram produces an image of your heart, but it does so with sound waves; no radiation exposure is required. This commonly used test allows your doctor to see how your heart is beating and pumping blood.</Content>
+</Response>
+<Response id="f4s116">
+<ResponseID id="0">f4s116</ResponseID>
+<BaseQuestion id="0">What is vein mapping of legs?</BaseQuestion>
+<Content id="0">If you're having bypass surgery, you will need an ultrasound of the greater saphenous vein in your leg. This procedure is performed to create a "map" of your leg veins for the surgeon.  The greater saphenous vein is one of the veins that will be used to bypass the blockages in the arteries leading to your heart, and doctors need to know where the vein is located.</Content>
+</Response>
+<Response id="f4s117">
+<ResponseID id="0">f4s117</ResponseID>
+<BaseQuestion id="0">What are pulmonary function tests?</BaseQuestion>
+<Content id="0">Pulmonary function tests are a group of tests that measure how well your lungs work. This includes how well you are able to breathe and how well your lungs are able to supply oxygen to the rest of your body.  The pulmonary function test will be done bedside before you go into surgery.</Content>
+</Response>
+<Response id="f4s118">
+<ResponseID id="0">f4s118</ResponseID>
+<BaseQuestion id="0">What is an EKG?</BaseQuestion>
+<Content id="0">An electrocardiogram (or EKG) is a test that checks for problems with the electrical activity of your heart. Your body's natural electrical system is what signals the heart muscle to contract and pump blood from the heart to the lungs and the rest of the body. An EKG produces a picture of the heart's electrical activity. This picture of the heart's electrical activity can tell us how the heart rhythm is functioning.</Content>
+</Response>
+<Response id="f4s119">
+<ResponseID id="0">f4s119</ResponseID>
+<BaseQuestion id="0">What is a urine test?</BaseQuestion>
+<Content id="0">A urine test is done to make sure you don't have any infections in your bladder or urinary tract. Hidden infections such as these can cause complications after surgery.  If you're having bypass surgery you will provide a sample by urinating into a specimen cup.  However, if you're having valve surgery, a clean urine sample is needed.  That means that a nurse or trained technician will need to do a straight cath, or catheter.</Content>
+</Response>
+<Response id="f4s120">
+<ResponseID id="0">f4s120</ResponseID>
+<BaseQuestion id="0">What is a blood test?</BaseQuestion>
+<Content id="0">You've probably had blood drawn before.  Even though you may have had blood work done recently, there are blood tests that need to be done closer to your surgery.  Before cardiac surgery your blood is drawn to check your blood sugar and kidney function.</Content>
+</Response>
+<Response id="f4s121">
+<ResponseID id="0">f4s121</ResponseID>
+<BaseQuestion id="0">What is a chest x-ray?</BaseQuestion>
+<Content id="0">A chest X-ray uses a very small amount of radiation to produce an image of the heart, lungs, and chest bones. With an x-ray, doctors can see the structures of the chest and look at where devices such as pacemakers and defibrillators are placed. They can also diagnose lung and cardiac disease. To have a chest x-ray taken, you will be asked to stand very still with your chest against the area that contains the film plate. The x-ray machine will then send a beam of ionizing radiation through your chest which is absorbed on film to create a picture. You will be asked to hold your breath for a few seconds to generate better images by reducing motion. Then you will be asked to do the same thing, but with your left side against the film plate and your arms elevated.</Content>
+</Response>
+<Response id="f4s122">
+<ResponseID id="0">f4s122</ResponseID>
+<BaseQuestion id="0">What is a carotid artery Doppler study?</BaseQuestion>
+<Content id="0">A carotid artery Doppler study is a painless test which shows whether your carotid arteries, the arteries in your neck, are blocked by plaque.  If there are blockages in your carotid arteries there is a greater risk of stroke during your surgery.  This test involves putting a small amount of gel on your neck and rolling a wand, called a transducer, over the arteries.</Content>
+</Response>
+<Response id="f4s123">
+<ResponseID id="0">f4s123</ResponseID>
+<BaseQuestion id="0">Cardiac rehab</BaseQuestion>
+<Content id="0">Knowing that you have a heart problem you may wonder how you can improve your health.  Cardiac rehabilitation or cardiac rehab is a program designed by your healthcare team that not only helps you recover, but also reduces your risk for future heart problems.
+
+
+Your cardiac rehab program may begin while you're in the hospital.  After you're discharged you may go to a special facility for scheduled rehab classes.  Once you regain some strength and learn how to exercise safely, your doctor may prescribe an exercise program for you to follow at a fitness center or at home.</Content>
+</Response>
+<Response id="f4s124">
+<ResponseID id="0">f4s124</ResponseID>
+<BaseQuestion id="0">How to use an incentive spirometer</BaseQuestion>
+<Content id="0">The location of your incision makes it hard to take deep breaths. So you will use an incentive spirometer for your deep breathing exercises. This device will enable you to take those very important deeper breaths. You need to use the spirometer every hour, each time taking 10 deep breaths. It may hurt at first, but with adequate pain medication, you will be able to make progress each time you use it.
+
+This is how it works.
+&#8226;You place your mouth over the mouthpiece of the unit.
+&#8226;Then take a slow, deep breath in.
+&#8226;Hold that breath.
+&#8226;Then slowly release the breath out.</Content>
+</Response>
+<Response id="f4s126">
+<ResponseID id="0">f4s126</ResponseID>
+<BaseQuestion id="0">What is endocarditis?</BaseQuestion>
+<Content id="0">After open heart surgery, especially valve surgery, you are at increased risk for a condition called Endocarditis.  This is an infection in the heart that can travel to other parts of the body and cause a wide variety of very serious problems.  Because of this, you should not get body piercings or tattoos after you have had open heart surgery.</Content>
+</Response>
+<Response id="f4s200">
+<ResponseID id="0">f4s200</ResponseID>
+<BaseQuestion id="0">What's the role of a Physician Assistant?</BaseQuestion>
+<Content id="0">The role of a physician assistant (or PA), especially in cardiac surgery, is just an extension of the surgeon. We're a very important part of the surgical team, itself. You'll see us before and after surgery; we'll be involved in your care the whole way along. We also are involved in the operating room. We assist the surgeon in surgery: we also have certain parts of the surgery that we do ourselves. We can write you prescriptions and answer all of your questions before and after surgery and any time in between.</Content>
+</Response>
+<Response id="f4s201">
+<ResponseID id="0">f4s201</ResponseID>
+<BaseQuestion id="0">The importance of showering with Chlorhexidine</BaseQuestion>
+<Content id="0">The chlorhexidine that you're going to be given before surgery is an important part of the routine prior to surgery. It's basically just like an anti-bacterial soap like Dial but a little bit stronger. There are important instructions that you are going to need to read when you get the bottle from the pharmacy. You'll be given a script for it; you're going to take that to your pharmacy, and I want you to read all of the instructions because they're very important. When you use the chlorhexidine, you need to get into the shower and get wet. You need to scrub from your chin down, everywhere, and you're going to scrub for five minutes--you're going to have the water turned off at that point. After you scrub for five minutes, you're going to turn the water back on, and you need to rinse off completely. We don't want any soapy residue on you anymore. But it's a very important part because it helps prevent a bacteria load on your skin prior to surgery where we're going to be cutting.</Content>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">f4s032</ResponseID>
+<BaseQuestion id="1">Showering and bathing before surgery</BaseQuestion>
+</RQ>
+<RQ id="1">
+<ResponseID id="2">f4s202</ResponseID>
+<BaseQuestion id="2">MRSA infection</BaseQuestion>
+</RQ>
+</RQs>
+</Response>
+<Response id="f4s202">
+<ResponseID id="0">f4s202</ResponseID>
+<BaseQuestion id="0">MRSA infection</BaseQuestion>
+<Content id="0">MRSA is called a "Methicillin-resistant Staphylococcus aureus." We all have bacteria on our skin, and we all typically have a staph aureus on our skin. But MRSA is a resistant bacteria, and it's resistant to the typical antibiotics that treat staph. It's a very risky infection if you do get it. Some of the reasons why we give you the chlorhexidine (and you'll later hear about mupirocin) is to try and prevent MRSA infections specifically.</Content>
+</Response>
+<Response id="f4s203">
+<ResponseID id="0">f4s203</ResponseID>
+<BaseQuestion id="0">Why can't I have anything to eat or drink after midnight?</BaseQuestion>
+<Content id="0">We don't like you to eat or drink anything after midnight before surgery because if food or drink is in your stomach or in your intestines there's a risk it could come back once the anesthesia is given--it could come back up the wrong way and get into your lungs or cause other types of problems. So we like to make sure that everything is empty before any medication is given, especially if you're going to be in such a deep sleep for surgery.</Content>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">f4s031</ResponseID>
+<BaseQuestion id="1">Eating and drinking on the night before surgery</BaseQuestion>
+</RQ>
+<RQ id="1">
+<ResponseID id="2">f4s204</ResponseID>
+<BaseQuestion id="2">What kind of meal should I have the night before surgery?</BaseQuestion>
+</RQ>
+<RQ id="2">
+<ResponseID id="3">f4s046</ResponseID>
+<BaseQuestion id="3">Ice chips, water, and food</BaseQuestion>
+</RQ>
+<RQ id="3">
+<ResponseID id="4">f4s082</ResponseID>
+<BaseQuestion id="4">Diet</BaseQuestion>
+</RQ>
+</RQs>
+</Response>
+<Response id="f4s204">
+<ResponseID id="0">f4s204</ResponseID>
+<BaseQuestion id="0">What kind of meal should I have the night before surgery?</BaseQuestion>
+<Content id="0">The day before surgery, we don't want you to have anything very heavy: no steaks or meats. You can eat things like soup, light meals. And that's very important because the anesthesia you're going to be given with surgery slows down your gut motility in your intestines and can increase your issues with things like constipation after surgery and not having a bowel movement which can cause serious issues.</Content>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">f4s031</ResponseID>
+<BaseQuestion id="1">Eating and drinking on the night before surgery</BaseQuestion>
+</RQ>
+<RQ id="1">
+<ResponseID id="2">f4s203</ResponseID>
+<BaseQuestion id="2">Why can't I have anything to eat or drink after midnight?</BaseQuestion>
+</RQ>
+<RQ id="2">
+<ResponseID id="3">f4s046</ResponseID>
+<BaseQuestion id="3">Ice chips, water, and food</BaseQuestion>
+</RQ>
+<RQ id="3">
+<ResponseID id="4">f4s082</ResponseID>
+<BaseQuestion id="4">Diet</BaseQuestion>
+</RQ>
+</RQs>
+</Response>
+<Response id="f4s213">
+<ResponseID id="0">f4s213</ResponseID>
+<BaseQuestion id="0">What is most important thing I can do before surgery?</BaseQuestion>
+<Content id="0">The most important thing I tell my patients before surgery is to just try to relax. I know that there's a lot of anxiety with having a major surgery, especially open heart surgery, but it's very important to try and relax, enjoy your time with your family the day before, and that's really going to help you get through the surgery well and will help your chances for recovery afterwards. If you need anything to help you, you can always call one of the physician assistants or surgeons, and we can prescribe a medication if you're having tremendous anxiety prior to surgery.
+
+</Content>
+</Response>
+<Response id="f4s215">
+<ResponseID id="0">f4s215</ResponseID>
+<BaseQuestion id="0">Does it really matter if I quit smoking before surgery? </BaseQuestion>
+<Content id="0">If you quit smoking before surgery, it really will have an impact on your overall hospital course and how quickly you will recover. A lot of studies have shown that if you quit for as little as ten days before surgery, you do a lot better than if you smoke up until the day of surgery.</Content>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">f4s024</ResponseID>
+<BaseQuestion id="1">You do use tobacco.</BaseQuestion>
+</RQ>
+<RQ id="1">
+<ResponseID id="2">f4s028</ResponseID>
+<BaseQuestion id="2">Summary of week before surgery</BaseQuestion>
+</RQ>
+<RQ id="2">
+<ResponseID id="3">f4s060</ResponseID>
+<BaseQuestion id="3">Tobacco after surgery</BaseQuestion>
+</RQ>
+<RQ id="3">
+<ResponseID id="4">f4s074</ResponseID>
+<BaseQuestion id="4">Restriction Reminder</BaseQuestion>
+</RQ>
+<RQ id="4">
+<ResponseID id="5">f4s084</ResponseID>
+<BaseQuestion id="5">Week after surgery - conclusion</BaseQuestion>
+</RQ>
+</RQs>
+</Response>
+<Response id="f4s216">
+<ResponseID id="0">f4s216</ResponseID>
+<BaseQuestion id="0">How long will it take for my breastbone to knit?</BaseQuestion>
+<Content id="0">After surgery, we have to cut your breastbone to get to your heart during surgery. Afterwards, we put wires in around your breastbone. It's like any other broken bone except we can't cast it, so we put wires in to help heal it. Your bone starts to gain about 75% to 100% of its strength back by about six weeks after surgery, and it should be 100% strong by about two months after surgery. Okay, with open heart surgery you're going to have an incision down the front part of your chest. It will be a fairly long incision, but it's going to heal nicely. Usually the incision heals within about two months of surgery and will continue to heal after that, and you will just notice a white line afterwards. You've probably seen people who have had open heart surgery that have incisions like that, and you will have the same kind of incision.</Content>
+</Response>
+<Response id="f4s217">
+<ResponseID id="0">f4s217</ResponseID>
+<BaseQuestion id="0">How common is it to experience depression after surgery, and what are some of the signs?</BaseQuestion>
+<Content id="0">After surgery, you might feel at times that you're sad or tearful or having symptoms of depression. About 25% of open heart surgery patients actually experience that, so it's fairly common and is nothing to be ashamed of. You need to tell someone right away when you start to feel signs like that--when you're very, very sad or you feel hopeless because we can start you on a medication that takes some time to actually take effect--but we can start you on a medication for that if you like. Or we can get you some counseling help or reassure you that the feelings you have are normal.</Content>
+</Response>
+<Response id="f4s219">
+<ResponseID id="0">f4s219</ResponseID>
+<BaseQuestion id="0">The anesthetist is present and monitoring during surgery</BaseQuestion>
+<Content id="0">You will see an anesthesiologist before your surgery, typically the morning that you come in for surgery. You're going to see a lot of different people; you will see a nurse, and then you'll be able to see the nurse anesthetist as well as the anesthesiologist who will talk to you about putting you to sleep for the surgery.</Content>
+</Response>
+<Response id="f4s220">
+<ResponseID id="0">f4s220</ResponseID>
+<BaseQuestion id="0">The closures are more than just stitches</BaseQuestion>
+<Content id="0">With open heart surgery, the way that we have to get to your heart is that we have to make a cut down the center of your chest. We do cut through your breastbone, which is the bone in front of your heart, to get to the heart to do the operation. We put stainless steel wires around your breastbone to bring it back together after surgery. You will have three layers of stitches on top of that. You will also have a skin glue or a skin sealant just as an added protection.</Content>
+</Response>
+<Response id="f4s225">
+<ResponseID id="0">f4s225</ResponseID>
+<BaseQuestion id="0">What are the most common causes of post op sternal problems?</BaseQuestion>
+<Content id="0">So, after surgery, in order to protect your breastbone we want to make sure you don't push yourself out of a chair. A lot of times after surgery, you're feeling really weak, you may try to put your arms on the chair and push yourself up which is bad because it puts a lot of tension on the breastbone. Rather, it would be best if you just rock forward, maybe a couple of times, and eventually you'll have enough momentum to be able to stand up on your own.</Content>
+</Response>
+<Response id="f4s226">
+<ResponseID id="0">f4s226</ResponseID>
+<BaseQuestion id="0">What does a PA do after surgery?</BaseQuestion>
+<Content id="0">After surgery you're going to see a physician assistant every day. We're going to be pulling drains and lines, we will answer all of your questions, if you need any prescriptions filled or refilled we can fill those for you and write them, we can fill out any disability paper for you, and one of the most important visits you're going to have after surgery when you leave the hospital is the one-week appointment with one of the physician assistants.</Content>
+</Response>
+<Response id="f4s237">
+<ResponseID id="0">f4s237</ResponseID>
+<BaseQuestion id="0">Are there any side effects from anesthesia? If so, what should I expect?</BaseQuestion>
+<Content id="0">Everyone acts differently to anesthesia. It's hard to pinpoint how someone is going to wake up from anesthesia and any lingering effects afterwards. Some people wake up very calmly and do not have any problems with that time frame.
+
+Some people wake up like a bear, kind of moving their arms around knowing that something is different. The nurse is with you here the whole time to reassure you, calm you, to let you know that everything is okay you've have made it through your surgery and now you're in your recovery phase. Sometimes it creates some nausea but we have medication to help prevent the nausea from occurring.</Content>
+</Response>
+<Response id="f4s238">
+<ResponseID id="0">f4s238</ResponseID>
+<BaseQuestion id="0">Hand washing</BaseQuestion>
+<Content id="0">We're very strict on hand hygiene. When we bring our family members back to see the patients, we advise them from the beginning to use the hand sanitizer that is located right outside of the unit. But we also let them know that there are hand sanitizer stations located throughout the unit and within in the patient's room along with sinks. We don't want you bringing germs in here, and when you leave we want you to do the same thing because we don't want you taking germs out with you.
+
+If you feel comfortable, please let staff, the doctors, whomever, know or ask them if they used the hand sanitizer. If you don't feel comfortable with it, then let your nurse know. But you should see them wash their hands or use the hand sanitizer.</Content>
+</Response>
+<Response id="f4s239">
+<ResponseID id="0">f4s239</ResponseID>
+<BaseQuestion id="0">Rounds</BaseQuestion>
+<Content id="0">We perform rounds essentially Monday through Friday, they are more formal at that time, at 9am. If physician, the surgeon is not in the operating room with another case then he will be present for those rounds. And some of the other people within the interdisciplinary team would be the physician assistant, a bedside nurse, charge nurse, a dietician then some ancillary staff like social worker or case manager would follow up with us later in that time. But we advise the family to be involved with these rounds at least a couple times during the week; that way you keep abreast of the progress with your loved one. Because we begin discharge planning the day they come into the hospital. We want to know what is going to be the safe, realistic way for them to leave here, whether it be at their home, rehab, or to a facility.</Content>
+</Response>
+<Response id="f4s240">
+<ResponseID id="0">f4s240</ResponseID>
+<BaseQuestion id="0">Why can't I drive for a few weeks after surgery?</BaseQuestion>
+<Content id="0">The surgeons don't want you driving for 4 weeks after you have your heart surgery for a couple of reasons. Your sternum, which they cut through, is still very fragile and you're limited to a lot of different activities because of that. Speaking to not driving if you would (a) be in a car accident and jolted forward then your sternum is at risk for being injured and not healing the right way. Another thing is that you're still very tender in the chest area and you're not going to be able to turn a lot to look over your shoulders. So those are two of reasons you can't drive. We don't advise you sitting in the front seat either in case of being in an accident; and if the air bag would deploy and hit your chest, then your sternum is still at risk for not healing appropriately.</Content>
+</Response>
+<Response id="f4s241">
+<ResponseID id="0">f4s241</ResponseID>
+<BaseQuestion id="0">CTICU tour</BaseQuestion>
+<Content id="0">I am standing in one of the CTICU rooms at Forbes Regional Hospital. There are 8 beds in our CTICU unit.  Each room is equipped with a toilet and shower to provide your own privacy. This is where we try to keep you through the duration of your hospitalization, so this is where you come right after surgery and this is where you recover. </Content>
+</Response>
+<Response id="f4s243">
+<ResponseID id="0">f4s243</ResponseID>
+<BaseQuestion id="0">What is it like waking up from surgery?</BaseQuestion>
+<Content id="0">When you wake up from surgery you will still have a tube down your throat, which is helping you breath. Some people aren't bothered by it at all, and some people have used the analogy that it feels is like that there is a straw, and they are breathing through a straw. We need to emphasize as nurses that you need to be as calm as you can, because as much as the uncomfortableness of this breathing tube is, the more you are fidgety and chew on it the longer you will have it in.
+
+
+It is very scary, but we do our job to get that breathing tube out within 5 hours from the time you come to the room after your heart surgery. So, if you come out of the operating room at 1pm, by 5pm we want to get that breathing tube out.
+
+
+In regards to the breathing tube there are certain things we are going to need you to do before it can come out of your mouth. To be awake enough to do a few things such as squeezing our hands wiggling your toes and lifting your head up off your pillow to show you have good power over your nerves more to say. To let us know you are going to be able to breath on your own once that tube comes out.</Content>
+</Response>
+<Response id="f4s244">
+<ResponseID id="0">f4s244</ResponseID>
+<BaseQuestion id="0">What will make life easier during recovery?</BaseQuestion>
+<Content id="0">To ensure you have the best recovery period there are a few things the nurses will be reminding you of, not only for here in hospital but for once you go home: coughing, deep breathing, and the use of your incentive spirometer.
+
+So the coughing and deep breathing and the use of your incentive spirometer help to expand your lungs and prevent pneumonia, which is one of most common post op problems after heart surgery. The other one is to get up and walk. We start that here while at the hospital and encourage that once you go home. That helps circulate your blood and prevent blood clots from forming.</Content>
+</Response>
+<Response id="f4s251">
+<ResponseID id="0">f4s251</ResponseID>
+<BaseQuestion id="0">What about pain?</BaseQuestion>
+<Content id="0">In regards to your pain, everyone has different pain levels. Some people have very little or no pain at all. Some people have pain that they've never thought they'd have before. Most of the pain is in the incisional area. However, sometimes people complain of pain off to the center of the incision, which is caused by a drain. It sits kind of in your lung cavity in a pleural space to help drain blood that is not circulating. But sometimes from taking that deep breath, that causes more pain than the actual incision does.
+
+So while you're here during first 24 hours, we will generally give you some IV medication. We do note your allergies in case you have things you cannot take, and we will start you on oral pain medication. If these medications do not work for you, we call the physician and we let them know you are still having a lot of pain, because we want you to be comfortable.
+
+We're not going to give you something that is going to take your pain away completely at first. Over time your pain will get less and less, and you'll that see you'll be requiring less medications for pain as your recovery goes on. I will say that men usually have a little bit more pain because of their musculature across their chest and there are more muscle that doctors have to cut into. So men generally experience more pain than women do.</Content>
+</Response>
+<Response id="f4s253">
+<ResponseID id="0">f4s253</ResponseID>
+<BaseQuestion id="0">What kind of clothing should I bring?</BaseQuestion>
+<Content id="0">During your recovery in the CTICU you will be dressed in a hospital gown and if you choose you can also wear a pair of hospital bottoms. For those who have sensitive feet you may want to bring a pair of slippers that are not snug because sometimes you develop some swelling and you will be walking on a hard floor. While you're here, just the hospital gown and bottoms.
+
+For your discharge you will want to bring something comfortable, loose probably nothing with a tight waist band because sometimes you still hold onto a lot of fluid your swollen and you'll just need something that fits comfortably for your time home. Your shoes should probably be something you slid into as I said you still have some swelling a lot of times and it would be difficult to get your foot into a hard shoe or something that ties.</Content>
+</Response>
+<Response id="f4s254">
+<ResponseID id="0">f4s254</ResponseID>
+<BaseQuestion id="0">What are the visitation hours?</BaseQuestion>
+<Content id="0">Our visiting times here in the CTICU are from 9am until 9 pm we do not let children under the age of 10 come into visit for many reasons. One it's overwhelming to see and hear things that are not usual for them and we don't want them to bring in any germs and we don't want them to pick up any here while they are visiting.
+
+We do not allow any food to be brought in and no flowers or plants. If they're delivered we usually keep them at the nurses' station. There is a chance they can bring in bugs and we don't allow those in our unit.
+
+If you feel inclined to send something balloons are a nice touch or just a phone call would be nice.</Content>
+</Response>
+<Response id="f4s258">
+<ResponseID id="0">f4s258</ResponseID>
+<BaseQuestion id="0">Insulin Use in the CTICU</BaseQuestion>
+<Content id="0">During your time in CTICU in your recovery phase you will be on insulin. Insulin helps the body to heal after having surgery. Not only heart surgery but other surgeries as well, so don't be alarmed when the nurse and doctor let you know you are receiving insulin.</Content>
+</Response>
+<Response id="f4s259">
+<ResponseID id="0">f4s259</ResponseID>
+<BaseQuestion id="0">Constipation and the importance of a bowel movement</BaseQuestion>
+<Content id="0">One of the side effects of having anesthesia and pain medication can be constipation and no one likes to talk about that, but we ask you not to eat or drink anything after midnight the night before your surgery.  With that being said we don't advise having a heavy meal that day either so eating something light. Constipation is a problem we follow a certain bowel regiment here during your post op period in the hospital. We view constipation as a big problem. Anesthesia, pain medication, not moving around like you usually do, not eating the foods you usually eat can all contribute to constipation. So we'll be asking you a lot if you're passing gas, if you've moved your bowels and we're just here to get those bowels moving.</Content>
+</Response>
+<Response id="f4s263">
+<ResponseID id="0">f4s263</ResponseID>
+<BaseQuestion id="0">Incision care and drainage - what to expect to see in your incision</BaseQuestion>
+<Content id="0">It's not unusual to see a little bit of drainage coming from the incision as long as it's a small amount, and as long as it's not anything like pus. Sometimes you may even see a small little bit of the suture come out because the body does not always absorb it and rather spits it out instead.</Content>
+</Response>
+<Response id="f4s264">
+<ResponseID id="0">f4s264</ResponseID>
+<BaseQuestion id="0">Pain medications, addiction concerns and preventing pneumonia</BaseQuestion>
+<Content id="0">After surgery, you might have issues with pain. We will have a lot of different types of pain medication we can give you. I do not want you to be concerned that you're going to get addicted to this pain medicine; within the short period of time that we're treating you, you will not become addicted to the pain medicine. It is extremely important for you not to be in so much pain, especially when you're taking deep breaths because we don't want you to get pneumonia. If you are guarding and not taking deep breaths because you don't want to take pain medicine, you are more likely to get pneumonia, and that's a very bad thing after surgery.</Content>
+</Response>
+<Response id="f4s265">
+<ResponseID id="0">f4s265</ResponseID>
+<BaseQuestion id="0">How to check for signs of infection</BaseQuestion>
+<Content id="0">After surgery, and especially when you go home, it's very important to take good care of your surgical incisions. If you notice any drainage, redness, or warmth of the areas of your incision you need to call us immediately so that we can see you in the office and take care of any issues.</Content>
+</Response>
+<Response id="f4s266">
+<ResponseID id="0">f4s266</ResponseID>
+<BaseQuestion id="0">The importance of walking around after surgery</BaseQuestion>
+<Content id="0">After surgery, since you have sternal precautions, and you're not allowed to do much with your arms if anything, walking is the best activity that you can do. We encourage you to walk, especially around the mall if you can get somebody to drive you there. Walking around the mall, especially when it's cold weather, is one of the best things. If it's nice, warm weather you can walk outside. We do caution you because we do not want you to do anything with your arms, so you are not going to be able to walk your dog outside.</Content>
+</Response>
+<Response id="f4s300">
+<ResponseID id="0">f4s300</ResponseID>
+<BaseQuestion id="0">Answer not found</BaseQuestion>
+<Content id="0">I'm sorry I don't have an answer to your question, but I can suggest some people that you can talk to about your concerns. Look in the Resources are for the contact information of people who can help you.</Content>
+</Response>
+<Response id="f4s301">
+<ResponseID id="0">f4s301</ResponseID>
+<BaseQuestion id="0">Please be respectful</BaseQuestion>
+<Content id="0">I know that this is a difficult time and that sometimes emotions get the best of everyone. I can try to answer your questions and concerns, but please keep your comments on topic.</Content>
+</Response>
+<Response id="f4s302">
+<ResponseID id="0">f4s302</ResponseID>
+<BaseQuestion id="0">Multiple answers possible</BaseQuestion>
+<Content id="0">I can think of more than one answer for your question. Which would you like to hear first? Select a question from the list to the right.</Content>
+</Response>
+<Response id="maf4s998">
+<ResponseID id="0">maf4s998</ResponseID>
+<BaseQuestion id="0">Multiple Answers Possible</BaseQuestion>
+<Content id="0">Preventing infection</Content>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">f4s020</ResponseID>
+<BaseQuestion id="1">Pre-operative prescriptions</BaseQuestion>
+</RQ>
+<RQ id="1">
+<ResponseID id="2">f4s019</ResponseID>
+<BaseQuestion id="2">Spirometry</BaseQuestion>
+</RQ>
+<RQ id="2">
+<ResponseID id="3">f4s057</ResponseID>
+<BaseQuestion id="3">Coughing and deep breathing</BaseQuestion>
+</RQ>
+<RQ id="3">
+<ResponseID id="4">f4s021</ResponseID>
+<BaseQuestion id="4">Insulin drip protocol</BaseQuestion>
+</RQ>
+<RQ id="4">
+<ResponseID id="5">f4s202</ResponseID>
+<BaseQuestion id="5">MRSA infection</BaseQuestion>
+</RQ>
+<RQ id="5">
+<ResponseID id="6">f4s080</ResponseID>
+<BaseQuestion id="6">Incision care</BaseQuestion>
+</RQ>
+<RQ id="6">
+<ResponseID id="7">f4s126</ResponseID>
+<BaseQuestion id="7">What is endocarditis?</BaseQuestion>
+</RQ>
+</RQs>
+</Response>
+<Response id="maf4s999">
+<ResponseID id="0">maf4s999</ResponseID>
+<BaseQuestion id="0">Special precautions for valve replacement surgery</BaseQuestion>
+<Content id="0"></Content>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">f4s119</ResponseID>
+<BaseQuestion id="1">What is a urine test?</BaseQuestion>
+</RQ>
+<RQ id="1">
+<ResponseID id="2">f4s126</ResponseID>
+<BaseQuestion id="2">What is endocarditis?</BaseQuestion>
+</RQ>
+<RQ id="2">
+<ResponseID id="3">f4s061</ResponseID>
+<BaseQuestion id="3">What is Coumadin?</BaseQuestion>
+</RQ>
+<RQ id="3">
+<ResponseID id="4">f4s063</ResponseID>
+<BaseQuestion id="4">Follow up visits</BaseQuestion>
+</RQ>
+<RQ id="4">
+<ResponseID id="5">f4s079</ResponseID>
+<BaseQuestion id="5">Medicines and pain management</BaseQuestion>
+</RQ>
+<RQ id="5">
+<ResponseID id="6">f4s112</ResponseID>
+<BaseQuestion id="6">What are valves?</BaseQuestion>
+</RQ>
+</RQs>
+</Response>
+</xml>

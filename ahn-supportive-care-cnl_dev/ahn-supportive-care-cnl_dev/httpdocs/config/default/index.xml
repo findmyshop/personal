@@ -1,0 +1,44 @@
+<!--* Index Resource* 03-16-2015-->
+<xml>
+<Response id="acc001">
+<ResponseID id="0">acc001</ResponseID>
+<BaseQuestion id="0"></BaseQuestion>
+<Content id="0">Hi, I'm Randel Wiley at MedRespond. I'm here to help make sure that you are capable of running our Synthetic Interview technology that we use on this website. If at any time you are having difficulty viewing the material or can't seem to get the function to work, we ask that you please click on the Bug Report icon in the upper right corner.This should only take a few minutes.First we would like to check your connectivity. To do this we ask that you simply type the question "Am I connected?" into the box below.Once again if you have difficulty at any time, please click on the above Bug Report icon. Otherwise we will proceed to the next video.</Content>
+</Response>
+<Response id="acc002">
+<ResponseID id="0">acc002</ResponseID>
+<BaseQuestion id="0"></BaseQuestion>
+<Content id="0">The next thing that we would like you to check is the link to the Subject Index and FAQ section. Click on the Subject Index button to the left.Once again if you have difficulty at any time, please click on the Bug Report icon. Otherwise, we will proceed to the next video.</Content>
+</Response>
+<Response id="acc003">
+<ResponseID id="0">acc003</ResponseID>
+<BaseQuestion id="0">Test Subject Index</BaseQuestion>
+<Content id="0">Finally, I would like you to check the Related Questions section to the right. Please click on "Test Related Questions".If it works you will be taken to the final connectivity test. If not, we would ask that you please use the Bug Report icon.</Content>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">acc004</ResponseID>
+<BaseQuestion id="1">Test Related Questions</BaseQuestion>
+</RQ>
+</RQs>
+</Response>
+<Response id="acc004">
+<ResponseID id="0">acc004</ResponseID>
+<BaseQuestion id="0">Test Related Questions</BaseQuestion>
+<Content id="0">Thank you for helping us test your ability to connect to MedRespond.</Content>
+</Response>
+<Response id="acc005">
+<ResponseID id="0">acc005</ResponseID>
+<BaseQuestion id="0"></BaseQuestion>
+<Content id="0">I'm sorry I don't have an answer to your question, but I can suggest some people that you can talk to about your concerns. Look in the resources area for the contact information of people in the Allegheny Health System that can help you.</Content>
+</Response>
+<Response id="acc006">
+<ResponseID id="0">acc006</ResponseID>
+<BaseQuestion id="0"></BaseQuestion>
+<Content id="0">I know that this is a difficult time and that sometimes emotions get the best of everyone. I can try to answer your questions and concerns, but please keep your comments on topic.</Content>
+</Response>
+<Response id="acc007">
+<ResponseID id="0">acc007</ResponseID>
+<BaseQuestion id="0"></BaseQuestion>
+<Content id="0">I can think of more than one answer for your question. Which would you like to hear first? Select a question from the list to the right.</Content>
+</Response>
+</xml>

@@ -1,0 +1,53 @@
+<xml>
+<Category>
+<Heading>Web Resources</Heading>
+<Resource>
+<Name>Medline Plus, a service of the National Library of Medicine</Name>
+<Link>http://www.nlm.nih.gov/medlineplus/</Link>
+</Resource>
+<Resource>
+<Name>How the heart works</Name>
+<Link>http://www.nlm.nih.gov/medlineplus/ency/anatomyvideos/000067.htm</Link>
+</Resource>
+<Resource>
+<Name>Blood Pressure</Name>
+<Link>http://www.nlm.nih.gov/medlineplus/ency/anatomyvideos/000013.htm</Link>
+</Resource>
+<Resource>
+<Name>Open Heart Surgery</Name>
+<Link>http://www.nlm.nih.gov/medlineplus/surgeryvideos.html</Link>
+</Resource>
+</Category>
+<Category>
+<Heading>Important Phone Numbers</Heading>
+<Resource>
+<Name>Ambulatory Surgery Center: 412-858-2602</Name>
+</Resource>
+<Resource>
+<Name>Social&#160;Worker Department: 412-858-2327</Name>
+<Details>(This is the general number, you will be given a number for your social worker.)</Details>
+</Resource>
+<Resource>
+<Name>To schedule post-op appointments: 412-858-7088</Name>
+</Resource>
+</Category>
+<Category>
+<Heading>Downloadable PDFs</Heading>
+<Resource>
+<Name>Sternal Precautions</Name>
+<Link>https://s3.amazonaws.com/fit4surgery/ResourceDocuments/sternal-precautions.pdf</Link>
+</Resource>
+<Resource>
+<Name>Forbes Hospital Map</Name>
+<Link>https://s3.amazonaws.com/fit4surgery/ResourceDocuments/forbes-map.pdf</Link>
+</Resource>
+<Resource>
+<Name>Forbes Parking Instructions</Name>
+<Link>https://s3.amazonaws.com/fit4surgery/ResourceDocuments/forbes-map-aerial.jpg</Link>
+</Resource>
+<Resource>
+<Name>Cardiac Surgery Discharge Instructions</Name>
+<Link>https://s3.amazonaws.com/fit4surgery/ResourceDocuments/cardiac-surgery-discharge-instructions.pdf</Link>
+</Resource>
+</Category>
+</xml>

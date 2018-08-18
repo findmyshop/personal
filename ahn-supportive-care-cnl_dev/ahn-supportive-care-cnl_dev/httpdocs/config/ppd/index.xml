@@ -1,0 +1,1094 @@
+<xml>
+<Response id="multianswer">
+<ResponseID id="0">multianswer</ResponseID>
+<BaseQuestion id="0">Multiple answers</BaseQuestion>
+<Content id="0">There is more than one possible way to answer your question. Click on the link to the right that you would like to hear first.</Content>
+</Response>
+<Response id="offtopic">
+<ResponseID id="0">offtopic</ResponseID>
+<BaseQuestion id="0">Offtopic Response</BaseQuestion>
+<Content id="0">I'm sorry, we don't have an answer to that question at this time.  Your questions are important to us.  Please speak to your Excela healthcare provider for more information.</Content>
+</Response>
+<Response id="ppd001">
+<ResponseID id="0">ppd001</ResponseID>
+<BaseQuestion id="0">How is postpartum depression different from the baby blues?</BaseQuestion>
+<Content id="0">Many women feel sad, down, or overwhelmingly exhausted after they give birth, but if those feelings last longer than two weeks, it may be postpartum depression, or PPD.  PPD is a mood disorder that begins after a pregnancy ends.  Postpartum depression can happen after a live birth or after miscarriage or adoption.
+
+But, pregnancy related depression, called perinatal depression, doesn't always start just after giving birth. Depressive episodes can start during pregnancy, and can happen any time within the 12 months following the end of a pregnancy.
+
+Baby blues affect up to 80% of mothers after giving birth.  Women with baby blues may feel sad, easily annoyed, or anxious and may have headaches, and poor sleep.  Unline postpartum depression, baby blues will go away without treatment, by 10 days after the baby is born.  If symptoms last longer than two weeks, let your healthcare provider know.
+
+For more information on postpartum depression, look in the Resources area.</Content>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">ppd002</ResponseID>
+<BaseQuestion id="1">What are the symptoms of depression?</BaseQuestion>
+</RQ>
+<RQ id="1">
+<ResponseID id="2">ppd004</ResponseID>
+<BaseQuestion id="2">Is there treatment for perinatal depression?</BaseQuestion>
+</RQ>
+<RQ id="2">
+<ResponseID id="3">ppd006</ResponseID>
+<BaseQuestion id="3">What should I do if I feel like I or my loved one might hurt myself or my baby?</BaseQuestion>
+</RQ>
+<RQ id="3">
+<ResponseID id="4">ppd015</ResponseID>
+<BaseQuestion id="4">What other mood disorders happen during or after pregnancy?</BaseQuestion>
+</RQ>
+</RQs>
+<MediaList id="0">
+<Media id="0">
+<ListOrder id="0">1</ListOrder>
+<Description id="0">Postpartum Depression</Description>
+<Location id="0"><![CDATA[http://www.marchofdimes.org/pregnancy/postpartum-depression.aspx]]></Location>
+<MediaType id="0">Link</MediaType>
+<FileSize id="0"></FileSize>
+</Media>
+<Media id="1">
+<ListOrder id="0">2</ListOrder>
+<Description id="0">Postpartum Blues</Description>
+<Location id="0"><![CDATA[http://www.marchofdimes.org/pregnancy/the-postpartum-blues.aspx]]></Location>
+<MediaType id="0">Link</MediaType>
+<FileSize id="0"></FileSize>
+</Media>
+<Media id="2">
+<ListOrder id="0">3</ListOrder>
+<Description id="0">Depression During Pregnancy</Description>
+<Location id="0"><![CDATA[http://www.marchofdimes.org/complications/depression-during-pregnancy.aspx]]></Location>
+<MediaType id="0">Link</MediaType>
+<FileSize id="0"></FileSize>
+</Media>
+<Media id="3">
+<ListOrder id="0">4</ListOrder>
+<Description id="0">Mayo Clinic Postpartum Depression</Description>
+<Location id="0"><![CDATA[http://www.mayoclinic.org/diseases-conditions/postpartum-depression/basics/symptoms/con-20029130]]></Location>
+<MediaType id="0">Link</MediaType>
+<FileSize id="0"></FileSize>
+</Media>
+<Media id="4">
+<ListOrder id="0">5</ListOrder>
+<Description id="0">PPD is More Than the Blues</Description>
+<Location id="0"><![CDATA[http://mchb.hrsa.gov/pregnancyandbeyond/depression/morethanblues.html]]></Location>
+<MediaType id="0">Link</MediaType>
+<FileSize id="0"></FileSize>
+</Media>
+<Media id="5">
+<ListOrder id="0">6</ListOrder>
+<Description id="0">Dr. Wisner on PPD vs. Baby Blues (Video)</Description>
+<Location id="0"><![CDATA[https://www.youtube.com/watch?v=egLjZfztHL8]]></Location>
+<MediaType id="0">Link</MediaType>
+<FileSize id="0"></FileSize>
+</Media>
+<Media id="6">
+<ListOrder id="0">7</ListOrder>
+<Description id="0">Isabella's Story About the Baby Blues (Video)</Description>
+<Location id="0"><![CDATA[http://www.mededppd.org/mothers/videos_babyblues.asp]]></Location>
+<MediaType id="0">Link</MediaType>
+<FileSize id="0"></FileSize>
+</Media>
+<Media id="7">
+<ListOrder id="0">8</ListOrder>
+<Description id="0">Case Study: Melinda (Video)</Description>
+<Location id="0"><![CDATA[http://www.mededppd.org/mothers/melinda.asp]]></Location>
+<MediaType id="0">Link</MediaType>
+<FileSize id="0"></FileSize>
+</Media>
+<Media id="8">
+<ListOrder id="0">9</ListOrder>
+<Description id="0">National Institutes of Mental Health (Video)</Description>
+<Location id="0"><![CDATA[https://www.youtube.com/watch?v=O-A7YvrjFL8&feature=youtu.be]]></Location>
+<MediaType id="0">Link</MediaType>
+<FileSize id="0"></FileSize>
+</Media>
+</MediaList>
+</Response>
+<Response id="ppd002">
+<ResponseID id="0">ppd002</ResponseID>
+<BaseQuestion id="0">What are the symptoms of depression?</BaseQuestion>
+<Content id="0">The symptoms of depression are the same whether they happen during or after pregnancy.  They include:
+
+&#8226; Depressed or sad mood
+&#8226; Tearfulness
+&#8226; 	Loss of interest in usual activities
+&#8226;	 Feelings of guilt
+&#8226;	 Feeling like you are not good enough to be a parent or are not able to take care of your baby
+&#8226;	 Tiredness
+&#8226; Problems sleeping
+&#8226; 	Changes in appetite
+&#8226; Poor concentration
+&#8226; And suicidal thoughts
+
+Every person experiences depression differently.   You may have many of these symptoms, or you may only have a few, but if your symptoms last longer than two weeks, you should contact your healthcare provider.    You can find a scale to help you track and measure your symptoms in the Resource Area.</Content>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">ppd004</ResponseID>
+<BaseQuestion id="1">Is there treatment for perinatal depression?</BaseQuestion>
+</RQ>
+<RQ id="1">
+<ResponseID id="2">ppd003</ResponseID>
+<BaseQuestion id="2">Who can get perinatal depression?</BaseQuestion>
+</RQ>
+<RQ id="2">
+<ResponseID id="3">ppd006</ResponseID>
+<BaseQuestion id="3">What should I do if I feel like I or my loved one might hurt myself or my baby?</BaseQuestion>
+</RQ>
+<RQ id="3">
+<ResponseID id="4">ppd015</ResponseID>
+<BaseQuestion id="4">What other mood disorders happen during or after pregnancy?</BaseQuestion>
+</RQ>
+</RQs>
+<MediaList id="0">
+<Media id="0">
+<ListOrder id="0">1</ListOrder>
+<Description id="0">Are You Suffering from PPD Quiz</Description>
+<Location id="0"><![CDATA[https://womensmentalhealth.org/quiz-are-you-suffering-from-postpartum-depression/]]></Location>
+<MediaType id="0">Link</MediaType>
+<FileSize id="0"></FileSize>
+</Media>
+<Media id="1">
+<ListOrder id="0">2</ListOrder>
+<Description id="0">How Do I Know If I Have PPD?</Description>
+<Location id="0"><![CDATA[http://mchb.hrsa.gov/pregnancyandbeyond/depression/howdoiknow.html]]></Location>
+<MediaType id="0">Link</MediaType>
+<FileSize id="0"></FileSize>
+</Media>
+<Media id="2">
+<ListOrder id="0">3</ListOrder>
+<Description id="0">How do I spot if my partner has postnatal depression? (Video)</Description>
+<Location id="0"><![CDATA[https://www.youtube.com/watch?v=RU3c3nw-NNA]]></Location>
+<MediaType id="0">Link</MediaType>
+<FileSize id="0"></FileSize>
+</Media>
+<Media id="3">
+<ListOrder id="0">4</ListOrder>
+<Description id="0">Warrior Moms: We Are the Faces of Postpartum Depression and Anxiety (Video)</Description>
+<Location id="0"><![CDATA[https://www.youtube.com/watch?time_continue=5&v=e6iQp-JdjkU]]></Location>
+<MediaType id="0">Link</MediaType>
+<FileSize id="0"></FileSize>
+</Media>
+<Media id="4">
+<ListOrder id="0">5</ListOrder>
+<Description id="0">Perinatal Mood &amp; Anxiety Disorders Overview</Description>
+<Location id="0"><![CDATA[http://www.postpartum.net/learn-more/pregnancy-postpartum-mental-health/]]></Location>
+<MediaType id="0">Link</MediaType>
+<FileSize id="0"></FileSize>
+</Media>
+</MediaList>
+</Response>
+<Response id="ppd003">
+<ResponseID id="0">ppd003</ResponseID>
+<BaseQuestion id="0">Who can get perinatal depression?</BaseQuestion>
+<Content id="0">Perinatal depression is an episode of major depression that develops either during pregnancy or in the year after birth.  Any woman can develop perinatal depression.  One in seven women will experience a new episode of depression during pregnancy and one in five will have an episode of depression in the year after birth.
+
+Depression is a treatable medical condition.  After birth, there is a rapid and dramatic change in hormone levels.  The hormones estrogen and progesterone affect the chemical messengers in the brain that are involved in mood.  Although no consistent link has been found between levels of estrogen, progesterone, cortisol, or thyroid hormones and postpartum depression, researchers think that some women are very sensitive to the rapid hormonal change that takes place after delivery.  These women may be more likely to have perinatal depression.</Content>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">ppd004</ResponseID>
+<BaseQuestion id="1">Is there treatment for perinatal depression?</BaseQuestion>
+</RQ>
+<RQ id="1">
+<ResponseID id="2">ppd005</ResponseID>
+<BaseQuestion id="2">How can I prevent perinatal depression?</BaseQuestion>
+</RQ>
+<RQ id="2">
+<ResponseID id="3">ppd006</ResponseID>
+<BaseQuestion id="3">What should I do if I feel like I or my loved one might hurt myself or my baby?</BaseQuestion>
+</RQ>
+<RQ id="3">
+<ResponseID id="4">ppd007</ResponseID>
+<BaseQuestion id="4">What causes perinatal depression?</BaseQuestion>
+</RQ>
+</RQs>
+<MediaList id="0">
+<Media id="0">
+<ListOrder id="0">1</ListOrder>
+<Description id="0">Warrior Moms: The Faces of PPD (Video)</Description>
+<Location id="0"><![CDATA[https://www.youtube.com/watch?v=e6iQp-JdjkU]]></Location>
+<MediaType id="0">Link</MediaType>
+<FileSize id="0"></FileSize>
+</Media>
+<Media id="1">
+<ListOrder id="0">2</ListOrder>
+<Description id="0">Postpartum Psychiatric Disorders Overview</Description>
+<Location id="0"><![CDATA[https://womensmentalhealth.org/specialty-clinics/postpartum-psychiatric-disorders/]]></Location>
+<MediaType id="0">Link</MediaType>
+<FileSize id="0"></FileSize>
+</Media>
+</MediaList>
+</Response>
+<Response id="ppd004">
+<ResponseID id="0">ppd004</ResponseID>
+<BaseQuestion id="0">Is there treatment for perinatal depression?</BaseQuestion>
+<Content id="0">Perinatal depression is a treatable condition.  Most treatment for perinatal depression involves a combination of therapy and medication.  Therapy can involve teaching you how to identify negative thoughts and to understand how they impact your mood. Therapy can also teach you how to increase your social supports and encourage positive self-care. Medication can also be effective in treating depression, anxiety and bipolar disorder. Sometimes your obstetrician or primary care physician may prescribe medication.  In some areas there are perinatal psychiatrists who have experience treating pregnant and breastfeeding women.   Light therapy is an option that has been shown to be effective for depression, including episodes that do not occur in the winter.
+
+The combination of therapy and medication may not be enough to help all women feel like themselves again. Some women may benefit from the additional support of a day treatment program, more intensive outpatient treatment, or a brief hospitalization.
+
+Asking for help with childcare and household chores from trusted friends and family can help relieve anxiety.  Also, make time for yourself to do things with friends, take a long, relaxing shower, read a book or do something else you enjoy.  There is no standard timeline for recovery from perinatal depression.  Each individual is different, but participating in treatment and practicing self-care can reduce the length of your recovery.   For more information on what recovery from perinatal depression is, look in the Resources Area.</Content>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">ppd012</ResponseID>
+<BaseQuestion id="1">Are there support groups for perinatal depression?</BaseQuestion>
+</RQ>
+<RQ id="1">
+<ResponseID id="2">ppd011</ResponseID>
+<BaseQuestion id="2">What if treatment doesn't help?</BaseQuestion>
+</RQ>
+<RQ id="2">
+<ResponseID id="3">ppd010</ResponseID>
+<BaseQuestion id="3">If I take medication for perinatal depression will it hurt my baby?</BaseQuestion>
+</RQ>
+<RQ id="3">
+<ResponseID id="4">ppd013</ResponseID>
+<BaseQuestion id="4">What if I can't get help?</BaseQuestion>
+</RQ>
+</RQs>
+<MediaList id="0">
+<Media id="0">
+<ListOrder id="0">1</ListOrder>
+<Description id="0">Recovery from PPD</Description>
+<Location id="0"><![CDATA[http://www.postpartumprogress.com/six-things-that-can-affect-how-quickly-youll-recover-from-postpartum-depression]]></Location>
+<MediaType id="0">Link</MediaType>
+<FileSize id="0"></FileSize>
+</Media>
+<Media id="1">
+<ListOrder id="0">2</ListOrder>
+<Description id="0">What PPD Recovery Does NOT Look Like</Description>
+<Location id="0"><![CDATA[http://www.postpartumprogress.com/what-postpartum-depression-recovery-does-not]]></Location>
+<MediaType id="0">Link</MediaType>
+<FileSize id="0"></FileSize>
+</Media>
+<Media id="2">
+<ListOrder id="0">3</ListOrder>
+<Description id="0">How Can I Help Myself?</Description>
+<Location id="0"><![CDATA[http://postpartumstress.com/get-help/how-can-i-help-myself/]]></Location>
+<MediaType id="0">Link</MediaType>
+<FileSize id="0"></FileSize>
+</Media>
+<Media id="3">
+<ListOrder id="0">4</ListOrder>
+<Description id="0">What Can I Do to Feel Better Now?</Description>
+<Location id="0"><![CDATA[http://postpartumstress.com/get-help/things-you-can-do-now-to-feel-better/]]></Location>
+<MediaType id="0">Link</MediaType>
+<FileSize id="0"></FileSize>
+</Media>
+<Media id="4">
+<ListOrder id="0">5</ListOrder>
+<Description id="0">"Angela's" Story (Video)</Description>
+<Location id="0"><![CDATA[http://www.mededppd.org/mothers/videos_depression.asp]]></Location>
+<MediaType id="0">Link</MediaType>
+<FileSize id="0"></FileSize>
+</Media>
+<Media id="5">
+<ListOrder id="0">6</ListOrder>
+<Description id="0">American Psychiatric Association: Treatment of PPD</Description>
+<Location id="0"><![CDATA[http://www.apa.org/monitor/2011/02/postpartum.aspx]]></Location>
+<MediaType id="0">Link</MediaType>
+<FileSize id="0"></FileSize>
+</Media>
+<Media id="6">
+<ListOrder id="0">7</ListOrder>
+<Description id="0">The Best Alternative Treatment Options for PPD</Description>
+<Location id="0"><![CDATA[http://www.postpartumprogress.com/the-best-complementary-alternative-medicine-treatment-options-postpartum-depression]]></Location>
+<MediaType id="0">Link</MediaType>
+<FileSize id="0"></FileSize>
+</Media>
+<Media id="7">
+<ListOrder id="0">8</ListOrder>
+<Description id="0">Taking Care of Your Body</Description>
+<Location id="0"><![CDATA[https://www.nami.org/Find-Support/Living-with-a-Mental-Health-Condition/Taking-Care-of-Your-Body]]></Location>
+<MediaType id="0">Link</MediaType>
+<FileSize id="0"></FileSize>
+</Media>
+<Media id="8">
+<ListOrder id="0">9</ListOrder>
+<Description id="0">Getting the Sleep You Need</Description>
+<Location id="0"><![CDATA[http://www.mayoclinic.org/healthy-lifestyle/infant-and-toddler-health/in-depth/healthy-baby/art-20046556]]></Location>
+<MediaType id="0">Link</MediaType>
+<FileSize id="0"></FileSize>
+</Media>
+<Media id="9">
+<ListOrder id="0">10</ListOrder>
+<Description id="0">CDC Getting Help for Depression</Description>
+<Location id="0"><![CDATA[http://www.cdc.gov/reproductivehealth/Depression/Treatments.htm]]></Location>
+<MediaType id="0">Link</MediaType>
+<FileSize id="0"></FileSize>
+</Media>
+<Media id="10">
+<ListOrder id="0">11</ListOrder>
+<Description id="0">Postpartum Depression Treatment (Video)</Description>
+<Location id="0"><![CDATA[http://www.nimh.nih.gov/news/media/2010/postpartum-depression.shtml]]></Location>
+<MediaType id="0">Link</MediaType>
+<FileSize id="0"></FileSize>
+</Media>
+</MediaList>
+</Response>
+<Response id="ppd005">
+<ResponseID id="0">ppd005</ResponseID>
+<BaseQuestion id="0">How can I prevent perinatal depression?</BaseQuestion>
+<Content id="0">Each woman is different and there is no definite way to know how pregnancy will affect you personally.  Perinatal depression is a complex disorder that is affected by many things, including your reaction to hormones, stress, and your physical and mental health before, during and after pregnancy.  Because of this, there are ways to reduce your risk of perinatal depression, but no 100 percent certain way to prevent it.
+
+If you have a history of depression, anxiety, bipolar disorder or a prior episode of Perinatal depression, you are at greater risk to develop another episode during and/or after pregnancy. Having an active treatment plan in place before or early on in the pregnancy can help prepare you for the possibility of a worsening of your symptoms. Speaking to a therapist and paying attention to mood changes is critical. Talking to your doctor about the pros and cons of staying on your medication is also very important. Sometimes doses of medication need to be adjusted during pregnancy and in the postpartum period to be effective. It is important that you work with healthcare providers to track your depression, anxiety and other symptoms.
+
+It is always important to stay in good physical and emotional health before, during and after pregnancy.  Practicing good nutrition and staying active improves your energy levels and your mood.
+
+Practicing self-care may be difficult when you have a newborn.  It can be hard for new moms to get enough sleep, exercise and eat right, especially if they are breastfeeding, working, or have other children to care for.  Be aware of how these demands are affecting your mood and allow yourself to relax your expectations.</Content>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">ppd010</ResponseID>
+<BaseQuestion id="1">If I take medication for perinatal depression will it hurt my baby?</BaseQuestion>
+</RQ>
+<RQ id="1">
+<ResponseID id="2">ppd012</ResponseID>
+<BaseQuestion id="2">Are there support groups for perinatal depression?</BaseQuestion>
+</RQ>
+<RQ id="2">
+<ResponseID id="3">ppd013</ResponseID>
+<BaseQuestion id="3">What if I can't get help?</BaseQuestion>
+</RQ>
+<RQ id="3">
+<ResponseID id="4">ppd007</ResponseID>
+<BaseQuestion id="4">What causes perinatal depression?</BaseQuestion>
+</RQ>
+</RQs>
+<MediaList id="0">
+<Media id="0">
+<ListOrder id="0">1</ListOrder>
+<Description id="0">Prevention of PPD</Description>
+<Location id="0"><![CDATA[http://www.postpartumprogress.com/can-you-prevent-postpartum-depression]]></Location>
+<MediaType id="0">Link</MediaType>
+<FileSize id="0"></FileSize>
+</Media>
+<Media id="1">
+<ListOrder id="0">2</ListOrder>
+<Description id="0">Antidepressant Use to Prevent PPD</Description>
+<Location id="0"><![CDATA[https://womensmentalhealth.org/posts/prevention-of-postpartum-depression/]]></Location>
+<MediaType id="0">Link</MediaType>
+<FileSize id="0"></FileSize>
+</Media>
+<Media id="2">
+<ListOrder id="0">3</ListOrder>
+<Description id="0">Getting the Sleep You Need</Description>
+<Location id="0"><![CDATA[http://www.mayoclinic.org/healthy-lifestyle/infant-and-toddler-health/in-depth/healthy-baby/art-20046556]]></Location>
+<MediaType id="0">Link</MediaType>
+<FileSize id="0"></FileSize>
+</Media>
+<Media id="3">
+<ListOrder id="0">4</ListOrder>
+<Description id="0">Taking Care of Your Body</Description>
+<Location id="0"><![CDATA[https://www.nami.org/Find-Support/Living-with-a-Mental-Health-Condition/Taking-Care-of-Your-Body]]></Location>
+<MediaType id="0">Link</MediaType>
+<FileSize id="0"></FileSize>
+</Media>
+</MediaList>
+</Response>
+<Response id="ppd006">
+<ResponseID id="0">ppd006</ResponseID>
+<BaseQuestion id="0">What should I do if I feel like I or my loved one might hurt myself or my baby?</BaseQuestion>
+<Content id="0">IIf you are worried that someone with perinatal depression is currently at risk for harming themselves or their baby, call 911 immediately or take them to the emergency room.
+
+If you are having thoughts about harming yourself or your baby, do not hide your feelings.  Talk to your healthcare provider and get help. Go to your local emergency room if you feel like you might act on these thoughts.  Many women are affected by perinatal depression.  You are not alone and having these feelings does not make you a bad person or parent.
+
+Postpartum psychosis is another condition which can affect women after childbirth and can put mother and baby at risk.  This is an emergency and requires immediate medical treatment.
+
+Signs of postpartum psychosis can include:
+
+&#8226; Extremely confused and disorganized thinking
+&#8226; 	Drastically changing moods and bizarre behavior.
+&#8226; Extreme agitation or restlessness.
+&#8226; Hallucinations involving sight, smell, hearing, or touch.
+&#8226; And delusional thinking or thinking that isn't based in reality.
+
+For more information on postpartum depression, postpartum psychosis and other psychiatric conditions related to pregnancy and childbirth, look in the Resources area of this page.</Content>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">ppd014</ResponseID>
+<BaseQuestion id="1">How does perinatal depression affect my baby?</BaseQuestion>
+</RQ>
+<RQ id="1">
+<ResponseID id="2">ppd009</ResponseID>
+<BaseQuestion id="2">What can I do to help my loved one with perinatal depression?</BaseQuestion>
+</RQ>
+<RQ id="2">
+<ResponseID id="3">ppd015</ResponseID>
+<BaseQuestion id="3">What other mood disorders happen during or after pregnancy?</BaseQuestion>
+</RQ>
+<RQ id="3">
+<ResponseID id="4">ppd013</ResponseID>
+<BaseQuestion id="4">What if I can't get help?</BaseQuestion>
+</RQ>
+</RQs>
+<MediaList id="0">
+<Media id="0">
+<ListOrder id="0">1</ListOrder>
+<Description id="0">PPD Basics</Description>
+<Location id="0"><![CDATA[http://www.mayoclinic.org/diseases-conditions/postpartum-depression/basics/symptoms/con-20029130]]></Location>
+<MediaType id="0">Link</MediaType>
+<FileSize id="0"></FileSize>
+</Media>
+<Media id="1">
+<ListOrder id="0">2</ListOrder>
+<Description id="0">Postpartum Progress</Description>
+<Location id="0"><![CDATA[http://www.postpartumprogress.com/the-symptoms-of-postpartum-depression-anxiety-in-plain-mama-english]]></Location>
+<MediaType id="0">Link</MediaType>
+<FileSize id="0"></FileSize>
+</Media>
+<Media id="2">
+<ListOrder id="0">3</ListOrder>
+<Description id="0">PPD Treatment Specialists</Description>
+<Location id="0"><![CDATA[http://www.postpartumprogress.com/womens-mental-health-treatment-programs-specialists-us-canada-australia]]></Location>
+<MediaType id="0">Link</MediaType>
+<FileSize id="0"></FileSize>
+</Media>
+<Media id="3">
+<ListOrder id="0">4</ListOrder>
+<Description id="0">What you Should Know About Having Scary Thoughts</Description>
+<Location id="0"><![CDATA[http://postpartumstress.com/admin/wp-content/uploads/2012/02/ScaryThoughts-1.pdf]]></Location>
+<MediaType id="0">Link</MediaType>
+<FileSize id="0"></FileSize>
+</Media>
+<Media id="4">
+<ListOrder id="0">5</ListOrder>
+<Description id="0">PPD Basics</Description>
+<Location id="0"><![CDATA[http://www.mayoclinic.org/diseases-conditions/postpartum-depression/basics/symptoms/con-20029130]]></Location>
+<MediaType id="0">Link</MediaType>
+<FileSize id="0"></FileSize>
+</Media>
+</MediaList>
+</Response>
+<Response id="ppd007">
+<ResponseID id="0">ppd007</ResponseID>
+<BaseQuestion id="0">What causes perinatal depression?</BaseQuestion>
+<Content id="0">While it can be challenging to predict who will develop perinatal depression, some risk factors have been identified.
+Women are at greater risk of perinatal depression if they:
+
+&#8226; 	Have had a previous episode of depression or a family history of depression
+&#8226; 	Have a history of bipolar disorder or a family history of bipolar disorder
+&#8226; Discontinue treatment for depression or bipolar disorder before or during pregnancy
+&#8226; 	Have experienced recent stressful life events including relationship problems
+&#8226; Or if they do not have strong social supports.
+
+If you have any of these risk factors, you should know that depression is a treatable condition.  Tell your healthcare professional about your risk factors so that they can discuss your options for treatment with you.</Content>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">ppd004</ResponseID>
+<BaseQuestion id="1">Is there treatment for perinatal depression?</BaseQuestion>
+</RQ>
+<RQ id="1">
+<ResponseID id="2">ppd008</ResponseID>
+<BaseQuestion id="2">Does this mean I'm a bad parent?</BaseQuestion>
+</RQ>
+<RQ id="2">
+<ResponseID id="3">ppd005</ResponseID>
+<BaseQuestion id="3">How can I prevent perinatal depression?</BaseQuestion>
+</RQ>
+<RQ id="3">
+<ResponseID id="4">ppd003</ResponseID>
+<BaseQuestion id="4">Who can get perinatal depression?</BaseQuestion>
+</RQ>
+</RQs>
+</Response>
+<Response id="ppd008">
+<ResponseID id="0">ppd008</ResponseID>
+<BaseQuestion id="0">Does this mean I'm a bad parent?</BaseQuestion>
+<Content id="0">Having perinatal depression does not mean you're a bad parent.  It is an illness, like diabetes.  And, just like diabetes, it is treatable.  Don't be afraid to reach out for treatment, it's the best thing you can do for yourself and your baby.  Many women parent just fine even while dealing with the symptom of perinatal depression.
+
+If you feel like you're not doing enough, it's helpful to stop and think about what you are doing for your baby.  Caring for a child is a lot of work, and no one does it perfectly. You may need to change your expectations and focus on recovery.  Seek help in prioritizing your health as you recover. Sometimes this means you will do things differently from what you expected. This may include doing less housekeeping, asking for help, and eating simpler meals. Breastfeeding may be a great source of joy or a source of stress if it is not going smoothly. Talk to your healthcare provider about identifying the best path for your health and your baby's health.
+
+If you have perinatal, getting effective treatment is good parenting.</Content>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">ppd007</ResponseID>
+<BaseQuestion id="1">What causes perinatal depression?</BaseQuestion>
+</RQ>
+<RQ id="1">
+<ResponseID id="2">ppd003</ResponseID>
+<BaseQuestion id="2">Who can get perinatal depression?</BaseQuestion>
+</RQ>
+<RQ id="2">
+<ResponseID id="3">ppd010</ResponseID>
+<BaseQuestion id="3">If I take medication for perinatal depression will it hurt my baby?</BaseQuestion>
+</RQ>
+<RQ id="3">
+<ResponseID id="4">ppd014</ResponseID>
+<BaseQuestion id="4">How does perinatal depression affect my baby?</BaseQuestion>
+</RQ>
+</RQs>
+<MediaList id="0">
+<Media id="0">
+<ListOrder id="0">1</ListOrder>
+<Description id="0">Fussy Baby Network 1.888.431.BABY (2229)</Description>
+<Location id="0"><![CDATA[http://www.erikson.edu/fussybaby/]]></Location>
+<MediaType id="0">Link</MediaType>
+<FileSize id="0"></FileSize>
+</Media>
+<Media id="1">
+<ListOrder id="0">2</ListOrder>
+<Description id="0">PPD &amp; The Feeling of Feeling Nothing for Your Baby</Description>
+<Location id="0"><![CDATA[http://www.postpartumprogress.com/postpartum-depression-the-feeling-of-feeling-nothing-for-your-baby]]></Location>
+<MediaType id="0">Link</MediaType>
+<FileSize id="0"></FileSize>
+</Media>
+<Media id="2">
+<ListOrder id="0">3</ListOrder>
+<Description id="0">Eight Ways to Be a Good Mother Instead of a Perfect One</Description>
+<Location id="0"><![CDATA[http://www.postpartumprogress.com/8-ways-to-be-a-good-mother-instead-of-a-perfect-one]]></Location>
+<MediaType id="0">Link</MediaType>
+<FileSize id="0"></FileSize>
+</Media>
+<Media id="3">
+<ListOrder id="0">4</ListOrder>
+<Description id="0">Have I Wrecked My Childís Life?</Description>
+<Location id="0"><![CDATA[http://www.postpartumprogress.com/have-i-wrecked-my-childs-life-parenting-after-postpartum-depression-anxiety]]></Location>
+<MediaType id="0">Link</MediaType>
+<FileSize id="0"></FileSize>
+</Media>
+</MediaList>
+</Response>
+<Response id="ppd009">
+<ResponseID id="0">ppd009</ResponseID>
+<BaseQuestion id="0">What can I do to help my loved one with perinatal depression?</BaseQuestion>
+<Content id="0">There are lots of ways you can support a woman with perinatal depression.  First, understand that perinatal depression is a treatable illness.   Encourage her to get treatment and help her find a healthcare provider.  Providing transportation and childcare while she is in treatment can also help.
+
+Listen to her when she talks about her feelings.  Listen without judgement and reassure her that she is not alone and that there is help.
+
+You can help a woman with perinatal depression by making sure she has opportunities to rest, eats well and drinks enough water.  Support her in getting physical activity each day, too.  All of these things will help in her recovery.
+
+And, as far as housework, hosting visitors, and returning to work, as a partner or family member, you may need to change your expectations for a while.  Pick up some of the slack yourself, without being asked, and allow her time to do things just for herself.
+
+Pay attention to your mood as well.  Make sure that you are getting the support that you need so that you can be there for your loved one.
+
+For more information on how to help a loved one with perinatal depression, look in the Resources Area.</Content>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">ppd006</ResponseID>
+<BaseQuestion id="1">What should I do if I feel like I or my loved one might hurt myself or my baby?</BaseQuestion>
+</RQ>
+<RQ id="1">
+<ResponseID id="2">ppd012</ResponseID>
+<BaseQuestion id="2">Are there support groups for perinatal depression?</BaseQuestion>
+</RQ>
+<RQ id="2">
+<ResponseID id="3">ppd015</ResponseID>
+<BaseQuestion id="3">What other mood disorders happen during or after pregnancy?</BaseQuestion>
+</RQ>
+</RQs>
+<MediaList id="0">
+<Media id="0">
+<ListOrder id="0">1</ListOrder>
+<Description id="0">Family &amp; Friends</Description>
+<Location id="0"><![CDATA[http://mchb.hrsa.gov/pregnancyandbeyond/depression/familyandfriends.html]]></Location>
+<MediaType id="0">Link</MediaType>
+<FileSize id="0"></FileSize>
+</Media>
+<Media id="1">
+<ListOrder id="0">2</ListOrder>
+<Description id="0">For Family Members</Description>
+<Location id="0"><![CDATA[http://www.mededppd.org/mothers/family.asp]]></Location>
+<MediaType id="0">Link</MediaType>
+<FileSize id="0"></FileSize>
+</Media>
+<Media id="2">
+<ListOrder id="0">3</ListOrder>
+<Description id="0">How do I spot if my partner has postnatal depression? (Video)</Description>
+<Location id="0"><![CDATA[https://www.youtube.com/watch?v=RU3c3nw-NNA]]></Location>
+<MediaType id="0">Link</MediaType>
+<FileSize id="0"></FileSize>
+</Media>
+<Media id="3">
+<ListOrder id="0">4</ListOrder>
+<Description id="0">Dads Chat with an Expert</Description>
+<Location id="0"><![CDATA[http://www.postpartum.net/get-help/resources-for-fathers/]]></Location>
+<MediaType id="0">Link</MediaType>
+<FileSize id="0"></FileSize>
+</Media>
+<Media id="4">
+<ListOrder id="0">5</ListOrder>
+<Description id="0">Beyond the Blues: Partners</Description>
+<Location id="0"><![CDATA[http://www.postpartum.net/family/beyond-the-blues-partners/]]></Location>
+<MediaType id="0">Link</MediaType>
+<FileSize id="0"></FileSize>
+</Media>
+<Media id="5">
+<ListOrder id="0">6</ListOrder>
+<Description id="0">Dad Stories</Description>
+<Location id="0"><![CDATA[http://www.postpartumprogress.com/dad-stories]]></Location>
+<MediaType id="0">Link</MediaType>
+<FileSize id="0"></FileSize>
+</Media>
+<Media id="6">
+<ListOrder id="0">7</ListOrder>
+<Description id="0">Tips for Postpartum Dads and Partners</Description>
+<Location id="0"><![CDATA[http://www.postpartum.net/family/tips-for-postpartum-dads-and-partners/]]></Location>
+<MediaType id="0">Link</MediaType>
+<FileSize id="0"></FileSize>
+</Media>
+</MediaList>
+</Response>
+<Response id="ppd010">
+<ResponseID id="0">ppd010</ResponseID>
+<BaseQuestion id="0">If I take medication for perinatal depression will it hurt my baby?</BaseQuestion>
+<Content id="0">Depending on your medical history and the severity of your symptoms, your healthcare provider may recommend that you take medication to prevent or treat depression.
+
+Although there may be a small chance that taking the medication during pregnancy or while breastfeeding may affect your baby, having a recurrence of your anxiety or mood disorder also may be risky to you and your baby.
+
+If you are reluctant to take medication for depression even though your healthcare provider recommends it, you must weigh the risk of having an episode of perinatal depression against the risks that medication might affect your baby.   Talk to your healthcare provider about your risk factors and your concerns.  For more information on medication use during pregnancy and while breastfeeding, look in the Resource Area.</Content>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">ppd008</ResponseID>
+<BaseQuestion id="1">Does this mean I'm a bad parent?</BaseQuestion>
+</RQ>
+<RQ id="1">
+<ResponseID id="2">ppd011</ResponseID>
+<BaseQuestion id="2">What if treatment doesn't help?</BaseQuestion>
+</RQ>
+<RQ id="2">
+<ResponseID id="3">ppd013</ResponseID>
+<BaseQuestion id="3">What if I can't get help?</BaseQuestion>
+</RQ>
+<RQ id="3">
+<ResponseID id="4">ppd014</ResponseID>
+<BaseQuestion id="4">How does perinatal depression affect my baby?</BaseQuestion>
+</RQ>
+</RQs>
+<MediaList id="0">
+<Media id="0">
+<ListOrder id="0">1</ListOrder>
+<Description id="0">Mother to Baby: Medication Safety  1-866-626-6847</Description>
+<Location id="0"><![CDATA[http://mothertobaby.org/]]></Location>
+<MediaType id="0">Link</MediaType>
+<FileSize id="0"></FileSize>
+</Media>
+<Media id="1">
+<ListOrder id="0">2</ListOrder>
+<Description id="0">PPD and Medication Use</Description>
+<Location id="0"><![CDATA[http://www.postpartumprogress.com/?s=safe+medication]]></Location>
+<MediaType id="0">Link</MediaType>
+<FileSize id="0"></FileSize>
+</Media>
+<Media id="2">
+<ListOrder id="0">3</ListOrder>
+<Description id="0">Safety of Antidepressant Use During Pregnancy</Description>
+<Location id="0"><![CDATA[http://www.mayoclinic.org/healthy-lifestyle/pregnancy-week-by-week/in-depth/antidepressants/art-20046420]]></Location>
+<MediaType id="0">Link</MediaType>
+<FileSize id="0"></FileSize>
+</Media>
+</MediaList>
+</Response>
+<Response id="ppd011">
+<ResponseID id="0">ppd011</ResponseID>
+<BaseQuestion id="0">What if treatment doesn't help?</BaseQuestion>
+<Content id="0">If your symptoms of perinatal depression aren't getting better with treatment, do not give up.  Talk to your healthcare provider and let them know that your symptoms are not improving.  If you're taking medication, your dose may be adjusted or a different medication may work for you.   If you do not feel that your therapist is helping, a new therapist, a different type of treatment, or a consultation from a perinatal expert may help.  Some women may benefit from the additional support of day treatment program, more intensive outpatient treatment, or a brief inpatient hospitalization.
+
+If you're feeling overwhelmed, ask for more support.  The main thing is to keep trying, do not suffer in silence.  There is help.</Content>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">ppd010</ResponseID>
+<BaseQuestion id="1">If I take medication for perinatal depression will it hurt my baby?</BaseQuestion>
+</RQ>
+<RQ id="1">
+<ResponseID id="2">ppd006</ResponseID>
+<BaseQuestion id="2">What should I do if I feel like I or my loved one might hurt myself or my baby?</BaseQuestion>
+</RQ>
+<RQ id="2">
+<ResponseID id="3">ppd012</ResponseID>
+<BaseQuestion id="3">Are there support groups for perinatal depression?</BaseQuestion>
+</RQ>
+</RQs>
+<MediaList id="0">
+<Media id="0">
+<ListOrder id="0">1</ListOrder>
+<Description id="0">Tracking Antidepressant Effectiveness</Description>
+<Location id="0"><![CDATA[http://www.postpartumprogress.com/?s=medication&submit=Search]]></Location>
+<MediaType id="0">Link</MediaType>
+<FileSize id="0"></FileSize>
+</Media>
+<Media id="1">
+<ListOrder id="0">2</ListOrder>
+<Description id="0">Six Things That Can Affect How Quickly You'll Recover from PPD</Description>
+<Location id="0"><![CDATA[http://postpartumprogress.com/six-things-that-can-affect-how-quickly-youll-recover-from-postpartum-depression]]></Location>
+<MediaType id="0">Link</MediaType>
+<FileSize id="0"></FileSize>
+</Media>
+<Media id="2">
+<ListOrder id="0">3</ListOrder>
+<Description id="0">What Recovery Does NOT Look Like</Description>
+<Location id="0"><![CDATA[http://www.postpartumprogress.com/what-postpartum-depression-recovery-does-not]]></Location>
+<MediaType id="0">Link</MediaType>
+<FileSize id="0"></FileSize>
+</Media>
+<Media id="3">
+<ListOrder id="0">4</ListOrder>
+<Description id="0">Recovery from PPD is Like Playing Chutes &amp; Ladders</Description>
+<Location id="0"><![CDATA[http://www.postpartumprogress.com/how-recovery-from-postpartum-depression-is-like-playing-chutes-ladders]]></Location>
+<MediaType id="0">Link</MediaType>
+<FileSize id="0"></FileSize>
+</Media>
+<Media id="4">
+<ListOrder id="0">5</ListOrder>
+<Description id="0">Recovery from PPD: The Waiting Is the Hardest Part</Description>
+<Location id="0"><![CDATA[http://www.postpartumprogress.com/postpartum-depr]]></Location>
+<MediaType id="0">Link</MediaType>
+<FileSize id="0"></FileSize>
+</Media>
+<Media id="5">
+<ListOrder id="0">6</ListOrder>
+<Description id="0">How to Get Help</Description>
+<Location id="0"><![CDATA[http://www.cdc.gov/reproductivehealth/Depression/Treatments.htm]]></Location>
+<MediaType id="0">Link</MediaType>
+<FileSize id="0"></FileSize>
+</Media>
+</MediaList>
+</Response>
+<Response id="ppd012">
+<ResponseID id="0">ppd012</ResponseID>
+<BaseQuestion id="0">Are there support groups for perinatal depression?</BaseQuestion>
+<Content id="0">There are support groups for parents dealing with depression.  It is a sign of recovery and strength to reach out and get help and support.  Support groups help you to connect with other parents experiencing the same thing.  If you are unable to attend a support group in your area, there are online support groups as well.  For information on support groups and other social supports for mothers with perinatal depression and their partners, look in the Resources area.</Content>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">ppd013</ResponseID>
+<BaseQuestion id="1">What if I can't get help?</BaseQuestion>
+</RQ>
+<RQ id="1">
+<ResponseID id="2">ppd008</ResponseID>
+<BaseQuestion id="2">Does this mean I'm a bad parent?</BaseQuestion>
+</RQ>
+<RQ id="2">
+<ResponseID id="3">ppd011</ResponseID>
+<BaseQuestion id="3">What if treatment doesn't help?</BaseQuestion>
+</RQ>
+</RQs>
+<MediaList id="0">
+<Media id="0">
+<ListOrder id="0">1</ListOrder>
+<Description id="0">Fussy Baby Network 1.888.431.BABY (2229)</Description>
+<Location id="0"><![CDATA[http://www.erikson.edu/fussybaby/]]></Location>
+<MediaType id="0">Link</MediaType>
+<FileSize id="0"></FileSize>
+</Media>
+<Media id="1">
+<ListOrder id="0">2</ListOrder>
+<Description id="0">Stories from Real Women</Description>
+<Location id="0"><![CDATA[http://www.ppdsupportpage.com/groupmembers.html]]></Location>
+<MediaType id="0">Link</MediaType>
+<FileSize id="0"></FileSize>
+</Media>
+<Media id="2">
+<ListOrder id="0">3</ListOrder>
+<Description id="0">Hear from Mothers Who Have Recovered from PPD (Video)</Description>
+<Location id="0"><![CDATA[https://www.youtube.com/watch?v=yH3WMQO-ooU]]></Location>
+<MediaType id="0">Link</MediaType>
+<FileSize id="0"></FileSize>
+</Media>
+</MediaList>
+</Response>
+<Response id="ppd013">
+<ResponseID id="0">ppd013</ResponseID>
+<BaseQuestion id="0">What if I can't get help?</BaseQuestion>
+<Content id="0">Getting treatment for perinatal depression is a priority.  Do not give up if you're having difficulty getting help.  If the healthcare provider you speak with doesn't take your symptoms seriously, talk to another healthcare provider.  There is a guide on how to talk with your provider about perinatal depression in the Resource Area.  If you're afraid of what others will think or say, remember that this is a medical illness and is no one's fault.  Having perinatal is not a sign of weakness, but getting treatment is a sign of strength.  If you are uninsured or facing other financial barriers, there are social agencies, helplines and programs that can help.  For information on ways to find treatment and support for perinatal depression, look in the Resources area.</Content>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">ppd011</ResponseID>
+<BaseQuestion id="1">What if treatment doesn't help?</BaseQuestion>
+</RQ>
+<RQ id="1">
+<ResponseID id="2">ppd012</ResponseID>
+<BaseQuestion id="2">Are there support groups for perinatal depression?</BaseQuestion>
+</RQ>
+<RQ id="2">
+<ResponseID id="3">ppd006</ResponseID>
+<BaseQuestion id="3">What should I do if I feel like I or my loved one might hurt myself or my baby?</BaseQuestion>
+</RQ>
+<RQ id="3">
+<ResponseID id="4">ppd009</ResponseID>
+<BaseQuestion id="4">What can I do to help my loved one with perinatal depression?</BaseQuestion>
+</RQ>
+<RQ id="4">
+<ResponseID id="5">ppd007</ResponseID>
+<BaseQuestion id="5">What causes perinatal depression?</BaseQuestion>
+</RQ>
+</RQs>
+<MediaList id="0">
+<Media id="0">
+<ListOrder id="0">1</ListOrder>
+<Description id="0">Postpartum Support International</Description>
+<Location id="0"><![CDATA[http://www.postpartum.net/]]></Location>
+<MediaType id="0">Link</MediaType>
+<FileSize id="0"></FileSize>
+</Media>
+<Media id="1">
+<ListOrder id="0">2</ListOrder>
+<Description id="0">Where to Find Help</Description>
+<Location id="0"><![CDATA[http://mchb.hrsa.gov/pregnancyandbeyond/depression/wheretofindhelp.html]]></Location>
+<MediaType id="0">Link</MediaType>
+<FileSize id="0"></FileSize>
+</Media>
+<Media id="2">
+<ListOrder id="0">3</ListOrder>
+<Description id="0">Provider Search Directory</Description>
+<Location id="0"><![CDATA[http://www.mededppd.org/mothers/]]></Location>
+<MediaType id="0">Link</MediaType>
+<FileSize id="0"></FileSize>
+</Media>
+<Media id="3">
+<ListOrder id="0">4</ListOrder>
+<Description id="0">Finding a PPD Therapist</Description>
+<Location id="0"><![CDATA[http://postpartumstress.com/get-help/where-can-i-get-help/]]></Location>
+<MediaType id="0">Link</MediaType>
+<FileSize id="0"></FileSize>
+</Media>
+<Media id="4">
+<ListOrder id="0">5</ListOrder>
+<Description id="0">How do I Talk to My Healthcare Provider?</Description>
+<Location id="0"><![CDATA[http://postpartumstress.com/get-help/how-do-i-talk-to-my-doctor/]]></Location>
+<MediaType id="0">Link</MediaType>
+<FileSize id="0"></FileSize>
+</Media>
+<Media id="5">
+<ListOrder id="0">6</ListOrder>
+<Description id="0">How to Get Help If You Have No Insurance</Description>
+<Location id="0"><![CDATA[http://postpartumprogress.com/how-to-get-help-if-you-have-postpartum-depression-no-insurance]]></Location>
+<MediaType id="0">Link</MediaType>
+<FileSize id="0"></FileSize>
+</Media>
+<Media id="6">
+<ListOrder id="0">7</ListOrder>
+<Description id="0">What to Do If You Can't Get an Appointment Quickly</Description>
+<Location id="0"><![CDATA[http://postpartumprogress.com/how-to-get-help-if-you-have-postpartum-depression-no-insurance]]></Location>
+<MediaType id="0">Link</MediaType>
+<FileSize id="0"></FileSize>
+</Media>
+<Media id="7">
+<ListOrder id="0">8</ListOrder>
+<Description id="0">How to Get Help</Description>
+<Location id="0"><![CDATA[http://www.cdc.gov/reproductivehealth/Depression/Treatments.htm]]></Location>
+<MediaType id="0">Link</MediaType>
+<FileSize id="0"></FileSize>
+</Media>
+<Media id="8">
+<ListOrder id="0">9</ListOrder>
+<Description id="0">Getting Help in an Emergency</Description>
+<Location id="0"><![CDATA[http://www.postpartum.net/get-help/in-an-emergency/]]></Location>
+<MediaType id="0">Link</MediaType>
+<FileSize id="0"></FileSize>
+</Media>
+<Media id="9">
+<ListOrder id="0">10</ListOrder>
+<Description id="0">Help with Childcare</Description>
+<Location id="0"><![CDATA[http://www.postpartumprogress.com/child-care-services-for-moms-with-postpartum-depression-and-few-resources]]></Location>
+<MediaType id="0">Link</MediaType>
+<FileSize id="0"></FileSize>
+</Media>
+</MediaList>
+</Response>
+<Response id="ppd014">
+<ResponseID id="0">ppd014</ResponseID>
+<BaseQuestion id="0">How does perinatal depression affect my baby?</BaseQuestion>
+<Content id="0">Many moms worry about the way their depression will affect their baby. Depression can affect all aspects of a woman's life, sometimes including her ability to care for herself and her baby, and bond with her baby.  Often a woman's concern about her relationship with her baby is what motivates her to get treatment.  Perinatal depression is treatable, and, with treatment, moms can feel even more connected to their babies.  In fact, not getting treatment for perinatal depression exposes children to the mother's depression, which affects the entire family.  There are support services who can care for children of moms who must be hospitalized due to perinatal depression.  For more information, look in the Resources Area.</Content>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">ppd006</ResponseID>
+<BaseQuestion id="1">What should I do if I feel like I or my loved one might hurt myself or my baby?</BaseQuestion>
+</RQ>
+<RQ id="1">
+<ResponseID id="2">ppd004</ResponseID>
+<BaseQuestion id="2">Is there treatment for perinatal depression?</BaseQuestion>
+</RQ>
+<RQ id="2">
+<ResponseID id="3">ppd008</ResponseID>
+<BaseQuestion id="3">Does this mean I'm a bad parent?</BaseQuestion>
+</RQ>
+<RQ id="3">
+<ResponseID id="4">ppd013</ResponseID>
+<BaseQuestion id="4">What if I can't get help?</BaseQuestion>
+</RQ>
+</RQs>
+<MediaList id="0">
+<Media id="0">
+<ListOrder id="0">1</ListOrder>
+<Description id="0">Childcare Services for Moms with PPD</Description>
+<Location id="0"><![CDATA[http://www.postpartumprogress.com/child-care-services-for-moms-with-postpartum-depression-and-few-resources]]></Location>
+<MediaType id="0">Link</MediaType>
+<FileSize id="0"></FileSize>
+</Media>
+<Media id="1">
+<ListOrder id="0">2</ListOrder>
+<Description id="0">Safe Families</Description>
+<Location id="0"><![CDATA[http://www.safe-families.org/default.aspx]]></Location>
+<MediaType id="0">Link</MediaType>
+<FileSize id="0"></FileSize>
+</Media>
+<Media id="2">
+<ListOrder id="0">3</ListOrder>
+<Description id="0">Is Someone Holding Your PPD Diagnosis Against You?</Description>
+<Location id="0"><![CDATA[http://www.postpartumprogress.com/is-someone-holding-postpartum-depression-against-you]]></Location>
+<MediaType id="0">Link</MediaType>
+<FileSize id="0"></FileSize>
+</Media>
+</MediaList>
+</Response>
+<Response id="ppd015">
+<ResponseID id="0">ppd015</ResponseID>
+<BaseQuestion id="0">What other mood disorders happen during or after pregnancy?</BaseQuestion>
+<Content id="0">Women can experience anxiety symptoms during pregnancy and after birth; sometimes in addition to symptoms of depression. Anxiety includes a pattern of excessive worry, muscle tension, difficulty falling and staying asleep, irritability, and low energy. Anxiety can also present with sudden, out-of-the-blue panic attacks.
+
+Panic attack symptoms include sudden shortness of breath, chest pain, rapid or irregular heartbeats and tingling feelings in the arms and legs.  The attacks can seem to come out-of-the-blue, or they can happen in reaction to a stressful situation.
+Sometimes women experience scary, intrusive thoughts or mental images, called obsessions: for instance, thoughts about harm coming to the baby, miscarriage, or even the mother intentionally causing harm to the baby herself. These obsessions can be accompanied by compulsions, which are actions like cleaning or counting that are done over and over in an attempt to stop the obsessive thoughts.
+
+Women who have traumatic experiences during pregnancy or childbirth can develop postpartum PTSD which is similar to PTSD caused by other traumatic events   . This may include intrusive re-experiencing symptoms such as nightmares and flashbacks as well as persistent avoidance of distressing triggers associated with the event.
+
+Postpartum psychosis is rare but it is a serious condition requiring immediate medical help.  Women with postpartum psychosis experience delusions, which are thoughts that are not based in reality and/or hallucinations, or hearing, seeing, smelling or tasting things that aren't real.
+
+Women can also develop a new onset or worsening of bipolar disorder during pregnancy or the postpartum period. Bipolar disorder includes both the high moods of mania and hypomania as well as the low moods of depression. Mania is an extremely high mood and can involve rapid speech, little need for sleep, agitation and racing thoughts, psychosis, and risky behavior.  Hypomania is milder form of mania that may not interfere with daily activities, but may present with increased goal directed behavior and little need for sleep   Mixed states can also occur, with women experiencing both mania and depression at the same time.  In severe periods of depression or mania, psychosis, including hallucinations and delusions, can occur.
+
+If you have symptoms of mania, hypomania or depression, contact your healthcare provider immediately and be sure to tell your healthcare provider about all of your symptoms so that the correct diagnosis can be made.
+
+For more information on these disorders, look in the Resources Area.</Content>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">ppd006</ResponseID>
+<BaseQuestion id="1">What should I do if I feel like I or my loved one might hurt myself or my baby?</BaseQuestion>
+</RQ>
+<RQ id="1">
+<ResponseID id="2">ppd002</ResponseID>
+<BaseQuestion id="2">What are the symptoms of depression?</BaseQuestion>
+</RQ>
+<RQ id="2">
+<ResponseID id="3">ppd001</ResponseID>
+<BaseQuestion id="3">How is postpartum depression different from the baby blues?</BaseQuestion>
+</RQ>
+<RQ id="3">
+<ResponseID id="4">ppd005</ResponseID>
+<BaseQuestion id="4">How can I prevent perinatal depression?</BaseQuestion>
+</RQ>
+</RQs>
+<MediaList id="0">
+<Media id="0">
+<ListOrder id="0">1</ListOrder>
+<Description id="0">Karenís Story: Postpartum Psychosis (Video)</Description>
+<Location id="0"><![CDATA[http://www.mededppd.org/mothers/videos_psychosis.asp]]></Location>
+<MediaType id="0">Link</MediaType>
+<FileSize id="0"></FileSize>
+</Media>
+<Media id="1">
+<ListOrder id="0">2</ListOrder>
+<Description id="0">Angelaís Story: Postpartum Depression (Video)</Description>
+<Location id="0"><![CDATA[http://www.mededppd.org/mothers/videos_depression.asp]]></Location>
+<MediaType id="0">Link</MediaType>
+<FileSize id="0"></FileSize>
+</Media>
+<Media id="2">
+<ListOrder id="0">3</ListOrder>
+<Description id="0">When Moms with PPD Discover They Have Bipolar Disorder</Description>
+<Location id="0"><![CDATA[http://www.postpartumprogress.com/bipolar-disorder-when-moms-with-postpartum-depression-discover-theyre-bipolar]]></Location>
+<MediaType id="0">Link</MediaType>
+<FileSize id="0"></FileSize>
+</Media>
+<Media id="3">
+<ListOrder id="0">4</ListOrder>
+<Description id="0">Postpartum Psychiatric Disorders</Description>
+<Location id="0"><![CDATA[https://womensmentalhealth.org/specialty-clinics/postpartum-psychiatric-disorders/]]></Location>
+<MediaType id="0">Link</MediaType>
+<FileSize id="0"></FileSize>
+</Media>
+<Media id="4">
+<ListOrder id="0">5</ListOrder>
+<Description id="0">Depression and Pregnancy</Description>
+<Location id="0"><![CDATA[http://www.womenshealth.gov/publications/our-publications/fact-sheet/depression-pregnancy.html]]></Location>
+<MediaType id="0">Link</MediaType>
+<FileSize id="0"></FileSize>
+</Media>
+<Media id="5">
+<ListOrder id="0">6</ListOrder>
+<Description id="0">FAQs on Postpartum Related Psychiatric Illnesses</Description>
+<Location id="0"><![CDATA[http://www.postpartumprogress.com/frequently-asked-questions-on-postpartum-depression-related-illnesses]]></Location>
+<MediaType id="0">Link</MediaType>
+<FileSize id="0"></FileSize>
+</Media>
+</MediaList>
+</Response>
+<Response id="ppd016">
+<ResponseID id="0">ppd016</ResponseID>
+<BaseQuestion id="0">General Introduction</BaseQuestion>
+<Content id="0">Hello my name is Dr. Van Nickell.  I'm the chair of department of psychiatry for Allegheny Health Network.  Welcome to our program on postpartum depression.  The period after birth is a time of great change.  New parents may be confused and overwhelmed by the range of emotions they experience.  If you have questions about postpartum depression type your questions into the Ask box below, or click on the menu to your left to explore the topics that interest you most.  Along the way, we'll display links to related questions to the right of the page.  And, you can click on the Resource link at the top of the page to display a list of documents and websites with even more information on the subjects you ask about.  Go ahead, type in a question now, or click on a link to start a conversation.</Content>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">ppd001</ResponseID>
+<BaseQuestion id="1">How is postpartum depression different from the baby blues?</BaseQuestion>
+</RQ>
+<RQ id="1">
+<ResponseID id="2">ppd002</ResponseID>
+<BaseQuestion id="2">What are the symptoms of depression?</BaseQuestion>
+</RQ>
+<RQ id="2">
+<ResponseID id="3">ppd003</ResponseID>
+<BaseQuestion id="3">Who can get perinatal depression?</BaseQuestion>
+</RQ>
+<RQ id="3">
+<ResponseID id="4">ppd008</ResponseID>
+<BaseQuestion id="4">Does this mean I'm a bad parent?</BaseQuestion>
+</RQ>
+</RQs>
+</Response>
+<Response id="ppd017">
+<ResponseID id="0">ppd017</ResponseID>
+<BaseQuestion id="0">Smart Patients Welcome</BaseQuestion>
+<Content id="0">Hello and welcome.  My name is Dr. Van Nickel. I'm the system chair for psychiatry at the Allegheny Health Network. We have collected answers to the most commonly asked questions about postpartum depression for our Smart Patient members.  Type your questions into the Ask box below, or click on the menu to the left to explore the topics that interest you most.  Along the way, we'll display links to related questions to the right of the page.  And, you can click on the Resource link at the top of the page to display a list of documents and websites with even more information on the subjects you ask about.  Go ahead, type in a question now, or click on a link to start a conversation.</Content>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">ppd001</ResponseID>
+<BaseQuestion id="1">How is postpartum depression different from the baby blues?</BaseQuestion>
+</RQ>
+<RQ id="1">
+<ResponseID id="2">ppd002</ResponseID>
+<BaseQuestion id="2">What are the symptoms of depression?</BaseQuestion>
+</RQ>
+<RQ id="2">
+<ResponseID id="3">ppd003</ResponseID>
+<BaseQuestion id="3">Who can get perinatal depression?</BaseQuestion>
+</RQ>
+<RQ id="3">
+<ResponseID id="4">ppd008</ResponseID>
+<BaseQuestion id="4">Does this mean I'm a bad parent?</BaseQuestion>
+</RQ>
+</RQs>
+</Response>
+<Response id="ppd021">
+<ResponseID id="0">ppd021</ResponseID>
+<BaseQuestion id="0">How can I get more information?</BaseQuestion>
+<Content id="0">For more information on perinatal depression or related issues, please contact Allegheny Health Network using the contact information in the Resource Area.</Content>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">ppd015</ResponseID>
+<BaseQuestion id="1">What other mood disorders happen during or after pregnancy?</BaseQuestion>
+</RQ>
+<RQ id="1">
+<ResponseID id="2">ppd012</ResponseID>
+<BaseQuestion id="2">Are there support groups for perinatal depression?</BaseQuestion>
+</RQ>
+<RQ id="2">
+<ResponseID id="3">ppd013</ResponseID>
+<BaseQuestion id="3">What if I can't get help?</BaseQuestion>
+</RQ>
+<RQ id="3">
+<ResponseID id="4">ppd006</ResponseID>
+<BaseQuestion id="4">What should I do if I feel like I or my loved one might hurt myself or my baby?</BaseQuestion>
+</RQ>
+</RQs>
+</Response>
+<Response id="ppd022">
+<ResponseID id="0">ppd022</ResponseID>
+<BaseQuestion id="0">How to use this site</BaseQuestion>
+<Content id="0">Type your questions into the Ask box below, or click on the menu to your left to explore the topics that interest you most.  Along the way, we'll display links to related questions to the right of the page.  And, you can click on the Resource link at the top of the page to display a list of documents and websites with even more information on the subjects you ask about.  Go ahead, type in a question now, or click on a link to start a conversation.</Content>
+</Response>
+<Response id="ppd026">
+<ResponseID id="0">ppd026</ResponseID>
+<BaseQuestion id="0">Updates Coming Soon</BaseQuestion>
+<Content id="0">Thank you for your question.  We have links to information on that topic in the Resource Area.  If you would like additional information, please speak to your healthcare provider.</Content>
+</Response>
+<Response id="shame">
+<ResponseID id="0">shame</ResponseID>
+<BaseQuestion id="0">Shame Response</BaseQuestion>
+<Content id="0">We're here to help you learn about perinatal depression.  Please keep your questions and comments respectful and on topic.</Content>
+</Response>
+</xml>

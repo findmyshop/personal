@@ -1,0 +1,777 @@
+<xml>
+<Response id="adh001">
+<ResponseID id="0">adh001</ResponseID>
+<BaseQuestion id="0">I don't have an answer to that question.</BaseQuestion>
+<Content id="0">I don't have an answer to that question. Please contact a member of the study staff for more information or ask a new question.</Content>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">adh008</ResponseID>
+<BaseQuestion id="1">Contact information requests (i.e., How do I get in touch with you?)  </BaseQuestion>
+</RQ>
+<RQ id="1">
+<ResponseID id="2">adh101</ResponseID>
+<BaseQuestion id="2">What is a clinical research study?</BaseQuestion>
+</RQ>
+<RQ id="2">
+<ResponseID id="3">adh104</ResponseID>
+<BaseQuestion id="3">What are the phases of clinical research?</BaseQuestion>
+</RQ>
+<RQ id="3">
+<ResponseID id="4">adh279</ResponseID>
+<BaseQuestion id="4">Why is clinical research important?</BaseQuestion>
+</RQ>
+</RQs>
+</Response>
+<Response id="adh002">
+<ResponseID id="0">adh002</ResponseID>
+<BaseQuestion id="0">Shame</BaseQuestion>
+<Content id="0">Please keep your questions and comments respectful and on topic. Thank you!</Content>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">adh008</ResponseID>
+<BaseQuestion id="1">Contact information requests (i.e., How do I get in touch with you?)  </BaseQuestion>
+</RQ>
+<RQ id="1">
+<ResponseID id="2">adh101</ResponseID>
+<BaseQuestion id="2">What is a clinical research study?</BaseQuestion>
+</RQ>
+<RQ id="2">
+<ResponseID id="3">adh104</ResponseID>
+<BaseQuestion id="3">What are the phases of clinical research?</BaseQuestion>
+</RQ>
+<RQ id="3">
+<ResponseID id="4">adh279</ResponseID>
+<BaseQuestion id="4">Why is clinical research important?</BaseQuestion>
+</RQ>
+</RQs>
+</Response>
+<Response id="adh003">
+<ResponseID id="0">adh003</ResponseID>
+<BaseQuestion id="0">I can think of more than one answer for your question</BaseQuestion>
+<Content id="0">I can think of more than one answer for your question. Which would you like to hear first?  Select a question from the list to your right.</Content>
+</Response>
+<Response id="adh004">
+<ResponseID id="0">adh004</ResponseID>
+<BaseQuestion id="0">Word count exceeded</BaseQuestion>
+<Content id="0">Please limit your questions to 50 words or less.</Content>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">adh008</ResponseID>
+<BaseQuestion id="1">Contact information requests (i.e., How do I get in touch with you?)  </BaseQuestion>
+</RQ>
+<RQ id="1">
+<ResponseID id="2">adh101</ResponseID>
+<BaseQuestion id="2">What is a clinical research study?</BaseQuestion>
+</RQ>
+<RQ id="2">
+<ResponseID id="3">adh104</ResponseID>
+<BaseQuestion id="3">What are the phases of clinical research?</BaseQuestion>
+</RQ>
+<RQ id="3">
+<ResponseID id="4">adh279</ResponseID>
+<BaseQuestion id="4">Why is clinical research important?</BaseQuestion>
+</RQ>
+</RQs>
+</Response>
+<Response id="adh005">
+<ResponseID id="0">adh005</ResponseID>
+<BaseQuestion id="0">Introduction to Program</BaseQuestion>
+<Content id="0">The goal of this website is to help you learn more about clinical studies. I invite you to explore this website. If you have a question, type it into the box below and I will provide the closest available pre-recorded response. This website is not intended to provide medical advice or to replace a conversation with your healthcare provider or a member of the study team. If you have unanswered questions after exploring this website, you should take them to your healthcare provider or a member of the study team. This website cannot provide answers specific to your diagnosis or other medical advice. This website is not intended for reporting adverse events or product complaints.</Content>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">adh006</ResponseID>
+<BaseQuestion id="1">Instructions for how to use the site  </BaseQuestion>
+</RQ>
+<RQ id="1">
+<ResponseID id="2">adh101</ResponseID>
+<BaseQuestion id="2">What is a clinical research study?</BaseQuestion>
+</RQ>
+</RQs>
+</Response>
+<Response id="adh006">
+<ResponseID id="0">adh006</ResponseID>
+<BaseQuestion id="0">Instructions for how to use the site  </BaseQuestion>
+<Content id="0">You can explore the website by typing your question into the text box or by clicking on a frequently asked question from the menu on the left. You can also select from related questions using the menu on the right. If you need assistance, click on the help button.</Content>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">adh005</ResponseID>
+<BaseQuestion id="1">Introduction to Program</BaseQuestion>
+</RQ>
+<RQ id="1">
+<ResponseID id="2">adh101</ResponseID>
+<BaseQuestion id="2">What is a clinical research study?</BaseQuestion>
+</RQ>
+</RQs>
+</Response>
+<Response id="adh007">
+<ResponseID id="0">adh007</ResponseID>
+<BaseQuestion id="0">Who are you?</BaseQuestion>
+<Content id="0">This website is operated and managed by MMG on behalf of Shire. I'm here to answer your questions about clinical research studies and study participation.</Content>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">adh008</ResponseID>
+<BaseQuestion id="1">Contact information requests (i.e., How do I get in touch with you?)  </BaseQuestion>
+</RQ>
+<RQ id="1">
+<ResponseID id="2">adh101</ResponseID>
+<BaseQuestion id="2">What is a clinical research study?</BaseQuestion>
+</RQ>
+<RQ id="2">
+<ResponseID id="3">adh104</ResponseID>
+<BaseQuestion id="3">What are the phases of clinical research?</BaseQuestion>
+</RQ>
+<RQ id="3">
+<ResponseID id="4">adh279</ResponseID>
+<BaseQuestion id="4">Why is clinical research important?</BaseQuestion>
+</RQ>
+</RQs>
+</Response>
+<Response id="adh008">
+<ResponseID id="0">adh008</ResponseID>
+<BaseQuestion id="0">Contact information requests (i.e., How do I get in touch with you?)  </BaseQuestion>
+<Content id="0">Please contact a member of the study staff for more information.</Content>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">adh101</ResponseID>
+<BaseQuestion id="1">What is a clinical research study?</BaseQuestion>
+</RQ>
+<RQ id="1">
+<ResponseID id="2">adh104</ResponseID>
+<BaseQuestion id="2">What are the phases of clinical research?</BaseQuestion>
+</RQ>
+<RQ id="2">
+<ResponseID id="3">adh279</ResponseID>
+<BaseQuestion id="3">Why is clinical research important?</BaseQuestion>
+</RQ>
+</RQs>
+</Response>
+<Response id="adh009">
+<ResponseID id="0">adh009</ResponseID>
+<BaseQuestion id="0">Landing Page Video Welcome</BaseQuestion>
+<Content id="0">Hello! I'll be answering your questions today.</Content>
+</Response>
+<Response id="adh010">
+<ResponseID id="0">adh010</ResponseID>
+<BaseQuestion id="0"></BaseQuestion>
+<Content id="0">Thank you for your interest in clinical research studies. I'm here to answer questions you may have about clinical studies and participating in a study. Check the box on the right to accept the terms of use, and then click the enter website button to access the question area. Let's get started!</Content>
+</Response>
+<Response id="adh101">
+<ResponseID id="0">adh101</ResponseID>
+<BaseQuestion id="0">What is a clinical research study?</BaseQuestion>
+<Content id="0">A clinical research study, also called a clinical trial, looks at an investigational drug or medical device to see if it is safe, how it works in the body, and if it works to treat a specific disease. The term "investigational" means that the U.S. Food and Drug Administration, or FDA, has not approved the drug or medical device that is being studied for use in a particular condition or disease. Clinical studies are run by doctors who are responsible for the study participants' study-related care. In the United States, the FDA, requires several phases of clinical research be performed to better understand the safety and effectiveness of investigational new drugs and certain medical devices.</Content>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">adh104</ResponseID>
+<BaseQuestion id="1">What are the phases of clinical research?</BaseQuestion>
+</RQ>
+<RQ id="1">
+<ResponseID id="2">adh108</ResponseID>
+<BaseQuestion id="2">What is a clinical study protocol?</BaseQuestion>
+</RQ>
+<RQ id="2">
+<ResponseID id="3">adh279</ResponseID>
+<BaseQuestion id="3">Why is clinical research important?</BaseQuestion>
+</RQ>
+</RQs>
+</Response>
+<Response id="adh102">
+<ResponseID id="0">adh102</ResponseID>
+<BaseQuestion id="0">How are participants in a clinical research study protected?</BaseQuestion>
+<Content id="0">Each clinical research study follows a carefully controlled written research plan called a protocol, which describes what the researchers will do in the study. The protocol includes safeguards like criteria for study participation and instructions on how study staff are to conduct the study.
+
+All clinical research studies and their protocols are overseen by regulatory agencies and ethics committees around the world that help protect the interests and safety of study participants. In the United States, clinical research is regulated by the U.S. Food and Drug Administration, often referred to as the FDA. Clinical research studies in the United States are also monitored by ethics committees called Institutional Review Boards or IRBs. An IRB is a committee of independent doctors, nurses, and members of the community who help review clinical research to ensure that the rights of study participants are protected. IRBs are specific to the United States, while countries outside the United States use the term Ethics Committees.</Content>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">adh107</ResponseID>
+<BaseQuestion id="1">What is an Institutional Review Board (IRB) / Ethics Committee (EC)?</BaseQuestion>
+</RQ>
+<RQ id="1">
+<ResponseID id="2">adh124</ResponseID>
+<BaseQuestion id="2">What is informed consent?</BaseQuestion>
+</RQ>
+<RQ id="2">
+<ResponseID id="3">adh137</ResponseID>
+<BaseQuestion id="3">Will personal information be kept confidential? </BaseQuestion>
+</RQ>
+</RQs>
+</Response>
+<Response id="adh104">
+<ResponseID id="0">adh104</ResponseID>
+<BaseQuestion id="0">What are the phases of clinical research?</BaseQuestion>
+<Content id="0">Clinical research studies for investigational drugs are done in steps or "phases." Each clinical phase has a different purpose and helps the study researchers answer specific questions about what is being tested. These phases are designed to minimize risk to study participants and advance clinical research by demonstrating whether an investigational drug is likely to be safe and beneficial to patients with a particular disease or condition. If an investigational drug fails during any clinical phase, it cannot continue or move into the next phase of research.
+
+First comes pre-clinical testing, where an investigational drug is tested in a laboratory for safety and potential effectiveness before it can be tested in humans. From there, the investigational drug moves into clinical studies, which generally fit into one of four phases. Phase I studies evaluate the safety and side effects of an investigational drug in a small group of people. Phase II studies evaluate the effectiveness of the drug in people with a particular disease or condition. They further identify the common short-term side effects and risks associated with the investigational drug. Phase II studies are usually conducted with a larger group of people than Phase I studies. Phase III studies further evaluate an investigational drug's safety, effectiveness, and side effects in an even larger group of people. Phase III studies help to confirm the findings of earlier research and may compare the investigational drug to existing approved treatments or to no treatment, such as placebo. Phase IV refers to any ongoing testing of a drug that occurs after a drug has been approved and made available to the general public, most often to evaluate its long-term effectiveness.</Content>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">adh101</ResponseID>
+<BaseQuestion id="1">What is a clinical research study?</BaseQuestion>
+</RQ>
+<RQ id="1">
+<ResponseID id="2">adh112</ResponseID>
+<BaseQuestion id="2">What is a placebo?</BaseQuestion>
+</RQ>
+<RQ id="2">
+<ResponseID id="3">adh279</ResponseID>
+<BaseQuestion id="3">Why is clinical research important?</BaseQuestion>
+</RQ>
+</RQs>
+</Response>
+<Response id="adh105">
+<ResponseID id="0">adh105</ResponseID>
+<BaseQuestion id="0">Who runs a clinical research study?</BaseQuestion>
+<Content id="0">A clinical study is typically run by a team that includes qualified doctors and other healthcare professionals who provide study-related care and monitor the health of each study participant.</Content>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">adh107</ResponseID>
+<BaseQuestion id="1">What is an Institutional Review Board (IRB) / Ethics Committee (EC)?</BaseQuestion>
+</RQ>
+</RQs>
+</Response>
+<Response id="adh107">
+<ResponseID id="0">adh107</ResponseID>
+<BaseQuestion id="0">What is an Institutional Review Board (IRB) / Ethics Committee (EC)?</BaseQuestion>
+<Content id="0">An Institutional Review Board, often referred to as an IRB, is a committee of independent doctors, nurses, and members of the community who help review and monitor clinical research to ensure the welfare,  privacy, and rights of study participants are protected. An Ethics Committee, often called an EC, is similar to an IRB. IRBs are specific to the United States, while countries outside the United States use ECs.</Content>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">adh102</ResponseID>
+<BaseQuestion id="1">How are participants in a clinical research study protected?</BaseQuestion>
+</RQ>
+<RQ id="1">
+<ResponseID id="2">adh105</ResponseID>
+<BaseQuestion id="2">Who runs a clinical research study?</BaseQuestion>
+</RQ>
+</RQs>
+</Response>
+<Response id="adh108">
+<ResponseID id="0">adh108</ResponseID>
+<BaseQuestion id="0">What is a clinical study protocol?</BaseQuestion>
+<Content id="0">A protocol is a written research plan that describes a clinical research study and how it will be performed. A protocol defines the goals of the study, participation requirements (called inclusion and exclusion criteria), how long the study will last, the schedule of tests and procedures, and other key study information. The study team follows the protocol closely to ensure they run the study correctly. Using a clinical study protocol helps to ensure that multiple clinical study teams at various locations use the same standards for the study. This allows data to be combined from all study sites for analysis and evaluation. Protocols for studies being conducted in the U.S. must be reviewed and approved by the U.S. Food and Drug Administration or FDA. Protocols for studies being conducted outside the U.S. must be reviewed and approved by the appropriate countries' regulatory authorities.</Content>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">adh101</ResponseID>
+<BaseQuestion id="1">What is a clinical research study?</BaseQuestion>
+</RQ>
+<RQ id="1">
+<ResponseID id="2">adh104</ResponseID>
+<BaseQuestion id="2">What are the phases of clinical research?</BaseQuestion>
+</RQ>
+<RQ id="2">
+<ResponseID id="3">adh109</ResponseID>
+<BaseQuestion id="3">Can participants get a copy of a study protocol?</BaseQuestion>
+</RQ>
+</RQs>
+</Response>
+<Response id="adh109">
+<ResponseID id="0">adh109</ResponseID>
+<BaseQuestion id="0">Can participants get a copy of a study protocol?</BaseQuestion>
+<Content id="0">Study participants typically do not see the protocol. Instead, they will be given an informed consent form that details the goals of the clinical research study, participants' responsibilities, rights, and the potential risks and benefits of participating.</Content>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">adh108</ResponseID>
+<BaseQuestion id="1">What is a clinical study protocol?</BaseQuestion>
+</RQ>
+<RQ id="1">
+<ResponseID id="2">adh127</ResponseID>
+<BaseQuestion id="2">What rights does the participant have in a clinical study?</BaseQuestion>
+</RQ>
+</RQs>
+</Response>
+<Response id="adh112">
+<ResponseID id="0">adh112</ResponseID>
+<BaseQuestion id="0">What is a placebo?</BaseQuestion>
+<Content id="0">A placebo looks like the investigational drug, but has no active chemical ingredients. This means, it is designed to have no effect on patients. Placebos are used in certain types of clinical research studies where some participants receive placebo while others receive the investigational drug. This direct comparison helps the researchers see whether the investigational drug being studied is more effective than no treatment at all.</Content>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">adh104</ResponseID>
+<BaseQuestion id="1">What are the phases of clinical research?</BaseQuestion>
+</RQ>
+<RQ id="1">
+<ResponseID id="2">adh107</ResponseID>
+<BaseQuestion id="2">What is an Institutional Review Board (IRB) / Ethics Committee (EC)?</BaseQuestion>
+</RQ>
+<RQ id="2">
+<ResponseID id="3">adh119</ResponseID>
+<BaseQuestion id="3">Is there any way to make sure that a participant gets the investigational drug instead of the placebo or an approved treatment?</BaseQuestion>
+</RQ>
+<RQ id="3">
+<ResponseID id="4">adh119a</ResponseID>
+<BaseQuestion id="4">What is randomization? / Why is a study randomized?</BaseQuestion>
+</RQ>
+</RQs>
+</Response>
+<Response id="adh114">
+<ResponseID id="0">adh114</ResponseID>
+<BaseQuestion id="0">Are there risks involved in clinical study participation? </BaseQuestion>
+<Content id="0">Risks vary depending on the study. Known and possible risks will be fully explained by the study doctor, including new information about risks that becomes available over the course of the clinical research study. Further detail is included in the informed consent form.</Content>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">adh102</ResponseID>
+<BaseQuestion id="1">How are participants in a clinical research study protected?</BaseQuestion>
+</RQ>
+<RQ id="1">
+<ResponseID id="2">adh127</ResponseID>
+<BaseQuestion id="2">What rights does the participant have in a clinical study?</BaseQuestion>
+</RQ>
+</RQs>
+</Response>
+<Response id="adh115">
+<ResponseID id="0">adh115</ResponseID>
+<BaseQuestion id="0">What if the study treatment does not work? </BaseQuestion>
+<Content id="0">Participants may or may not directly benefit from participating in a clinical research study. The results of the study will help researchers assess whether or not the study drug is effective. The study drug may also benefit some people while not helping others. Participants are encouraged to discuss any health concerns with their study doctor and regular healthcare provider at any time.</Content>
+</Response>
+<Response id="adh119">
+<ResponseID id="0">adh119</ResponseID>
+<BaseQuestion id="0">Is there any way to make sure that a participant gets the investigational drug instead of the placebo or an approved treatment?</BaseQuestion>
+<Content id="0">In randomized clinical research studies, there is no way to ensure a participant gets a particular study treatment. This is done so that researchers can evaluate the study treatments without any unintentional biases or input from the study team. Study participants are informed about the different study treatments and their chances of receiving each during the informed consent process.</Content>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">adh104</ResponseID>
+<BaseQuestion id="1">What are the phases of clinical research?</BaseQuestion>
+</RQ>
+<RQ id="1">
+<ResponseID id="2">adh119a</ResponseID>
+<BaseQuestion id="2">What is randomization? / Why is a study randomized?</BaseQuestion>
+</RQ>
+</RQs>
+</Response>
+<Response id="adh119a">
+<ResponseID id="0">adh119a</ResponseID>
+<BaseQuestion id="0">What is randomization? / Why is a study randomized?</BaseQuestion>
+<Content id="0">Randomization is a process whereby study participants are randomly assigned (like flipping a coin) to separate groups. Each group receives a different study treatment for comparison. 
+
+In most clinical research studies, a participant is not allowed to know which study treatment he or she is receiving. In many studies, even the study doctor and staff do not know which participants are receiving which study treatment. This is done so researchers and patients do not expect certain results based on which study treatment is received. This would be called an "unintentional bias."
+
+The randomization process allows researchers to evaluate the study treatments without any unintentional biases or input from the study team.</Content>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">adh104</ResponseID>
+<BaseQuestion id="1">What are the phases of clinical research?</BaseQuestion>
+</RQ>
+<RQ id="1">
+<ResponseID id="2">adh119</ResponseID>
+<BaseQuestion id="2">Is there any way to make sure that a participant gets the investigational drug instead of the placebo or an approved treatment?</BaseQuestion>
+</RQ>
+</RQs>
+</Response>
+<Response id="adh123">
+<ResponseID id="0">adh123</ResponseID>
+<BaseQuestion id="0">Should participants talk to their regular healthcare provider about study participation?</BaseQuestion>
+<Content id="0">It is recommended that study participants inform their regular healthcare provider about their participation in a study. Healthcare providers can be a good source of information on whether a clinical research study is an option for a particular patient, but it is ultimately the patient's decision whether or not to participate.</Content>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">adh129</ResponseID>
+<BaseQuestion id="1">Can participants get a second opinion before making a decision to participate?</BaseQuestion>
+</RQ>
+<RQ id="1">
+<ResponseID id="2">adh202</ResponseID>
+<BaseQuestion id="2">	Will participants have to permanently switch from their regular healthcare providers / doctors once enrolled in a study?</BaseQuestion>
+</RQ>
+</RQs>
+</Response>
+<Response id="adh124">
+<ResponseID id="0">adh124</ResponseID>
+<BaseQuestion id="0">What is informed consent?</BaseQuestion>
+<Content id="0">The informed consent process and informed consent form help patients decide whether or not to participate in a clinical research study. The informed consent form provides key information about a study, such as the purpose of the research, its potential risks and benefits, what is required of study participants, and the rights of study participants. 
+
+Before joining any clinical research study, potential participants who are age 18 or older and of sound body and mind are required to sign an informed consent form to acknowledge that they were provided information about the study and possible risks of participation and that they agreed to participate in the research. For children who are younger than 18 years old and adults who are unable to provide written consent for themselves, a parent or guardian will be required to sign the informed consent form for their child. Children may also be asked to sign a simplified version called an informed assent form.  
+
+Participants can choose to leave the study at any time and for any reason, even after signing the informed consent form.</Content>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">adh126</ResponseID>
+<BaseQuestion id="1">What if participants do not understand the informed consent form?</BaseQuestion>
+</RQ>
+<RQ id="1">
+<ResponseID id="2">adh127</ResponseID>
+<BaseQuestion id="2">What rights does the participant have in a clinical study?</BaseQuestion>
+</RQ>
+</RQs>
+</Response>
+<Response id="adh126">
+<ResponseID id="0">adh126</ResponseID>
+<BaseQuestion id="0">What if participants do not understand the informed consent form?</BaseQuestion>
+<Content id="0">The informed consent form describes the clinical research study, including the purpose of the research, its potential risks and benefits, what is required of study participants, and the rights of study participants. During the informed consent process, the study team will provide potential participants with the informed consent form to help address any questions they may have about the study. Potential participants should ask the study team to explain any words or information that they do not clearly understand.   
+
+An informed consent form should only be signed after all questions have been fully addressed by the study team and the potential study participant is comfortable with the answers. Potential participants should take as long as they need to feel comfortable with their decision regarding whether or not to join the clinical research study.</Content>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">adh124</ResponseID>
+<BaseQuestion id="1">What is informed consent?</BaseQuestion>
+</RQ>
+<RQ id="1">
+<ResponseID id="2">adh129</ResponseID>
+<BaseQuestion id="2">Can participants get a second opinion before making a decision to participate?</BaseQuestion>
+</RQ>
+</RQs>
+</Response>
+<Response id="adh127">
+<ResponseID id="0">adh127</ResponseID>
+<BaseQuestion id="0">What rights does the participant have in a clinical study?</BaseQuestion>
+<Content id="0">It is always the choice of the potential participant whether or not to be in a clinical research study. Potential participants must also be given enough time to make that decision without any pressure from the study team. Study participants have the right to withdraw from the study at any time and for any reason without any effect on their routine medical care.
+
+Participants have the right to be told why the clinical research study is being done, what will be required of them as study participants, as well as any possible or known risks, discomforts, or side effects that may occur during the study. Participants will also be informed of the steps the study team will take to protect their personal health information, and to ensure that personal data collected during the clinical research study will be used only for the purposes explained to the participant prior to agreeing to participate in the study. The study team must answer all of a participant's questions at any time and provide a copy of the signed informed consent form.</Content>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">adh107</ResponseID>
+<BaseQuestion id="1">What is an Institutional Review Board (IRB) / Ethics Committee (EC)?</BaseQuestion>
+</RQ>
+<RQ id="1">
+<ResponseID id="2">adh124</ResponseID>
+<BaseQuestion id="2">What is informed consent?</BaseQuestion>
+</RQ>
+<RQ id="2">
+<ResponseID id="3">adh130</ResponseID>
+<BaseQuestion id="3"> If participants decide not to participate in a study now, can they change their minds later?</BaseQuestion>
+</RQ>
+<RQ id="3">
+<ResponseID id="4">adh132</ResponseID>
+<BaseQuestion id="4">	How long do potential participants have to make a decision about whether or not to participate?</BaseQuestion>
+</RQ>
+</RQs>
+</Response>
+<Response id="adh129">
+<ResponseID id="0">adh129</ResponseID>
+<BaseQuestion id="0">Can participants get a second opinion before making a decision to participate?</BaseQuestion>
+<Content id="0">Potential participants are free to get as many opinions as they want before making a decision about whether or not to participate in a clinical study. A second opinion from another healthcare provider, such as a primary care doctor, can help a potential participant to better understand and evaluate the available options.
+
+It may also be helpful to discuss the study with family members or friends before making a decision to participate.</Content>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">adh123</ResponseID>
+<BaseQuestion id="1">Should participants talk to their regular healthcare provider about study participation?</BaseQuestion>
+</RQ>
+<RQ id="1">
+<ResponseID id="2">adh127</ResponseID>
+<BaseQuestion id="2">What rights does the participant have in a clinical study?</BaseQuestion>
+</RQ>
+<RQ id="2">
+<ResponseID id="3">adh130</ResponseID>
+<BaseQuestion id="3"> If participants decide not to participate in a study now, can they change their minds later?</BaseQuestion>
+</RQ>
+<RQ id="3">
+<ResponseID id="4">adh132</ResponseID>
+<BaseQuestion id="4">	How long do potential participants have to make a decision about whether or not to participate?</BaseQuestion>
+</RQ>
+</RQs>
+</Response>
+<Response id="adh130">
+<ResponseID id="0">adh130</ResponseID>
+<BaseQuestion id="0"> If participants decide not to participate in a study now, can they change their minds later?</BaseQuestion>
+<Content id="0">As long as a study is still accepting patients and the potential participant still qualifies, he or she may decide to enroll in the study at any time.</Content>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">adh124</ResponseID>
+<BaseQuestion id="1">What is informed consent?</BaseQuestion>
+</RQ>
+<RQ id="1">
+<ResponseID id="2">adh127</ResponseID>
+<BaseQuestion id="2">What rights does the participant have in a clinical study?</BaseQuestion>
+</RQ>
+<RQ id="2">
+<ResponseID id="3">adh132</ResponseID>
+<BaseQuestion id="3">	How long do potential participants have to make a decision about whether or not to participate?</BaseQuestion>
+</RQ>
+<RQ id="3">
+<ResponseID id="4">adh207</ResponseID>
+<BaseQuestion id="4">Where can participants find out about studies for a disease or condition?</BaseQuestion>
+</RQ>
+</RQs>
+</Response>
+<Response id="adh131">
+<ResponseID id="0">adh131</ResponseID>
+<BaseQuestion id="0">Will there be other opportunities to enroll in a clinical study?</BaseQuestion>
+<Content id="0">It is difficult to say whether a particular patient will have opportunities to participate in other clinical research studies. Although new investigational drugs and medical devices are continually being researched in clinical studies, there is no guarantee that the patient will be eligible for another study. Patients can talk to their regular healthcare provider to learn more about other clinical research opportunities that may be available.</Content>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">adh130</ResponseID>
+<BaseQuestion id="1"> If participants decide not to participate in a study now, can they change their minds later?</BaseQuestion>
+</RQ>
+<RQ id="1">
+<ResponseID id="2">adh132</ResponseID>
+<BaseQuestion id="2">	How long do potential participants have to make a decision about whether or not to participate?</BaseQuestion>
+</RQ>
+<RQ id="2">
+<ResponseID id="3">adh207</ResponseID>
+<BaseQuestion id="3">Where can participants find out about studies for a disease or condition?</BaseQuestion>
+</RQ>
+</RQs>
+</Response>
+<Response id="adh132">
+<ResponseID id="0">adh132</ResponseID>
+<BaseQuestion id="0">	How long do potential participants have to make a decision about whether or not to participate?</BaseQuestion>
+<Content id="0">Potential participants should take as long as they need to feel comfortable with their decision regarding whether or not to join the clinical research study. As long as the study is still accepting patients and the potential participant still qualifies, he or she may decide to enroll in the study at any time.</Content>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">adh127</ResponseID>
+<BaseQuestion id="1">What rights does the participant have in a clinical study?</BaseQuestion>
+</RQ>
+<RQ id="1">
+<ResponseID id="2">adh130</ResponseID>
+<BaseQuestion id="2"> If participants decide not to participate in a study now, can they change their minds later?</BaseQuestion>
+</RQ>
+<RQ id="2">
+<ResponseID id="3">adh207</ResponseID>
+<BaseQuestion id="3">Where can participants find out about studies for a disease or condition?</BaseQuestion>
+</RQ>
+</RQs>
+</Response>
+<Response id="adh137">
+<ResponseID id="0">adh137</ResponseID>
+<BaseQuestion id="0">Will personal information be kept confidential? </BaseQuestion>
+<Content id="0">Personal information collected in clinical studies is kept confidential. The study team can only share data for research purposes. Data that is important for the study will be shared with the study Sponsor but only after the participants' names have been removed. The study team is not allowed to publicly disclose any participants' names in connection with the study.</Content>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">adh138</ResponseID>
+<BaseQuestion id="1">Do study participants' family/friends need to know about their participation in a clinical research study?</BaseQuestion>
+</RQ>
+<RQ id="1">
+<ResponseID id="2">adh242</ResponseID>
+<BaseQuestion id="2">Who will have access to participant medical records? </BaseQuestion>
+</RQ>
+</RQs>
+</Response>
+<Response id="adh138">
+<ResponseID id="0">adh138</ResponseID>
+<BaseQuestion id="0">Do study participants' family/friends need to know about their participation in a clinical research study?</BaseQuestion>
+<Content id="0">It is up to the individual participant who to tell about his or her participation in a clinical research study.
+ 
+The study team will not share any information about a participant unless that participant or the participant's legal guardian gives them permission to do so.</Content>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">adh123</ResponseID>
+<BaseQuestion id="1">Should participants talk to their regular healthcare provider about study participation?</BaseQuestion>
+</RQ>
+<RQ id="1">
+<ResponseID id="2">adh137</ResponseID>
+<BaseQuestion id="2">Will personal information be kept confidential? </BaseQuestion>
+</RQ>
+<RQ id="2">
+<ResponseID id="3">adh242</ResponseID>
+<BaseQuestion id="3">Who will have access to participant medical records? </BaseQuestion>
+</RQ>
+</RQs>
+</Response>
+<Response id="adh155a">
+<ResponseID id="0">adh155a</ResponseID>
+<BaseQuestion id="0">Are study participants paid for participation?  </BaseQuestion>
+<Content id="0">No, but most studies offer reimbursement for reasonable travel expenses. Talk to the study team for more information.</Content>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">adh281</ResponseID>
+<BaseQuestion id="1">Do study participants have to pay to participate?</BaseQuestion>
+</RQ>
+</RQs>
+</Response>
+<Response id="adh178">
+<ResponseID id="0">adh178</ResponseID>
+<BaseQuestion id="0">What happens after a participant completes a study? </BaseQuestion>
+<Content id="0">For most studies, participants are not required to do anything further once they complete their final study visit. For some studies, the study staff may need to continue monitoring participants for a certain amount of time after the study ends, which is typically done through phone interviews.</Content>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">adh207</ResponseID>
+<BaseQuestion id="1">Where can participants find out about studies for a disease or condition?</BaseQuestion>
+</RQ>
+<RQ id="1">
+<ResponseID id="2">adh279</ResponseID>
+<BaseQuestion id="2">Why is clinical research important?</BaseQuestion>
+</RQ>
+</RQs>
+</Response>
+<Response id="adh201">
+<ResponseID id="0">adh201</ResponseID>
+<BaseQuestion id="0">Does a patient get better care if they enroll in a clinical study?</BaseQuestion>
+<Content id="0">Participants may or may not directly benefit from participating in a clinical research study. The study-related care a participant receives is part of the study plan or protocol. It may include more study-related tests or visits than routine care.</Content>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">adh114</ResponseID>
+<BaseQuestion id="1">Are there risks involved in clinical study participation? </BaseQuestion>
+</RQ>
+<RQ id="1">
+<ResponseID id="2">adh119</ResponseID>
+<BaseQuestion id="2">Is there any way to make sure that a participant gets the investigational drug instead of the placebo or an approved treatment?</BaseQuestion>
+</RQ>
+<RQ id="2">
+<ResponseID id="3">adh279</ResponseID>
+<BaseQuestion id="3">Why is clinical research important?</BaseQuestion>
+</RQ>
+</RQs>
+</Response>
+<Response id="adh202">
+<ResponseID id="0">adh202</ResponseID>
+<BaseQuestion id="0">	Will participants have to permanently switch from their regular healthcare providers / doctors once enrolled in a study?</BaseQuestion>
+<Content id="0">Study participants are not required to permanently switch their regular care to the study doctor. It may be important for participants to keep their regular healthcare providers or any specialists updated on their study participation.</Content>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">adh123</ResponseID>
+<BaseQuestion id="1">Should participants talk to their regular healthcare provider about study participation?</BaseQuestion>
+</RQ>
+<RQ id="1">
+<ResponseID id="2">adh129</ResponseID>
+<BaseQuestion id="2">Can participants get a second opinion before making a decision to participate?</BaseQuestion>
+</RQ>
+</RQs>
+</Response>
+<Response id="adh204">
+<ResponseID id="0">adh204</ResponseID>
+<BaseQuestion id="0">What is blinding? Why is a study blinded?</BaseQuestion>
+<Content id="0">Clinical research studies are often described as being "single-blind" or "double-blind." 
+
+A single-blind study means that the study researchers know which study treatment each participant is getting, but the participants do not. 
+
+In a double-blind study, neither the researchers nor the study participants know which study treatment each participant is receiving. 
+
+Studies are blinded to avoid bias and ensure that study results are not affected by researcher or participant expectations.</Content>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">adh119</ResponseID>
+<BaseQuestion id="1">Is there any way to make sure that a participant gets the investigational drug instead of the placebo or an approved treatment?</BaseQuestion>
+</RQ>
+<RQ id="1">
+<ResponseID id="2">adh119a</ResponseID>
+<BaseQuestion id="2">What is randomization? / Why is a study randomized?</BaseQuestion>
+</RQ>
+</RQs>
+</Response>
+<Response id="adh207">
+<ResponseID id="0">adh207</ResponseID>
+<BaseQuestion id="0">Where can participants find out about studies for a disease or condition?</BaseQuestion>
+<Content id="0">Clinical studies for many conditions and diseases are listed on <![CDATA[<a href="https://ClinicalTrials.gov" target="_blank">https://ClinicalTrials.gov</a>]]>, a website sponsored by the U.S. National Institutes of Health. Participants' regular healthcare providers may also be good resources.</Content>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">adh130</ResponseID>
+<BaseQuestion id="1"> If participants decide not to participate in a study now, can they change their minds later?</BaseQuestion>
+</RQ>
+<RQ id="1">
+<ResponseID id="2">adh131</ResponseID>
+<BaseQuestion id="2">Will there be other opportunities to enroll in a clinical study?</BaseQuestion>
+</RQ>
+<RQ id="2">
+<ResponseID id="3">adh132</ResponseID>
+<BaseQuestion id="3">	How long do potential participants have to make a decision about whether or not to participate?</BaseQuestion>
+</RQ>
+</RQs>
+</Response>
+<Response id="adh242">
+<ResponseID id="0">adh242</ResponseID>
+<BaseQuestion id="0">Who will have access to participant medical records? </BaseQuestion>
+<Content id="0">Access to medical records or other information about a participant in a clinical research study is limited to protect confidentiality. The study informed consent form describes who will have access to medical records and how confidential information will be used and protected in a study.</Content>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">adh137</ResponseID>
+<BaseQuestion id="1">Will personal information be kept confidential? </BaseQuestion>
+</RQ>
+<RQ id="1">
+<ResponseID id="2">adh138</ResponseID>
+<BaseQuestion id="2">Do study participants' family/friends need to know about their participation in a clinical research study?</BaseQuestion>
+</RQ>
+</RQs>
+</Response>
+<Response id="adh279">
+<ResponseID id="0">adh279</ResponseID>
+<BaseQuestion id="0">Why is clinical research important?</BaseQuestion>
+<Content id="0">Clinical research studies help determine if investigational drugs and medical devices are safe and effective. Before any drug or medical device is made available to the general public, it has to go through several phases of clinical research and regulatory approvals. Most available medications and medical devices are the result of past research. Without clinical research, there would be no new medications or medical devices.</Content>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">adh008</ResponseID>
+<BaseQuestion id="1">Contact information requests (i.e., How do I get in touch with you?)  </BaseQuestion>
+</RQ>
+<RQ id="1">
+<ResponseID id="2">adh201</ResponseID>
+<BaseQuestion id="2">Does a patient get better care if they enroll in a clinical study?</BaseQuestion>
+</RQ>
+</RQs>
+</Response>
+<Response id="adh280">
+<ResponseID id="0">adh280</ResponseID>
+<BaseQuestion id="0">What should I consider before participating in a clinical research study?</BaseQuestion>
+<Content id="0">Before participating in a clinical research study, potential participants should learn as much as they can about the study and ask the members of the study team any questions they may have. Some of the questions that a potential study participant may want to ask are answered on this website, for example: "what is being tested in this study?", "who can participate in this study?", and "how long will this study last?" 
+
+These questions are just a few examples of the type of information that a potential participant should understand before agreeing to participate in a clinical research study. Please review this website for more details.</Content>
+</Response>
+<Response id="adh281">
+<ResponseID id="0">adh281</ResponseID>
+<BaseQuestion id="0">Do study participants have to pay to participate?</BaseQuestion>
+<Content id="0">Clinical study participants do not pay to participate and receive all investigational drugs and study visits at no cost.</Content>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">adh155a</ResponseID>
+<BaseQuestion id="1">Are study participants paid for participation?  </BaseQuestion>
+</RQ>
+</RQs>
+</Response>
+<Response id="adh282">
+<ResponseID id="0">adh282</ResponseID>
+<BaseQuestion id="0">What if the potential participant does not qualify at the screening stage?</BaseQuestion>
+<Content id="0">For most studies, patients who do not meet all study eligibility criteria at screening will not be allowed to participate in the study. For some studies, potential participants who do not qualify at the screening stage may be allowed to screen again later. Clinical research studies all have different requirements, so a patient who is unable to join one study may still be able to join another.</Content>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">adh008</ResponseID>
+<BaseQuestion id="1">Contact information requests (i.e., How do I get in touch with you?)  </BaseQuestion>
+</RQ>
+</RQs>
+</Response>
+<Response id="adh283">
+<ResponseID id="0">adh283</ResponseID>
+<BaseQuestion id="0">What happens when an entire study is completed?</BaseQuestion>
+<Content id="0">Once all participants have completed a study, the study data is provided to country-specific regulatory agencies who decide if the investigational drug should be allowed to move into the next phase of clinical research or if it should be approved and made available to the general public. This process may be lengthy, though the exact time it takes will vary depending on the study.
+
+A summary of clinical study results, once they are available, are submitted to a public database.  This is to inform the public and medical community about what was learned from the clinical research study. Clinical study information and results may also be published in a scientific journal or medical publication. In all instances, specific information about you and other study participants is kept confidential. Your name and identity will never be revealed. 
+
+Lastly, information and results about your participation in the clinical study may be provided to your clinical study doctor, which can be shared with you, for example, whether you were treated with the investigational drug or placebo or other study-specific information, such as your blood results.</Content>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">adh178</ResponseID>
+<BaseQuestion id="1">What happens after a participant completes a study? </BaseQuestion>
+</RQ>
+<RQ id="1">
+<ResponseID id="2">adh279</ResponseID>
+<BaseQuestion id="2">Why is clinical research important?</BaseQuestion>
+</RQ>
+</RQs>
+</Response>
+<Response id="adh284">
+<ResponseID id="0">adh284</ResponseID>
+<BaseQuestion id="0">What is a healthy volunteer? </BaseQuestion>
+<Content id="0">A healthy volunteer is someone with no known significant health problems who participates in research to help test the safety of an investigational drug or medical device. The use of healthy volunteers allows researchers to compare how an investigational drug or medical device affects both healthy people and those who have a particular disease or condition.</Content>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">adh104</ResponseID>
+<BaseQuestion id="1">What are the phases of clinical research?</BaseQuestion>
+</RQ>
+<RQ id="1">
+<ResponseID id="2">adh204</ResponseID>
+<BaseQuestion id="2">What is blinding? Why is a study blinded?</BaseQuestion>
+</RQ>
+</RQs>
+</Response>
+<Response id="maadh992">
+<ResponseID id="0">maadh992</ResponseID>
+<BaseQuestion id="0">Multiple answers possible</BaseQuestion>
+<Content id="0">What do I do?</Content>
+</Response>
+<Response id="maadh993">
+<ResponseID id="0">maadh993</ResponseID>
+<BaseQuestion id="0">Multiple answer possible</BaseQuestion>
+<Content id="0">What is a clinical trial? / What is this clinical trial?</Content>
+</Response>
+<Response id="maadh994">
+<ResponseID id="0">maadh994</ResponseID>
+<BaseQuestion id="0">Multiple answers possible</BaseQuestion>
+<Content id="0">What is something comes up?</Content>
+</Response>
+<Response id="maadh995">
+<ResponseID id="0">maadh995</ResponseID>
+<BaseQuestion id="0">Multiple answers possible</BaseQuestion>
+<Content id="0">How is it different?</Content>
+</Response>
+<Response id="maadh996">
+<ResponseID id="0">maadh996</ResponseID>
+<BaseQuestion id="0"></BaseQuestion>
+<Content id="0"></Content>
+</Response>
+<Response id="maadh998">
+<ResponseID id="0">maadh998</ResponseID>
+<BaseQuestion id="0">Multiple answers possible</BaseQuestion>
+<Content id="0">Who will pay for this?</Content>
+</Response>
+</xml>

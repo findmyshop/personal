@@ -1,0 +1,1944 @@
+<xml>
+<Response id="alz000">
+<ResponseID id="0">alz000</ResponseID>
+<BaseQuestion id="0">Introduction to Clinical Trials</BaseQuestion>
+<Content id="0">The goal of this site is to give you more information about what it is like to take part in a clinical trial, which is also known as a research study. This site has also been developed to provide specific information about the APECS study for prodromal Alzheimer's disease. I invite you to explore the site. If you have a question, type it into the box below and we will provide the closest available pre-recorded response. Alternatively, we will tell you that we do not have a response to a certain question. This site is not intended to provide medical advice or to replace a conversation with your physician or study doctor. If you have unanswered questions after exploring the site, you should take them to your clinician. Questions specific to your diagnosis or other medical advice cannot be provided here.This website is not intended for reporting adverse events or product complaints.</Content>
+</Response>
+<Response id="alz001">
+<ResponseID id="0">alz001</ResponseID>
+<BaseQuestion id="0">Response to off topic questions (i.e., Why is the sky blue?) </BaseQuestion>
+<Content id="0">I don't have an answer to that question. Please contact a member of the study team for more information or ask a new question.</Content>
+</Response>
+<Response id="alz002">
+<ResponseID id="0">alz002</ResponseID>
+<BaseQuestion id="0">Response to profanity </BaseQuestion>
+<Content id="0">Please keep your questions and comments respectful and on topic. Thank you!</Content>
+</Response>
+<Response id="alz003">
+<ResponseID id="0">alz003</ResponseID>
+<BaseQuestion id="0">Multiple Answers </BaseQuestion>
+<Content id="0">I can think of more than one answer for your question. Which would you like to hear first? Select a question from the list on the right. </Content>
+</Response>
+<Response id="alz004">
+<ResponseID id="0">alz004</ResponseID>
+<BaseQuestion id="0">Word count </BaseQuestion>
+<Content id="0">Please limit your questions to 50 words or less.</Content>
+</Response>
+<Response id="alz005">
+<ResponseID id="0">alz005</ResponseID>
+<BaseQuestion id="0">Introduction to program </BaseQuestion>
+<Content id="0">This communication tool has been developed to help answer some typical questions about participating in a research study. The answers are intended to help you learn more about clinical studies and study participation. If you have a question that is not listed, try typing it into the box below; we may be able to answer it. If you have unanswered questions, you should take those questions to the study doctor or study staff. This site is not intended to replace a conversation with your study doctor. Questions specific to your diagnosis or questions about other treatment options that your doctor may recommend cannot be answered here; however, the goal of this site is to give you more information about clinical studies and what it is like to participate in a clinical trial. I invite you now to explore the site and ask your questions.</Content>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">alz006</ResponseID>
+<BaseQuestion id="1">Instructions for how to use the site </BaseQuestion>
+</RQ>
+<RQ id="1">
+<ResponseID id="2">alz008</ResponseID>
+<BaseQuestion id="2">Who can I contact/Contact information </BaseQuestion>
+</RQ>
+</RQs>
+</Response>
+<Response id="alz006">
+<ResponseID id="0">alz006</ResponseID>
+<BaseQuestion id="0">Instructions for how to use the site </BaseQuestion>
+<Content id="0">Let me tell you how this tool works. You can explore the program by typing questions of your own into the text box or by clicking on a related or frequently asked question. You can also select topics from the menu to your left. If you need assistance, click on the help button.</Content>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">alz000</ResponseID>
+<BaseQuestion id="1">Introduction to Clinical Trials</BaseQuestion>
+</RQ>
+<RQ id="1">
+<ResponseID id="2">alz005</ResponseID>
+<BaseQuestion id="2">Introduction to program </BaseQuestion>
+</RQ>
+<RQ id="2">
+<ResponseID id="3">alz008</ResponseID>
+<BaseQuestion id="3">Who can I contact/Contact information </BaseQuestion>
+</RQ>
+</RQs>
+</Response>
+<Response id="alz007">
+<ResponseID id="0">alz007</ResponseID>
+<BaseQuestion id="0">Who are you? </BaseQuestion>
+<Content id="0">Thank you for asking, but I'm here to talk about clinical trials.</Content>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">alz000</ResponseID>
+<BaseQuestion id="1">Introduction to Clinical Trials</BaseQuestion>
+</RQ>
+<RQ id="1">
+<ResponseID id="2">alz006</ResponseID>
+<BaseQuestion id="2">Instructions for how to use the site </BaseQuestion>
+</RQ>
+<RQ id="2">
+<ResponseID id="3">alz008</ResponseID>
+<BaseQuestion id="3">Who can I contact/Contact information </BaseQuestion>
+</RQ>
+</RQs>
+</Response>
+<Response id="alz008">
+<ResponseID id="0">alz008</ResponseID>
+<BaseQuestion id="0">Who can I contact/Contact information </BaseQuestion>
+<Content id="0">Please contact a member of the study team for more information.</Content>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">alz000</ResponseID>
+<BaseQuestion id="1">Introduction to Clinical Trials</BaseQuestion>
+</RQ>
+<RQ id="1">
+<ResponseID id="2">alz101</ResponseID>
+<BaseQuestion id="2">What is a clinical trial? </BaseQuestion>
+</RQ>
+<RQ id="2">
+<ResponseID id="3">alz006</ResponseID>
+<BaseQuestion id="3">Instructions for how to use the site </BaseQuestion>
+</RQ>
+</RQs>
+</Response>
+<Response id="alz101">
+<ResponseID id="0">alz101</ResponseID>
+<BaseQuestion id="0">What is a clinical trial? </BaseQuestion>
+<Content id="0">A clinical trial is a study performed to test investigational medications, vaccines, or devices for various diseases and conditions. These studies determine if the investigational medication works and is safe to use. Before an investigational medication or medical device can be made available to the general public, it has to go through several phases of clinical research. </Content>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">alz103</ResponseID>
+<BaseQuestion id="1">What are the phases of a clinical trial? </BaseQuestion>
+</RQ>
+<RQ id="1">
+<ResponseID id="2">alz104</ResponseID>
+<BaseQuestion id="2">What are the types of clinical trials? </BaseQuestion>
+</RQ>
+<RQ id="2">
+<ResponseID id="3">alz108</ResponseID>
+<BaseQuestion id="3">What is a clinical trial protocol? </BaseQuestion>
+</RQ>
+<RQ id="3">
+<ResponseID id="4">alz139</ResponseID>
+<BaseQuestion id="4">What is being tested in this trial?/What is the purpose of this trial? </BaseQuestion>
+</RQ>
+</RQs>
+</Response>
+<Response id="alz102">
+<ResponseID id="0">alz102</ResponseID>
+<BaseQuestion id="0">Who regulates clinical trials? </BaseQuestion>
+<Content id="0">Clinical trials are regulated by the Food and Drug Administration, known as the FDA in the United States. The role of the FDA is to ensure the study team follows a set of principles known as good clinical practices, or GCPs. These principles are designed to make sure the study participants are protected and the study team gets information from the clinical trial that they can potentially use to develop future treatment options. </Content>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">alz107</ResponseID>
+<BaseQuestion id="1">What is an Institutional Review Board/IRB? </BaseQuestion>
+</RQ>
+<RQ id="1">
+<ResponseID id="2">alz114</ResponseID>
+<BaseQuestion id="2">If I participate in a specific trial, will I be told if a better treatment develops? </BaseQuestion>
+</RQ>
+<RQ id="2">
+<ResponseID id="3">alz124</ResponseID>
+<BaseQuestion id="3">What is informed consent? </BaseQuestion>
+</RQ>
+<RQ id="3">
+<ResponseID id="4">alz137</ResponseID>
+<BaseQuestion id="4">Will my name be publically used during the study or when the results are published? </BaseQuestion>
+</RQ>
+</RQs>
+</Response>
+<Response id="alz103">
+<ResponseID id="0">alz103</ResponseID>
+<BaseQuestion id="0">What are the phases of a clinical trial? </BaseQuestion>
+<Content id="0">Clinical trials are typically performed in "phases." Before an investigational medication can be tested in humans, testing occurs in a lab to gather data on whether the investigational medication may work for the disease. Next, the investigational medication transitions to something called a Phase I clinical trial, which typically involves a small number of healthy subjects and is designed to test whether the investigational medication is safe and to determine what dose should be given. If the results show that the investigational medication is safe, it will move into Phase II clinical trials, where it will be tested in patients with the disease or condition to see whether the investigational medication has any effect on the disease. If the investigational medication works to treat a disease, it will enter Phase III trials, which involves a large number of patients to see if it is safe and effective.</Content>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">alz101</ResponseID>
+<BaseQuestion id="1">What is a clinical trial? </BaseQuestion>
+</RQ>
+<RQ id="1">
+<ResponseID id="2">alz104</ResponseID>
+<BaseQuestion id="2">What are the types of clinical trials? </BaseQuestion>
+</RQ>
+<RQ id="2">
+<ResponseID id="3">alz108</ResponseID>
+<BaseQuestion id="3">What is a clinical trial protocol? </BaseQuestion>
+</RQ>
+<RQ id="3">
+<ResponseID id="4">alz139</ResponseID>
+<BaseQuestion id="4">What is being tested in this trial?/What is the purpose of this trial? </BaseQuestion>
+</RQ>
+<RQ id="4">
+<ResponseID id="5">alz140</ResponseID>
+<BaseQuestion id="5"> Has this drug/medication ever been tested before?/Is this drug/medication being used to treat any other conditions? </BaseQuestion>
+</RQ>
+<RQ id="5">
+<ResponseID id="6">alz147</ResponseID>
+<BaseQuestion id="6">How many people will be enrolled in this study? </BaseQuestion>
+</RQ>
+</RQs>
+</Response>
+<Response id="alz104">
+<ResponseID id="0">alz104</ResponseID>
+<BaseQuestion id="0">What are the types of clinical trials? </BaseQuestion>
+<Content id="0">There are two main types of clinical trials: Placebo-controlled and head-to-head trials. A placebo-controlled trial means that one group of patients will receive the investigational medication, while a second group, often known as the control group, will receive something called a placebo. Placebo often looks just like the investigational medication but is designed to have no real effect on patients. Placebos are often used in blinded trials, which are trials where the patients do not know whether they are receiving the real investigational medication or placebo. This is done to account for the "placebo effect," which is bias introduced into the study. Bias may result from a patient's belief that he or she is receiving a certain investigational medication or the researcher's belief that a certain result will occur. In a head-to-head trial, one group of patients receives the investigational medication to be evaluated, while a second group of patients receives a different study medication. In most cases, the other study medication is a treatment that is already commonly used by patients. This is often referred to as the "standard of care." These types of trials allow researchers to see how the investigational medication performs compared to approved treatments. </Content>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">alz101</ResponseID>
+<BaseQuestion id="1">What is a clinical trial? </BaseQuestion>
+</RQ>
+<RQ id="1">
+<ResponseID id="2">alz103</ResponseID>
+<BaseQuestion id="2">What are the phases of a clinical trial? </BaseQuestion>
+</RQ>
+<RQ id="2">
+<ResponseID id="3">alz119</ResponseID>
+<BaseQuestion id="3">Is there any way to make sure that I get the active investigational medication instead of placebo? </BaseQuestion>
+</RQ>
+<RQ id="3">
+<ResponseID id="4">alz139</ResponseID>
+<BaseQuestion id="4">What is being tested in this trial?/What is the purpose of this trial? </BaseQuestion>
+</RQ>
+<RQ id="4">
+<ResponseID id="5">alz166</ResponseID>
+<BaseQuestion id="5">How often will I have to take the investigational medication? </BaseQuestion>
+</RQ>
+<RQ id="5">
+<ResponseID id="6">alz255</ResponseID>
+<BaseQuestion id="6">What medication will I take? </BaseQuestion>
+</RQ>
+<RQ id="6">
+<ResponseID id="7">alz116</ResponseID>
+<BaseQuestion id="7">What is standard treatment? </BaseQuestion>
+</RQ>
+</RQs>
+</Response>
+<Response id="alz105">
+<ResponseID id="0">alz105</ResponseID>
+<BaseQuestion id="0">Who is managing the trial? </BaseQuestion>
+<Content id="0">A trial is typically managed by a team that includes doctors and other health care professionals. This team also often works with other health professionals, including other doctors and nurses, laboratory technicians, pharmacists, and others, to closely monitor your health during the clinical trial and provide care as needed.</Content>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">alz183</ResponseID>
+<BaseQuestion id="1">Who will be involved in my medical care during the study?</BaseQuestion>
+</RQ>
+<RQ id="1">
+<ResponseID id="2">alz184</ResponseID>
+<BaseQuestion id="2">Can I use my own doctor/lab/hospital for the tests? </BaseQuestion>
+</RQ>
+<RQ id="2">
+<ResponseID id="3">alz185</ResponseID>
+<BaseQuestion id="3">What happens if I get sick while participating in the study? </BaseQuestion>
+</RQ>
+<RQ id="3">
+<ResponseID id="4">alz186</ResponseID>
+<BaseQuestion id="4">How qualified are the study personnel? </BaseQuestion>
+</RQ>
+<RQ id="4">
+<ResponseID id="5">alz187</ResponseID>
+<BaseQuestion id="5">How familiar with the study are the study nurses and physicians?</BaseQuestion>
+</RQ>
+<RQ id="5">
+<ResponseID id="6">alz121</ResponseID>
+<BaseQuestion id="6">Will I have to go to a different doctor for the trial? </BaseQuestion>
+</RQ>
+</RQs>
+</Response>
+<Response id="alz106">
+<ResponseID id="0">alz106</ResponseID>
+<BaseQuestion id="0">How is a clinical trial monitored to protect study participants?</BaseQuestion>
+<Content id="0">Clinical trials are monitored by a group called a Data Safety and Monitoring Committee, sometimes known as a Data and Safety Monitoring Board. This group of experts monitor patient safety and study medication effectiveness data during the course of a clinical trial. The group, which typically includes 3 to 10 members, can recommend that a trial be stopped because of safety concerns or because the study medication is not effective. Members of the Data Safety and Monitoring Committee are usually made up of doctors, statisticians, and sometimes a patient advocacy representative.</Content>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">alz102</ResponseID>
+<BaseQuestion id="1">Who regulates clinical trials? </BaseQuestion>
+</RQ>
+<RQ id="1">
+<ResponseID id="2">alz107</ResponseID>
+<BaseQuestion id="2">What is an Institutional Review Board/IRB? </BaseQuestion>
+</RQ>
+<RQ id="2">
+<ResponseID id="3">alz105</ResponseID>
+<BaseQuestion id="3">Who is managing the trial? </BaseQuestion>
+</RQ>
+<RQ id="3">
+<ResponseID id="4">alz110</ResponseID>
+<BaseQuestion id="4">Should I be worried that I may be taken advantage of? </BaseQuestion>
+</RQ>
+<RQ id="4">
+<ResponseID id="5">alz127</ResponseID>
+<BaseQuestion id="5">What rights do I have if I participate in a clinical trial? </BaseQuestion>
+</RQ>
+</RQs>
+</Response>
+<Response id="alz107">
+<ResponseID id="0">alz107</ResponseID>
+<BaseQuestion id="0">What is an Institutional Review Board/IRB? </BaseQuestion>
+<Content id="0">An Institutional Review Board, or ethical review board, is a committee responsible for approving, monitoring, and reviewing clinical research involving humans. The main goal of the board is to protect clinical trial participants from physical or mental harm. Before the clinical trial starts, this committee will determine whether the research should be performed. </Content>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">alz102</ResponseID>
+<BaseQuestion id="1">Who regulates clinical trials? </BaseQuestion>
+</RQ>
+<RQ id="1">
+<ResponseID id="2">alz106</ResponseID>
+<BaseQuestion id="2">How is a clinical trial monitored to protect study participants?</BaseQuestion>
+</RQ>
+<RQ id="2">
+<ResponseID id="3">alz110</ResponseID>
+<BaseQuestion id="3">Should I be worried that I may be taken advantage of? </BaseQuestion>
+</RQ>
+<RQ id="3">
+<ResponseID id="4">alz127</ResponseID>
+<BaseQuestion id="4">What rights do I have if I participate in a clinical trial? </BaseQuestion>
+</RQ>
+</RQs>
+</Response>
+<Response id="alz108">
+<ResponseID id="0">alz108</ResponseID>
+<BaseQuestion id="0">What is a clinical trial protocol? </BaseQuestion>
+<Content id="0">A protocol is a written document describing a clinical trial and how the study team will conduct the trial. In general, a protocol provides an overview of the study objectives; describes who may participate; the schedule of tests, procedures, medications, and dosages; and the length of the study. </Content>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">alz109</ResponseID>
+<BaseQuestion id="1">Can I get a copy of the protocol? </BaseQuestion>
+</RQ>
+<RQ id="1">
+<ResponseID id="2">alz101</ResponseID>
+<BaseQuestion id="2">What is a clinical trial? </BaseQuestion>
+</RQ>
+<RQ id="2">
+<ResponseID id="3">alz103</ResponseID>
+<BaseQuestion id="3">What are the phases of a clinical trial? </BaseQuestion>
+</RQ>
+<RQ id="3">
+<ResponseID id="4">alz158</ResponseID>
+<BaseQuestion id="4">Who can participate in this study? </BaseQuestion>
+</RQ>
+<RQ id="4">
+<ResponseID id="5">alz168</ResponseID>
+<BaseQuestion id="5">How many times will I have to visit the study site? </BaseQuestion>
+</RQ>
+<RQ id="5">
+<ResponseID id="6">alz166</ResponseID>
+<BaseQuestion id="6">How often will I have to take the investigational medication? </BaseQuestion>
+</RQ>
+<RQ id="6">
+<ResponseID id="7">alz175</ResponseID>
+<BaseQuestion id="7">How long will I be in the study? </BaseQuestion>
+</RQ>
+</RQs>
+</Response>
+<Response id="alz109">
+<ResponseID id="0">alz109</ResponseID>
+<BaseQuestion id="0">Can I get a copy of the protocol? </BaseQuestion>
+<Content id="0">You will not be able to have a copy of the protocol. However, you will be given an informed consent document that will discuss in detail the objective of the study, your responsibilities as a participant, and risks and benefits of participating. During this review process, the study team will help to address any questions or concerns you may have about the study.  </Content>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">alz108</ResponseID>
+<BaseQuestion id="1">What is a clinical trial protocol? </BaseQuestion>
+</RQ>
+<RQ id="1">
+<ResponseID id="2">alz124</ResponseID>
+<BaseQuestion id="2">What is informed consent? </BaseQuestion>
+</RQ>
+<RQ id="2">
+<ResponseID id="3">alz127</ResponseID>
+<BaseQuestion id="3">What rights do I have if I participate in a clinical trial? </BaseQuestion>
+</RQ>
+<RQ id="3">
+<ResponseID id="4">alz139</ResponseID>
+<BaseQuestion id="4">What is being tested in this trial?/What is the purpose of this trial? </BaseQuestion>
+</RQ>
+</RQs>
+</Response>
+<Response id="alz110">
+<ResponseID id="0">alz110</ResponseID>
+<BaseQuestion id="0">Should I be worried that I may be taken advantage of? </BaseQuestion>
+<Content id="0">In order to conduct a clinical trial, the study team must agree to comply with ethical guidelines designed to protect the physical and mental health of participants, as well as to preserve the integrity of the research. These ethical guidelines ensure that people are treated with respect from the time they are approached for possible participation in the study, during their participation, and after their participation ends. These guidelines also protect a participant's right to privacy and the right for a participant to change his or her mind about being in the trial at any point. </Content>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">alz107</ResponseID>
+<BaseQuestion id="1">What is an Institutional Review Board/IRB? </BaseQuestion>
+</RQ>
+<RQ id="1">
+<ResponseID id="2">alz124</ResponseID>
+<BaseQuestion id="2">What is informed consent? </BaseQuestion>
+</RQ>
+<RQ id="2">
+<ResponseID id="3">alz127</ResponseID>
+<BaseQuestion id="3">What rights do I have if I participate in a clinical trial? </BaseQuestion>
+</RQ>
+<RQ id="3">
+<ResponseID id="4">alz102</ResponseID>
+<BaseQuestion id="4">Who regulates clinical trials? </BaseQuestion>
+</RQ>
+</RQs>
+</Response>
+<Response id="alz111">
+<ResponseID id="0">alz111</ResponseID>
+<BaseQuestion id="0">Should I be worried that I will be a guinea pig? </BaseQuestion>
+<Content id="0">The nature of participating in a clinical trial means that participants may receive an investigational medication. However, all procedures and tests performed prior to participation, during participation, and after participation ends are clearly outlined in the clinical trial protocol. </Content>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">alz108</ResponseID>
+<BaseQuestion id="1">What is a clinical trial protocol? </BaseQuestion>
+</RQ>
+<RQ id="1">
+<ResponseID id="2">alz102</ResponseID>
+<BaseQuestion id="2">Who regulates clinical trials? </BaseQuestion>
+</RQ>
+<RQ id="2">
+<ResponseID id="3">alz107</ResponseID>
+<BaseQuestion id="3">What is an Institutional Review Board/IRB? </BaseQuestion>
+</RQ>
+<RQ id="3">
+<ResponseID id="4">alz127</ResponseID>
+<BaseQuestion id="4">What rights do I have if I participate in a clinical trial? </BaseQuestion>
+</RQ>
+</RQs>
+</Response>
+<Response id="alz114">
+<ResponseID id="0">alz114</ResponseID>
+<BaseQuestion id="0">If I participate in a specific trial, will I be told if a better treatment develops? </BaseQuestion>
+<Content id="0">When someone signs up to participate in a clinical trial, the researchers must inform them of the available alternatives to the clinical trial. Under the terms of the ethical guidelines that govern clinical trials, the study team is expected to inform participants of new information that might come up, particularly data that might change the risks and benefits of participating in the clinical trial. </Content>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">alz102</ResponseID>
+<BaseQuestion id="1">Who regulates clinical trials? </BaseQuestion>
+</RQ>
+<RQ id="1">
+<ResponseID id="2">alz106</ResponseID>
+<BaseQuestion id="2">How is a clinical trial monitored to protect study participants?</BaseQuestion>
+</RQ>
+<RQ id="2">
+<ResponseID id="3">alz117</ResponseID>
+<BaseQuestion id="3">If standard treatment works for me, why should I participate in a trial? </BaseQuestion>
+</RQ>
+<RQ id="3">
+<ResponseID id="4">alz201</ResponseID>
+<BaseQuestion id="4">Will I get better care if I am enrolled in a clinical trial? </BaseQuestion>
+</RQ>
+</RQs>
+</Response>
+<Response id="alz115">
+<ResponseID id="0">alz115</ResponseID>
+<BaseQuestion id="0">What if the study medication does not work?</BaseQuestion>
+<Content id="0">Under the terms of the informed consent process, you will be informed about the risks and benefits of participating in a clinical trial. One of the risks associated with participation is that the investigational medication may have no therapeutic benefit. However, if you decide that the study is not in your best interest or if you simply change your mind about participating, you can withdraw from the clinical trial at any time without penalty. </Content>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">alz117</ResponseID>
+<BaseQuestion id="1">If standard treatment works for me, why should I participate in a trial? </BaseQuestion>
+</RQ>
+<RQ id="1">
+<ResponseID id="2">alz181</ResponseID>
+<BaseQuestion id="2">Is it normal to feel nervous?</BaseQuestion>
+</RQ>
+<RQ id="2">
+<ResponseID id="3">alz185</ResponseID>
+<BaseQuestion id="3">What happens if I get sick while participating in the study? </BaseQuestion>
+</RQ>
+<RQ id="3">
+<ResponseID id="4">alz190</ResponseID>
+<BaseQuestion id="4">What are the risks/side effects of this medication?</BaseQuestion>
+</RQ>
+<RQ id="4">
+<ResponseID id="5">alz124</ResponseID>
+<BaseQuestion id="5">What is informed consent? </BaseQuestion>
+</RQ>
+</RQs>
+</Response>
+<Response id="alz116">
+<ResponseID id="0">alz116</ResponseID>
+<BaseQuestion id="0">What is standard treatment? </BaseQuestion>
+<Content id="0">In a clinical trial, the standard treatment refers to any medication or therapy that is approved and accepted by medical professionals as an appropriate treatment for a certain type of disease and one that is typically used by health care professionals.</Content>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">alz104</ResponseID>
+<BaseQuestion id="1">What are the types of clinical trials? </BaseQuestion>
+</RQ>
+<RQ id="1">
+<ResponseID id="2">alz117</ResponseID>
+<BaseQuestion id="2">If standard treatment works for me, why should I participate in a trial? </BaseQuestion>
+</RQ>
+<RQ id="2">
+<ResponseID id="3">alz257</ResponseID>
+<BaseQuestion id="3">Is there a cure for Alzheimer's disease? </BaseQuestion>
+</RQ>
+</RQs>
+</Response>
+<Response id="alz117">
+<ResponseID id="0">alz117</ResponseID>
+<BaseQuestion id="0">If standard treatment works for me, why should I participate in a trial? </BaseQuestion>
+<Content id="0">In a clinical trial, there is a chance that the investigational medication being studied may be more effective than the standard treatment. However, your condition may not change or may even get worse during the study. These benefits and risks will be discussed during the informed consent process.</Content>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">alz115</ResponseID>
+<BaseQuestion id="1">What if the study medication does not work?</BaseQuestion>
+</RQ>
+<RQ id="1">
+<ResponseID id="2">alz116</ResponseID>
+<BaseQuestion id="2">What is standard treatment? </BaseQuestion>
+</RQ>
+<RQ id="2">
+<ResponseID id="3">alz123</ResponseID>
+<BaseQuestion id="3">Should I talk to my doctor about this trial? </BaseQuestion>
+</RQ>
+</RQs>
+</Response>
+<Response id="alz118">
+<ResponseID id="0">alz118</ResponseID>
+<BaseQuestion id="0">Could I die if I participate in a clinical trial? </BaseQuestion>
+<Content id="0">The risks of a particular clinical trial vary. Some investigational medications being studied can have unpleasant or even serious side effects, potentially including death. Before the trial begins, all of the known risks will be fully explained to you by the study team.If new information about risks becomes available over the course of the trial, the study team is required to inform you of those risks.</Content>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">alz190</ResponseID>
+<BaseQuestion id="1">What are the risks/side effects of this medication?</BaseQuestion>
+</RQ>
+<RQ id="1">
+<ResponseID id="2">alz114</ResponseID>
+<BaseQuestion id="2">If I participate in a specific trial, will I be told if a better treatment develops? </BaseQuestion>
+</RQ>
+<RQ id="2">
+<ResponseID id="3">alz192</ResponseID>
+<BaseQuestion id="3">Could my condition get worse? </BaseQuestion>
+</RQ>
+<RQ id="3">
+<ResponseID id="4">alz201</ResponseID>
+<BaseQuestion id="4">Will I get better care if I am enrolled in a clinical trial? </BaseQuestion>
+</RQ>
+</RQs>
+</Response>
+<Response id="alz119">
+<ResponseID id="0">alz119</ResponseID>
+<BaseQuestion id="0">Is there any way to make sure that I get the active investigational medication instead of placebo? </BaseQuestion>
+<Content id="0">There is no way to make sure you get a certain medication.If a trial is randomized, it means that study participants are assigned to a particular treatment group through a process called "randomization." This process, which is similar to a coin toss, ensures that patients are assigned to a study treatment group without any input from the study team.  </Content>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">alz104</ResponseID>
+<BaseQuestion id="1">What are the types of clinical trials? </BaseQuestion>
+</RQ>
+<RQ id="1">
+<ResponseID id="2">alz166</ResponseID>
+<BaseQuestion id="2">How often will I have to take the investigational medication? </BaseQuestion>
+</RQ>
+<RQ id="2">
+<ResponseID id="3">alz255</ResponseID>
+<BaseQuestion id="3">What medication will I take? </BaseQuestion>
+</RQ>
+<RQ id="3">
+<ResponseID id="4">alz188</ResponseID>
+<BaseQuestion id="4">Will the nurses/physicians/etc. know what medication I am getting?</BaseQuestion>
+</RQ>
+</RQs>
+</Response>
+<Response id="alz120">
+<ResponseID id="0">alz120</ResponseID>
+<BaseQuestion id="0">Can I change study sites if I move? </BaseQuestion>
+<Content id="0">If you move over the course of the study and a different study site is closer to your new home, you have the option of switching to a closer study site. However, in some cases, there may not be a study site close to your new home, which could affect your continued participation in the clinical trial. Please let the study team know if you have any immediate plans to move so that they can ensure that you can attend site visits over the course of the study.</Content>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">alz203</ResponseID>
+<BaseQuestion id="1">Where will I go for study visits? </BaseQuestion>
+</RQ>
+<RQ id="1">
+<ResponseID id="2">alz177</ResponseID>
+<BaseQuestion id="2">What will happen if I miss some study visits? </BaseQuestion>
+</RQ>
+<RQ id="2">
+<ResponseID id="3">alz184</ResponseID>
+<BaseQuestion id="3">Can I use my own doctor/lab/hospital for the tests? </BaseQuestion>
+</RQ>
+<RQ id="3">
+<ResponseID id="4">alz121</ResponseID>
+<BaseQuestion id="4">Will I have to go to a different doctor for the trial? </BaseQuestion>
+</RQ>
+</RQs>
+</Response>
+<Response id="alz121">
+<ResponseID id="0">alz121</ResponseID>
+<BaseQuestion id="0">Will I have to go to a different doctor for the trial? </BaseQuestion>
+<Content id="0">Over the course of the clinical trial, you will be seen by a team that includes doctors and other health care professionals. However, this team will only provide care as part of the clinical trial, so it's important that you keep seeing your current doctor for regular checkups and other care while you participate in the trial. It is possible that your doctor is the doctor conducting the study. If that is not the case, you should tell your regular doctor that you are participating in a clinical trial. You should also tell the study doctor if you start taking any new medications not associated with the clinical trial or if there are any changes in your health.</Content>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">alz183</ResponseID>
+<BaseQuestion id="1">Who will be involved in my medical care during the study?</BaseQuestion>
+</RQ>
+<RQ id="1">
+<ResponseID id="2">alz184</ResponseID>
+<BaseQuestion id="2">Can I use my own doctor/lab/hospital for the tests? </BaseQuestion>
+</RQ>
+<RQ id="2">
+<ResponseID id="3">alz123</ResponseID>
+<BaseQuestion id="3">Should I talk to my doctor about this trial? </BaseQuestion>
+</RQ>
+<RQ id="3">
+<ResponseID id="4">alz105</ResponseID>
+<BaseQuestion id="4">Who is managing the trial? </BaseQuestion>
+</RQ>
+</RQs>
+</Response>
+<Response id="alz122">
+<ResponseID id="0">alz122</ResponseID>
+<BaseQuestion id="0">Does my doctor know about this trial? </BaseQuestion>
+<Content id="0">Often, your doctor will be the one to tell you about a clinical trial or may even be the doctor conducting the trial. Your doctor can help you decide whether you may be eligible for the study and if you could potentially benefit from participating. However, in some cases, your doctor may not know about the study that you are considering. Therefore, it's important that you tell your doctor about the study.</Content>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">alz123</ResponseID>
+<BaseQuestion id="1">Should I talk to my doctor about this trial? </BaseQuestion>
+</RQ>
+<RQ id="1">
+<ResponseID id="2">alz137</ResponseID>
+<BaseQuestion id="2">Will my name be publically used during the study or when the results are published? </BaseQuestion>
+</RQ>
+<RQ id="2">
+<ResponseID id="3">alz184</ResponseID>
+<BaseQuestion id="3">Can I use my own doctor/lab/hospital for the tests? </BaseQuestion>
+</RQ>
+<RQ id="3">
+<ResponseID id="4">alz185</ResponseID>
+<BaseQuestion id="4">What happens if I get sick while participating in the study? </BaseQuestion>
+</RQ>
+<RQ id="4">
+<ResponseID id="5">alz186</ResponseID>
+<BaseQuestion id="5">How qualified are the study personnel? </BaseQuestion>
+</RQ>
+</RQs>
+</Response>
+<Response id="alz123">
+<ResponseID id="0">alz123</ResponseID>
+<BaseQuestion id="0">Should I talk to my doctor about this trial? </BaseQuestion>
+<Content id="0">If your doctor is not the doctor conducting the trial, it is recommended that you let him or her know about your decision to participate in a clinical trial. Your doctor knows your health history, which makes him or her a good resource to discuss whether participating in a clinical trial might be right for you. In addition, your participation in a clinical trial may mean that you will take a different medication or undergo testing that may impact the way in which your regular doctor approaches your treatment. </Content>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">alz122</ResponseID>
+<BaseQuestion id="1">Does my doctor know about this trial? </BaseQuestion>
+</RQ>
+<RQ id="1">
+<ResponseID id="2">alz128</ResponseID>
+<BaseQuestion id="2">Who can help me decide what is best for me? </BaseQuestion>
+</RQ>
+<RQ id="2">
+<ResponseID id="3">alz129</ResponseID>
+<BaseQuestion id="3">Can I get a second opinion before I decide to participate? </BaseQuestion>
+</RQ>
+<RQ id="3">
+<ResponseID id="4">alz163</ResponseID>
+<BaseQuestion id="4">Should I/Can I keep taking my other medications? </BaseQuestion>
+</RQ>
+<RQ id="4">
+<ResponseID id="5">alz181</ResponseID>
+<BaseQuestion id="5">Is it normal to feel nervous?</BaseQuestion>
+</RQ>
+</RQs>
+</Response>
+<Response id="alz124">
+<ResponseID id="0">alz124</ResponseID>
+<BaseQuestion id="0">What is informed consent? </BaseQuestion>
+<Content id="0">The U.S. Food and Drug Administration requires that potential study participants be given complete information about the planned trial under a process known as "informed consent." This process is designed to clearly inform individuals of the purpose, risks, benefits, and alternatives to the clinical trial.The informed consent process ensures that participants understand information about the study and how it relates to their own health. It also provides an opportunity for an individual to make a voluntary decision about whether to participate in the study. Following this discussion, you can choose to participate in the trial by signing an informed consent form. Even if you sign the form, you can still withdraw from the study at any time, for any reason. </Content>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">alz110</ResponseID>
+<BaseQuestion id="1">Should I be worried that I may be taken advantage of? </BaseQuestion>
+</RQ>
+<RQ id="1">
+<ResponseID id="2">alz126</ResponseID>
+<BaseQuestion id="2">What if I do not understand the Informed Consent form? Who can help me understand the Informed Consent form? </BaseQuestion>
+</RQ>
+<RQ id="2">
+<ResponseID id="3">alz127</ResponseID>
+<BaseQuestion id="3">What rights do I have if I participate in a clinical trial? </BaseQuestion>
+</RQ>
+<RQ id="3">
+<ResponseID id="4">alz128</ResponseID>
+<BaseQuestion id="4">Who can help me decide what is best for me? </BaseQuestion>
+</RQ>
+<RQ id="4">
+<ResponseID id="5">alz130</ResponseID>
+<BaseQuestion id="5">If I say no to a trial now, can I change my mind later? </BaseQuestion>
+</RQ>
+</RQs>
+</Response>
+<Response id="alz125">
+<ResponseID id="0">alz125</ResponseID>
+<BaseQuestion id="0">Do I have to read the entire Informed Consent form? </BaseQuestion>
+<Content id="0">Before choosing to be part of this study, you should read the informed consent form to make sure you understand the commitment you are making by signing the informed consent form. The consent form tells you what will happen during the study and the potential risks and benefits of participating in the study. It also explains the other treatment options you have besides taking part in this study, as well as your right to stop taking part in the study at any time. </Content>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">alz124</ResponseID>
+<BaseQuestion id="1">What is informed consent? </BaseQuestion>
+</RQ>
+<RQ id="1">
+<ResponseID id="2">alz126</ResponseID>
+<BaseQuestion id="2">What if I do not understand the Informed Consent form? Who can help me understand the Informed Consent form? </BaseQuestion>
+</RQ>
+<RQ id="2">
+<ResponseID id="3">alz108</ResponseID>
+<BaseQuestion id="3">What is a clinical trial protocol? </BaseQuestion>
+</RQ>
+<RQ id="3">
+<ResponseID id="4">alz117</ResponseID>
+<BaseQuestion id="4">If standard treatment works for me, why should I participate in a trial? </BaseQuestion>
+</RQ>
+</RQs>
+</Response>
+<Response id="alz126">
+<ResponseID id="0">alz126</ResponseID>
+<BaseQuestion id="0">What if I do not understand the Informed Consent form? Who can help me understand the Informed Consent form? </BaseQuestion>
+<Content id="0">The informed consent form may contain words that you or your loved ones do not understand. Please ask the study doctor or other members of the study team to explain any words or information that you do not clearly understand. Before you make a decision to participate in the study, it is important that you understand the information in the informed consent form. You should not sign the form if you have any questions that have not been fully answered by the study team.</Content>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">alz124</ResponseID>
+<BaseQuestion id="1">What is informed consent? </BaseQuestion>
+</RQ>
+<RQ id="1">
+<ResponseID id="2">alz128</ResponseID>
+<BaseQuestion id="2">Who can help me decide what is best for me? </BaseQuestion>
+</RQ>
+<RQ id="2">
+<ResponseID id="3">alz129</ResponseID>
+<BaseQuestion id="3">Can I get a second opinion before I decide to participate? </BaseQuestion>
+</RQ>
+</RQs>
+</Response>
+<Response id="alz127">
+<ResponseID id="0">alz127</ResponseID>
+<BaseQuestion id="0">What rights do I have if I participate in a clinical trial? </BaseQuestion>
+<Content id="0">All clinical trial participants are granted certain rights. For example, you have the right to be given enough time to decide whether to participate and to make that decision without any pressure from the people who are doing the research. You also have the right to refuse to participate in the study and stop participating at any time. If you decide not to participate, this will not affect the right you have to receive medical care not related to the research. You also have the right to be told why the clinical trial is being done, what will happen, and what you will be asked to do if you are in the trial. In addition, you'll be informed of any reasonably foreseeable risks, discomforts, or side effects that may occur during the trial and who will pay for any study-related treatment. You also have the right to have your questions answered by the study team, have access to information collected about you, and receive a copy of the signed Informed Consent Form.</Content>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">alz107</ResponseID>
+<BaseQuestion id="1">What is an Institutional Review Board/IRB? </BaseQuestion>
+</RQ>
+<RQ id="1">
+<ResponseID id="2">alz109</ResponseID>
+<BaseQuestion id="2">Can I get a copy of the protocol? </BaseQuestion>
+</RQ>
+<RQ id="2">
+<ResponseID id="3">alz110</ResponseID>
+<BaseQuestion id="3">Should I be worried that I may be taken advantage of? </BaseQuestion>
+</RQ>
+<RQ id="3">
+<ResponseID id="4">alz124</ResponseID>
+<BaseQuestion id="4">What is informed consent? </BaseQuestion>
+</RQ>
+<RQ id="4">
+<ResponseID id="5">alz129</ResponseID>
+<BaseQuestion id="5">Can I get a second opinion before I decide to participate? </BaseQuestion>
+</RQ>
+<RQ id="5">
+<ResponseID id="6">alz132</ResponseID>
+<BaseQuestion id="6">How long do I have to make my decision? </BaseQuestion>
+</RQ>
+</RQs>
+</Response>
+<Response id="alz128">
+<ResponseID id="0">alz128</ResponseID>
+<BaseQuestion id="0">Who can help me decide what is best for me? </BaseQuestion>
+<Content id="0">Learning all you can about clinical trials can help you decide whether to take part in one. In order to gather information about the clinical trial you are considering, you should actively participate in the informed consent process, ask questions of the study physician and other study team members, and discuss the clinical trial with your regular doctor if desired. Ultimately, however, it is up to you to decide whether participation in the clinical trial is right for you. </Content>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">alz123</ResponseID>
+<BaseQuestion id="1">Should I talk to my doctor about this trial? </BaseQuestion>
+</RQ>
+<RQ id="1">
+<ResponseID id="2">alz124</ResponseID>
+<BaseQuestion id="2">What is informed consent? </BaseQuestion>
+</RQ>
+<RQ id="2">
+<ResponseID id="3">alz126</ResponseID>
+<BaseQuestion id="3">What if I do not understand the Informed Consent form? Who can help me understand the Informed Consent form? </BaseQuestion>
+</RQ>
+<RQ id="3">
+<ResponseID id="4">alz129</ResponseID>
+<BaseQuestion id="4">Can I get a second opinion before I decide to participate? </BaseQuestion>
+</RQ>
+<RQ id="4">
+<ResponseID id="5">alz181</ResponseID>
+<BaseQuestion id="5">Is it normal to feel nervous?</BaseQuestion>
+</RQ>
+</RQs>
+</Response>
+<Response id="alz129">
+<ResponseID id="0">alz129</ResponseID>
+<BaseQuestion id="0">Can I get a second opinion before I decide to participate? </BaseQuestion>
+<Content id="0">Yes. You can get a second opinion before you decide to participate in a clinical trial. A second opinion can help you to better understand the existing treatments available to you and whether participation in the trial is a good option for you.</Content>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">alz123</ResponseID>
+<BaseQuestion id="1">Should I talk to my doctor about this trial? </BaseQuestion>
+</RQ>
+<RQ id="1">
+<ResponseID id="2">alz126</ResponseID>
+<BaseQuestion id="2">What if I do not understand the Informed Consent form? Who can help me understand the Informed Consent form? </BaseQuestion>
+</RQ>
+<RQ id="2">
+<ResponseID id="3">alz127</ResponseID>
+<BaseQuestion id="3">What rights do I have if I participate in a clinical trial? </BaseQuestion>
+</RQ>
+<RQ id="3">
+<ResponseID id="4">alz128</ResponseID>
+<BaseQuestion id="4">Who can help me decide what is best for me? </BaseQuestion>
+</RQ>
+<RQ id="4">
+<ResponseID id="5">alz130</ResponseID>
+<BaseQuestion id="5">If I say no to a trial now, can I change my mind later? </BaseQuestion>
+</RQ>
+<RQ id="5">
+<ResponseID id="6">alz132</ResponseID>
+<BaseQuestion id="6">How long do I have to make my decision? </BaseQuestion>
+</RQ>
+</RQs>
+</Response>
+<Response id="alz130">
+<ResponseID id="0">alz130</ResponseID>
+<BaseQuestion id="0">If I say no to a trial now, can I change my mind later? </BaseQuestion>
+<Content id="0">If you decline to participate in a clinical trial, you can change your mind later as long as the study is still accepting new patients and you are still eligible. At no point will you be pressured by the study team to join the study. If you enroll in the study and decide that you no longer wish to participate, you can withdraw at any time. </Content>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">alz124</ResponseID>
+<BaseQuestion id="1">What is informed consent? </BaseQuestion>
+</RQ>
+<RQ id="1">
+<ResponseID id="2">alz127</ResponseID>
+<BaseQuestion id="2">What rights do I have if I participate in a clinical trial? </BaseQuestion>
+</RQ>
+<RQ id="2">
+<ResponseID id="3">alz129</ResponseID>
+<BaseQuestion id="3">Can I get a second opinion before I decide to participate? </BaseQuestion>
+</RQ>
+<RQ id="3">
+<ResponseID id="4">alz131</ResponseID>
+<BaseQuestion id="4">Will there be other opportunities to participate in a clinical trial? </BaseQuestion>
+</RQ>
+<RQ id="4">
+<ResponseID id="5">alz132</ResponseID>
+<BaseQuestion id="5">How long do I have to make my decision? </BaseQuestion>
+</RQ>
+<RQ id="5">
+<ResponseID id="6">alz133</ResponseID>
+<BaseQuestion id="6">What will happen if I decide not to participate? </BaseQuestion>
+</RQ>
+</RQs>
+</Response>
+<Response id="alz131">
+<ResponseID id="0">alz131</ResponseID>
+<BaseQuestion id="0">Will there be other opportunities to participate in a clinical trial? </BaseQuestion>
+<Content id="0">It is difficult to say whether there will be other opportunities to participate in future clinical trials. Although investigational medications are constantly moving through the clinical trial process, there is no guarantee that you will be eligible for any future investigational medications. </Content>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">alz130</ResponseID>
+<BaseQuestion id="1">If I say no to a trial now, can I change my mind later? </BaseQuestion>
+</RQ>
+<RQ id="1">
+<ResponseID id="2">alz132</ResponseID>
+<BaseQuestion id="2">How long do I have to make my decision? </BaseQuestion>
+</RQ>
+<RQ id="2">
+<ResponseID id="3">alz133</ResponseID>
+<BaseQuestion id="3">What will happen if I decide not to participate? </BaseQuestion>
+</RQ>
+</RQs>
+</Response>
+<Response id="alz132">
+<ResponseID id="0">alz132</ResponseID>
+<BaseQuestion id="0">How long do I have to make my decision? </BaseQuestion>
+<Content id="0">When you meet with the study team, ask them how long you have to make a decision about whether to participate in the clinical trial. In general, you can decide to participate at any time during the enrollment period, which for some studies is only a few months, but for others, can be years. At no point will you be pressured by the study team to join the study. </Content>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">alz129</ResponseID>
+<BaseQuestion id="1">Can I get a second opinion before I decide to participate? </BaseQuestion>
+</RQ>
+<RQ id="1">
+<ResponseID id="2">alz130</ResponseID>
+<BaseQuestion id="2">If I say no to a trial now, can I change my mind later? </BaseQuestion>
+</RQ>
+<RQ id="2">
+<ResponseID id="3">alz131</ResponseID>
+<BaseQuestion id="3">Will there be other opportunities to participate in a clinical trial? </BaseQuestion>
+</RQ>
+<RQ id="3">
+<ResponseID id="4">alz133</ResponseID>
+<BaseQuestion id="4">What will happen if I decide not to participate? </BaseQuestion>
+</RQ>
+<RQ id="4">
+<ResponseID id="5">alz161</ResponseID>
+<BaseQuestion id="5">Can I participate in more than one trial? </BaseQuestion>
+</RQ>
+</RQs>
+</Response>
+<Response id="alz133">
+<ResponseID id="0">alz133</ResponseID>
+<BaseQuestion id="0">What will happen if I decide not to participate? </BaseQuestion>
+<Content id="0">If you choose not to participate in the study, the study will still continue as planned. </Content>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">alz130</ResponseID>
+<BaseQuestion id="1">If I say no to a trial now, can I change my mind later? </BaseQuestion>
+</RQ>
+<RQ id="1">
+<ResponseID id="2">alz131</ResponseID>
+<BaseQuestion id="2">Will there be other opportunities to participate in a clinical trial? </BaseQuestion>
+</RQ>
+<RQ id="2">
+<ResponseID id="3">alz132</ResponseID>
+<BaseQuestion id="3">How long do I have to make my decision? </BaseQuestion>
+</RQ>
+</RQs>
+</Response>
+<Response id="alz136">
+<ResponseID id="0">alz136</ResponseID>
+<BaseQuestion id="0">Will my doctor be told about my participation in a clinical trial? </BaseQuestion>
+<Content id="0">When you participate in a clinical trial, you will work closely with the study team, which includes doctors and other health care professionals. However, you will continue to see your regular doctor before, during, and after your participation in the study. Therefore it is recommended that you tell your regular doctor about your participation so that your doctor can provide appropriate care without compromising the validity of the study data.</Content>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">alz183</ResponseID>
+<BaseQuestion id="1">Who will be involved in my medical care during the study?</BaseQuestion>
+</RQ>
+<RQ id="1">
+<ResponseID id="2">alz121</ResponseID>
+<BaseQuestion id="2">Will I have to go to a different doctor for the trial? </BaseQuestion>
+</RQ>
+<RQ id="2">
+<ResponseID id="3">alz123</ResponseID>
+<BaseQuestion id="3">Should I talk to my doctor about this trial? </BaseQuestion>
+</RQ>
+<RQ id="3">
+<ResponseID id="4">alz122</ResponseID>
+<BaseQuestion id="4">Does my doctor know about this trial? </BaseQuestion>
+</RQ>
+</RQs>
+</Response>
+<Response id="alz137">
+<ResponseID id="0">alz137</ResponseID>
+<BaseQuestion id="0">Will my name be publically used during the study or when the results are published? </BaseQuestion>
+<Content id="0">Any data collected about you as part of a clinical trial is subject to the Health Insurance Portability and Accountability Act, or HIPAA, Privacy Rule. This rule establishes the conditions under which protected health information may be used or disclosed by groups for research purposes. Under this rule, the study team can publish, present, or otherwise disclose data on you for research purposes and only after your name has been removed. The study team is not allowed to publicly disclose your name in connection with the study. </Content>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">alz102</ResponseID>
+<BaseQuestion id="1">Who regulates clinical trials? </BaseQuestion>
+</RQ>
+<RQ id="1">
+<ResponseID id="2">alz122</ResponseID>
+<BaseQuestion id="2">Does my doctor know about this trial? </BaseQuestion>
+</RQ>
+<RQ id="2">
+<ResponseID id="3">alz138</ResponseID>
+<BaseQuestion id="3">Do my family/friends need to know that I am participating in a clinical trial? </BaseQuestion>
+</RQ>
+</RQs>
+</Response>
+<Response id="alz138">
+<ResponseID id="0">alz138</ResponseID>
+<BaseQuestion id="0">Do my family/friends need to know that I am participating in a clinical trial? </BaseQuestion>
+<Content id="0">If you choose to participate in a clinical trial, it is up to you if you would like to let your family and friends know of your decision. It can often be helpful to inform family or friends if you will need assistance during the trial, such as obtaining transportation to and from study visits.</Content>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">alz137</ResponseID>
+<BaseQuestion id="1">Will my name be publically used during the study or when the results are published? </BaseQuestion>
+</RQ>
+<RQ id="1">
+<ResponseID id="2">alz136</ResponseID>
+<BaseQuestion id="2">Will my doctor be told about my participation in a clinical trial? </BaseQuestion>
+</RQ>
+<RQ id="2">
+<ResponseID id="3">alz129</ResponseID>
+<BaseQuestion id="3">Can I get a second opinion before I decide to participate? </BaseQuestion>
+</RQ>
+<RQ id="3">
+<ResponseID id="4">alz137</ResponseID>
+<BaseQuestion id="4">Will my name be publically used during the study or when the results are published? </BaseQuestion>
+</RQ>
+<RQ id="4">
+<ResponseID id="5">alz180</ResponseID>
+<BaseQuestion id="5">What support is available for participants during the study? </BaseQuestion>
+</RQ>
+</RQs>
+</Response>
+<Response id="alz139">
+<ResponseID id="0">alz139</ResponseID>
+<BaseQuestion id="0">What is being tested in this trial?/What is the purpose of this trial? </BaseQuestion>
+<Content id="0">The purpose of the APECS study is to test the safety of an oral investigational medication called MK-8931 to see if it may help slow the progression of what could be very early, or prodromal, Alzheimer's disease. The study is also evaluating how well patients tolerate two different doses of MK-8931.</Content>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">alz256</ResponseID>
+<BaseQuestion id="1">What is prodromal Alzheimer's disease? </BaseQuestion>
+</RQ>
+<RQ id="1">
+<ResponseID id="2">alz000</ResponseID>
+<BaseQuestion id="2">Introduction to Clinical Trials</BaseQuestion>
+</RQ>
+<RQ id="2">
+<ResponseID id="3">alz104</ResponseID>
+<BaseQuestion id="3">What are the types of clinical trials? </BaseQuestion>
+</RQ>
+<RQ id="3">
+<ResponseID id="4">alz109</ResponseID>
+<BaseQuestion id="4">Can I get a copy of the protocol? </BaseQuestion>
+</RQ>
+<RQ id="4">
+<ResponseID id="5">alz140</ResponseID>
+<BaseQuestion id="5"> Has this drug/medication ever been tested before?/Is this drug/medication being used to treat any other conditions? </BaseQuestion>
+</RQ>
+<RQ id="5">
+<ResponseID id="6">alz166</ResponseID>
+<BaseQuestion id="6">How often will I have to take the investigational medication? </BaseQuestion>
+</RQ>
+</RQs>
+</Response>
+<Response id="alz140">
+<ResponseID id="0">alz140</ResponseID>
+<BaseQuestion id="0"> Has this drug/medication ever been tested before?/Is this drug/medication being used to treat any other conditions? </BaseQuestion>
+<Content id="0">The investigational medication, which is called MK-8931, is also being tested in patients with mild to moderate Alzheimer's disease. The MK-8931 has also been tested in patients with kidney disease. MK-8931 is considered investigational in this study because it has not been approved for treatment of Alzheimer's disease. </Content>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">alz103</ResponseID>
+<BaseQuestion id="1">What are the phases of a clinical trial? </BaseQuestion>
+</RQ>
+<RQ id="1">
+<ResponseID id="2">alz139</ResponseID>
+<BaseQuestion id="2">What is being tested in this trial?/What is the purpose of this trial? </BaseQuestion>
+</RQ>
+<RQ id="2">
+<ResponseID id="3">alz147</ResponseID>
+<BaseQuestion id="3">How many people will be enrolled in this study? </BaseQuestion>
+</RQ>
+<RQ id="3">
+<ResponseID id="4">alz166</ResponseID>
+<BaseQuestion id="4">How often will I have to take the investigational medication? </BaseQuestion>
+</RQ>
+</RQs>
+</Response>
+<Response id="alz142">
+<ResponseID id="0">alz142</ResponseID>
+<BaseQuestion id="0">When will I find out about the trial results? </BaseQuestion>
+<Content id="0">It may take several months or even years for the study team to analyze the data collected during the study and report the results. During the study, you will not be informed of ongoing study results, but you will be informed of any new safety findings regarding the investigational medication.  </Content>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">alz146</ResponseID>
+<BaseQuestion id="1">Will I be able to see my lab results during the study?</BaseQuestion>
+</RQ>
+<RQ id="1">
+<ResponseID id="2">alz139</ResponseID>
+<BaseQuestion id="2">What is being tested in this trial?/What is the purpose of this trial? </BaseQuestion>
+</RQ>
+<RQ id="2">
+<ResponseID id="3">alz114</ResponseID>
+<BaseQuestion id="3">If I participate in a specific trial, will I be told if a better treatment develops? </BaseQuestion>
+</RQ>
+</RQs>
+</Response>
+<Response id="alz143">
+<ResponseID id="0">alz143</ResponseID>
+<BaseQuestion id="0">Will I be able to talk to the study doctor during the study? </BaseQuestion>
+<Content id="0">Over the course of the trial, you will have regular communication with the study team, including your study doctor. You may not see the study doctor at each study visit, but you will have opportunities to meet with the study doctor to ask questions or discuss any concerns you have throughout the trial.</Content>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">alz183</ResponseID>
+<BaseQuestion id="1">Who will be involved in my medical care during the study?</BaseQuestion>
+</RQ>
+<RQ id="1">
+<ResponseID id="2">alz185</ResponseID>
+<BaseQuestion id="2">What happens if I get sick while participating in the study? </BaseQuestion>
+</RQ>
+<RQ id="2">
+<ResponseID id="3">alz105</ResponseID>
+<BaseQuestion id="3">Who is managing the trial? </BaseQuestion>
+</RQ>
+<RQ id="3">
+<ResponseID id="4">alz123</ResponseID>
+<BaseQuestion id="4">Should I talk to my doctor about this trial? </BaseQuestion>
+</RQ>
+<RQ id="4">
+<ResponseID id="5">alz168</ResponseID>
+<BaseQuestion id="5">How many times will I have to visit the study site? </BaseQuestion>
+</RQ>
+</RQs>
+</Response>
+<Response id="alz146">
+<ResponseID id="0">alz146</ResponseID>
+<BaseQuestion id="0">Will I be able to see my lab results during the study?</BaseQuestion>
+<Content id="0">There are two types of lab tests that are performed during this study, in addition to some standard medical tests and procedures. The first type of lab testing includes tests that check the effectiveness of the investigational medication. The second type of testing includes tests performed to make sure that the investigational medication is safe. Any new information about the safety of the investigational medication will be shared with you. You will not be able to see the results of these tests while participating in the study.</Content>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">alz142</ResponseID>
+<BaseQuestion id="1">When will I find out about the trial results? </BaseQuestion>
+</RQ>
+<RQ id="1">
+<ResponseID id="2">alz183</ResponseID>
+<BaseQuestion id="2">Who will be involved in my medical care during the study?</BaseQuestion>
+</RQ>
+</RQs>
+</Response>
+<Response id="alz147">
+<ResponseID id="0">alz147</ResponseID>
+<BaseQuestion id="0">How many people will be enrolled in this study? </BaseQuestion>
+<Content id="0">This study is expected to enroll 1,500 adults with prodromal Alzheimer's disease. </Content>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">alz140</ResponseID>
+<BaseQuestion id="1"> Has this drug/medication ever been tested before?/Is this drug/medication being used to treat any other conditions? </BaseQuestion>
+</RQ>
+<RQ id="1">
+<ResponseID id="2">alz175</ResponseID>
+<BaseQuestion id="2">How long will I be in the study? </BaseQuestion>
+</RQ>
+<RQ id="2">
+<ResponseID id="3">alz203</ResponseID>
+<BaseQuestion id="3">Where will I go for study visits? </BaseQuestion>
+</RQ>
+</RQs>
+</Response>
+<Response id="alz148">
+<ResponseID id="0">alz148</ResponseID>
+<BaseQuestion id="0">Would I have to pay for the medication/tests?/Who pays for the medicine/tests? </BaseQuestion>
+<Content id="0">Study participants will not have to pay for the investigational medication, study visits, or study procedures during participation in this study. The study sponsor will pay for these costs. You or your insurance company will cover the costs for specific procedures or tests that are part of the standard treatment for patients with your medical condition. If you have any questions or concerns related to cost, please ask the study staff. </Content>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">alz155</ResponseID>
+<BaseQuestion id="1">Will I get paid to participate?</BaseQuestion>
+</RQ>
+<RQ id="1">
+<ResponseID id="2">alz180</ResponseID>
+<BaseQuestion id="2">What support is available for participants during the study? </BaseQuestion>
+</RQ>
+<RQ id="2">
+<ResponseID id="3">alz156</ResponseID>
+<BaseQuestion id="3">Why is there no compensation? </BaseQuestion>
+</RQ>
+<RQ id="3">
+<ResponseID id="4">alz157</ResponseID>
+<BaseQuestion id="4">Do the study doctors get paid/who pays the doctors?</BaseQuestion>
+</RQ>
+</RQs>
+</Response>
+<Response id="alz155">
+<ResponseID id="0">alz155</ResponseID>
+<BaseQuestion id="0">Will I get paid to participate?</BaseQuestion>
+<Content id="0">You will not receive any payments to take part in this study.  However, you may receive reimbursement to help cover the cost of travel and expenses, which may include such things as parking, baby-sitting, time off from work, or meals. Please ask the study staff for more information. </Content>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">alz148</ResponseID>
+<BaseQuestion id="1">Would I have to pay for the medication/tests?/Who pays for the medicine/tests? </BaseQuestion>
+</RQ>
+<RQ id="1">
+<ResponseID id="2">alz180</ResponseID>
+<BaseQuestion id="2">What support is available for participants during the study? </BaseQuestion>
+</RQ>
+<RQ id="2">
+<ResponseID id="3">alz156</ResponseID>
+<BaseQuestion id="3">Why is there no compensation? </BaseQuestion>
+</RQ>
+<RQ id="3">
+<ResponseID id="4">alz157</ResponseID>
+<BaseQuestion id="4">Do the study doctors get paid/who pays the doctors?</BaseQuestion>
+</RQ>
+</RQs>
+</Response>
+<Response id="alz156">
+<ResponseID id="0">alz156</ResponseID>
+<BaseQuestion id="0">Why is there no compensation? </BaseQuestion>
+<Content id="0">Study sponsors do not offer financial compensation because it is important to avoid inappropriately influencing the decision of a patient to participate in the study. The study team wants patients to make their decision to enter into a clinical trial based only on whether it is a sensible choice from a physical and psychological perspective, as opposed to for financial reasons.</Content>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">alz148</ResponseID>
+<BaseQuestion id="1">Would I have to pay for the medication/tests?/Who pays for the medicine/tests? </BaseQuestion>
+</RQ>
+<RQ id="1">
+<ResponseID id="2">alz155</ResponseID>
+<BaseQuestion id="2">Will I get paid to participate?</BaseQuestion>
+</RQ>
+<RQ id="2">
+<ResponseID id="3">alz123</ResponseID>
+<BaseQuestion id="3">Should I talk to my doctor about this trial? </BaseQuestion>
+</RQ>
+<RQ id="3">
+<ResponseID id="4">alz180</ResponseID>
+<BaseQuestion id="4">What support is available for participants during the study? </BaseQuestion>
+</RQ>
+<RQ id="4">
+<ResponseID id="5">alz158</ResponseID>
+<BaseQuestion id="5">Who can participate in this study? </BaseQuestion>
+</RQ>
+</RQs>
+</Response>
+<Response id="alz157">
+<ResponseID id="0">alz157</ResponseID>
+<BaseQuestion id="0">Do the study doctors get paid/who pays the doctors?</BaseQuestion>
+<Content id="0">The study doctors are being paid by Merck, the sponsor of this study, to conduct this study.</Content>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">alz148</ResponseID>
+<BaseQuestion id="1">Would I have to pay for the medication/tests?/Who pays for the medicine/tests? </BaseQuestion>
+</RQ>
+<RQ id="1">
+<ResponseID id="2">alz155</ResponseID>
+<BaseQuestion id="2">Will I get paid to participate?</BaseQuestion>
+</RQ>
+<RQ id="2">
+<ResponseID id="3">alz156</ResponseID>
+<BaseQuestion id="3">Why is there no compensation? </BaseQuestion>
+</RQ>
+</RQs>
+</Response>
+<Response id="alz158">
+<ResponseID id="0">alz158</ResponseID>
+<BaseQuestion id="0">Who can participate in this study? </BaseQuestion>
+<Content id="0">You may be eligible to participate in the APECS clinical research study if you are 50 to 85 years old and have worsening memory problems for at least one year. Additionally, at the first study visit, you must have something called a positron emission tomography scan, also called a PET scan. The PET scan shows whether you have amyloid plaques in the brain. The study doctor will use the results of the PET scan along with other tests to determine whether you are eligible for this study. In order to participate, you must also have someone close to you who is willing to act as a study partner who is able to attend all study visits with you and answer questions about you. There are other requirements for eligibility that the study team will discuss with you.</Content>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">alz108</ResponseID>
+<BaseQuestion id="1">What is a clinical trial protocol? </BaseQuestion>
+</RQ>
+<RQ id="1">
+<ResponseID id="2">alz139</ResponseID>
+<BaseQuestion id="2">What is being tested in this trial?/What is the purpose of this trial? </BaseQuestion>
+</RQ>
+<RQ id="2">
+<ResponseID id="3">alz161</ResponseID>
+<BaseQuestion id="3">Can I participate in more than one trial? </BaseQuestion>
+</RQ>
+<RQ id="3">
+<ResponseID id="4">alz158</ResponseID>
+<BaseQuestion id="4">Who can participate in this study? </BaseQuestion>
+</RQ>
+</RQs>
+</Response>
+<Response id="alz161">
+<ResponseID id="0">alz161</ResponseID>
+<BaseQuestion id="0">Can I participate in more than one trial? </BaseQuestion>
+<Content id="0">If you are currently participating in or have participated in another clinical research study of an investigational medication within 30 days prior to your first visit to the study site, you will not be able to participate in the APECS study.</Content>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">alz158</ResponseID>
+<BaseQuestion id="1">Who can participate in this study? </BaseQuestion>
+</RQ>
+<RQ id="1">
+<ResponseID id="2">alz132</ResponseID>
+<BaseQuestion id="2">How long do I have to make my decision? </BaseQuestion>
+</RQ>
+<RQ id="2">
+<ResponseID id="3">alz139</ResponseID>
+<BaseQuestion id="3">What is being tested in this trial?/What is the purpose of this trial? </BaseQuestion>
+</RQ>
+</RQs>
+</Response>
+<Response id="alz163">
+<ResponseID id="0">alz163</ResponseID>
+<BaseQuestion id="0">Should I/Can I keep taking my other medications? </BaseQuestion>
+<Content id="0">The use of some medications may be restricted during the study. Your study doctor will ask you about the medications you are currently taking and will tell you if any of them cannot be taken during the study. Otherwise, you should continue taking your usual medication as prescribed by your doctor. If your regular doctor prescribes any other medication while you are in this study, you must consult the study doctor before you take the medication. </Content>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">alz164</ResponseID>
+<BaseQuestion id="1">Can I use alternative or complementary medications/treatments during the study? </BaseQuestion>
+</RQ>
+<RQ id="1">
+<ResponseID id="2">alz123</ResponseID>
+<BaseQuestion id="2">Should I talk to my doctor about this trial? </BaseQuestion>
+</RQ>
+</RQs>
+</Response>
+<Response id="alz164">
+<ResponseID id="0">alz164</ResponseID>
+<BaseQuestion id="0">Can I use alternative or complementary medications/treatments during the study? </BaseQuestion>
+<Content id="0">If you are currently taking any alternative or complementary medications or treatments, please discuss these therapies with the study doctor. The study doctor will tell you if any of these treatments cannot be taken during the study. You should continue these treatments unless told to stop by the study doctor. You should not start taking alternative or complementary medications during your participation in the study.</Content>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">alz163</ResponseID>
+<BaseQuestion id="1">Should I/Can I keep taking my other medications? </BaseQuestion>
+</RQ>
+<RQ id="1">
+<ResponseID id="2">alz123</ResponseID>
+<BaseQuestion id="2">Should I talk to my doctor about this trial? </BaseQuestion>
+</RQ>
+</RQs>
+</Response>
+<Response id="alz166">
+<ResponseID id="0">alz166</ResponseID>
+<BaseQuestion id="0">How often will I have to take the investigational medication? </BaseQuestion>
+<Content id="0">The investigational medication and placebo are oral tablets that should be taken once a day at the same time every day. You do not have to take it with food. Talk to the study doctor if you have any questions about the study medication.</Content>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">alz104</ResponseID>
+<BaseQuestion id="1">What are the types of clinical trials? </BaseQuestion>
+</RQ>
+<RQ id="1">
+<ResponseID id="2">alz139</ResponseID>
+<BaseQuestion id="2">What is being tested in this trial?/What is the purpose of this trial? </BaseQuestion>
+</RQ>
+<RQ id="2">
+<ResponseID id="3">alz255</ResponseID>
+<BaseQuestion id="3">What medication will I take? </BaseQuestion>
+</RQ>
+<RQ id="3">
+<ResponseID id="4">alz168</ResponseID>
+<BaseQuestion id="4">How many times will I have to visit the study site? </BaseQuestion>
+</RQ>
+<RQ id="4">
+<ResponseID id="5">alz170</ResponseID>
+<BaseQuestion id="5">Will there be lots of needles?/Will I have to have blood tests?</BaseQuestion>
+</RQ>
+<RQ id="5">
+<ResponseID id="6">alz175</ResponseID>
+<BaseQuestion id="6">How long will I be in the study? </BaseQuestion>
+</RQ>
+</RQs>
+</Response>
+<Response id="alz168">
+<ResponseID id="0">alz168</ResponseID>
+<BaseQuestion id="0">How many times will I have to visit the study site? </BaseQuestion>
+<Content id="0">If you are eligible for the study, you will visit the study site up to 12 times over a 2-year period and have 8 phone calls with the study team.</Content>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">alz203</ResponseID>
+<BaseQuestion id="1">Where will I go for study visits? </BaseQuestion>
+</RQ>
+<RQ id="1">
+<ResponseID id="2">alz166</ResponseID>
+<BaseQuestion id="2">How often will I have to take the investigational medication? </BaseQuestion>
+</RQ>
+<RQ id="2">
+<ResponseID id="3">alz170</ResponseID>
+<BaseQuestion id="3">Will there be lots of needles?/Will I have to have blood tests?</BaseQuestion>
+</RQ>
+<RQ id="3">
+<ResponseID id="4">alz175</ResponseID>
+<BaseQuestion id="4">How long will I be in the study? </BaseQuestion>
+</RQ>
+</RQs>
+</Response>
+<Response id="alz170">
+<ResponseID id="0">alz170</ResponseID>
+<BaseQuestion id="0">Will there be lots of needles?/Will I have to have blood tests?</BaseQuestion>
+<Content id="0">A few study visits will require the collection of blood samples, which will be drawn using a needle. Blood samples are taken so that the study staff can check your general health and see if the investigational medication has any effect on your body. If you have any concerns about the collection of blood samples during this trial, please speak with your study doctor.</Content>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">alz158</ResponseID>
+<BaseQuestion id="1">Who can participate in this study? </BaseQuestion>
+</RQ>
+<RQ id="1">
+<ResponseID id="2">alz166</ResponseID>
+<BaseQuestion id="2">How often will I have to take the investigational medication? </BaseQuestion>
+</RQ>
+<RQ id="2">
+<ResponseID id="3">alz168</ResponseID>
+<BaseQuestion id="3">How many times will I have to visit the study site? </BaseQuestion>
+</RQ>
+<RQ id="3">
+<ResponseID id="4">alz203</ResponseID>
+<BaseQuestion id="4">Where will I go for study visits? </BaseQuestion>
+</RQ>
+</RQs>
+</Response>
+<Response id="alz175">
+<ResponseID id="0">alz175</ResponseID>
+<BaseQuestion id="0">How long will I be in the study? </BaseQuestion>
+<Content id="0">Your participation in the study will last about 2 years and include 12 visits to the study site and 8 phone calls with the study staff.</Content>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">alz176</ResponseID>
+<BaseQuestion id="1">How long will the study visits last? </BaseQuestion>
+</RQ>
+<RQ id="1">
+<ResponseID id="2">alz168</ResponseID>
+<BaseQuestion id="2">How many times will I have to visit the study site? </BaseQuestion>
+</RQ>
+<RQ id="2">
+<ResponseID id="3">alz203</ResponseID>
+<BaseQuestion id="3">Where will I go for study visits? </BaseQuestion>
+</RQ>
+<RQ id="3">
+<ResponseID id="4">alz170</ResponseID>
+<BaseQuestion id="4">Will there be lots of needles?/Will I have to have blood tests?</BaseQuestion>
+</RQ>
+<RQ id="4">
+<ResponseID id="5">alz166</ResponseID>
+<BaseQuestion id="5">How often will I have to take the investigational medication? </BaseQuestion>
+</RQ>
+</RQs>
+</Response>
+<Response id="alz176">
+<ResponseID id="0">alz176</ResponseID>
+<BaseQuestion id="0">How long will the study visits last? </BaseQuestion>
+<Content id="0">Because of the nature of the study assessments, you should plan to be at the study site for several hours, so it's a good idea to bring items with you to help you pass the time, such as reading material and devices to play music or games. For more information on the various study visits, please speak with the study staff. </Content>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">alz175</ResponseID>
+<BaseQuestion id="1">How long will I be in the study? </BaseQuestion>
+</RQ>
+<RQ id="1">
+<ResponseID id="2">alz168</ResponseID>
+<BaseQuestion id="2">How many times will I have to visit the study site? </BaseQuestion>
+</RQ>
+<RQ id="2">
+<ResponseID id="3">alz203</ResponseID>
+<BaseQuestion id="3">Where will I go for study visits? </BaseQuestion>
+</RQ>
+<RQ id="3">
+<ResponseID id="4">alz170</ResponseID>
+<BaseQuestion id="4">Will there be lots of needles?/Will I have to have blood tests?</BaseQuestion>
+</RQ>
+<RQ id="4">
+<ResponseID id="5">alz166</ResponseID>
+<BaseQuestion id="5">How often will I have to take the investigational medication? </BaseQuestion>
+</RQ>
+</RQs>
+</Response>
+<Response id="alz177">
+<ResponseID id="0">alz177</ResponseID>
+<BaseQuestion id="0">What will happen if I miss some study visits? </BaseQuestion>
+<Content id="0">It is important to attend each of the study visits. The study team will schedule the study visit appointments in advance. If you expect that you may miss an appointment, contact the study team immediately to reschedule. If you anticipate that it will be difficult to attend any of the planned study visits, please let the study team know as soon as possible so that they can discuss your continued eligibility and enrollment in the study.</Content>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">alz176</ResponseID>
+<BaseQuestion id="1">How long will the study visits last? </BaseQuestion>
+</RQ>
+<RQ id="1">
+<ResponseID id="2">alz168</ResponseID>
+<BaseQuestion id="2">How many times will I have to visit the study site? </BaseQuestion>
+</RQ>
+<RQ id="2">
+<ResponseID id="3">alz203</ResponseID>
+<BaseQuestion id="3">Where will I go for study visits? </BaseQuestion>
+</RQ>
+<RQ id="3">
+<ResponseID id="4">alz175</ResponseID>
+<BaseQuestion id="4">How long will I be in the study? </BaseQuestion>
+</RQ>
+</RQs>
+</Response>
+<Response id="alz180">
+<ResponseID id="0">alz180</ResponseID>
+<BaseQuestion id="0">What support is available for participants during the study? </BaseQuestion>
+<Content id="0">If you choose to participate in this clinical study, you may have access to a variety of support services. Support services, such as parking, day care, and travel reimbursement vary based on the site. For more information on the support services available to you, please contact your study team. </Content>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">alz148</ResponseID>
+<BaseQuestion id="1">Would I have to pay for the medication/tests?/Who pays for the medicine/tests? </BaseQuestion>
+</RQ>
+<RQ id="1">
+<ResponseID id="2">alz155</ResponseID>
+<BaseQuestion id="2">Will I get paid to participate?</BaseQuestion>
+</RQ>
+</RQs>
+</Response>
+<Response id="alz181">
+<ResponseID id="0">alz181</ResponseID>
+<BaseQuestion id="0">Is it normal to feel nervous?</BaseQuestion>
+<Content id="0">Signing up to participate in a clinical study can be overwhelming, so it is perfectly normal for you to feel nervous. You should carefully review the informed consent document that the study team has provided to you and ensure you fully understand the potential risks and benefits of your taking part in the study. If you have any questions about the study or still feel uncertain nervousness about your participation, you should not hesitate to talk to your study doctor about any concerns you may have.</Content>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">alz115</ResponseID>
+<BaseQuestion id="1">What if the study medication does not work?</BaseQuestion>
+</RQ>
+<RQ id="1">
+<ResponseID id="2">alz123</ResponseID>
+<BaseQuestion id="2">Should I talk to my doctor about this trial? </BaseQuestion>
+</RQ>
+<RQ id="2">
+<ResponseID id="3">alz128</ResponseID>
+<BaseQuestion id="3">Who can help me decide what is best for me? </BaseQuestion>
+</RQ>
+<RQ id="3">
+<ResponseID id="4">alz126</ResponseID>
+<BaseQuestion id="4">What if I do not understand the Informed Consent form? Who can help me understand the Informed Consent form? </BaseQuestion>
+</RQ>
+</RQs>
+</Response>
+<Response id="alz182">
+<ResponseID id="0">alz182</ResponseID>
+<BaseQuestion id="0">Can I get treatment for other medical problems during this study? </BaseQuestion>
+<Content id="0">Over the course of the study, you will continue to be treated by your regular doctor. This doctor will be in charge of providing all non-study related care, including care for any existing or new medical problems. It is important that you discuss with the study team any existing medical conditions you have, as well as any other medications or treatments that you may use, so that they have a complete picture of your health before the study starts. The use of some medications is restricted during the study. The study doctor will ask you about the medications you are currently taking and will tell you if any of them cannot be taken during the study. Otherwise, you will continue taking your usual medications as prescribed by your doctor. If your regular doctor prescribes any medication while you are in this study, you must first consult your study doctor before taking it, as the investigational medication may alter how well other medications work.  In some cases, your regular doctor may need to adjust your medication to ensure that it is working properly. In the event that a new medical problem arises over the course of the study, please inform both your regular doctor and the study doctor so that they can best coordinate your care. </Content>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">alz183</ResponseID>
+<BaseQuestion id="1">Who will be involved in my medical care during the study?</BaseQuestion>
+</RQ>
+<RQ id="1">
+<ResponseID id="2">alz163</ResponseID>
+<BaseQuestion id="2">Should I/Can I keep taking my other medications? </BaseQuestion>
+</RQ>
+<RQ id="2">
+<ResponseID id="3">alz164</ResponseID>
+<BaseQuestion id="3">Can I use alternative or complementary medications/treatments during the study? </BaseQuestion>
+</RQ>
+<RQ id="3">
+<ResponseID id="4">alz136</ResponseID>
+<BaseQuestion id="4">Will my doctor be told about my participation in a clinical trial? </BaseQuestion>
+</RQ>
+<RQ id="4">
+<ResponseID id="5">alz143</ResponseID>
+<BaseQuestion id="5">Will I be able to talk to the study doctor during the study? </BaseQuestion>
+</RQ>
+</RQs>
+</Response>
+<Response id="alz183">
+<ResponseID id="0">alz183</ResponseID>
+<BaseQuestion id="0">Who will be involved in my medical care during the study?</BaseQuestion>
+<Content id="0">If you choose to enroll in this clinical study, you will be cared for by a study team for all study-related procedures. The team includes doctors and other health care professionals. You will also be treated by your regular doctor during the study for any non-study related care.</Content>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">alz105</ResponseID>
+<BaseQuestion id="1">Who is managing the trial? </BaseQuestion>
+</RQ>
+<RQ id="1">
+<ResponseID id="2">alz184</ResponseID>
+<BaseQuestion id="2">Can I use my own doctor/lab/hospital for the tests? </BaseQuestion>
+</RQ>
+<RQ id="2">
+<ResponseID id="3">alz185</ResponseID>
+<BaseQuestion id="3">What happens if I get sick while participating in the study? </BaseQuestion>
+</RQ>
+<RQ id="3">
+<ResponseID id="4">alz202</ResponseID>
+<BaseQuestion id="4">Will I have to switch doctors if I enroll in a trial?</BaseQuestion>
+</RQ>
+</RQs>
+</Response>
+<Response id="alz184">
+<ResponseID id="0">alz184</ResponseID>
+<BaseQuestion id="0">Can I use my own doctor/lab/hospital for the tests? </BaseQuestion>
+<Content id="0">If you choose to participate in the study, you will be required to go to designated facilities for all study-related procedures and testing. However, it should be noted that you will continue to see your regular doctor for any non-study related testing and care throughout the study.  </Content>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">alz105</ResponseID>
+<BaseQuestion id="1">Who is managing the trial? </BaseQuestion>
+</RQ>
+<RQ id="1">
+<ResponseID id="2">alz183</ResponseID>
+<BaseQuestion id="2">Who will be involved in my medical care during the study?</BaseQuestion>
+</RQ>
+<RQ id="2">
+<ResponseID id="3">alz185</ResponseID>
+<BaseQuestion id="3">What happens if I get sick while participating in the study? </BaseQuestion>
+</RQ>
+<RQ id="3">
+<ResponseID id="4">alz186</ResponseID>
+<BaseQuestion id="4">How qualified are the study personnel? </BaseQuestion>
+</RQ>
+</RQs>
+</Response>
+<Response id="alz185">
+<ResponseID id="0">alz185</ResponseID>
+<BaseQuestion id="0">What happens if I get sick while participating in the study? </BaseQuestion>
+<Content id="0">If you get sick while participating in the study, please notify the study staff immediately. They will coordinate your care with your regular doctor as needed.  </Content>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">alz105</ResponseID>
+<BaseQuestion id="1">Who is managing the trial? </BaseQuestion>
+</RQ>
+<RQ id="1">
+<ResponseID id="2">alz115</ResponseID>
+<BaseQuestion id="2">What if the study medication does not work?</BaseQuestion>
+</RQ>
+<RQ id="2">
+<ResponseID id="3">alz122</ResponseID>
+<BaseQuestion id="3">Does my doctor know about this trial? </BaseQuestion>
+</RQ>
+<RQ id="3">
+<ResponseID id="4">alz183</ResponseID>
+<BaseQuestion id="4">Who will be involved in my medical care during the study?</BaseQuestion>
+</RQ>
+<RQ id="4">
+<ResponseID id="5">alz184</ResponseID>
+<BaseQuestion id="5">Can I use my own doctor/lab/hospital for the tests? </BaseQuestion>
+</RQ>
+<RQ id="5">
+<ResponseID id="6">alz117</ResponseID>
+<BaseQuestion id="6">If standard treatment works for me, why should I participate in a trial? </BaseQuestion>
+</RQ>
+</RQs>
+</Response>
+<Response id="alz186">
+<ResponseID id="0">alz186</ResponseID>
+<BaseQuestion id="0">How qualified are the study personnel? </BaseQuestion>
+<Content id="0">The study team are trained research professionals familiar with prodromal Alzheimer's disease.</Content>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">alz122</ResponseID>
+<BaseQuestion id="1">Does my doctor know about this trial? </BaseQuestion>
+</RQ>
+<RQ id="1">
+<ResponseID id="2">alz184</ResponseID>
+<BaseQuestion id="2">Can I use my own doctor/lab/hospital for the tests? </BaseQuestion>
+</RQ>
+</RQs>
+</Response>
+<Response id="alz187">
+<ResponseID id="0">alz187</ResponseID>
+<BaseQuestion id="0">How familiar with the study are the study nurses and physicians?</BaseQuestion>
+<Content id="0">All medical professionals participating in this clinical trial are very familiar with the study. If you have questions about your participation in the study, you can feel confident asking any member of the study team.</Content>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">alz186</ResponseID>
+<BaseQuestion id="1">How qualified are the study personnel? </BaseQuestion>
+</RQ>
+<RQ id="1">
+<ResponseID id="2">alz183</ResponseID>
+<BaseQuestion id="2">Who will be involved in my medical care during the study?</BaseQuestion>
+</RQ>
+<RQ id="2">
+<ResponseID id="3">alz105</ResponseID>
+<BaseQuestion id="3">Who is managing the trial? </BaseQuestion>
+</RQ>
+</RQs>
+</Response>
+<Response id="alz188">
+<ResponseID id="0">alz188</ResponseID>
+<BaseQuestion id="0">Will the nurses/physicians/etc. know what medication I am getting?</BaseQuestion>
+<Content id="0">This study is designed to be double-blind, which means you, your study partner, and the study doctor will not know whether you are taking the placebo or the investigational medication, which is called MK-8931.  This is done to ensure that the trial results are not influenced by what is known as the placebo effect. Placebo effect is caused by the patient's belief that they are receiving a certain treatment or through researcher bias. If you have concerns about receiving either of the study medications, please speak with the study team.</Content>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">alz104</ResponseID>
+<BaseQuestion id="1">What are the types of clinical trials? </BaseQuestion>
+</RQ>
+<RQ id="1">
+<ResponseID id="2">alz255</ResponseID>
+<BaseQuestion id="2">What medication will I take? </BaseQuestion>
+</RQ>
+<RQ id="2">
+<ResponseID id="3">alz119</ResponseID>
+<BaseQuestion id="3">Is there any way to make sure that I get the active investigational medication instead of placebo? </BaseQuestion>
+</RQ>
+</RQs>
+</Response>
+<Response id="alz190">
+<ResponseID id="0">alz190</ResponseID>
+<BaseQuestion id="0">What are the risks/side effects of this medication?</BaseQuestion>
+<Content id="0">Please review the informed consent documents given to you by the study team for a full explanation of the potential risks and side effects associated with this clinical trial. If you have any questions please speak with the study team.</Content>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">alz115</ResponseID>
+<BaseQuestion id="1">What if the study medication does not work?</BaseQuestion>
+</RQ>
+<RQ id="1">
+<ResponseID id="2">alz192</ResponseID>
+<BaseQuestion id="2">Could my condition get worse? </BaseQuestion>
+</RQ>
+<RQ id="2">
+<ResponseID id="3">alz127</ResponseID>
+<BaseQuestion id="3">What rights do I have if I participate in a clinical trial? </BaseQuestion>
+</RQ>
+<RQ id="3">
+<ResponseID id="4">alz124</ResponseID>
+<BaseQuestion id="4">What is informed consent? </BaseQuestion>
+</RQ>
+<RQ id="4">
+<ResponseID id="5">alz193</ResponseID>
+<BaseQuestion id="5">What should I do if I experience side effects? </BaseQuestion>
+</RQ>
+</RQs>
+</Response>
+<Response id="alz192">
+<ResponseID id="0">alz192</ResponseID>
+<BaseQuestion id="0">Could my condition get worse? </BaseQuestion>
+<Content id="0">It cannot be guaranteed or promised that you will receive any benefits from the investigational medication or from participating in this clinical study. Your participation may help us better assess the effectiveness and safety of the investigational medication. There is a possibility that your condition could worsen while you participate in this study.</Content>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">alz190</ResponseID>
+<BaseQuestion id="1">What are the risks/side effects of this medication?</BaseQuestion>
+</RQ>
+<RQ id="1">
+<ResponseID id="2">alz258</ResponseID>
+<BaseQuestion id="2">Why is clinical research important for Alzheimer's disease? </BaseQuestion>
+</RQ>
+<RQ id="2">
+<ResponseID id="3">alz115</ResponseID>
+<BaseQuestion id="3">What if the study medication does not work?</BaseQuestion>
+</RQ>
+<RQ id="3">
+<ResponseID id="4">alz193</ResponseID>
+<BaseQuestion id="4">What should I do if I experience side effects? </BaseQuestion>
+</RQ>
+</RQs>
+</Response>
+<Response id="alz193">
+<ResponseID id="0">alz193</ResponseID>
+<BaseQuestion id="0">What should I do if I experience side effects? </BaseQuestion>
+<Content id="0">You should report any discomforts, problems, or other potential side effects immediately to the study team. </Content>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">alz190</ResponseID>
+<BaseQuestion id="1">What are the risks/side effects of this medication?</BaseQuestion>
+</RQ>
+<RQ id="1">
+<ResponseID id="2">alz192</ResponseID>
+<BaseQuestion id="2">Could my condition get worse? </BaseQuestion>
+</RQ>
+<RQ id="2">
+<ResponseID id="3">alz258</ResponseID>
+<BaseQuestion id="3">Why is clinical research important for Alzheimer's disease? </BaseQuestion>
+</RQ>
+<RQ id="3">
+<ResponseID id="4">alz115</ResponseID>
+<BaseQuestion id="4">What if the study medication does not work?</BaseQuestion>
+</RQ>
+</RQs>
+</Response>
+<Response id="alz201">
+<ResponseID id="0">alz201</ResponseID>
+<BaseQuestion id="0">Will I get better care if I am enrolled in a clinical trial? </BaseQuestion>
+<Content id="0">During the course of a clinical trial, you will receive study-related care from a study team that includes doctors and other health care professionals. Some clinical trials may involve closer supervision from the study team than you may receive during routine or standard treatment.</Content>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">alz105</ResponseID>
+<BaseQuestion id="1">Who is managing the trial? </BaseQuestion>
+</RQ>
+<RQ id="1">
+<ResponseID id="2">alz186</ResponseID>
+<BaseQuestion id="2">How qualified are the study personnel? </BaseQuestion>
+</RQ>
+<RQ id="2">
+<ResponseID id="3">alz114</ResponseID>
+<BaseQuestion id="3">If I participate in a specific trial, will I be told if a better treatment develops? </BaseQuestion>
+</RQ>
+</RQs>
+</Response>
+<Response id="alz202">
+<ResponseID id="0">alz202</ResponseID>
+<BaseQuestion id="0">Will I have to switch doctors if I enroll in a trial?</BaseQuestion>
+<Content id="0">There is no reason for you to switch your regular doctors. The care that your personal doctor will provides will be different from the care that is provided by the study doctor and their staff.</Content>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">alz183</ResponseID>
+<BaseQuestion id="1">Who will be involved in my medical care during the study?</BaseQuestion>
+</RQ>
+<RQ id="1">
+<ResponseID id="2">alz122</ResponseID>
+<BaseQuestion id="2">Does my doctor know about this trial? </BaseQuestion>
+</RQ>
+<RQ id="2">
+<ResponseID id="3">alz121</ResponseID>
+<BaseQuestion id="3">Will I have to go to a different doctor for the trial? </BaseQuestion>
+</RQ>
+<RQ id="3">
+<ResponseID id="4">alz123</ResponseID>
+<BaseQuestion id="4">Should I talk to my doctor about this trial? </BaseQuestion>
+</RQ>
+</RQs>
+</Response>
+<Response id="alz203">
+<ResponseID id="0">alz203</ResponseID>
+<BaseQuestion id="0">Where will I go for study visits? </BaseQuestion>
+<Content id="0">You will come to the study site for all study visits. </Content>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">alz184</ResponseID>
+<BaseQuestion id="1">Can I use my own doctor/lab/hospital for the tests? </BaseQuestion>
+</RQ>
+<RQ id="1">
+<ResponseID id="2">alz168</ResponseID>
+<BaseQuestion id="2">How many times will I have to visit the study site? </BaseQuestion>
+</RQ>
+<RQ id="2">
+<ResponseID id="3">alz166</ResponseID>
+<BaseQuestion id="3">How often will I have to take the investigational medication? </BaseQuestion>
+</RQ>
+<RQ id="3">
+<ResponseID id="4">alz170</ResponseID>
+<BaseQuestion id="4">Will there be lots of needles?/Will I have to have blood tests?</BaseQuestion>
+</RQ>
+</RQs>
+</Response>
+<Response id="alz255">
+<ResponseID id="0">alz255</ResponseID>
+<BaseQuestion id="0">What medication will I take? </BaseQuestion>
+<Content id="0">In the APECS study, some participants will take the investigational medication, MK-8931, while others will take placebo. Placebo looks like the investigational medication but has no active ingredients. You have a 1 in 3 chance of getting placebo. You, your study partner, and the study doctor will not know whether you are receiving the investigational medication or placebo.   </Content>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">alz119</ResponseID>
+<BaseQuestion id="1">Is there any way to make sure that I get the active investigational medication instead of placebo? </BaseQuestion>
+</RQ>
+<RQ id="1">
+<ResponseID id="2">alz188</ResponseID>
+<BaseQuestion id="2">Will the nurses/physicians/etc. know what medication I am getting?</BaseQuestion>
+</RQ>
+<RQ id="2">
+<ResponseID id="3">alz166</ResponseID>
+<BaseQuestion id="3">How often will I have to take the investigational medication? </BaseQuestion>
+</RQ>
+<RQ id="3">
+<ResponseID id="4">alz139</ResponseID>
+<BaseQuestion id="4">What is being tested in this trial?/What is the purpose of this trial? </BaseQuestion>
+</RQ>
+</RQs>
+</Response>
+<Response id="alz256">
+<ResponseID id="0">alz256</ResponseID>
+<BaseQuestion id="0">What is prodromal Alzheimer's disease? </BaseQuestion>
+<Content id="0">Prodromal Alzheimer's disease is a very early stage of Alzheimer's disease when mild memory loss first begins to appear. People with prodromal Alzheimer's disease have more memory problems than what is considered normal for their age, but they remain able to carry out most daily activities. Early symptoms of prodromal Alzheimer's disease include having a hard time recalling conversations, stories you've read, important dates, or phone numbers, as well as trouble remembering where you put important items, such as your keys or wallet. Although minor forgetfulness is a common problem that comes with getting older, when it is happening more than normal, it may be time to talk to your doctor. To be diagnosed with prodromal Alzheimer's disease, a person must have memory loss in addition to a test showing that beta-amyloid is present in his or her brain. Beta-amyloid is a protein that interferes with normal brain cell function, causing memory loss.</Content>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">alz257</ResponseID>
+<BaseQuestion id="1">Is there a cure for Alzheimer's disease? </BaseQuestion>
+</RQ>
+<RQ id="1">
+<ResponseID id="2">alz258</ResponseID>
+<BaseQuestion id="2">Why is clinical research important for Alzheimer's disease? </BaseQuestion>
+</RQ>
+<RQ id="2">
+<ResponseID id="3">alz158</ResponseID>
+<BaseQuestion id="3">Who can participate in this study? </BaseQuestion>
+</RQ>
+</RQs>
+</Response>
+<Response id="alz257">
+<ResponseID id="0">alz257</ResponseID>
+<BaseQuestion id="0">Is there a cure for Alzheimer's disease? </BaseQuestion>
+<Content id="0">There is currently no cure for Alzheimer's disease. Although there are treatments that help with the cognitive and behavioral symptoms of Alzheimer's disease, there are no treatments available that slow or stop its progression. Often, the disease develops slowly before memory loss is noticeable.</Content>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">alz256</ResponseID>
+<BaseQuestion id="1">What is prodromal Alzheimer's disease? </BaseQuestion>
+</RQ>
+<RQ id="1">
+<ResponseID id="2">alz258</ResponseID>
+<BaseQuestion id="2">Why is clinical research important for Alzheimer's disease? </BaseQuestion>
+</RQ>
+<RQ id="2">
+<ResponseID id="3">alz192</ResponseID>
+<BaseQuestion id="3">Could my condition get worse? </BaseQuestion>
+</RQ>
+<RQ id="3">
+<ResponseID id="4">alz115</ResponseID>
+<BaseQuestion id="4">What if the study medication does not work?</BaseQuestion>
+</RQ>
+</RQs>
+</Response>
+<Response id="alz258">
+<ResponseID id="0">alz258</ResponseID>
+<BaseQuestion id="0">Why is clinical research important for Alzheimer's disease? </BaseQuestion>
+<Content id="0">There is currently no cure for Alzheimer's disease. Although there are treatments that help with the cognitive and behavioral symptoms of Alzheimer's disease, there are no treatments available that slow or stop its progression. Often, the disease develops slowly before memory loss is noticeable. Researchers in this clinical study are trying to find out if an investigational medication may be able to slow disease progression in people with prodromal Alzheimer's disease. Results of clinical research studies may lead to new prevention and treatment options that could help improve the lives of people with Alzheimer's disease, their families, and future generations.</Content>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">alz256</ResponseID>
+<BaseQuestion id="1">What is prodromal Alzheimer's disease? </BaseQuestion>
+</RQ>
+<RQ id="1">
+<ResponseID id="2">alz257</ResponseID>
+<BaseQuestion id="2">Is there a cure for Alzheimer's disease? </BaseQuestion>
+</RQ>
+<RQ id="2">
+<ResponseID id="3">alz192</ResponseID>
+<BaseQuestion id="3">Could my condition get worse? </BaseQuestion>
+</RQ>
+<RQ id="3">
+<ResponseID id="4">alz115</ResponseID>
+<BaseQuestion id="4">What if the study medication does not work?</BaseQuestion>
+</RQ>
+</RQs>
+</Response>
+<Response id="maalz992">
+<ResponseID id="0">maalz992</ResponseID>
+<BaseQuestion id="0">Multiple Answers Possible</BaseQuestion>
+<Content id="0">What do I have to do?</Content>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">alz000</ResponseID>
+<BaseQuestion id="1">Introduction to Clinical Trials</BaseQuestion>
+</RQ>
+<RQ id="1">
+<ResponseID id="2">alz139</ResponseID>
+<BaseQuestion id="2">What is being tested in this trial?/What is the purpose of this trial? </BaseQuestion>
+</RQ>
+<RQ id="2">
+<ResponseID id="3">alz166</ResponseID>
+<BaseQuestion id="3">How often will I have to take the investigational medication? </BaseQuestion>
+</RQ>
+</RQs>
+</Response>
+<Response id="maalz993">
+<ResponseID id="0">maalz993</ResponseID>
+<BaseQuestion id="0">Multiple Answers Possible</BaseQuestion>
+<Content id="0">What is a clinical trial about? / What is this clinical trial about?</Content>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">alz101</ResponseID>
+<BaseQuestion id="1">What is a clinical trial? </BaseQuestion>
+</RQ>
+<RQ id="1">
+<ResponseID id="2">alz139</ResponseID>
+<BaseQuestion id="2">What is being tested in this trial?/What is the purpose of this trial? </BaseQuestion>
+</RQ>
+</RQs>
+</Response>
+<Response id="maalz994">
+<ResponseID id="0">maalz994</ResponseID>
+<BaseQuestion id="0">Multiple Answers Possible</BaseQuestion>
+<Content id="0">What if something comes up?</Content>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">alz120</ResponseID>
+<BaseQuestion id="1">Can I change study sites if I move? </BaseQuestion>
+</RQ>
+<RQ id="1">
+<ResponseID id="2">alz164</ResponseID>
+<BaseQuestion id="2">Can I use alternative or complementary medications/treatments during the study? </BaseQuestion>
+</RQ>
+<RQ id="2">
+<ResponseID id="3">alz177</ResponseID>
+<BaseQuestion id="3">What will happen if I miss some study visits? </BaseQuestion>
+</RQ>
+<RQ id="3">
+<ResponseID id="4">alz190</ResponseID>
+<BaseQuestion id="4">What are the risks/side effects of this medication?</BaseQuestion>
+</RQ>
+</RQs>
+</Response>
+<Response id="maalz995">
+<ResponseID id="0">maalz995</ResponseID>
+<BaseQuestion id="0">Multiple Answers Possible</BaseQuestion>
+<Content id="0">How is it different?</Content>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">alz000</ResponseID>
+<BaseQuestion id="1">Introduction to Clinical Trials</BaseQuestion>
+</RQ>
+<RQ id="1">
+<ResponseID id="2">alz103</ResponseID>
+<BaseQuestion id="2">What are the phases of a clinical trial? </BaseQuestion>
+</RQ>
+<RQ id="2">
+<ResponseID id="3">alz104</ResponseID>
+<BaseQuestion id="3">What are the types of clinical trials? </BaseQuestion>
+</RQ>
+<RQ id="3">
+<ResponseID id="4">alz116</ResponseID>
+<BaseQuestion id="4">What is standard treatment? </BaseQuestion>
+</RQ>
+<RQ id="4">
+<ResponseID id="5">alz123</ResponseID>
+<BaseQuestion id="5">Should I talk to my doctor about this trial? </BaseQuestion>
+</RQ>
+</RQs>
+</Response>
+<Response id="maalz996">
+<ResponseID id="0">maalz996</ResponseID>
+<BaseQuestion id="0">Multiple Answers Possible</BaseQuestion>
+<Content id="0">Why do clinical trials?</Content>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">alz101</ResponseID>
+<BaseQuestion id="1">What is a clinical trial? </BaseQuestion>
+</RQ>
+<RQ id="1">
+<ResponseID id="2">alz117</ResponseID>
+<BaseQuestion id="2">If standard treatment works for me, why should I participate in a trial? </BaseQuestion>
+</RQ>
+</RQs>
+</Response>
+<Response id="maalz998">
+<ResponseID id="0">maalz998</ResponseID>
+<BaseQuestion id="0">Multiple Answers Possible</BaseQuestion>
+<Content id="0">Who will pay for this?</Content>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">alz148</ResponseID>
+<BaseQuestion id="1">Would I have to pay for the medication/tests?/Who pays for the medicine/tests? </BaseQuestion>
+</RQ>
+<RQ id="1">
+<ResponseID id="2">alz157</ResponseID>
+<BaseQuestion id="2">Do the study doctors get paid/who pays the doctors?</BaseQuestion>
+</RQ>
+<RQ id="2">
+<ResponseID id="3">alz155</ResponseID>
+<BaseQuestion id="3">Will I get paid to participate?</BaseQuestion>
+</RQ>
+</RQs>
+</Response>
+</xml>

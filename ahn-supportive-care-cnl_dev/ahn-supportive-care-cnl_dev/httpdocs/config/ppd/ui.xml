@@ -1,0 +1,121 @@
+<xml>
+<Response id="acc001">
+<LeftRail>
+<Id>main</Id>
+<Hidden>false</Hidden>
+<ModuleSelected>0</ModuleSelected>
+</LeftRail>
+<VideoControls>
+<Hidden>true</Hidden>
+<PreviousId />
+<NextId>acc002</NextId>
+</VideoControls>
+<AskControls>
+<Hidden>false</Hidden>
+<Action>analyze</Action>
+</AskControls>
+<CaseName>MDR_ACC</CaseName>
+</Response>
+<Response id="acc002">
+<LeftRail>
+<Id>main</Id>
+<Hidden>false</Hidden>
+<ModuleSelected>0</ModuleSelected>
+</LeftRail>
+<VideoControls>
+<Hidden>true</Hidden>
+<PreviousId />
+<NextId>acc003</NextId>
+</VideoControls>
+<AskControls>
+<Hidden>false</Hidden>
+<Action>analyze</Action>
+</AskControls>
+<CaseName>MDR_ACC</CaseName>
+</Response>
+<Response id="acc003">
+<LeftRail>
+<Id>main</Id>
+<Hidden>false</Hidden>
+<ModuleSelected>0</ModuleSelected>
+</LeftRail>
+<VideoControls>
+<Hidden>true</Hidden>
+<PreviousId />
+<NextId>acc004</NextId>
+</VideoControls>
+<AskControls>
+<Hidden>false</Hidden>
+<Action>analyze</Action>
+</AskControls>
+<CaseName>MDR_ACC</CaseName>
+</Response>
+<Response id="acc004">
+<LeftRail>
+<Id>main</Id>
+<Hidden>false</Hidden>
+<ModuleSelected>0</ModuleSelected>
+</LeftRail>
+<VideoControls>
+<Hidden>true</Hidden>
+<PreviousId />
+<NextId>acc005</NextId>
+</VideoControls>
+<AskControls>
+<Hidden>false</Hidden>
+<Action>analyze</Action>
+</AskControls>
+<CaseName>MDR_ACC</CaseName>
+</Response>
+<Response id="acc005">
+<LeftRail>
+<Id>main</Id>
+<Hidden>false</Hidden>
+<ModuleSelected>0</ModuleSelected>
+</LeftRail>
+<VideoControls>
+<Hidden>true</Hidden>
+<PreviousId />
+<NextId>acc006</NextId>
+</VideoControls>
+<AskControls>
+<Hidden>false</Hidden>
+<Action>analyze</Action>
+</AskControls>
+<CaseName>MDR_ACC</CaseName>
+</Response>
+<Response id="acc005">
+<LeftRail>
+<Id>main</Id>
+<Hidden>false</Hidden>
+<ModuleSelected>0</ModuleSelected>
+</LeftRail>
+<VideoControls>
+<Hidden>true</Hidden>
+<PreviousId />
+<NextId>acc006</NextId>
+</VideoControls>
+<AskControls>
+<Hidden>false</Hidden>
+<Action>analyze</Action>
+</AskControls>
+<CaseName>MDR_ACC</CaseName>
+</Response>
+<Response id="acc006">
+<LeftRail>
+<Id>main</Id>
+<Hidden>false</Hidden>
+<ModuleSelected>0</ModuleSelected>
+</LeftRail>
+<VideoControls>
+<Hidden>true</Hidden>
+<PreviousId />
+<NextId>acc001</NextId>
+</VideoControls>
+<AskControls>
+<Hidden>false</Hidden>
+<Action>analyze</Action>
+</AskControls>
+<CaseName>MDR_ACC</CaseName>
+</Response>
+</xml>

@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<script>
+			function get_query_param_value(name) {
+				name = name.replace(/[\[]/, '\\[').replace(/[\]]/, '\\]');
+				var regex = new RegExp('[\\?&]' + name + '=([^&#]*)');
+				var results = regex.exec(location.search);
+				return results === null ? '' : decodeURIComponent(results[1].replace(/\+/g, ' '));
+			}
+
+			referrer = get_query_param_value('referrer');
+			document.cookie = 'safari_third_party_cookies_consent_given=true; expires=Fri, 31 Dec 9999 23:59:59 GMT';
+			window.location = referrer;
+		</script>
+	</head>
+	<body>
+	</body>
+</html>

@@ -1,0 +1,65 @@
+<xml>
+  <Module id='1'>
+    <Heading>
+      About Oral Cancer Drugs
+    </Heading>
+    <ResponseID>oct005</ResponseID>
+    <ResponseID>oct006</ResponseID>
+    <ResponseID>oct007</ResponseID>
+    <ResponseID>oct009</ResponseID>
+    <ResponseID>oct015</ResponseID>
+    <ResponseID>oct017</ResponseID>
+  </Module>
+  <Module id='2'>
+    <Heading>
+      Following Your Treatment Plan
+    </Heading>
+    <ResponseID>oct019</ResponseID>
+    <ResponseID>oct023</ResponseID>
+    <ResponseID>oct024</ResponseID>
+    <ResponseID>oct037</ResponseID>
+    <ResponseID>oct041</ResponseID>
+    <ResponseID>oct043</ResponseID>
+  </Module>
+  <Module id='3'>
+    <Heading>
+      Managing Side Effects
+    </Heading>
+    <ResponseID>oct102</ResponseID>
+    <ResponseID>oct101</ResponseID>
+    <ResponseID>oct126</ResponseID>
+    <ResponseID>oct132</ResponseID>
+    <ResponseID>oct127e</ResponseID>
+    <ResponseID>oct131</ResponseID>
+    <ResponseID>oct127b</ResponseID>
+  </Module>
+  <Module id='4'>
+    <Heading>
+      Safety
+    </Heading>
+    <ResponseID>oct050</ResponseID>
+    <ResponseID>oct051</ResponseID>
+    <ResponseID>oct057</ResponseID>
+    <ResponseID>oct061</ResponseID>
+    <ResponseID>oct063</ResponseID>
+    <ResponseID>oct064</ResponseID>
+  </Module>
+  <Module id='5'>
+    <Heading>
+      Disposal
+    </Heading>
+    <ResponseID>oct052</ResponseID>
+    <ResponseID>oct053</ResponseID>
+  </Module>
+  <Module id='6'>
+    <Heading>
+      Glossary
+    </Heading>
+    <ResponseID>oct162</ResponseID>
+    <ResponseID>oct163</ResponseID>
+    <ResponseID>oct164</ResponseID>
+    <ResponseID>oct166</ResponseID>
+    <ResponseID>oct171</ResponseID>
+    <ResponseID>oct168</ResponseID>
+  </Module>
+</xml>

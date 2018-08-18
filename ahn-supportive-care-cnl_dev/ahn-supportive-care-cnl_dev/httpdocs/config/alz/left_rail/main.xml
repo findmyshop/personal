@@ -1,0 +1,59 @@
+<xml>
+  <Module id='0'>
+    <Heading>
+      Introduction to Clinical Trials
+    </Heading>
+    <ResponseID>alz101</ResponseID>
+    <ResponseID>alz103</ResponseID>
+    <ResponseID>alz104</ResponseID>
+    <ResponseID>alz108</ResponseID>
+  </Module>
+  <Module id='1'>
+    <Heading>
+      Participating in a Clinical Trial
+    </Heading>
+    <ResponseID>alz116</ResponseID>
+    <ResponseID>alz117</ResponseID>
+    <ResponseID>alz119</ResponseID>
+    <ResponseID>alz121</ResponseID>
+    <ResponseID>alz123</ResponseID>
+    <ResponseID>alz181</ResponseID>
+  </Module>
+  <Module id='2'>
+    <Heading>
+      Rights and Responsibilities
+    </Heading>
+    <ResponseID>alz124</ResponseID>
+    <ResponseID>alz126</ResponseID>
+    <ResponseID>alz127</ResponseID>
+    <ResponseID>alz132</ResponseID>
+  </Module>
+  <Module id='3'>
+    <Heading>
+      Privacy
+    </Heading>
+    <ResponseID>alz138</ResponseID>
+    <ResponseID>alz137</ResponseID>
+  </Module>
+  <Module id='4'>
+    <Heading>
+      About the APECS Study
+    </Heading>
+    <ResponseID>alz139</ResponseID>
+    <ResponseID>alz158</ResponseID>
+    <ResponseID>alz140</ResponseID>
+    <ResponseID>alz190</ResponseID>
+    <ResponseID>alz142</ResponseID>
+    <ResponseID>alz146</ResponseID>
+    <ResponseID>alz255</ResponseID>
+    <ResponseID>alz175</ResponseID>
+    <ResponseID>alz176</ResponseID>
+  </Module>
+  <Module id='5'>
+    <Heading>
+      Costs &amp; Compensation
+    </Heading>
+    <ResponseID>alz155</ResponseID>
+    <ResponseID>alz148</ResponseID>
+  </Module>
+</xml>

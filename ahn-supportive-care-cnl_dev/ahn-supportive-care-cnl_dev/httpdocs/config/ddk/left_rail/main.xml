@@ -1,0 +1,56 @@
+<xml>
+  <Module id='0'>
+    <Heading>
+      Introduction to Clinical Trials
+    </Heading>
+    <ResponseID>ddk101</ResponseID>
+    <ResponseID>ddk102</ResponseID>
+    <ResponseID>ddk103</ResponseID>
+    <ResponseID>ddk104</ResponseID>
+    <ResponseID>ddk204</ResponseID>
+  </Module>
+  <Module id='1'>
+    <Heading>
+      Participating in a Clinical Trial
+    </Heading>
+    <ResponseID>ddk112</ResponseID>
+    <ResponseID>ddk113</ResponseID>
+    <ResponseID>ddk114</ResponseID>
+    <ResponseID>ddk116</ResponseID>
+  </Module>
+  <Module id='2'>
+    <Heading>
+      Patient Rights and Responsibilities
+    </Heading>
+    <ResponseID>ddk127</ResponseID>
+    <ResponseID>ddk124</ResponseID>
+    <ResponseID>ddk126</ResponseID>
+    <ResponseID>ddk111</ResponseID>
+  </Module>
+  <Module id='3'>
+    <Heading>
+      Ethics and Privacy
+    </Heading>
+    <ResponseID>ddk138</ResponseID>
+    <ResponseID>ddk205</ResponseID>
+    <ResponseID>ddk110</ResponseID>
+    <ResponseID>ddk129</ResponseID>
+  </Module>
+  <Module id='4'>
+    <Heading>
+      About the DELIGHT Study
+    </Heading>
+    <ResponseID>ddk139</ResponseID>
+    <ResponseID>ddk158</ResponseID>
+    <ResponseID>ddk166</ResponseID>
+    <ResponseID>ddk167</ResponseID>
+  </Module>
+  <Module id='5'>
+    <Heading>
+      Risks and Benefits
+    </Heading>
+    <ResponseID>ddk117</ResponseID>
+    <ResponseID>ddk190</ResponseID>
+    <ResponseID>ddk206</ResponseID>
+  </Module>
+</xml>

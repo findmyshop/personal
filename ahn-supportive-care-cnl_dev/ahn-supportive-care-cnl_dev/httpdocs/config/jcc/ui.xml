@@ -1,0 +1,3469 @@
+<xml>
+<Response id="jcc001" category="offtopic" type="null">
+<LeftRail>
+<Id>main</Id>
+<Hidden>false</Hidden>
+</LeftRail>
+<VideoControls>
+<Hidden>true</Hidden>
+<PreviousId />
+<NextId />
+</VideoControls>
+<AskControls>
+<Hidden>false</Hidden>
+<Action>analyze</Action>
+</AskControls>
+<CaseName>EliLilly_JCC</CaseName>
+</Response>
+<Response id="jcc002" category="shame">
+<LeftRail>
+<Id>main</Id>
+<Hidden>false</Hidden>
+</LeftRail>
+<VideoControls>
+<Hidden>true</Hidden>
+<PreviousId />
+<NextId />
+</VideoControls>
+<AskControls>
+<Hidden>false</Hidden>
+<Action>analyze</Action>
+</AskControls>
+<CaseName>EliLilly_JCC</CaseName>
+</Response>
+<Response id="jcc003" category="multianswer">
+<LeftRail>
+<Id>main</Id>
+<Hidden>false</Hidden>
+</LeftRail>
+<VideoControls>
+<Hidden>true</Hidden>
+<PreviousId />
+<NextId />
+</VideoControls>
+<AskControls>
+<Hidden>false</Hidden>
+<Action>analyze</Action>
+</AskControls>
+<CaseName>EliLilly_JCC</CaseName>
+</Response>
+<Response id="jcc004">
+<LeftRail>
+<Id>main</Id>
+<Hidden>false</Hidden>
+</LeftRail>
+<VideoControls>
+<Hidden>true</Hidden>
+<PreviousId />
+<NextId />
+</VideoControls>
+<AskControls>
+<Hidden>false</Hidden>
+<Action>analyze</Action>
+</AskControls>
+<CaseName>EliLilly_JCC</CaseName>
+</Response>
+<Response id="jcc005">
+<LeftRail>
+<Id>main</Id>
+<Hidden>false</Hidden>
+</LeftRail>
+<VideoControls>
+<Hidden>true</Hidden>
+<PreviousId />
+<NextId />
+</VideoControls>
+<AskControls>
+<Hidden>false</Hidden>
+<Action>analyze</Action>
+</AskControls>
+<CaseName>EliLilly_JCC</CaseName>
+</Response>
+<Response id="jcc006">
+<LeftRail>
+<Id>main</Id>
+<Hidden>false</Hidden>
+</LeftRail>
+<VideoControls>
+<Hidden>true</Hidden>
+<PreviousId />
+<NextId />
+</VideoControls>
+<AskControls>
+<Hidden>false</Hidden>
+<Action>analyze</Action>
+</AskControls>
+<CaseName>EliLilly_JCC</CaseName>
+</Response>
+<Response id="jcc007">
+<LeftRail>
+<Id>main</Id>
+<Hidden>false</Hidden>
+</LeftRail>
+<VideoControls>
+<Hidden>true</Hidden>
+<PreviousId />
+<NextId />
+</VideoControls>
+<AskControls>
+<Hidden>false</Hidden>
+<Action>analyze</Action>
+</AskControls>
+<CaseName>EliLilly_JCC</CaseName>
+</Response>
+<Response id="jcc008">
+<LeftRail>
+<Id>main</Id>
+<Hidden>false</Hidden>
+</LeftRail>
+<VideoControls>
+<Hidden>true</Hidden>
+<PreviousId />
+<NextId />
+</VideoControls>
+<AskControls>
+<Hidden>false</Hidden>
+<Action>analyze</Action>
+</AskControls>
+<CaseName>EliLilly_JCC</CaseName>
+</Response>
+<Response id="jcc009">
+<LeftRail>
+<Id>main</Id>
+<Hidden>false</Hidden>
+</LeftRail>
+<VideoControls>
+<Hidden>true</Hidden>
+<PreviousId />
+<NextId />
+</VideoControls>
+<AskControls>
+<Hidden>false</Hidden>
+<Action>analyze</Action>
+</AskControls>
+<CaseName>EliLilly_JCC</CaseName>
+</Response>
+<Response id="jcc010">
+<LeftRail>
+<Id>main</Id>
+<Hidden>false</Hidden>
+</LeftRail>
+<VideoControls>
+<Hidden>true</Hidden>
+<PreviousId />
+<NextId />
+</VideoControls>
+<AskControls>
+<Hidden>false</Hidden>
+<Action>analyze</Action>
+</AskControls>
+<CaseName>EliLilly_JCC</CaseName>
+</Response>
+<Response id="jcc011">
+<LeftRail>
+<Id>main</Id>
+<Hidden>false</Hidden>
+</LeftRail>
+<VideoControls>
+<Hidden>true</Hidden>
+<PreviousId />
+<NextId />
+</VideoControls>
+<AskControls>
+<Hidden>false</Hidden>
+<Action>analyze</Action>
+</AskControls>
+<CaseName>EliLilly_JCC</CaseName>
+</Response>
+<Response id="jcc012">
+<LeftRail>
+<Id>main</Id>
+<Hidden>false</Hidden>
+</LeftRail>
+<VideoControls>
+<Hidden>true</Hidden>
+<PreviousId />
+<NextId />
+</VideoControls>
+<AskControls>
+<Hidden>false</Hidden>
+<Action>analyze</Action>
+</AskControls>
+<CaseName>EliLilly_JCC</CaseName>
+</Response>
+<Response id="jcc013">
+<LeftRail>
+<Id>main</Id>
+<Hidden>false</Hidden>
+</LeftRail>
+<VideoControls>
+<Hidden>true</Hidden>
+<PreviousId />
+<NextId />
+</VideoControls>
+<AskControls>
+<Hidden>false</Hidden>
+<Action>analyze</Action>
+</AskControls>
+<CaseName>EliLilly_JCC</CaseName>
+</Response>
+<Response id="jcc014">
+<LeftRail>
+<Id>main</Id>
+<Hidden>false</Hidden>
+</LeftRail>
+<VideoControls>
+<Hidden>true</Hidden>
+<PreviousId />
+<NextId />
+</VideoControls>
+<AskControls>
+<Hidden>false</Hidden>
+<Action>analyze</Action>
+</AskControls>
+<CaseName>EliLilly_JCC</CaseName>
+</Response>
+<Response id="jcc015">
+<LeftRail>
+<Id>main</Id>
+<Hidden>false</Hidden>
+</LeftRail>
+<VideoControls>
+<Hidden>true</Hidden>
+<PreviousId />
+<NextId />
+</VideoControls>
+<AskControls>
+<Hidden>false</Hidden>
+<Action>analyze</Action>
+</AskControls>
+<CaseName>EliLilly_JCC</CaseName>
+</Response>
+<Response id="jcc016">
+<LeftRail>
+<Id>main</Id>
+<Hidden>false</Hidden>
+</LeftRail>
+<VideoControls>
+<Hidden>true</Hidden>
+<PreviousId />
+<NextId />
+</VideoControls>
+<AskControls>
+<Hidden>false</Hidden>
+<Action>analyze</Action>
+</AskControls>
+<CaseName>EliLilly_JCC</CaseName>
+</Response>
+<Response id="jcc017">
+<LeftRail>
+<Id>main</Id>
+<Hidden>false</Hidden>
+</LeftRail>
+<VideoControls>
+<Hidden>true</Hidden>
+<PreviousId />
+<NextId />
+</VideoControls>
+<AskControls>
+<Hidden>false</Hidden>
+<Action>analyze</Action>
+</AskControls>
+<CaseName>EliLilly_JCC</CaseName>
+</Response>
+<Response id="jcc018">
+<LeftRail>
+<Id>main</Id>
+<Hidden>false</Hidden>
+</LeftRail>
+<VideoControls>
+<Hidden>true</Hidden>
+<PreviousId />
+<NextId />
+</VideoControls>
+<AskControls>
+<Hidden>false</Hidden>
+<Action>analyze</Action>
+</AskControls>
+<CaseName>EliLilly_JCC</CaseName>
+</Response>
+<Response id="jcc019">
+<LeftRail>
+<Id>main</Id>
+<Hidden>false</Hidden>
+</LeftRail>
+<VideoControls>
+<Hidden>true</Hidden>
+<PreviousId />
+<NextId />
+</VideoControls>
+<AskControls>
+<Hidden>false</Hidden>
+<Action>analyze</Action>
+</AskControls>
+<CaseName>EliLilly_JCC</CaseName>
+</Response>
+<Response id="jcc020">
+<LeftRail>
+<Id>main</Id>
+<Hidden>false</Hidden>
+</LeftRail>
+<VideoControls>
+<Hidden>true</Hidden>
+<PreviousId />
+<NextId />
+</VideoControls>
+<AskControls>
+<Hidden>false</Hidden>
+<Action>analyze</Action>
+</AskControls>
+<CaseName>EliLilly_JCC</CaseName>
+</Response>
+<Response id="jcc021">
+<LeftRail>
+<Id>main</Id>
+<Hidden>false</Hidden>
+</LeftRail>
+<VideoControls>
+<Hidden>true</Hidden>
+<PreviousId />
+<NextId />
+</VideoControls>
+<AskControls>
+<Hidden>false</Hidden>
+<Action>analyze</Action>
+</AskControls>
+<CaseName>EliLilly_JCC</CaseName>
+</Response>
+<Response id="jcc022">
+<LeftRail>
+<Id>main</Id>
+<Hidden>false</Hidden>
+</LeftRail>
+<VideoControls>
+<Hidden>true</Hidden>
+<PreviousId />
+<NextId />
+</VideoControls>
+<AskControls>
+<Hidden>false</Hidden>
+<Action>analyze</Action>
+</AskControls>
+<CaseName>EliLilly_JCC</CaseName>
+</Response>
+<Response id="jcc023">
+<LeftRail>
+<Id>main</Id>
+<Hidden>false</Hidden>
+</LeftRail>
+<VideoControls>
+<Hidden>true</Hidden>
+<PreviousId />
+<NextId />
+</VideoControls>
+<AskControls>
+<Hidden>false</Hidden>
+<Action>analyze</Action>
+</AskControls>
+<CaseName>EliLilly_JCC</CaseName>
+</Response>
+<Response id="jcc024">
+<LeftRail>
+<Id>main</Id>
+<Hidden>false</Hidden>
+</LeftRail>
+<VideoControls>
+<Hidden>true</Hidden>
+<PreviousId />
+<NextId />
+</VideoControls>
+<AskControls>
+<Hidden>false</Hidden>
+<Action>analyze</Action>
+</AskControls>
+<CaseName>EliLilly_JCC</CaseName>
+</Response>
+<Response id="jcc025">
+<LeftRail>
+<Id>main</Id>
+<Hidden>false</Hidden>
+</LeftRail>
+<VideoControls>
+<Hidden>true</Hidden>
+<PreviousId />
+<NextId />
+</VideoControls>
+<AskControls>
+<Hidden>false</Hidden>
+<Action>analyze</Action>
+</AskControls>
+<CaseName>EliLilly_JCC</CaseName>
+</Response>
+<Response id="jcc026">
+<LeftRail>
+<Id>main</Id>
+<Hidden>false</Hidden>
+</LeftRail>
+<VideoControls>
+<Hidden>true</Hidden>
+<PreviousId />
+<NextId />
+</VideoControls>
+<AskControls>
+<Hidden>false</Hidden>
+<Action>analyze</Action>
+</AskControls>
+<CaseName>EliLilly_JCC</CaseName>
+</Response>
+<Response id="jcc027">
+<LeftRail>
+<Id>main</Id>
+<Hidden>false</Hidden>
+</LeftRail>
+<VideoControls>
+<Hidden>true</Hidden>
+<PreviousId />
+<NextId />
+</VideoControls>
+<AskControls>
+<Hidden>false</Hidden>
+<Action>analyze</Action>
+</AskControls>
+<CaseName>EliLilly_JCC</CaseName>
+</Response>
+<Response id="jcc028">
+<LeftRail>
+<Id>main</Id>
+<Hidden>false</Hidden>
+</LeftRail>
+<VideoControls>
+<Hidden>true</Hidden>
+<PreviousId />
+<NextId />
+</VideoControls>
+<AskControls>
+<Hidden>false</Hidden>
+<Action>analyze</Action>
+</AskControls>
+<CaseName>EliLilly_JCC</CaseName>
+</Response>
+<Response id="jcc029">
+<LeftRail>
+<Id>main</Id>
+<Hidden>false</Hidden>
+</LeftRail>
+<VideoControls>
+<Hidden>true</Hidden>
+<PreviousId />
+<NextId />
+</VideoControls>
+<AskControls>
+<Hidden>false</Hidden>
+<Action>analyze</Action>
+</AskControls>
+<CaseName>EliLilly_JCC</CaseName>
+</Response>
+<Response id="jcc030">
+<LeftRail>
+<Id>main</Id>
+<Hidden>false</Hidden>
+</LeftRail>
+<VideoControls>
+<Hidden>true</Hidden>
+<PreviousId />
+<NextId />
+</VideoControls>
+<AskControls>
+<Hidden>false</Hidden>
+<Action>analyze</Action>
+</AskControls>
+<CaseName>EliLilly_JCC</CaseName>
+</Response>
+<Response id="jcc031">
+<LeftRail>
+<Id>main</Id>
+<Hidden>false</Hidden>
+</LeftRail>
+<VideoControls>
+<Hidden>true</Hidden>
+<PreviousId />
+<NextId />
+</VideoControls>
+<AskControls>
+<Hidden>false</Hidden>
+<Action>analyze</Action>
+</AskControls>
+<CaseName>EliLilly_JCC</CaseName>
+</Response>
+<Response id="jcc032">
+<LeftRail>
+<Id>main</Id>
+<Hidden>false</Hidden>
+</LeftRail>
+<VideoControls>
+<Hidden>true</Hidden>
+<PreviousId />
+<NextId />
+</VideoControls>
+<AskControls>
+<Hidden>false</Hidden>
+<Action>analyze</Action>
+</AskControls>
+<CaseName>EliLilly_JCC</CaseName>
+</Response>
+<Response id="jcc033">
+<LeftRail>
+<Id>main</Id>
+<Hidden>false</Hidden>
+</LeftRail>
+<VideoControls>
+<Hidden>true</Hidden>
+<PreviousId />
+<NextId />
+</VideoControls>
+<AskControls>
+<Hidden>false</Hidden>
+<Action>analyze</Action>
+</AskControls>
+<CaseName>EliLilly_JCC</CaseName>
+</Response>
+<Response id="jcc034">
+<LeftRail>
+<Id>main</Id>
+<Hidden>false</Hidden>
+</LeftRail>
+<VideoControls>
+<Hidden>true</Hidden>
+<PreviousId />
+<NextId />
+</VideoControls>
+<AskControls>
+<Hidden>false</Hidden>
+<Action>analyze</Action>
+</AskControls>
+<CaseName>EliLilly_JCC</CaseName>
+</Response>
+<Response id="jcc035">
+<LeftRail>
+<Id>main</Id>
+<Hidden>false</Hidden>
+</LeftRail>
+<VideoControls>
+<Hidden>true</Hidden>
+<PreviousId />
+<NextId />
+</VideoControls>
+<AskControls>
+<Hidden>false</Hidden>
+<Action>analyze</Action>
+</AskControls>
+<CaseName>EliLilly_JCC</CaseName>
+</Response>
+<Response id="jcc036">
+<LeftRail>
+<Id>main</Id>
+<Hidden>false</Hidden>
+</LeftRail>
+<VideoControls>
+<Hidden>true</Hidden>
+<PreviousId />
+<NextId />
+</VideoControls>
+<AskControls>
+<Hidden>false</Hidden>
+<Action>analyze</Action>
+</AskControls>
+<CaseName>EliLilly_JCC</CaseName>
+</Response>
+<Response id="jcc037">
+<LeftRail>
+<Id>main</Id>
+<Hidden>false</Hidden>
+</LeftRail>
+<VideoControls>
+<Hidden>true</Hidden>
+<PreviousId />
+<NextId />
+</VideoControls>
+<AskControls>
+<Hidden>false</Hidden>
+<Action>analyze</Action>
+</AskControls>
+<CaseName>EliLilly_JCC</CaseName>
+</Response>
+<Response id="jcc038">
+<LeftRail>
+<Id>main</Id>
+<Hidden>false</Hidden>
+</LeftRail>
+<VideoControls>
+<Hidden>true</Hidden>
+<PreviousId />
+<NextId />
+</VideoControls>
+<AskControls>
+<Hidden>false</Hidden>
+<Action>analyze</Action>
+</AskControls>
+<CaseName>EliLilly_JCC</CaseName>
+</Response>
+<Response id="jcc039">
+<LeftRail>
+<Id>main</Id>
+<Hidden>false</Hidden>
+</LeftRail>
+<VideoControls>
+<Hidden>true</Hidden>
+<PreviousId />
+<NextId />
+</VideoControls>
+<AskControls>
+<Hidden>false</Hidden>
+<Action>analyze</Action>
+</AskControls>
+<CaseName>EliLilly_JCC</CaseName>
+</Response>
+<Response id="jcc040">
+<LeftRail>
+<Id>main</Id>
+<Hidden>false</Hidden>
+</LeftRail>
+<VideoControls>
+<Hidden>true</Hidden>
+<PreviousId />
+<NextId />
+</VideoControls>
+<AskControls>
+<Hidden>false</Hidden>
+<Action>analyze</Action>
+</AskControls>
+<CaseName>EliLilly_JCC</CaseName>
+</Response>
+<Response id="jcc041">
+<LeftRail>
+<Id>main</Id>
+<Hidden>false</Hidden>
+</LeftRail>
+<VideoControls>
+<Hidden>true</Hidden>
+<PreviousId />
+<NextId />
+</VideoControls>
+<AskControls>
+<Hidden>false</Hidden>
+<Action>analyze</Action>
+</AskControls>
+<CaseName>EliLilly_JCC</CaseName>
+</Response>
+<Response id="jcc042">
+<LeftRail>
+<Id>main</Id>
+<Hidden>false</Hidden>
+</LeftRail>
+<VideoControls>
+<Hidden>true</Hidden>
+<PreviousId />
+<NextId />
+</VideoControls>
+<AskControls>
+<Hidden>false</Hidden>
+<Action>analyze</Action>
+</AskControls>
+<CaseName>EliLilly_JCC</CaseName>
+</Response>
+<Response id="jcc043">
+<LeftRail>
+<Id>main</Id>
+<Hidden>false</Hidden>
+</LeftRail>
+<VideoControls>
+<Hidden>true</Hidden>
+<PreviousId />
+<NextId />
+</VideoControls>
+<AskControls>
+<Hidden>false</Hidden>
+<Action>analyze</Action>
+</AskControls>
+<CaseName>EliLilly_JCC</CaseName>
+</Response>
+<Response id="jcc044">
+<LeftRail>
+<Id>main</Id>
+<Hidden>false</Hidden>
+</LeftRail>
+<VideoControls>
+<Hidden>true</Hidden>
+<PreviousId />
+<NextId />
+</VideoControls>
+<AskControls>
+<Hidden>false</Hidden>
+<Action>analyze</Action>
+</AskControls>
+<CaseName>EliLilly_JCC</CaseName>
+</Response>
+<Response id="jcc045">
+<LeftRail>
+<Id>main</Id>
+<Hidden>false</Hidden>
+</LeftRail>
+<VideoControls>
+<Hidden>true</Hidden>
+<PreviousId />
+<NextId />
+</VideoControls>
+<AskControls>
+<Hidden>false</Hidden>
+<Action>analyze</Action>
+</AskControls>
+<CaseName>EliLilly_JCC</CaseName>
+</Response>
+<Response id="jcc046">
+<LeftRail>
+<Id>main</Id>
+<Hidden>false</Hidden>
+</LeftRail>
+<VideoControls>
+<Hidden>true</Hidden>
+<PreviousId />
+<NextId />
+</VideoControls>
+<AskControls>
+<Hidden>false</Hidden>
+<Action>analyze</Action>
+</AskControls>
+<CaseName>EliLilly_JCC</CaseName>
+</Response>
+<Response id="jcc047">
+<LeftRail>
+<Id>main</Id>
+<Hidden>false</Hidden>
+</LeftRail>
+<VideoControls>
+<Hidden>true</Hidden>
+<PreviousId />
+<NextId />
+</VideoControls>
+<AskControls>
+<Hidden>false</Hidden>
+<Action>analyze</Action>
+</AskControls>
+<CaseName>EliLilly_JCC</CaseName>
+</Response>
+<Response id="jcc048">
+<LeftRail>
+<Id>main</Id>
+<Hidden>false</Hidden>
+</LeftRail>
+<VideoControls>
+<Hidden>true</Hidden>
+<PreviousId />
+<NextId />
+</VideoControls>
+<AskControls>
+<Hidden>false</Hidden>
+<Action>analyze</Action>
+</AskControls>
+<CaseName>EliLilly_JCC</CaseName>
+</Response>
+<Response id="jcc049">
+<LeftRail>
+<Id>main</Id>
+<Hidden>false</Hidden>
+</LeftRail>
+<VideoControls>
+<Hidden>true</Hidden>
+<PreviousId />
+<NextId />
+</VideoControls>
+<AskControls>
+<Hidden>false</Hidden>
+<Action>analyze</Action>
+</AskControls>
+<CaseName>EliLilly_JCC</CaseName>
+</Response>
+<Response id="jcc050">
+<LeftRail>
+<Id>main</Id>
+<Hidden>false</Hidden>
+</LeftRail>
+<VideoControls>
+<Hidden>true</Hidden>
+<PreviousId />
+<NextId />
+</VideoControls>
+<AskControls>
+<Hidden>false</Hidden>
+<Action>analyze</Action>
+</AskControls>
+<CaseName>EliLilly_JCC</CaseName>
+</Response>
+<Response id="jcc051">
+<LeftRail>
+<Id>main</Id>
+<Hidden>false</Hidden>
+</LeftRail>
+<VideoControls>
+<Hidden>true</Hidden>
+<PreviousId />
+<NextId />
+</VideoControls>
+<AskControls>
+<Hidden>false</Hidden>
+<Action>analyze</Action>
+</AskControls>
+<CaseName>EliLilly_JCC</CaseName>
+</Response>
+<Response id="jcc052">
+<LeftRail>
+<Id>main</Id>
+<Hidden>false</Hidden>
+</LeftRail>
+<VideoControls>
+<Hidden>true</Hidden>
+<PreviousId />
+<NextId />
+</VideoControls>
+<AskControls>
+<Hidden>false</Hidden>
+<Action>analyze</Action>
+</AskControls>
+<CaseName>EliLilly_JCC</CaseName>
+</Response>
+<Response id="jcc053">
+<LeftRail>
+<Id>main</Id>
+<Hidden>false</Hidden>
+</LeftRail>
+<VideoControls>
+<Hidden>true</Hidden>
+<PreviousId />
+<NextId />
+</VideoControls>
+<AskControls>
+<Hidden>false</Hidden>
+<Action>analyze</Action>
+</AskControls>
+<CaseName>EliLilly_JCC</CaseName>
+</Response>
+<Response id="jcc054">
+<LeftRail>
+<Id>main</Id>
+<Hidden>false</Hidden>
+</LeftRail>
+<VideoControls>
+<Hidden>true</Hidden>
+<PreviousId />
+<NextId />
+</VideoControls>
+<AskControls>
+<Hidden>false</Hidden>
+<Action>analyze</Action>
+</AskControls>
+<CaseName>EliLilly_JCC</CaseName>
+</Response>
+<Response id="jcc055">
+<LeftRail>
+<Id>main</Id>
+<Hidden>false</Hidden>
+</LeftRail>
+<VideoControls>
+<Hidden>true</Hidden>
+<PreviousId />
+<NextId />
+</VideoControls>
+<AskControls>
+<Hidden>false</Hidden>
+<Action>analyze</Action>
+</AskControls>
+<CaseName>EliLilly_JCC</CaseName>
+</Response>
+<Response id="jcc056">
+<LeftRail>
+<Id>main</Id>
+<Hidden>false</Hidden>
+</LeftRail>
+<VideoControls>
+<Hidden>true</Hidden>
+<PreviousId />
+<NextId />
+</VideoControls>
+<AskControls>
+<Hidden>false</Hidden>
+<Action>analyze</Action>
+</AskControls>
+<CaseName>EliLilly_JCC</CaseName>
+</Response>
+<Response id="jcc057">
+<LeftRail>
+<Id>main</Id>
+<Hidden>false</Hidden>
+</LeftRail>
+<VideoControls>
+<Hidden>true</Hidden>
+<PreviousId />
+<NextId />
+</VideoControls>
+<AskControls>
+<Hidden>false</Hidden>
+<Action>analyze</Action>
+</AskControls>
+<CaseName>EliLilly_JCC</CaseName>
+</Response>
+<Response id="jcc058">
+<LeftRail>
+<Id>main</Id>
+<Hidden>false</Hidden>
+</LeftRail>
+<VideoControls>
+<Hidden>true</Hidden>
+<PreviousId />
+<NextId />
+</VideoControls>
+<AskControls>
+<Hidden>false</Hidden>
+<Action>analyze</Action>
+</AskControls>
+<CaseName>EliLilly_JCC</CaseName>
+</Response>
+<Response id="jcc059">
+<LeftRail>
+<Id>main</Id>
+<Hidden>false</Hidden>
+</LeftRail>
+<VideoControls>
+<Hidden>true</Hidden>
+<PreviousId />
+<NextId />
+</VideoControls>
+<AskControls>
+<Hidden>false</Hidden>
+<Action>analyze</Action>
+</AskControls>
+<CaseName>EliLilly_JCC</CaseName>
+</Response>
+<Response id="jcc060">
+<LeftRail>
+<Id>main</Id>
+<Hidden>false</Hidden>
+</LeftRail>
+<VideoControls>
+<Hidden>true</Hidden>
+<PreviousId />
+<NextId />
+</VideoControls>
+<AskControls>
+<Hidden>false</Hidden>
+<Action>analyze</Action>
+</AskControls>
+<CaseName>EliLilly_JCC</CaseName>
+</Response>
+<Response id="jcc061">
+<LeftRail>
+<Id>main</Id>
+<Hidden>false</Hidden>
+</LeftRail>
+<VideoControls>
+<Hidden>true</Hidden>
+<PreviousId />
+<NextId />
+</VideoControls>
+<AskControls>
+<Hidden>false</Hidden>
+<Action>analyze</Action>
+</AskControls>
+<CaseName>EliLilly_JCC</CaseName>
+</Response>
+<Response id="jcc062">
+<LeftRail>
+<Id>main</Id>
+<Hidden>false</Hidden>
+</LeftRail>
+<VideoControls>
+<Hidden>true</Hidden>
+<PreviousId />
+<NextId />
+</VideoControls>
+<AskControls>
+<Hidden>false</Hidden>
+<Action>analyze</Action>
+</AskControls>
+<CaseName>EliLilly_JCC</CaseName>
+</Response>
+<Response id="jcc063">
+<LeftRail>
+<Id>main</Id>
+<Hidden>false</Hidden>
+</LeftRail>
+<VideoControls>
+<Hidden>true</Hidden>
+<PreviousId />
+<NextId />
+</VideoControls>
+<AskControls>
+<Hidden>false</Hidden>
+<Action>analyze</Action>
+</AskControls>
+<CaseName>EliLilly_JCC</CaseName>
+</Response>
+<Response id="jcc064">
+<LeftRail>
+<Id>main</Id>
+<Hidden>false</Hidden>
+</LeftRail>
+<VideoControls>
+<Hidden>true</Hidden>
+<PreviousId />
+<NextId />
+</VideoControls>
+<AskControls>
+<Hidden>false</Hidden>
+<Action>analyze</Action>
+</AskControls>
+<CaseName>EliLilly_JCC</CaseName>
+</Response>
+<Response id="jcc065">
+<LeftRail>
+<Id>main</Id>
+<Hidden>false</Hidden>
+</LeftRail>
+<VideoControls>
+<Hidden>true</Hidden>
+<PreviousId />
+<NextId />
+</VideoControls>
+<AskControls>
+<Hidden>false</Hidden>
+<Action>analyze</Action>
+</AskControls>
+<CaseName>EliLilly_JCC</CaseName>
+</Response>
+<Response id="jcc066">
+<LeftRail>
+<Id>main</Id>
+<Hidden>false</Hidden>
+</LeftRail>
+<VideoControls>
+<Hidden>true</Hidden>
+<PreviousId />
+<NextId />
+</VideoControls>
+<AskControls>
+<Hidden>false</Hidden>
+<Action>analyze</Action>
+</AskControls>
+<CaseName>EliLilly_JCC</CaseName>
+</Response>
+<Response id="jcc067">
+<LeftRail>
+<Id>main</Id>
+<Hidden>false</Hidden>
+</LeftRail>
+<VideoControls>
+<Hidden>true</Hidden>
+<PreviousId />
+<NextId />
+</VideoControls>
+<AskControls>
+<Hidden>false</Hidden>
+<Action>analyze</Action>
+</AskControls>
+<CaseName>EliLilly_JCC</CaseName>
+</Response>
+<Response id="jcc068">
+<LeftRail>
+<Id>main</Id>
+<Hidden>false</Hidden>
+</LeftRail>
+<VideoControls>
+<Hidden>true</Hidden>
+<PreviousId />
+<NextId />
+</VideoControls>
+<AskControls>
+<Hidden>false</Hidden>
+<Action>analyze</Action>
+</AskControls>
+<CaseName>EliLilly_JCC</CaseName>
+</Response>
+<Response id="jcc069">
+<LeftRail>
+<Id>main</Id>
+<Hidden>false</Hidden>
+</LeftRail>
+<VideoControls>
+<Hidden>true</Hidden>
+<PreviousId />
+<NextId />
+</VideoControls>
+<AskControls>
+<Hidden>false</Hidden>
+<Action>analyze</Action>
+</AskControls>
+<CaseName>EliLilly_JCC</CaseName>
+</Response>
+<Response id="jcc070">
+<LeftRail>
+<Id>main</Id>
+<Hidden>false</Hidden>
+</LeftRail>
+<VideoControls>
+<Hidden>true</Hidden>
+<PreviousId />
+<NextId />
+</VideoControls>
+<AskControls>
+<Hidden>false</Hidden>
+<Action>analyze</Action>
+</AskControls>
+<CaseName>EliLilly_JCC</CaseName>
+</Response>
+<Response id="jcc071">
+<LeftRail>
+<Id>main</Id>
+<Hidden>false</Hidden>
+</LeftRail>
+<VideoControls>
+<Hidden>true</Hidden>
+<PreviousId />
+<NextId />
+</VideoControls>
+<AskControls>
+<Hidden>false</Hidden>
+<Action>analyze</Action>
+</AskControls>
+<CaseName>EliLilly_JCC</CaseName>
+</Response>
+<Response id="jcc072">
+<LeftRail>
+<Id>main</Id>
+<Hidden>false</Hidden>
+</LeftRail>
+<VideoControls>
+<Hidden>true</Hidden>
+<PreviousId />
+<NextId />
+</VideoControls>
+<AskControls>
+<Hidden>false</Hidden>
+<Action>analyze</Action>
+</AskControls>
+<CaseName>EliLilly_JCC</CaseName>
+</Response>
+<Response id="jcc073">
+<LeftRail>
+<Id>main</Id>
+<Hidden>false</Hidden>
+</LeftRail>
+<VideoControls>
+<Hidden>true</Hidden>
+<PreviousId />
+<NextId />
+</VideoControls>
+<AskControls>
+<Hidden>false</Hidden>
+<Action>analyze</Action>
+</AskControls>
+<CaseName>EliLilly_JCC</CaseName>
+</Response>
+<Response id="jcc074">
+<LeftRail>
+<Id>main</Id>
+<Hidden>false</Hidden>
+</LeftRail>
+<VideoControls>
+<Hidden>true</Hidden>
+<PreviousId />
+<NextId />
+</VideoControls>
+<AskControls>
+<Hidden>false</Hidden>
+<Action>analyze</Action>
+</AskControls>
+<CaseName>EliLilly_JCC</CaseName>
+</Response>
+<Response id="jcc075">
+<LeftRail>
+<Id>main</Id>
+<Hidden>false</Hidden>
+</LeftRail>
+<VideoControls>
+<Hidden>true</Hidden>
+<PreviousId />
+<NextId />
+</VideoControls>
+<AskControls>
+<Hidden>false</Hidden>
+<Action>analyze</Action>
+</AskControls>
+<CaseName>EliLilly_JCC</CaseName>
+</Response>
+<Response id="jcc076">
+<LeftRail>
+<Id>main</Id>
+<Hidden>false</Hidden>
+</LeftRail>
+<VideoControls>
+<Hidden>true</Hidden>
+<PreviousId />
+<NextId />
+</VideoControls>
+<AskControls>
+<Hidden>false</Hidden>
+<Action>analyze</Action>
+</AskControls>
+<CaseName>EliLilly_JCC</CaseName>
+</Response>
+<Response id="jcc077">
+<LeftRail>
+<Id>main</Id>
+<Hidden>false</Hidden>
+</LeftRail>
+<VideoControls>
+<Hidden>true</Hidden>
+<PreviousId />
+<NextId />
+</VideoControls>
+<AskControls>
+<Hidden>false</Hidden>
+<Action>analyze</Action>
+</AskControls>
+<CaseName>EliLilly_JCC</CaseName>
+</Response>
+<Response id="jcc078">
+<LeftRail>
+<Id>main</Id>
+<Hidden>false</Hidden>
+</LeftRail>
+<VideoControls>
+<Hidden>true</Hidden>
+<PreviousId />
+<NextId />
+</VideoControls>
+<AskControls>
+<Hidden>false</Hidden>
+<Action>analyze</Action>
+</AskControls>
+<CaseName>EliLilly_JCC</CaseName>
+</Response>
+<Response id="jcc079">
+<LeftRail>
+<Id>main</Id>
+<Hidden>false</Hidden>
+</LeftRail>
+<VideoControls>
+<Hidden>true</Hidden>
+<PreviousId />
+<NextId />
+</VideoControls>
+<AskControls>
+<Hidden>false</Hidden>
+<Action>analyze</Action>
+</AskControls>
+<CaseName>EliLilly_JCC</CaseName>
+</Response>
+<Response id="jcc080">
+<LeftRail>
+<Id>main</Id>
+<Hidden>false</Hidden>
+</LeftRail>
+<VideoControls>
+<Hidden>true</Hidden>
+<PreviousId />
+<NextId />
+</VideoControls>
+<AskControls>
+<Hidden>false</Hidden>
+<Action>analyze</Action>
+</AskControls>
+<CaseName>EliLilly_JCC</CaseName>
+</Response>
+<Response id="jcc081">
+<LeftRail>
+<Id>main</Id>
+<Hidden>false</Hidden>
+</LeftRail>
+<VideoControls>
+<Hidden>true</Hidden>
+<PreviousId />
+<NextId />
+</VideoControls>
+<AskControls>
+<Hidden>false</Hidden>
+<Action>analyze</Action>
+</AskControls>
+<CaseName>EliLilly_JCC</CaseName>
+</Response>
+<Response id="jcc082">
+<LeftRail>
+<Id>main</Id>
+<Hidden>false</Hidden>
+</LeftRail>
+<VideoControls>
+<Hidden>true</Hidden>
+<PreviousId />
+<NextId />
+</VideoControls>
+<AskControls>
+<Hidden>false</Hidden>
+<Action>analyze</Action>
+</AskControls>
+<CaseName>EliLilly_JCC</CaseName>
+</Response>
+<Response id="jcc083">
+<LeftRail>
+<Id>main</Id>
+<Hidden>false</Hidden>
+</LeftRail>
+<VideoControls>
+<Hidden>true</Hidden>
+<PreviousId />
+<NextId />
+</VideoControls>
+<AskControls>
+<Hidden>false</Hidden>
+<Action>analyze</Action>
+</AskControls>
+<CaseName>EliLilly_JCC</CaseName>
+</Response>
+<Response id="jcc084">
+<LeftRail>
+<Id>main</Id>
+<Hidden>false</Hidden>
+</LeftRail>
+<VideoControls>
+<Hidden>true</Hidden>
+<PreviousId />
+<NextId />
+</VideoControls>
+<AskControls>
+<Hidden>false</Hidden>
+<Action>analyze</Action>
+</AskControls>
+<CaseName>EliLilly_JCC</CaseName>
+</Response>
+<Response id="jcc085">
+<LeftRail>
+<Id>main</Id>
+<Hidden>false</Hidden>
+</LeftRail>
+<VideoControls>
+<Hidden>true</Hidden>
+<PreviousId />
+<NextId />
+</VideoControls>
+<AskControls>
+<Hidden>false</Hidden>
+<Action>analyze</Action>
+</AskControls>
+<CaseName>EliLilly_JCC</CaseName>
+</Response>
+<Response id="jcc086">
+<LeftRail>
+<Id>main</Id>
+<Hidden>false</Hidden>
+</LeftRail>
+<VideoControls>
+<Hidden>true</Hidden>
+<PreviousId />
+<NextId />
+</VideoControls>
+<AskControls>
+<Hidden>false</Hidden>
+<Action>analyze</Action>
+</AskControls>
+<CaseName>EliLilly_JCC</CaseName>
+</Response>
+<Response id="jcc087">
+<LeftRail>
+<Id>main</Id>
+<Hidden>false</Hidden>
+</LeftRail>
+<VideoControls>
+<Hidden>true</Hidden>
+<PreviousId />
+<NextId />
+</VideoControls>
+<AskControls>
+<Hidden>false</Hidden>
+<Action>analyze</Action>
+</AskControls>
+<CaseName>EliLilly_JCC</CaseName>
+</Response>
+<Response id="jcc088">
+<LeftRail>
+<Id>main</Id>
+<Hidden>false</Hidden>
+</LeftRail>
+<VideoControls>
+<Hidden>true</Hidden>
+<PreviousId />
+<NextId />
+</VideoControls>
+<AskControls>
+<Hidden>false</Hidden>
+<Action>analyze</Action>
+</AskControls>
+<CaseName>EliLilly_JCC</CaseName>
+</Response>
+<Response id="jcc089">
+<LeftRail>
+<Id>main</Id>
+<Hidden>false</Hidden>
+</LeftRail>
+<VideoControls>
+<Hidden>true</Hidden>
+<PreviousId />
+<NextId />
+</VideoControls>
+<AskControls>
+<Hidden>false</Hidden>
+<Action>analyze</Action>
+</AskControls>
+<CaseName>EliLilly_JCC</CaseName>
+</Response>
+<Response id="jcc090">
+<LeftRail>
+<Id>main</Id>
+<Hidden>false</Hidden>
+</LeftRail>
+<VideoControls>
+<Hidden>true</Hidden>
+<PreviousId />
+<NextId />
+</VideoControls>
+<AskControls>
+<Hidden>false</Hidden>
+<Action>analyze</Action>
+</AskControls>
+<CaseName>EliLilly_JCC</CaseName>
+</Response>
+<Response id="jcc091">
+<LeftRail>
+<Id>main</Id>
+<Hidden>false</Hidden>
+</LeftRail>
+<VideoControls>
+<Hidden>true</Hidden>
+<PreviousId />
+<NextId />
+</VideoControls>
+<AskControls>
+<Hidden>false</Hidden>
+<Action>analyze</Action>
+</AskControls>
+<CaseName>EliLilly_JCC</CaseName>
+</Response>
+<Response id="jcc092">
+<LeftRail>
+<Id>main</Id>
+<Hidden>false</Hidden>
+</LeftRail>
+<VideoControls>
+<Hidden>true</Hidden>
+<PreviousId />
+<NextId />
+</VideoControls>
+<AskControls>
+<Hidden>false</Hidden>
+<Action>analyze</Action>
+</AskControls>
+<CaseName>EliLilly_JCC</CaseName>
+</Response>
+<Response id="jcc093">
+<LeftRail>
+<Id>main</Id>
+<Hidden>false</Hidden>
+</LeftRail>
+<VideoControls>
+<Hidden>true</Hidden>
+<PreviousId />
+<NextId />
+</VideoControls>
+<AskControls>
+<Hidden>false</Hidden>
+<Action>analyze</Action>
+</AskControls>
+<CaseName>EliLilly_JCC</CaseName>
+</Response>
+<Response id="jcc094">
+<LeftRail>
+<Id>main</Id>
+<Hidden>false</Hidden>
+</LeftRail>
+<VideoControls>
+<Hidden>true</Hidden>
+<PreviousId />
+<NextId />
+</VideoControls>
+<AskControls>
+<Hidden>false</Hidden>
+<Action>analyze</Action>
+</AskControls>
+<CaseName>EliLilly_JCC</CaseName>
+</Response>
+<Response id="jcc095">
+<LeftRail>
+<Id>main</Id>
+<Hidden>false</Hidden>
+</LeftRail>
+<VideoControls>
+<Hidden>true</Hidden>
+<PreviousId />
+<NextId />
+</VideoControls>
+<AskControls>
+<Hidden>false</Hidden>
+<Action>analyze</Action>
+</AskControls>
+<CaseName>EliLilly_JCC</CaseName>
+</Response>
+<Response id="jcc096">
+<LeftRail>
+<Id>main</Id>
+<Hidden>false</Hidden>
+</LeftRail>
+<VideoControls>
+<Hidden>true</Hidden>
+<PreviousId />
+<NextId />
+</VideoControls>
+<AskControls>
+<Hidden>false</Hidden>
+<Action>analyze</Action>
+</AskControls>
+<CaseName>EliLilly_JCC</CaseName>
+</Response>
+<Response id="jcc097">
+<LeftRail>
+<Id>main</Id>
+<Hidden>false</Hidden>
+</LeftRail>
+<VideoControls>
+<Hidden>true</Hidden>
+<PreviousId />
+<NextId />
+</VideoControls>
+<AskControls>
+<Hidden>false</Hidden>
+<Action>analyze</Action>
+</AskControls>
+<CaseName>EliLilly_JCC</CaseName>
+</Response>
+<Response id="jcc098">
+<LeftRail>
+<Id>main</Id>
+<Hidden>false</Hidden>
+</LeftRail>
+<VideoControls>
+<Hidden>true</Hidden>
+<PreviousId />
+<NextId />
+</VideoControls>
+<AskControls>
+<Hidden>false</Hidden>
+<Action>analyze</Action>
+</AskControls>
+<CaseName>EliLilly_JCC</CaseName>
+</Response>
+<Response id="jcc099">
+<LeftRail>
+<Id>main</Id>
+<Hidden>false</Hidden>
+</LeftRail>
+<VideoControls>
+<Hidden>true</Hidden>
+<PreviousId />
+<NextId />
+</VideoControls>
+<AskControls>
+<Hidden>false</Hidden>
+<Action>analyze</Action>
+</AskControls>
+<CaseName>EliLilly_JCC</CaseName>
+</Response>
+<Response id="jcc100">
+<LeftRail>
+<Id>main</Id>
+<Hidden>false</Hidden>
+</LeftRail>
+<VideoControls>
+<Hidden>true</Hidden>
+<PreviousId />
+<NextId />
+</VideoControls>
+<AskControls>
+<Hidden>false</Hidden>
+<Action>analyze</Action>
+</AskControls>
+<CaseName>EliLilly_JCC</CaseName>
+</Response>
+<Response id="jcc101">
+<LeftRail>
+<Id>main</Id>
+<Hidden>false</Hidden>
+<ModuleSelected>0</ModuleSelected>
+</LeftRail>
+<VideoControls>
+<Hidden>true</Hidden>
+<PreviousId />
+<NextId />
+</VideoControls>
+<AskControls>
+<Hidden>false</Hidden>
+<Action>analyze</Action>
+</AskControls>
+<CaseName>EliLilly_JCC</CaseName>
+</Response>
+<Response id="jcc102">
+<LeftRail>
+<Id>main</Id>
+<Hidden>false</Hidden>
+</LeftRail>
+<VideoControls>
+<Hidden>true</Hidden>
+<PreviousId />
+<NextId />
+</VideoControls>
+<AskControls>
+<Hidden>false</Hidden>
+<Action>analyze</Action>
+</AskControls>
+<CaseName>EliLilly_JCC</CaseName>
+</Response>
+<Response id="jcc103">
+<LeftRail>
+<Id>main</Id>
+<Hidden>false</Hidden>
+<ModuleSelected>0</ModuleSelected>
+</LeftRail>
+<VideoControls>
+<Hidden>true</Hidden>
+<PreviousId />
+<NextId />
+</VideoControls>
+<AskControls>
+<Hidden>false</Hidden>
+<Action>analyze</Action>
+</AskControls>
+<CaseName>EliLilly_JCC</CaseName>
+</Response>
+<Response id="jcc104">
+<LeftRail>
+<Id>main</Id>
+<Hidden>false</Hidden>
+<ModuleSelected>0</ModuleSelected>
+</LeftRail>
+<VideoControls>
+<Hidden>true</Hidden>
+<PreviousId />
+<NextId />
+</VideoControls>
+<AskControls>
+<Hidden>false</Hidden>
+<Action>analyze</Action>
+</AskControls>
+<CaseName>EliLilly_JCC</CaseName>
+</Response>
+<Response id="jcc105">
+<LeftRail>
+<Id>main</Id>
+<Hidden>false</Hidden>
+</LeftRail>
+<VideoControls>
+<Hidden>true</Hidden>
+<PreviousId />
+<NextId />
+</VideoControls>
+<AskControls>
+<Hidden>false</Hidden>
+<Action>analyze</Action>
+</AskControls>
+<CaseName>EliLilly_JCC</CaseName>
+</Response>
+<Response id="jcc106">
+<LeftRail>
+<Id>main</Id>
+<Hidden>false</Hidden>
+</LeftRail>
+<VideoControls>
+<Hidden>true</Hidden>
+<PreviousId />
+<NextId />
+</VideoControls>
+<AskControls>
+<Hidden>false</Hidden>
+<Action>analyze</Action>
+</AskControls>
+<CaseName>EliLilly_JCC</CaseName>
+</Response>
+<Response id="jcc107">
+<LeftRail>
+<Id>main</Id>
+<Hidden>false</Hidden>
+</LeftRail>
+<VideoControls>
+<Hidden>true</Hidden>
+<PreviousId />
+<NextId />
+</VideoControls>
+<AskControls>
+<Hidden>false</Hidden>
+<Action>analyze</Action>
+</AskControls>
+<CaseName>EliLilly_JCC</CaseName>
+</Response>
+<Response id="jcc108">
+<LeftRail>
+<Id>main</Id>
+<Hidden>false</Hidden>
+<ModuleSelected>0</ModuleSelected>
+</LeftRail>
+<VideoControls>
+<Hidden>true</Hidden>
+<PreviousId />
+<NextId />
+</VideoControls>
+<AskControls>
+<Hidden>false</Hidden>
+<Action>analyze</Action>
+</AskControls>
+<CaseName>EliLilly_JCC</CaseName>
+</Response>
+<Response id="jcc109">
+<LeftRail>
+<Id>main</Id>
+<Hidden>false</Hidden>
+</LeftRail>
+<VideoControls>
+<Hidden>true</Hidden>
+<PreviousId />
+<NextId />
+</VideoControls>
+<AskControls>
+<Hidden>false</Hidden>
+<Action>analyze</Action>
+</AskControls>
+<CaseName>EliLilly_JCC</CaseName>
+</Response>
+<Response id="jcc110">
+<LeftRail>
+<Id>main</Id>
+<Hidden>false</Hidden>
+</LeftRail>
+<VideoControls>
+<Hidden>true</Hidden>
+<PreviousId />
+<NextId />
+</VideoControls>
+<AskControls>
+<Hidden>false</Hidden>
+<Action>analyze</Action>
+</AskControls>
+<CaseName>EliLilly_JCC</CaseName>
+</Response>
+<Response id="jcc111">
+<LeftRail>
+<Id>main</Id>
+<Hidden>false</Hidden>
+</LeftRail>
+<VideoControls>
+<Hidden>true</Hidden>
+<PreviousId />
+<NextId />
+</VideoControls>
+<AskControls>
+<Hidden>false</Hidden>
+<Action>analyze</Action>
+</AskControls>
+<CaseName>EliLilly_JCC</CaseName>
+</Response>
+<Response id="jcc112">
+<LeftRail>
+<Id>main</Id>
+<Hidden>false</Hidden>
+</LeftRail>
+<VideoControls>
+<Hidden>true</Hidden>
+<PreviousId />
+<NextId />
+</VideoControls>
+<AskControls>
+<Hidden>false</Hidden>
+<Action>analyze</Action>
+</AskControls>
+<CaseName>EliLilly_JCC</CaseName>
+</Response>
+<Response id="jcc113">
+<LeftRail>
+<Id>main</Id>
+<Hidden>false</Hidden>
+</LeftRail>
+<VideoControls>
+<Hidden>true</Hidden>
+<PreviousId />
+<NextId />
+</VideoControls>
+<AskControls>
+<Hidden>false</Hidden>
+<Action>analyze</Action>
+</AskControls>
+<CaseName>EliLilly_JCC</CaseName>
+</Response>
+<Response id="jcc114">
+<LeftRail>
+<Id>main</Id>
+<Hidden>false</Hidden>
+</LeftRail>
+<VideoControls>
+<Hidden>true</Hidden>
+<PreviousId />
+<NextId />
+</VideoControls>
+<AskControls>
+<Hidden>false</Hidden>
+<Action>analyze</Action>
+</AskControls>
+<CaseName>EliLilly_JCC</CaseName>
+</Response>
+<Response id="jcc115">
+<LeftRail>
+<Id>main</Id>
+<Hidden>false</Hidden>
+</LeftRail>
+<VideoControls>
+<Hidden>true</Hidden>
+<PreviousId />
+<NextId />
+</VideoControls>
+<AskControls>
+<Hidden>false</Hidden>
+<Action>analyze</Action>
+</AskControls>
+<CaseName>EliLilly_JCC</CaseName>
+</Response>
+<Response id="jcc116">
+<LeftRail>
+<Id>main</Id>
+<Hidden>false</Hidden>
+<ModuleSelected>1</ModuleSelected>
+</LeftRail>
+<VideoControls>
+<Hidden>true</Hidden>
+<PreviousId />
+<NextId />
+</VideoControls>
+<AskControls>
+<Hidden>false</Hidden>
+<Action>analyze</Action>
+</AskControls>
+<CaseName>EliLilly_JCC</CaseName>
+</Response>
+<Response id="jcc117">
+<LeftRail>
+<Id>main</Id>
+<Hidden>false</Hidden>
+<ModuleSelected>1</ModuleSelected>
+</LeftRail>
+<VideoControls>
+<Hidden>true</Hidden>
+<PreviousId />
+<NextId />
+</VideoControls>
+<AskControls>
+<Hidden>false</Hidden>
+<Action>analyze</Action>
+</AskControls>
+<CaseName>EliLilly_JCC</CaseName>
+</Response>
+<Response id="jcc118">
+<LeftRail>
+<Id>main</Id>
+<Hidden>false</Hidden>
+</LeftRail>
+<VideoControls>
+<Hidden>true</Hidden>
+<PreviousId />
+<NextId />
+</VideoControls>
+<AskControls>
+<Hidden>false</Hidden>
+<Action>analyze</Action>
+</AskControls>
+<CaseName>EliLilly_JCC</CaseName>
+</Response>
+<Response id="jcc119">
+<LeftRail>
+<Id>main</Id>
+<Hidden>false</Hidden>
+<ModuleSelected>1</ModuleSelected>
+</LeftRail>
+<VideoControls>
+<Hidden>true</Hidden>
+<PreviousId />
+<NextId />
+</VideoControls>
+<AskControls>
+<Hidden>false</Hidden>
+<Action>analyze</Action>
+</AskControls>
+<CaseName>EliLilly_JCC</CaseName>
+</Response>
+<Response id="jcc120">
+<LeftRail>
+<Id>main</Id>
+<Hidden>false</Hidden>
+</LeftRail>
+<VideoControls>
+<Hidden>true</Hidden>
+<PreviousId />
+<NextId />
+</VideoControls>
+<AskControls>
+<Hidden>false</Hidden>
+<Action>analyze</Action>
+</AskControls>
+<CaseName>EliLilly_JCC</CaseName>
+</Response>
+<Response id="jcc121">
+<LeftRail>
+<Id>main</Id>
+<Hidden>false</Hidden>
+<ModuleSelected>1</ModuleSelected>
+</LeftRail>
+<VideoControls>
+<Hidden>true</Hidden>
+<PreviousId />
+<NextId />
+</VideoControls>
+<AskControls>
+<Hidden>false</Hidden>
+<Action>analyze</Action>
+</AskControls>
+<CaseName>EliLilly_JCC</CaseName>
+</Response>
+<Response id="jcc122">
+<LeftRail>
+<Id>main</Id>
+<Hidden>false</Hidden>
+</LeftRail>
+<VideoControls>
+<Hidden>true</Hidden>
+<PreviousId />
+<NextId />
+</VideoControls>
+<AskControls>
+<Hidden>false</Hidden>
+<Action>analyze</Action>
+</AskControls>
+<CaseName>EliLilly_JCC</CaseName>
+</Response>
+<Response id="jcc123">
+<LeftRail>
+<Id>main</Id>
+<Hidden>false</Hidden>
+</LeftRail>
+<VideoControls>
+<Hidden>true</Hidden>
+<PreviousId />
+<NextId />
+</VideoControls>
+<AskControls>
+<Hidden>false</Hidden>
+<Action>analyze</Action>
+</AskControls>
+<CaseName>EliLilly_JCC</CaseName>
+</Response>
+<Response id="jcc124">
+<LeftRail>
+<Id>main</Id>
+<Hidden>false</Hidden>
+<ModuleSelected>2</ModuleSelected>
+</LeftRail>
+<VideoControls>
+<Hidden>true</Hidden>
+<PreviousId />
+<NextId />
+</VideoControls>
+<AskControls>
+<Hidden>false</Hidden>
+<Action>analyze</Action>
+</AskControls>
+<CaseName>EliLilly_JCC</CaseName>
+</Response>
+<Response id="jcc125">
+<LeftRail>
+<Id>main</Id>
+<Hidden>false</Hidden>
+</LeftRail>
+<VideoControls>
+<Hidden>false</Hidden>
+<PreviousId />
+<NextId />
+</VideoControls>
+<AskControls>
+<Hidden>true</Hidden>
+<Action>analyze</Action>
+</AskControls>
+<CaseName>EliLilly_JCC</CaseName>
+</Response>
+<Response id="jcc126">
+<LeftRail>
+<Id>main</Id>
+<Hidden>false</Hidden>
+<ModuleSelected>2</ModuleSelected>
+</LeftRail>
+<VideoControls>
+<Hidden>true</Hidden>
+<PreviousId />
+<NextId />
+</VideoControls>
+<AskControls>
+<Hidden>false</Hidden>
+<Action>analyze</Action>
+</AskControls>
+<CaseName>EliLilly_JCC</CaseName>
+</Response>
+<Response id="jcc127">
+<LeftRail>
+<Id>main</Id>
+<Hidden>false</Hidden>
+<ModuleSelected>2</ModuleSelected>
+</LeftRail>
+<VideoControls>
+<Hidden>true</Hidden>
+<PreviousId />
+<NextId />
+</VideoControls>
+<AskControls>
+<Hidden>false</Hidden>
+<Action>analyze</Action>
+</AskControls>
+<CaseName>EliLilly_JCC</CaseName>
+</Response>
+<Response id="jcc128">
+<LeftRail>
+<Id>main</Id>
+<Hidden>false</Hidden>
+</LeftRail>
+<VideoControls>
+<Hidden>true</Hidden>
+<PreviousId />
+<NextId />
+</VideoControls>
+<AskControls>
+<Hidden>false</Hidden>
+<Action>analyze</Action>
+</AskControls>
+<CaseName>EliLilly_JCC</CaseName>
+</Response>
+<Response id="jcc129">
+<LeftRail>
+<Id>main</Id>
+<Hidden>false</Hidden>
+</LeftRail>
+<VideoControls>
+<Hidden>false</Hidden>
+<PreviousId />
+<NextId />
+</VideoControls>
+<AskControls>
+<Hidden>true</Hidden>
+<Action>analyze</Action>
+</AskControls>
+<CaseName>EliLilly_JCC</CaseName>
+</Response>
+<Response id="jcc130">
+<LeftRail>
+<Id>main</Id>
+<Hidden>true</Hidden>
+</LeftRail>
+<VideoControls>
+<Hidden>false</Hidden>
+<PreviousId />
+<NextId />
+</VideoControls>
+<AskControls>
+<Hidden>true</Hidden>
+<Action>analyze</Action>
+</AskControls>
+<CaseName>EliLilly_JCC</CaseName>
+</Response>
+<Response id="jcc131">
+<LeftRail>
+<Id>main</Id>
+<Hidden>true</Hidden>
+</LeftRail>
+<VideoControls>
+<Hidden>false</Hidden>
+<PreviousId />
+<NextId />
+</VideoControls>
+<AskControls>
+<Hidden>true</Hidden>
+<Action>analyze</Action>
+</AskControls>
+<CaseName>EliLilly_JCC</CaseName>
+</Response>
+<Response id="jcc132">
+<LeftRail>
+<Id>main</Id>
+<Hidden>true</Hidden>
+<ModuleSelected>2</ModuleSelected>
+</LeftRail>
+<VideoControls>
+<Hidden>false</Hidden>
+<PreviousId />
+<NextId />
+</VideoControls>
+<AskControls>
+<Hidden>true</Hidden>
+<Action>analyze</Action>
+</AskControls>
+<CaseName>EliLilly_JCC</CaseName>
+</Response>
+<Response id="jcc133">
+<LeftRail>
+<Id>main</Id>
+<Hidden>true</Hidden>
+</LeftRail>
+<VideoControls>
+<Hidden>false</Hidden>
+<PreviousId />
+<NextId />
+</VideoControls>
+<AskControls>
+<Hidden>true</Hidden>
+<Action>analyze</Action>
+</AskControls>
+<CaseName>EliLilly_JCC</CaseName>
+</Response>
+<Response id="jcc134">
+<LeftRail>
+<Id>main</Id>
+<Hidden>true</Hidden>
+</LeftRail>
+<VideoControls>
+<Hidden>false</Hidden>
+<PreviousId />
+<NextId />
+</VideoControls>
+<AskControls>
+<Hidden>true</Hidden>
+<Action>analyze</Action>
+</AskControls>
+<CaseName>EliLilly_JCC</CaseName>
+</Response>
+<Response id="jcc135">
+<LeftRail>
+<Id>main</Id>
+<Hidden>true</Hidden>
+</LeftRail>
+<VideoControls>
+<Hidden>false</Hidden>
+<PreviousId />
+<NextId />
+</VideoControls>
+<AskControls>
+<Hidden>true</Hidden>
+<Action>analyze</Action>
+</AskControls>
+<CaseName>EliLilly_JCC</CaseName>
+</Response>
+<Response id="jcc136">
+<LeftRail>
+<Id>main</Id>
+<Hidden>true</Hidden>
+</LeftRail>
+<VideoControls>
+<Hidden>true</Hidden>
+<PreviousId />
+<NextId />
+</VideoControls>
+<AskControls>
+<Hidden>false</Hidden>
+<Action>analyze</Action>
+</AskControls>
+<CaseName>EliLilly_JCC</CaseName>
+</Response>
+<Response id="jcc137">
+<LeftRail>
+<Id>main</Id>
+<Hidden>true</Hidden>
+<ModuleSelected>3</ModuleSelected>
+</LeftRail>
+<VideoControls>
+<Hidden>false</Hidden>
+<PreviousId />
+<NextId />
+</VideoControls>
+<AskControls>
+<Hidden>true</Hidden>
+<Action>analyze</Action>
+</AskControls>
+<CaseName>EliLilly_JCC</CaseName>
+</Response>
+<Response id="jcc138">
+<LeftRail>
+<Id>main</Id>
+<Hidden>true</Hidden>
+<ModuleSelected>3</ModuleSelected>
+</LeftRail>
+<VideoControls>
+<Hidden>false</Hidden>
+<PreviousId />
+<NextId />
+</VideoControls>
+<AskControls>
+<Hidden>true</Hidden>
+<Action>analyze</Action>
+</AskControls>
+<CaseName>EliLilly_JCC</CaseName>
+</Response>
+<Response id="jcc139">
+<LeftRail>
+<Id>main</Id>
+<Hidden>true</Hidden>
+<ModuleSelected>4</ModuleSelected>
+</LeftRail>
+<VideoControls>
+<Hidden>false</Hidden>
+<PreviousId />
+<NextId />
+</VideoControls>
+<AskControls>
+<Hidden>true</Hidden>
+<Action>analyze</Action>
+</AskControls>
+<CaseName>EliLilly_JCC</CaseName>
+</Response>
+<Response id="jcc140">
+<LeftRail>
+<Id>main</Id>
+<Hidden>true</Hidden>
+<ModuleSelected>4</ModuleSelected>
+</LeftRail>
+<VideoControls>
+<Hidden>false</Hidden>
+<PreviousId />
+<NextId />
+</VideoControls>
+<AskControls>
+<Hidden>true</Hidden>
+<Action>analyze</Action>
+</AskControls>
+<CaseName>EliLilly_JCC</CaseName>
+</Response>
+<Response id="jcc141">
+<LeftRail>
+<Id>main</Id>
+<Hidden>true</Hidden>
+</LeftRail>
+<VideoControls>
+<Hidden>true</Hidden>
+<PreviousId />
+<NextId />
+</VideoControls>
+<AskControls>
+<Hidden>false</Hidden>
+<Action>options</Action>
+</AskControls>
+<CaseName>EliLilly_JCC</CaseName>
+</Response>
+<Response id="jcc142">
+<LeftRail>
+<Id>main</Id>
+<Hidden>true</Hidden>
+<ModuleSelected>4</ModuleSelected>
+</LeftRail>
+<VideoControls>
+<Hidden>false</Hidden>
+<PreviousId />
+<NextId />
+</VideoControls>
+<AskControls>
+<Hidden>true</Hidden>
+<Action>analyze</Action>
+</AskControls>
+<CaseName>EliLilly_JCC</CaseName>
+</Response>
+<Response id="jcc143">
+<LeftRail>
+<Id>prognosis</Id>
+<Hidden>false</Hidden>
+</LeftRail>
+<VideoControls>
+<Hidden>true</Hidden>
+<PreviousId />
+<NextId />
+</VideoControls>
+<AskControls>
+<Hidden>false</Hidden>
+<Action>analyze</Action>
+</AskControls>
+<CaseName>EliLilly_JCC</CaseName>
+</Response>
+<Response id="jcc144">
+<LeftRail>
+<Id>support</Id>
+<Hidden>false</Hidden>
+</LeftRail>
+<VideoControls>
+<Hidden>true</Hidden>
+<PreviousId />
+<NextId />
+</VideoControls>
+<AskControls>
+<Hidden>false</Hidden>
+<Action>analyze</Action>
+</AskControls>
+<CaseName>EliLilly_JCC</CaseName>
+</Response>
+<Response id="jcc145">
+<LeftRail>
+<Id>main</Id>
+<Hidden>true</Hidden>
+</LeftRail>
+<VideoControls>
+<Hidden>false</Hidden>
+<PreviousId />
+<NextId />
+</VideoControls>
+<AskControls>
+<Hidden>true</Hidden>
+<Action>analyze</Action>
+</AskControls>
+<CaseName>EliLilly_JCC</CaseName>
+</Response>
+<Response id="jcc146">
+<LeftRail>
+<Id>main</Id>
+<Hidden>true</Hidden>
+<ModuleSelected>4</ModuleSelected>
+</LeftRail>
+<VideoControls>
+<Hidden>false</Hidden>
+<PreviousId />
+<NextId />
+</VideoControls>
+<AskControls>
+<Hidden>true</Hidden>
+<Action>analyze</Action>
+</AskControls>
+<CaseName>EliLilly_JCC</CaseName>
+</Response>
+<Response id="jcc147">
+<LeftRail>
+<Id>main</Id>
+<Hidden>true</Hidden>
+</LeftRail>
+<VideoControls>
+<Hidden>true</Hidden>
+<PreviousId />
+<NextId />
+</VideoControls>
+<AskControls>
+<Hidden>false</Hidden>
+<Action>log</Action>
+</AskControls>
+<CaseName>EliLilly_JCC</CaseName>
+</Response>
+<Response id="jcc148">
+<LeftRail>
+<Id>main</Id>
+<Hidden>true</Hidden>
+</LeftRail>
+<VideoControls>
+<Hidden>true</Hidden>
+<PreviousId />
+<NextId />
+</VideoControls>
+<AskControls>
+<Hidden>false</Hidden>
+<Action>log</Action>
+</AskControls>
+<CaseName>EliLilly_JCC</CaseName>
+</Response>
+<Response id="jcc149">
+<LeftRail>
+<Id>main</Id>
+<Hidden>true</Hidden>
+</LeftRail>
+<VideoControls>
+<Hidden>true</Hidden>
+<PreviousId />
+<NextId />
+</VideoControls>
+<AskControls>
+<Hidden>false</Hidden>
+<Action>log</Action>
+</AskControls>
+<CaseName>EliLilly_JCC</CaseName>
+</Response>
+<Response id="jcc150">
+<LeftRail>
+<Id>main</Id>
+<Hidden>true</Hidden>
+<ModuleSelected>5</ModuleSelected>
+</LeftRail>
+<VideoControls>
+<Hidden>true</Hidden>
+<PreviousId />
+<NextId />
+</VideoControls>
+<AskControls>
+<Hidden>false</Hidden>
+<Action>log</Action>
+</AskControls>
+<CaseName>EliLilly_JCC</CaseName>
+</Response>
+<Response id="jcc151">
+<LeftRail>
+<Id>main</Id>
+<Hidden>true</Hidden>
+</LeftRail>
+<VideoControls>
+<Hidden>true</Hidden>
+<PreviousId />
+<NextId />
+</VideoControls>
+<AskControls>
+<Hidden>false</Hidden>
+<Action>log</Action>
+</AskControls>
+<CaseName>EliLilly_JCC</CaseName>
+</Response>
+<Response id="jcc152">
+<LeftRail>
+<Id>main</Id>
+<Hidden>true</Hidden>
+</LeftRail>
+<VideoControls>
+<Hidden>true</Hidden>
+<PreviousId />
+<NextId />
+</VideoControls>
+<AskControls>
+<Hidden>false</Hidden>
+<Action>log</Action>
+</AskControls>
+<CaseName>EliLilly_JCC</CaseName>
+</Response>
+<Response id="jcc153">
+<LeftRail>
+<Id>main</Id>
+<Hidden>true</Hidden>
+</LeftRail>
+<VideoControls>
+<Hidden>true</Hidden>
+<PreviousId />
+<NextId />
+</VideoControls>
+<AskControls>
+<Hidden>false</Hidden>
+<Action>log</Action>
+</AskControls>
+<CaseName>EliLilly_JCC</CaseName>
+</Response>
+<Response id="jcc154">
+<LeftRail>
+<Id>main</Id>
+<Hidden>true</Hidden>
+<ModuleSelected>5</ModuleSelected>
+</LeftRail>
+<VideoControls>
+<Hidden>true</Hidden>
+<PreviousId />
+<NextId />
+</VideoControls>
+<AskControls>
+<Hidden>false</Hidden>
+<Action>log</Action>
+</AskControls>
+<CaseName>EliLilly_JCC</CaseName>
+</Response>
+<Response id="jcc155">
+<LeftRail>
+<Id>main</Id>
+<Hidden>true</Hidden>
+<ModuleSelected>5</ModuleSelected>
+</LeftRail>
+<VideoControls>
+<Hidden>true</Hidden>
+<PreviousId />
+<NextId />
+</VideoControls>
+<AskControls>
+<Hidden>false</Hidden>
+<Action>log</Action>
+</AskControls>
+<CaseName>EliLilly_JCC</CaseName>
+</Response>
+<Response id="jcc156">
+<LeftRail>
+<Id>main</Id>
+<Hidden>true</Hidden>
+</LeftRail>
+<VideoControls>
+<Hidden>true</Hidden>
+<PreviousId />
+<NextId />
+</VideoControls>
+<AskControls>
+<Hidden>false</Hidden>
+<Action>log</Action>
+</AskControls>
+<CaseName>EliLilly_JCC</CaseName>
+</Response>
+<Response id="jcc157">
+<LeftRail>
+<Id>main</Id>
+<Hidden>true</Hidden>
+</LeftRail>
+<VideoControls>
+<Hidden>true</Hidden>
+<PreviousId />
+<NextId />
+</VideoControls>
+<AskControls>
+<Hidden>false</Hidden>
+<Action>log</Action>
+</AskControls>
+<CaseName>EliLilly_JCC</CaseName>
+</Response>
+<Response id="jcc158">
+<LeftRail>
+<Id>main</Id>
+<Hidden>true</Hidden>
+<ModuleSelected>4</ModuleSelected>
+</LeftRail>
+<VideoControls>
+<Hidden>true</Hidden>
+<PreviousId />
+<NextId />
+</VideoControls>
+<AskControls>
+<Hidden>false</Hidden>
+<Action>log</Action>
+</AskControls>
+<CaseName>EliLilly_JCC</CaseName>
+</Response>
+<Response id="jcc159">
+<LeftRail>
+<Id>main</Id>
+<Hidden>true</Hidden>
+</LeftRail>
+<VideoControls>
+<Hidden>false</Hidden>
+<PreviousId />
+<NextId />
+</VideoControls>
+<AskControls>
+<Hidden>true</Hidden>
+<Action>analyze</Action>
+</AskControls>
+<CaseName>EliLilly_JCC</CaseName>
+</Response>
+<Response id="jcc160">
+<LeftRail>
+<Id>main</Id>
+<Hidden>true</Hidden>
+</LeftRail>
+<VideoControls>
+<Hidden>false</Hidden>
+<PreviousId />
+<NextId />
+</VideoControls>
+<AskControls>
+<Hidden>true</Hidden>
+<Action>analyze</Action>
+</AskControls>
+<CaseName>EliLilly_JCC</CaseName>
+</Response>
+<Response id="jcc161">
+<LeftRail>
+<Id>main</Id>
+<Hidden>true</Hidden>
+</LeftRail>
+<VideoControls>
+<Hidden>true</Hidden>
+<PreviousId />
+<NextId />
+</VideoControls>
+<AskControls>
+<Hidden>false</Hidden>
+<Action>log</Action>
+</AskControls>
+<CaseName>EliLilly_JCC</CaseName>
+</Response>
+<Response id="jcc162">
+<LeftRail>
+<Id>main</Id>
+<Hidden>true</Hidden>
+</LeftRail>
+<VideoControls>
+<Hidden>true</Hidden>
+<PreviousId />
+<NextId />
+</VideoControls>
+<AskControls>
+<Hidden>false</Hidden>
+<Action>log</Action>
+</AskControls>
+<CaseName>EliLilly_JCC</CaseName>
+</Response>
+<Response id="jcc163">
+<LeftRail>
+<Id>main</Id>
+<Hidden>true</Hidden>
+</LeftRail>
+<VideoControls>
+<Hidden>true</Hidden>
+<PreviousId />
+<NextId />
+</VideoControls>
+<AskControls>
+<Hidden>false</Hidden>
+<Action>log</Action>
+</AskControls>
+<CaseName>EliLilly_JCC</CaseName>
+</Response>
+<Response id="jcc164">
+<LeftRail>
+<Id>main</Id>
+<Hidden>true</Hidden>
+</LeftRail>
+<VideoControls>
+<Hidden>true</Hidden>
+<PreviousId />
+<NextId />
+</VideoControls>
+<AskControls>
+<Hidden>false</Hidden>
+<Action>log</Action>
+</AskControls>
+<CaseName>EliLilly_JCC</CaseName>
+</Response>
+<Response id="jcc165">
+<LeftRail>
+<Id>main</Id>
+<Hidden>true</Hidden>
+</LeftRail>
+<VideoControls>
+<Hidden>true</Hidden>
+<PreviousId />
+<NextId />
+</VideoControls>
+<AskControls>
+<Hidden>false</Hidden>
+<Action>log</Action>
+</AskControls>
+<CaseName>EliLilly_JCC</CaseName>
+</Response>
+<Response id="jcc166">
+<LeftRail>
+<Id>main</Id>
+<Hidden>true</Hidden>
+<ModuleSelected>4</ModuleSelected>
+</LeftRail>
+<VideoControls>
+<Hidden>true</Hidden>
+<PreviousId />
+<NextId />
+</VideoControls>
+<AskControls>
+<Hidden>false</Hidden>
+<Action>log</Action>
+</AskControls>
+<CaseName>EliLilly_JCC</CaseName>
+</Response>
+<Response id="jcc167">
+<LeftRail>
+<Id>main</Id>
+<Hidden>true</Hidden>
+<ModuleSelected>4</ModuleSelected>
+</LeftRail>
+<VideoControls>
+<Hidden>false</Hidden>
+<PreviousId />
+<NextId />
+</VideoControls>
+<AskControls>
+<Hidden>true</Hidden>
+<Action>analyze</Action>
+</AskControls>
+<CaseName>EliLilly_JCC</CaseName>
+</Response>
+<Response id="jcc168">
+<LeftRail>
+<Id>main</Id>
+<Hidden>true</Hidden>
+</LeftRail>
+<VideoControls>
+<Hidden>true</Hidden>
+<PreviousId />
+<NextId />
+</VideoControls>
+<AskControls>
+<Hidden>false</Hidden>
+<Action>analyze</Action>
+</AskControls>
+<CaseName>EliLilly_JCC</CaseName>
+</Response>
+<Response id="jcc169">
+<LeftRail>
+<Id>main</Id>
+<Hidden>false</Hidden>
+<ModuleSelected>4</ModuleSelected>
+</LeftRail>
+<VideoControls>
+<Hidden>true</Hidden>
+<PreviousId />
+<NextId />
+</VideoControls>
+<AskControls>
+<Hidden>false</Hidden>
+<Action>analyze</Action>
+</AskControls>
+<CaseName>EliLilly_JCC</CaseName>
+</Response>
+<Response id="jcc170">
+<LeftRail>
+<Id>legal</Id>
+<Hidden>false</Hidden>
+</LeftRail>
+<VideoControls>
+<Hidden>true</Hidden>
+<PreviousId />
+<NextId />
+</VideoControls>
+<AskControls>
+<Hidden>false</Hidden>
+<Action>analyze</Action>
+</AskControls>
+<CaseName>EliLilly_JCC</CaseName>
+</Response>
+<Response id="jcc171">
+<LeftRail>
+<Id>main</Id>
+<Hidden>false</Hidden>
+</LeftRail>
+<VideoControls>
+<Hidden>true</Hidden>
+<PreviousId />
+<NextId />
+</VideoControls>
+<AskControls>
+<Hidden>false</Hidden>
+<Action>analyze</Action>
+</AskControls>
+<CaseName>EliLilly_JCC</CaseName>
+</Response>
+<Response id="jcc172">
+<LeftRail>
+<Id>main</Id>
+<Hidden>false</Hidden>
+</LeftRail>
+<VideoControls>
+<Hidden>true</Hidden>
+<PreviousId />
+<NextId />
+</VideoControls>
+<AskControls>
+<Hidden>false</Hidden>
+<Action>analyze</Action>
+</AskControls>
+<CaseName>EliLilly_JCC</CaseName>
+</Response>
+<Response id="jcc173">
+<LeftRail>
+<Id>support</Id>
+<Hidden>false</Hidden>
+</LeftRail>
+<VideoControls>
+<Hidden>true</Hidden>
+<PreviousId />
+<NextId />
+</VideoControls>
+<AskControls>
+<Hidden>false</Hidden>
+<Action>analyze</Action>
+</AskControls>
+<CaseName>EliLilly_JCC</CaseName>
+</Response>
+<Response id="jcc174">
+<LeftRail>
+<Id>main</Id>
+<Hidden>false</Hidden>
+</LeftRail>
+<VideoControls>
+<Hidden>true</Hidden>
+<PreviousId />
+<NextId />
+</VideoControls>
+<AskControls>
+<Hidden>false</Hidden>
+<Action>analyze</Action>
+</AskControls>
+<CaseName>EliLilly_JCC</CaseName>
+</Response>
+<Response id="jcc175">
+<LeftRail>
+<Id>main</Id>
+<Hidden>false</Hidden>
+</LeftRail>
+<VideoControls>
+<Hidden>true</Hidden>
+<PreviousId />
+<NextId />
+</VideoControls>
+<AskControls>
+<Hidden>false</Hidden>
+<Action>analyze</Action>
+</AskControls>
+<CaseName>EliLilly_JCC</CaseName>
+</Response>
+<Response id="jcc176">
+<LeftRail>
+<Id>main</Id>
+<Hidden>false</Hidden>
+</LeftRail>
+<VideoControls>
+<Hidden>true</Hidden>
+<PreviousId />
+<NextId />
+</VideoControls>
+<AskControls>
+<Hidden>false</Hidden>
+<Action>analyze</Action>
+</AskControls>
+<CaseName>EliLilly_JCC</CaseName>
+</Response>
+<Response id="jcc177">
+<LeftRail>
+<Id>main</Id>
+<Hidden>false</Hidden>
+</LeftRail>
+<VideoControls>
+<Hidden>true</Hidden>
+<PreviousId />
+<NextId />
+</VideoControls>
+<AskControls>
+<Hidden>false</Hidden>
+<Action>analyze</Action>
+</AskControls>
+<CaseName>EliLilly_JCC</CaseName>
+</Response>
+<Response id="jcc178">
+<LeftRail>
+<Id>main</Id>
+<Hidden>false</Hidden>
+</LeftRail>
+<VideoControls>
+<Hidden>true</Hidden>
+<PreviousId />
+<NextId />
+</VideoControls>
+<AskControls>
+<Hidden>false</Hidden>
+<Action>analyze</Action>
+</AskControls>
+<CaseName>EliLilly_JCC</CaseName>
+</Response>
+<Response id="jcc179">
+<LeftRail>
+<Id>main</Id>
+<Hidden>true</Hidden>
+</LeftRail>
+<VideoControls>
+<Hidden>true</Hidden>
+<PreviousId />
+<NextId />
+</VideoControls>
+<AskControls>
+<Hidden>false</Hidden>
+<Action>fb-intro</Action>
+</AskControls>
+<CaseName>EliLilly_JCC</CaseName>
+</Response>
+<Response id="jcc180">
+<LeftRail>
+<Id>main</Id>
+<Hidden>true</Hidden>
+</LeftRail>
+<VideoControls>
+<Hidden>true</Hidden>
+<PreviousId />
+<NextId />
+</VideoControls>
+<AskControls>
+<Hidden>false</Hidden>
+<Action>fb-1</Action>
+</AskControls>
+<CaseName>EliLilly_JCC</CaseName>
+</Response>
+<Response id="jcc181">
+<LeftRail>
+<Id>main</Id>
+<Hidden>true</Hidden>
+<ModuleSelected>1</ModuleSelected>
+</LeftRail>
+<VideoControls>
+<Hidden>true</Hidden>
+<PreviousId />
+<NextId />
+</VideoControls>
+<AskControls>
+<Hidden>false</Hidden>
+<Action>fb-2</Action>
+</AskControls>
+<CaseName>EliLilly_JCC</CaseName>
+</Response>
+<Response id="jcc182">
+<LeftRail>
+<Id>main</Id>
+<Hidden>true</Hidden>
+</LeftRail>
+<VideoControls>
+<Hidden>true</Hidden>
+<PreviousId />
+<NextId />
+</VideoControls>
+<AskControls>
+<Hidden>false</Hidden>
+<Action>fb-3</Action>
+</AskControls>
+<CaseName>EliLilly_JCC</CaseName>
+</Response>
+<Response id="jcc183">
+<LeftRail>
+<Id>main</Id>
+<Hidden>true</Hidden>
+</LeftRail>
+<VideoControls>
+<Hidden>true</Hidden>
+<PreviousId />
+<NextId />
+</VideoControls>
+<AskControls>
+<Hidden>false</Hidden>
+<Action>fb-4</Action>
+</AskControls>
+<CaseName>EliLilly_JCC</CaseName>
+</Response>
+<Response id="jcc184">
+<LeftRail>
+<Id>main</Id>
+<Hidden>true</Hidden>
+</LeftRail>
+<VideoControls>
+<Hidden>true</Hidden>
+<PreviousId />
+<NextId />
+</VideoControls>
+<AskControls>
+<Hidden>false</Hidden>
+<Action>fb-5</Action>
+</AskControls>
+<CaseName>EliLilly_JCC</CaseName>
+</Response>
+<Response id="jcc185">
+<LeftRail>
+<Id>main</Id>
+<Hidden>true</Hidden>
+</LeftRail>
+<VideoControls>
+<Hidden>true</Hidden>
+<PreviousId />
+<NextId />
+</VideoControls>
+<AskControls>
+<Hidden>false</Hidden>
+<Action>fb-6</Action>
+</AskControls>
+<CaseName>EliLilly_JCC</CaseName>
+</Response>
+<Response id="jcc186">
+<LeftRail>
+<Id>main</Id>
+<Hidden>true</Hidden>
+</LeftRail>
+<VideoControls>
+<Hidden>false</Hidden>
+<PreviousId />
+<NextId />
+</VideoControls>
+<AskControls>
+<Hidden>true</Hidden>
+<Action>analyze</Action>
+</AskControls>
+<CaseName>EliLilly_JCC</CaseName>
+</Response>
+<Response id="jcc187">
+<LeftRail>
+<Id>main</Id>
+<Hidden>false</Hidden>
+</LeftRail>
+<VideoControls>
+<Hidden>true</Hidden>
+<PreviousId />
+<NextId />
+</VideoControls>
+<AskControls>
+<Hidden>false</Hidden>
+<Action>analyze</Action>
+</AskControls>
+<CaseName>EliLilly_JCC</CaseName>
+</Response>
+<Response id="jcc188">
+<LeftRail>
+<Id>main</Id>
+<Hidden>false</Hidden>
+</LeftRail>
+<VideoControls>
+<Hidden>true</Hidden>
+<PreviousId />
+<NextId />
+</VideoControls>
+<AskControls>
+<Hidden>false</Hidden>
+<Action>analyze</Action>
+</AskControls>
+<CaseName>EliLilly_JCC</CaseName>
+</Response>
+<Response id="jcc189">
+<LeftRail>
+<Id>main</Id>
+<Hidden>false</Hidden>
+</LeftRail>
+<VideoControls>
+<Hidden>true</Hidden>
+<PreviousId />
+<NextId />
+</VideoControls>
+<AskControls>
+<Hidden>false</Hidden>
+<Action>analyze</Action>
+</AskControls>
+<CaseName>EliLilly_JCC</CaseName>
+</Response>
+<Response id="jcc190">
+<LeftRail>
+<Id>main</Id>
+<Hidden>false</Hidden>
+<ModuleSelected>4</ModuleSelected>
+</LeftRail>
+<VideoControls>
+<Hidden>true</Hidden>
+<PreviousId />
+<NextId />
+</VideoControls>
+<AskControls>
+<Hidden>false</Hidden>
+<Action>analyze</Action>
+</AskControls>
+<CaseName>EliLilly_JCC</CaseName>
+</Response>
+<Response id="jcc191">
+<LeftRail>
+<Id>main</Id>
+<Hidden>false</Hidden>
+</LeftRail>
+<VideoControls>
+<Hidden>true</Hidden>
+<PreviousId />
+<NextId />
+</VideoControls>
+<AskControls>
+<Hidden>false</Hidden>
+<Action>analyze</Action>
+</AskControls>
+<CaseName>EliLilly_JCC</CaseName>
+</Response>
+<Response id="jcc192">
+<LeftRail>
+<Id>main</Id>
+<Hidden>false</Hidden>
+</LeftRail>
+<VideoControls>
+<Hidden>true</Hidden>
+<PreviousId />
+<NextId />
+</VideoControls>
+<AskControls>
+<Hidden>false</Hidden>
+<Action>analyze</Action>
+</AskControls>
+<CaseName>EliLilly_JCC</CaseName>
+</Response>
+<Response id="jcc193">
+<LeftRail>
+<Id>main</Id>
+<Hidden>false</Hidden>
+</LeftRail>
+<VideoControls>
+<Hidden>true</Hidden>
+<PreviousId />
+<NextId />
+</VideoControls>
+<AskControls>
+<Hidden>false</Hidden>
+<Action>analyze</Action>
+</AskControls>
+<CaseName>EliLilly_JCC</CaseName>
+</Response>
+<Response id="jcc194">
+<LeftRail>
+<Id>main</Id>
+<Hidden>false</Hidden>
+</LeftRail>
+<VideoControls>
+<Hidden>true</Hidden>
+<PreviousId />
+<NextId />
+</VideoControls>
+<AskControls>
+<Hidden>false</Hidden>
+<Action>analyze</Action>
+</AskControls>
+<CaseName>EliLilly_JCC</CaseName>
+</Response>
+<Response id="jcc195">
+<LeftRail>
+<Id>main</Id>
+<Hidden>false</Hidden>
+</LeftRail>
+<VideoControls>
+<Hidden>true</Hidden>
+<PreviousId />
+<NextId />
+</VideoControls>
+<AskControls>
+<Hidden>false</Hidden>
+<Action>analyze</Action>
+</AskControls>
+<CaseName>EliLilly_JCC</CaseName>
+</Response>
+<Response id="jcc196">
+<LeftRail>
+<Id>main</Id>
+<Hidden>false</Hidden>
+</LeftRail>
+<VideoControls>
+<Hidden>true</Hidden>
+<PreviousId />
+<NextId />
+</VideoControls>
+<AskControls>
+<Hidden>false</Hidden>
+<Action>analyze</Action>
+</AskControls>
+<CaseName>EliLilly_JCC</CaseName>
+</Response>
+<Response id="jcc197">
+<LeftRail>
+<Id>main</Id>
+<Hidden>false</Hidden>
+</LeftRail>
+<VideoControls>
+<Hidden>true</Hidden>
+<PreviousId />
+<NextId />
+</VideoControls>
+<AskControls>
+<Hidden>false</Hidden>
+<Action>analyze</Action>
+</AskControls>
+<CaseName>EliLilly_JCC</CaseName>
+</Response>
+<Response id="jcc198">
+<LeftRail>
+<Id>main</Id>
+<Hidden>false</Hidden>
+</LeftRail>
+<VideoControls>
+<Hidden>true</Hidden>
+<PreviousId />
+<NextId />
+</VideoControls>
+<AskControls>
+<Hidden>false</Hidden>
+<Action>log</Action>
+</AskControls>
+<CaseName>EliLilly_JCC</CaseName>
+</Response>
+<Response id="jcc199">
+<LeftRail>
+<Id>main</Id>
+<Hidden>false</Hidden>
+</LeftRail>
+<VideoControls>
+<Hidden>true</Hidden>
+<PreviousId />
+<NextId />
+</VideoControls>
+<AskControls>
+<Hidden>false</Hidden>
+<Action>log</Action>
+</AskControls>
+<CaseName>EliLilly_JCC</CaseName>
+</Response>
+<Response id="jcc200">
+<LeftRail>
+<Id>main</Id>
+<Hidden>false</Hidden>
+</LeftRail>
+<VideoControls>
+<Hidden>true</Hidden>
+<PreviousId />
+<NextId />
+</VideoControls>
+<AskControls>
+<Hidden>false</Hidden>
+<Action>log</Action>
+</AskControls>
+<CaseName>EliLilly_JCC</CaseName>
+</Response>
+<Response id="jcc201">
+<LeftRail>
+<Id>main</Id>
+<Hidden>false</Hidden>
+</LeftRail>
+<VideoControls>
+<Hidden>true</Hidden>
+<PreviousId />
+<NextId />
+</VideoControls>
+<AskControls>
+<Hidden>false</Hidden>
+<Action>log</Action>
+</AskControls>
+<CaseName>EliLilly_JCC</CaseName>
+</Response>
+<Response id="jcc202">
+<LeftRail>
+<Id>main</Id>
+<Hidden>false</Hidden>
+</LeftRail>
+<VideoControls>
+<Hidden>true</Hidden>
+<PreviousId />
+<NextId />
+</VideoControls>
+<AskControls>
+<Hidden>false</Hidden>
+<Action>log</Action>
+</AskControls>
+<CaseName>EliLilly_JCC</CaseName>
+</Response>
+<Response id="jcc203">
+<LeftRail>
+<Id>main</Id>
+<Hidden>false</Hidden>
+</LeftRail>
+<VideoControls>
+<Hidden>true</Hidden>
+<PreviousId />
+<NextId />
+</VideoControls>
+<AskControls>
+<Hidden>false</Hidden>
+<Action>analyze</Action>
+</AskControls>
+<CaseName>EliLilly_JCC</CaseName>
+</Response>
+<Response id="jcc204">
+<LeftRail>
+<Id>main</Id>
+<Hidden>false</Hidden>
+</LeftRail>
+<VideoControls>
+<Hidden>true</Hidden>
+<PreviousId />
+<NextId />
+</VideoControls>
+<AskControls>
+<Hidden>false</Hidden>
+<Action>analyze</Action>
+</AskControls>
+<CaseName>EliLilly_JCC</CaseName>
+</Response>
+<Response id="jcc205">
+<LeftRail>
+<Id>main</Id>
+<Hidden>false</Hidden>
+</LeftRail>
+<VideoControls>
+<Hidden>true</Hidden>
+<PreviousId />
+<NextId />
+</VideoControls>
+<AskControls>
+<Hidden>false</Hidden>
+<Action>log</Action>
+</AskControls>
+<CaseName>EliLilly_JCC</CaseName>
+</Response>
+<Response id="jcc206">
+<LeftRail>
+<Id>main</Id>
+<Hidden>false</Hidden>
+</LeftRail>
+<VideoControls>
+<Hidden>true</Hidden>
+<PreviousId />
+<NextId />
+</VideoControls>
+<AskControls>
+<Hidden>false</Hidden>
+<Action>analyze</Action>
+</AskControls>
+<CaseName>EliLilly_JCC</CaseName>
+</Response>
+<Response id="jcc207">
+<LeftRail>
+<Id>main</Id>
+<Hidden>false</Hidden>
+</LeftRail>
+<VideoControls>
+<Hidden>true</Hidden>
+<PreviousId />
+<NextId />
+</VideoControls>
+<AskControls>
+<Hidden>false</Hidden>
+<Action>analyze</Action>
+</AskControls>
+<CaseName>EliLilly_JCC</CaseName>
+</Response>
+<Response id="jcc208">
+<LeftRail>
+<Id>main</Id>
+<Hidden>true</Hidden>
+</LeftRail>
+<VideoControls>
+<Hidden>false</Hidden>
+<PreviousId />
+<NextId />
+</VideoControls>
+<AskControls>
+<Hidden>true</Hidden>
+<Action>analyze</Action>
+</AskControls>
+<CaseName>EliLilly_JCC</CaseName>
+</Response>
+<Response id="jcc209">
+<LeftRail>
+<Id>main</Id>
+<Hidden>false</Hidden>
+</LeftRail>
+<VideoControls>
+<Hidden>true</Hidden>
+<PreviousId />
+<NextId />
+</VideoControls>
+<AskControls>
+<Hidden>false</Hidden>
+<Action>log</Action>
+</AskControls>
+<CaseName>EliLilly_JCC</CaseName>
+</Response>
+<Response id="jcc210">
+<LeftRail>
+<Id>main</Id>
+<Hidden>false</Hidden>
+</LeftRail>
+<VideoControls>
+<Hidden>true</Hidden>
+<PreviousId />
+<NextId />
+</VideoControls>
+<AskControls>
+<Hidden>false</Hidden>
+<Action>analyze</Action>
+</AskControls>
+<CaseName>EliLilly_JCC</CaseName>
+</Response>
+<Response id="jcc211">
+<LeftRail>
+<Id>main</Id>
+<Hidden>false</Hidden>
+</LeftRail>
+<VideoControls>
+<Hidden>true</Hidden>
+<PreviousId />
+<NextId />
+</VideoControls>
+<AskControls>
+<Hidden>false</Hidden>
+<Action>analyze</Action>
+</AskControls>
+<CaseName>EliLilly_JCC</CaseName>
+</Response>
+<Response id="jcc212">
+<LeftRail>
+<Id>main</Id>
+<Hidden>false</Hidden>
+</LeftRail>
+<VideoControls>
+<Hidden>true</Hidden>
+<PreviousId />
+<NextId />
+</VideoControls>
+<AskControls>
+<Hidden>false</Hidden>
+<Action>analyze</Action>
+</AskControls>
+<CaseName>EliLilly_JCC</CaseName>
+</Response>
+<Response id="jcc213">
+<LeftRail>
+<Id>main</Id>
+<Hidden>true</Hidden>
+</LeftRail>
+<VideoControls>
+<Hidden>false</Hidden>
+<PreviousId />
+<NextId />
+</VideoControls>
+<AskControls>
+<Hidden>true</Hidden>
+<Action>analyze</Action>
+</AskControls>
+<CaseName>EliLilly_JCC</CaseName>
+</Response>
+<Response id="jcc250">
+<LeftRail>
+<Id>main</Id>
+<Hidden>false</Hidden>
+</LeftRail>
+<VideoControls>
+<Hidden>true</Hidden>
+<PreviousId />
+<NextId />
+</VideoControls>
+<AskControls>
+<Hidden>false</Hidden>
+<Action>analyze</Action>
+</AskControls>
+<CaseName>EliLilly_JCC</CaseName>
+</Response>
+<Response id="jcc251">
+<LeftRail>
+<Id>main</Id>
+<Hidden>true</Hidden>
+</LeftRail>
+<VideoControls>
+<Hidden>true</Hidden>
+<PreviousId />
+<NextId />
+</VideoControls>
+<AskControls>
+<Hidden>false</Hidden>
+<Action>options</Action>
+</AskControls>
+<CaseName>EliLilly_JCC</CaseName>
+</Response>
+</xml>

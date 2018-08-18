@@ -1,0 +1,305 @@
+/* Sizes */
+body.login #base_controller,
+body.video #base_controller {
+  background: #FFF;
+}
+body.video #base_controller {
+  padding: 1px;
+}
+#base_controller {
+  background: #EEE;
+}
+/*Login Form */
+#mr-login-form {
+  margin-top: 10%;
+  margin-bottom: 50%;
+}
+#mr-login-title {
+  margin: 0px;
+}
+#mr-login-forgot {
+  display: none;
+}
+.navbar-logo {
+  float: left;
+  padding: 7px;
+}
+/* Misc */
+.fake-active {
+  pointer-events: none;
+  cursor: default;
+}
+[ng\:cloak],
+[ng-cloak],
+[data-ng-cloak],
+[x-ng-cloak],
+.ng-cloak,
+.x-ng-cloak {
+  display: none !important;
+}
+/* Help Content */
+#ic {
+  position: relative;
+  margin: 0 50px;
+}
+#ic h3 {
+  font-size: 16px;
+  margin-bottom: 20px;
+}
+#ic #footer {
+  text-align: center;
+  color: #888;
+}
+#ic:after {
+  content: " ";
+  clear: both;
+}
+.help-back-button {
+  cursor: pointer;
+  position: absolute;
+  left: 10px;
+  top: 200px;
+}
+.help-forward-button {
+  cursor: pointer;
+  position: absolute;
+  right: 10px;
+  top: 200px;
+}
+#mr-header {
+  z-index: 3;
+  top: 0px;
+  left: 0px;
+  width: 100%;
+}
+#mr-header .navbar {
+  margin-bottom: 0;
+}
+#mr-header .navbar .navbar-logo {
+  margin-right: 50px;
+}
+#mr-header .dropdown-menu i {
+  -webkit-opacity: 0.5;
+  -moz-opacity: 0.5;
+  opacity: 0.5;
+  -ms-filter: progid:DXImageTransform.Microsoft.Alpha(Opacity= 0.5 );
+  margin-right: 3px;
+  margin-left: -12px;
+}
+#mr-col-middle {
+  padding: 0;
+}
+#mr-col-middle #mr-video-controls {
+  margin-top: 6px;
+}
+#mr-col-middle #mr-video-controls * {
+  text-shadow: none!important;
+}
+#mr-col-middle #mr-video-controls .vjs-play-progress {
+  background-image: -webkit-linear-gradient(top, #34d180 0, #00a651 100%);
+  background-image: -o-linear-gradient(top, #34d180 0, #00a651 100%);
+  background-image: -webkit-gradient(linear, left top, left bottom, color-stop(0, #34d180), to(#00a651));
+  background-image: linear-gradient(to bottom, #34d180 0, #00a651 100%);
+  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#ff34d180', endColorstr='#ff00a651', GradientType=0);
+  filter: progid:DXImageTransform.Microsoft.gradient(enabled=false);
+  background-repeat: repeat-x;
+  border-color: #245580;
+}
+#mr-video #mr-player {
+  border-color: #AAA;
+}
+#video-text-div {
+  background: #FFF;
+  border: 1px solid #CCC;
+  -webkit-border-radius: 8px;
+  -moz-border-radius: 8px;
+  border-radius: 8px;
+  -moz-background-clip: padding;
+  -webkit-background-clip: padding-box;
+  background-clip: padding-box;
+}
+#video-text-div .mr-is-scroller {
+  padding: 5px 15px;
+}
+/* Right Rail */
+#mr-col-right {
+  padding-right: 0;
+}
+#mr-col-right #related-questions {
+  background: #FFF;
+  margin-right: 1px;
+  margin-left: -1px;
+}
+#mr-col-right #related-questions .panel-heading {
+  color: #888;
+  font-weight: bold;
+}
+#mr-col-right #related-questions .panel-body {
+  padding: 0px;
+}
+#mr-col-right #related-questions .panel-body p {
+  margin: 0;
+}
+#mr-col-right #related-questions .panel-body .related-q {
+  position: relative;
+  padding: 15px 15px 15px 55px;
+  min-height: 46px;
+  border-bottom: 1px dashed #CCC;
+}
+#mr-col-right #related-questions .panel-body .related-q .btn {
+  top: 15px;
+  left: 15px;
+  position: absolute;
+  padding: 3px 8px;
+}
+#mr-input-row {
+  margin-top: 6px;
+  margin-bottom: 10px;
+}
+#mr-quiz-row {
+  margin-top: 3px;
+}
+/* Left Rail */
+#mr-col-left {
+  padding-left: 0;
+  min-height: 100px;
+}
+#mr-col-left ul,
+#mr-col-left li {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+#mr-col-left .left-rail-content {
+  width: 100%;
+}
+#mr-col-left .left-rail-panel {
+  border: 1px solid #DDD;
+  border-top: 0px;
+  background: #00a651;
+  margin: 0;
+}
+#mr-col-left .left-rail-panel .left-rail-heading a:before {
+  content: "\2212";
+  position: relative;
+  top: 0px;
+  display: inline-block;
+  font-family: 'Glyphicons Halflings';
+  -webkit-font-smoothing: antialiased;
+  font-style: normal;
+  font-weight: normal;
+  line-height: 1;
+  text-indent: 1px;
+  -moz-osx-font-smoothing: grayscale;
+}
+#mr-col-left .left-rail-panel .left-rail-heading a.collapsed:before {
+  content: "\2b";
+}
+#mr-col-left .left-rail-panel a {
+  padding: 10px;
+  display: block;
+}
+#mr-col-left .left-rail-panel a.left-rail-heading-link {
+  color: #FFF;
+  cursor: pointer;
+}
+#mr-col-left .left-rail-heading {
+  text-shadow: 0 0 1px black;
+}
+#mr-col-left .left-rail-direct-link {
+  background: #358ed1;
+}
+#mr-col-left .left-rail-response-body {
+  padding: 0;
+  background: #FFF;
+}
+#mr-col-left .left-rail-response-body .left-rail-response-list {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+#mr-col-left .left-rail-response-body .left-rail-response-list a {
+  padding: 5px 10px;
+  border-bottom: 1px solid #DDD;
+}
+/* Panels */
+.mr-panel-right,
+.mr-panel-left {
+  padding: 0!important;
+  background: #FFF;
+}
+.mr-panel-left {
+  border-right: 1px solid #CCC;
+}
+.mr-panel-right {
+  border-left: 1px solid #CCC;
+}
+.mr-panel-right #related-questions {
+  margin: 0!important;
+}
+/* Sponsor Stuff */
+.mr-button-widget {
+  padding: 5px;
+}
+.sponsor-content {
+  width: 100%;
+  padding: 5px 10px 5px 10px;
+  display: block;
+}
+.sponsor-heading {
+  width: 100%;
+  padding: 5px;
+  display: block;
+  text-align: center;
+}
+.sponsor-heading.gold {
+  color: #F2A25F;
+  background-color: #FBF2E3;
+}
+.sponsor-heading.bronze {
+  color: #EA8658;
+  background-color: #FFECDD;
+}
+.sponsor-icon {
+  vertical-align: middle;
+  width: 16px;
+  height: 16px;
+  margin-right: 5px;
+  display: inline-block;
+  *zoom: 1;
+  *display: inline;
+}
+.sponsor-icon.gold {
+  background: url('../images/16x16-gold.png') center center no-repeat;
+}
+.sponsor-icon.silver {
+  background: url('../images/16x16-silver.png') center center no-repeat;
+}
+.sponsor-icon.bronze {
+  background: url('../images/16x16-bronze.png') center center no-repeat;
+}
+/*Scroll Shadow*/
+.mr-is-wrapper:after {
+  content: " ";
+  display: block;
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  height: 20px;
+  pointer-events: none;
+  -webkit-pointer-events: none;
+  -moz-pointer-events: none;
+  background-color: transparent;
+  background: -webkit-linear-gradient(90deg, #EEE 0, transparent 100%);
+  background: -moz-linear-gradient(90deg, #EEE 0, transparent 100%);
+  background: -ms-linear-gradient(90deg, #EEE 0, transparent 100%);
+  background: -o-linear-gradient(90deg, #EEE 0, transparent 100%);
+  background: linear-gradient(0deg, #EEE 0, transparent 100%);
+}
+#mr-module-3,
+#mr-module-0 {
+  background: #358ed1;
+}
+.browse-more {
+  padding: 10px;
+}

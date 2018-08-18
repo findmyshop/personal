@@ -1,0 +1,12 @@
+FROM mysql:5.7
+
+ENV MYSQL_ROOT_PASSWORD 1Testing!
+ENV MYSQL_DATABASE cnl_local_dev
+ENV MYSQL_USER cnl_dev
+ENV MYSQL_PASSWORD 1Testing!
+
+COPY docker/cnl_dev.sql /docker-entrypoint-initdb.d/
+
+#RUN /entrypoint.sh mysqld & sleep 30 && killall mysqld
+#RUN rm /docker-entrypoint-initdb.d/cnl_dev.sql
+#EXPOSE 3306

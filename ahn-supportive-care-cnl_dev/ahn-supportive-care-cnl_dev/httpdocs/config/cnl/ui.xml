@@ -1,0 +1,2133 @@
+<xml>
+<!-- Introduction  -->
+
+<Response id="cnl001">
+    <LeftRail>
+        <Id>main</Id>
+        <Hidden>false</Hidden>
+        <ModuleSelected>0</ModuleSelected>
+    </LeftRail>
+    <VideoControls>
+    <Hidden>false</Hidden>
+    <PreviousId />
+    <NextId>cnl003</NextId>
+    </VideoControls>
+    <AskControls>
+        <Hidden>true</Hidden>
+        <Action>analyze</Action>
+    </AskControls>
+        <CaseName></CaseName>
+</Response>
+
+<Response id="cnl003">
+    <LeftRail>
+        <Id>main</Id>
+        <Hidden>false</Hidden>
+        <ModuleSelected>0</ModuleSelected>
+    </LeftRail>
+    <VideoControls>
+    <Hidden>false</Hidden>
+    <PreviousId />
+    <NextId>cnl010</NextId>
+    </VideoControls>
+    <AskControls>
+        <Hidden>false</Hidden>
+        <Action>analyze</Action>
+    </AskControls>
+        <CaseName></CaseName>
+</Response>
+<Response id="cnl003">
+    <LeftRail>
+        <Id>main</Id>
+        <Hidden>false</Hidden>
+        <ModuleSelected>0</ModuleSelected>
+    </LeftRail>
+    <VideoControls>
+    <Hidden>false</Hidden>
+    <PreviousId>cnl001</PreviousId>
+    <NextId>cnl010</NextId>
+    </VideoControls>
+    <AskControls>
+        <Hidden>false</Hidden>
+        <Action>analyze</Action>
+    </AskControls>
+        <CaseName></CaseName>
+</Response>
+
+<Response id="cnl010">
+    <LeftRail>
+        <Id>main</Id>
+        <Hidden>false</Hidden>
+        <ModuleSelected>0</ModuleSelected>
+    </LeftRail>
+    <VideoControls>
+    <Hidden>false</Hidden>
+    <PreviousId />
+    <NextId>cnl011</NextId>
+    </VideoControls>
+    <AskControls>
+        <Hidden>false</Hidden>
+        <Action>analyze</Action>
+    </AskControls>
+        <CaseName></CaseName>
+</Response>
+
+<Response id="cnl011">
+    <LeftRail>
+        <Id>main</Id>
+        <Hidden>false</Hidden>
+        <ModuleSelected>0</ModuleSelected>
+    </LeftRail>
+    <VideoControls>
+    <Hidden>false</Hidden>
+    <PreviousId />
+    <NextId></NextId>
+    </VideoControls>
+    <AskControls>
+        <Hidden>false</Hidden>
+        <Action>single_choice</Action>
+    </AskControls>
+        <CaseName></CaseName>
+</Response>
+
+
+
+<!-- Introduction  -->
+<!-- PATH  4 -->
+<Response id="cnl032">
+    <LeftRail>
+        <Id>main</Id>
+        <Hidden>false</Hidden>
+        <ModuleSelected>0</ModuleSelected>
+    </LeftRail>
+    <VideoControls>
+    <Hidden>false</Hidden>
+    <PreviousId />
+    <NextId>cnl254</NextId>
+    </VideoControls>
+    <AskControls>
+        <Hidden>false</Hidden>
+        <Action>analyze</Action>
+    </AskControls>
+        <CaseName></CaseName>
+</Response>
+<Response id="cnl254">
+    <LeftRail>
+        <Id>main</Id>
+        <Hidden>false</Hidden>
+        <ModuleSelected>0</ModuleSelected>
+    </LeftRail>
+    <VideoControls>
+    <Hidden>false</Hidden>
+    <PreviousId />
+    <NextId>cnl012</NextId>
+    </VideoControls>
+    <AskControls>
+        <Hidden>false</Hidden>
+        <Action>analyze</Action>
+    </AskControls>
+        <CaseName></CaseName>
+</Response>
+<Response id="cnl012">
+    <LeftRail>
+        <Id>main</Id>
+        <Hidden>false</Hidden>
+        <ModuleSelected>0</ModuleSelected>
+    </LeftRail>
+    <VideoControls>
+    <Hidden>false</Hidden>
+    <PreviousId />
+    <NextId>cnl013</NextId>
+    </VideoControls>
+    <AskControls>
+        <Hidden>false</Hidden>
+        <Action>analyze</Action>
+    </AskControls>
+        <CaseName></CaseName>
+</Response>
+<Response id="cnl013">
+    <LeftRail>
+        <Id>main</Id>
+        <Hidden>false</Hidden>
+        <ModuleSelected>0</ModuleSelected>
+    </LeftRail>
+    <VideoControls>
+    <Hidden>false</Hidden>
+    <PreviousId />
+    <NextId>cnl015</NextId>
+    </VideoControls>
+    <AskControls>
+        <Hidden>false</Hidden>
+        <Action>analyze</Action>
+    </AskControls>
+        <CaseName></CaseName>
+</Response>
+<Response id="cnl015">
+    <LeftRail>
+        <Id>main</Id>
+        <Hidden>false</Hidden>
+        <ModuleSelected>0</ModuleSelected>
+    </LeftRail>
+    <VideoControls>
+    <Hidden>false</Hidden>
+    <PreviousId />
+    <NextId>cnl016</NextId>
+    </VideoControls>
+    <AskControls>
+        <Hidden>false</Hidden>
+        <Action>analyze</Action>
+    </AskControls>
+        <CaseName></CaseName>
+</Response>
+<Response id="cnl016">
+    <LeftRail>
+        <Id>main</Id>
+        <Hidden>false</Hidden>
+        <ModuleSelected>0</ModuleSelected>
+    </LeftRail>
+    <VideoControls>
+    <Hidden>false</Hidden>
+    <PreviousId />
+    <NextId>cnl017a</NextId>
+    </VideoControls>
+    <AskControls>
+        <Hidden>false</Hidden>
+        <Action>analyze</Action>
+    </AskControls>
+        <CaseName></CaseName>
+</Response>
+<Response id="cnl017a">
+    <LeftRail>
+        <Id>main</Id>
+        <Hidden>false</Hidden>
+        <ModuleSelected>0</ModuleSelected>
+    </LeftRail>
+    <VideoControls>
+    <Hidden>false</Hidden>
+    <PreviousId />
+    <NextId>cnl018</NextId>
+    </VideoControls>
+    <AskControls>
+        <Hidden>false</Hidden>
+        <Action>analyze</Action>
+    </AskControls>
+        <CaseName></CaseName>
+</Response>
+<Response id="cnl018">
+    <LeftRail>
+        <Id>main</Id>
+        <Hidden>false</Hidden>
+        <ModuleSelected>0</ModuleSelected>
+    </LeftRail>
+    <VideoControls>
+    <Hidden>false</Hidden>
+    <PreviousId />
+    <NextId>cnl019</NextId>
+    </VideoControls>
+    <AskControls>
+        <Hidden>false</Hidden>
+        <Action>analyze</Action>
+    </AskControls>
+        <CaseName></CaseName>
+</Response>
+<Response id="cnl019">
+    <LeftRail>
+        <Id>main</Id>
+        <Hidden>false</Hidden>
+        <ModuleSelected>0</ModuleSelected>
+    </LeftRail>
+    <VideoControls>
+    <Hidden>false</Hidden>
+    <PreviousId />
+    <NextId>cnl020</NextId>
+    </VideoControls>
+    <AskControls>
+        <Hidden>false</Hidden>
+        <Action>analyze</Action>
+    </AskControls>
+        <CaseName></CaseName>
+</Response>
+<!-- PATH  4 -->
+<!-- Welcome Back -->
+<Response id="cnl353">
+    <LeftRail>
+        <Id>main</Id>
+        <Hidden>false</Hidden>
+        <ModuleSelected>0</ModuleSelected>
+    </LeftRail>
+    <VideoControls>
+    <Hidden>false</Hidden>
+    <PreviousId />
+    <NextId></NextId>
+    </VideoControls>
+    <AskControls>
+        <Hidden>false</Hidden>
+        <Action>single_choice</Action>
+    </AskControls>
+        <CaseName></CaseName>
+</Response>
+
+<Response id="cnl355">
+    <LeftRail>
+        <Id>main</Id>
+        <Hidden>false</Hidden>
+        <ModuleSelected>0</ModuleSelected>
+    </LeftRail>
+    <VideoControls>
+    <Hidden>false</Hidden>
+    <PreviousId />
+    <NextId></NextId>
+    </VideoControls>
+    <AskControls>
+        <Hidden>false</Hidden>
+        <Action>analyze</Action>
+    </AskControls>
+        <CaseName></CaseName>
+</Response>
+
+<Response id="cnl354">
+    <LeftRail>
+        <Id>main</Id>
+        <Hidden>false</Hidden>
+        <ModuleSelected>0</ModuleSelected>
+    </LeftRail>
+    <VideoControls>
+    <Hidden>false</Hidden>
+    <PreviousId />
+    <NextId></NextId>
+    </VideoControls>
+    <AskControls>
+        <Hidden>false</Hidden>
+        <Action>analyze</Action>
+    </AskControls>
+        <CaseName></CaseName>
+</Response>
+<!-- Welcome Back -->
+<!-- Path 2 -->
+<Response id="cnl020a">
+    <LeftRail>
+        <Id>main</Id>
+        <Hidden>false</Hidden>
+        <ModuleSelected>0</ModuleSelected>
+    </LeftRail>
+    <VideoControls>
+    <Hidden>false</Hidden>
+    <PreviousId />
+    <NextId>cnl034</NextId>
+    </VideoControls>
+    <AskControls>
+        <Hidden>false</Hidden>
+        <Action>analyze</Action>
+    </AskControls>
+        <CaseName></CaseName>
+</Response>
+<Response id="cnl034">
+    <LeftRail>
+        <Id>main</Id>
+        <Hidden>false</Hidden>
+        <ModuleSelected>0</ModuleSelected>
+    </LeftRail>
+    <VideoControls>
+    <Hidden>false</Hidden>
+    <PreviousId />
+    <NextId></NextId>
+    </VideoControls>
+    <AskControls>
+        <Hidden>false</Hidden>
+        <Action>single_choice</Action>
+    </AskControls>
+        <CaseName></CaseName>
+</Response>
+    <!-- Adencocaricinoma -->
+        <Response id="cnl035a">
+            <LeftRail>
+                <Id>main</Id>
+                <Hidden>false</Hidden>
+                <ModuleSelected>0</ModuleSelected>
+            </LeftRail>
+            <VideoControls>
+            <Hidden>false</Hidden>
+            <PreviousId />
+            <NextId>cnl137</NextId>
+            </VideoControls>
+            <AskControls>
+                <Hidden>false</Hidden>
+                <Action>analyze</Action>
+            </AskControls>
+                <CaseName></CaseName>
+        </Response>
+    <!-- Adencocaricinoma -->
+    <!-- Squamous -->
+        <Response id="cnl037a">
+            <LeftRail>
+                <Id>main</Id>
+                <Hidden>false</Hidden>
+                <ModuleSelected>0</ModuleSelected>
+            </LeftRail>
+            <VideoControls>
+            <Hidden>false</Hidden>
+            <PreviousId />
+            <NextId>cnl137</NextId>
+            </VideoControls>
+            <AskControls>
+                <Hidden>false</Hidden>
+                <Action>analyze</Action>
+            </AskControls>
+                <CaseName></CaseName>
+        </Response>    
+    <!-- Squamous -->
+    <!-- Large Cell -->
+        <Response id="cnl038a">
+            <LeftRail>
+                <Id>main</Id>
+                <Hidden>false</Hidden>
+                <ModuleSelected>0</ModuleSelected>
+            </LeftRail>
+            <VideoControls>
+            <Hidden>false</Hidden>
+            <PreviousId />
+            <NextId>cnl137</NextId>
+            </VideoControls>
+            <AskControls>
+                <Hidden>false</Hidden>
+                <Action>analyze</Action>
+            </AskControls>
+                <CaseName></CaseName>
+        </Response>    
+    <!-- Large Cell -->
+    <!-- CUP -->
+        <Response id="cnl039a">
+            <LeftRail>
+                <Id>main</Id>
+                <Hidden>false</Hidden>
+                <ModuleSelected>0</ModuleSelected>
+            </LeftRail>
+            <VideoControls>
+            <Hidden>false</Hidden>
+            <PreviousId />
+            <NextId>cnl137</NextId>
+            </VideoControls>
+            <AskControls>
+                <Hidden>false</Hidden>
+                <Action>analyze</Action>
+            </AskControls>
+                <CaseName></CaseName>
+        </Response>    
+    <!-- CUP -->
+    <!-- IDK -->
+        <Response id="cnl358">
+            <LeftRail>
+                <Id>main</Id>
+                <Hidden>false</Hidden>
+                <ModuleSelected>0</ModuleSelected>
+            </LeftRail>
+            <VideoControls>
+            <Hidden>false</Hidden>
+            <PreviousId />
+            <NextId>cnl035</NextId>
+            </VideoControls>
+            <AskControls>
+                <Hidden>false</Hidden>
+                <Action>analyze</Action>
+            </AskControls>
+                <CaseName></CaseName>
+        </Response>
+                <Response id="cnl035">
+            <LeftRail>
+                <Id>main</Id>
+                <Hidden>false</Hidden>
+                <ModuleSelected>0</ModuleSelected>
+            </LeftRail>
+            <VideoControls>
+            <Hidden>false</Hidden>
+            <PreviousId />
+            <NextId>cnl036</NextId>
+            </VideoControls>
+            <AskControls>
+                <Hidden>false</Hidden>
+                <Action>analyze</Action>
+            </AskControls>
+                <CaseName></CaseName>
+        </Response>
+        <Response id="cnl036">
+            <LeftRail>
+                <Id>main</Id>
+                <Hidden>false</Hidden>
+                <ModuleSelected>0</ModuleSelected>
+            </LeftRail>
+            <VideoControls>
+            <Hidden>false</Hidden>
+            <PreviousId />
+            <NextId>cnl037</NextId>
+            </VideoControls>
+            <AskControls>
+                <Hidden>false</Hidden>
+                <Action>analyze</Action>
+            </AskControls>
+                <CaseName></CaseName>
+        </Response>
+        <Response id="cnl037">
+            <LeftRail>
+                <Id>main</Id>
+                <Hidden>false</Hidden>
+                <ModuleSelected>0</ModuleSelected>
+            </LeftRail>
+            <VideoControls>
+            <Hidden>false</Hidden>
+            <PreviousId />
+            <NextId>cnl039</NextId>
+            </VideoControls>
+            <AskControls>
+                <Hidden>false</Hidden>
+                <Action>analyze</Action>
+            </AskControls>
+                <CaseName></CaseName>
+        </Response>
+
+        <Response id="cnl039">
+            <LeftRail>
+                <Id>main</Id>
+                <Hidden>false</Hidden>
+                <ModuleSelected>0</ModuleSelected>
+            </LeftRail>
+            <VideoControls>
+            <Hidden>false</Hidden>
+            <PreviousId />
+            <NextId>cnl137</NextId>
+            </VideoControls>
+            <AskControls>
+                <Hidden>false</Hidden>
+                <Action>analyze</Action>
+            </AskControls>
+                <CaseName></CaseName>
+        </Response>
+    <!-- IDK -->
+            <Response id="cnl137">
+            <LeftRail>
+                <Id>main</Id>
+                <Hidden>false</Hidden>
+                <ModuleSelected>0</ModuleSelected>
+            </LeftRail>
+            <VideoControls>
+            <Hidden>false</Hidden>
+            <PreviousId />
+            <NextId>cnl041</NextId>
+            </VideoControls>
+            <AskControls>
+                <Hidden>false</Hidden>
+                <Action>analyze</Action>
+            </AskControls>
+                <CaseName></CaseName>
+        </Response>
+        <Response id="cnl041">
+            <LeftRail>
+                <Id>main</Id>
+                <Hidden>false</Hidden>
+                <ModuleSelected>0</ModuleSelected>
+            </LeftRail>
+            <VideoControls>
+            <Hidden>false</Hidden>
+            <PreviousId />
+            <NextId></NextId>
+            </VideoControls>
+            <AskControls>
+                <Hidden>false</Hidden>
+                <Action>single_choice</Action>
+            </AskControls>
+                <CaseName></CaseName>
+            </Response>
+            <!-- STAGE -->
+                <!-- STAGE1 -->
+                    <Response id="cnl042a">
+                        <LeftRail>
+                            <Id>main</Id>
+                            <Hidden>false</Hidden>
+                            <ModuleSelected>0</ModuleSelected>
+                        </LeftRail>
+                        <VideoControls>
+                        <Hidden>false</Hidden>
+                        <PreviousId />
+                        <NextId>cnl049</NextId>
+                        </VideoControls>
+                        <AskControls>
+                            <Hidden>false</Hidden>
+                            <Action>analyze</Action>
+                        </AskControls>
+                            <CaseName></CaseName>
+                     </Response> 
+                    <Response id="cnl049">
+                        <LeftRail>
+                            <Id>main</Id>
+                            <Hidden>false</Hidden>
+                            <ModuleSelected>0</ModuleSelected>
+                        </LeftRail>
+                        <VideoControls>
+                        <Hidden>false</Hidden>
+                        <PreviousId />
+                        <NextId>cnl050</NextId>
+                        </VideoControls>
+                        <AskControls>
+                            <Hidden>false</Hidden>
+                            <Action>analyze</Action>
+                        </AskControls>
+                            <CaseName></CaseName>
+                     </Response> 
+                                                    
+                    <Response id="cnl050">
+                        <LeftRail>
+                            <Id>main</Id>
+                            <Hidden>false</Hidden>
+                            <ModuleSelected>0</ModuleSelected>
+                        </LeftRail>
+                        <VideoControls>
+                        <Hidden>false</Hidden>
+                        <PreviousId />
+                        <NextId>cnl051</NextId>
+                        </VideoControls>
+                        <AskControls>
+                            <Hidden>false</Hidden>
+                            <Action>analyze</Action>
+                        </AskControls>
+                            <CaseName></CaseName>
+                     </Response>      
+                    <Response id="cnl051">
+                        <LeftRail>
+                            <Id>main</Id>
+                            <Hidden>false</Hidden>
+                            <ModuleSelected>0</ModuleSelected>
+                        </LeftRail>
+                        <VideoControls>
+                        <Hidden>false</Hidden>
+                        <PreviousId />
+                        <NextId>cnl052</NextId>
+                        </VideoControls>
+                        <AskControls>
+                            <Hidden>false</Hidden>
+                            <Action>analyze</Action>
+                        </AskControls>
+                            <CaseName></CaseName>
+                     </Response> 
+                    <Response id="cnl052">
+                        <LeftRail>
+                            <Id>main</Id>
+                            <Hidden>false</Hidden>
+                            <ModuleSelected>0</ModuleSelected>
+                        </LeftRail>
+                        <VideoControls>
+                        <Hidden>false</Hidden>
+                        <PreviousId />
+                        <NextId>cnl210</NextId>
+                        </VideoControls>
+                        <AskControls>
+                            <Hidden>false</Hidden>
+                            <Action>analyze</Action>
+                        </AskControls>
+                            <CaseName></CaseName>
+                     </Response>                                                                                                                                                            
+                <!-- STAGE1 -->
+                <!-- STAGE 2 -->
+                    <Response id="cnl043a">
+                        <LeftRail>
+                            <Id>main</Id>
+                            <Hidden>false</Hidden>
+                            <ModuleSelected>0</ModuleSelected>
+                        </LeftRail>
+                        <VideoControls>
+                        <Hidden>false</Hidden>
+                        <PreviousId />
+                        <NextId>cnl049</NextId>
+                        </VideoControls>
+                        <AskControls>
+                            <Hidden>false</Hidden>
+                            <Action>analyze</Action>
+                        </AskControls>
+                            <CaseName></CaseName>
+                     </Response> 
+                <!-- STAGE 2 -->
+                <!-- STAGE 3A -->
+                 <Response id="cnl044a">
+                        <LeftRail>
+                            <Id>main</Id>
+                            <Hidden>false</Hidden>
+                            <ModuleSelected>0</ModuleSelected>
+                        </LeftRail>
+                        <VideoControls>
+                        <Hidden>false</Hidden>
+                        <PreviousId />
+                        <NextId>cnl053</NextId>
+                        </VideoControls>
+                        <AskControls>
+                            <Hidden>false</Hidden>
+                            <Action>analyze</Action>
+                        </AskControls>
+                            <CaseName></CaseName>
+                     </Response>  
+                 <Response id="cnl053">
+                        <LeftRail>
+                            <Id>main</Id>
+                            <Hidden>false</Hidden>
+                            <ModuleSelected>0</ModuleSelected>
+                        </LeftRail>
+                        <VideoControls>
+                        <Hidden>false</Hidden>
+                        <PreviousId />
+                        <NextId>cnl054</NextId>
+                        </VideoControls>
+                        <AskControls>
+                            <Hidden>false</Hidden>
+                            <Action>analyze</Action>
+                        </AskControls>
+                            <CaseName></CaseName>
+                     </Response>   
+                 <Response id="cnl054">
+                        <LeftRail>
+                            <Id>main</Id>
+                            <Hidden>false</Hidden>
+                            <ModuleSelected>0</ModuleSelected>
+                        </LeftRail>
+                        <VideoControls>
+                        <Hidden>false</Hidden>
+                        <PreviousId />
+                        <NextId>cnl055</NextId>
+                        </VideoControls>
+                        <AskControls>
+                            <Hidden>false</Hidden>
+                            <Action>analyze</Action>
+                        </AskControls>
+                            <CaseName></CaseName>
+                     </Response> 
+                 <Response id="cnl055">
+                        <LeftRail>
+                            <Id>main</Id>
+                            <Hidden>false</Hidden>
+                            <ModuleSelected>0</ModuleSelected>
+                        </LeftRail>
+                        <VideoControls>
+                        <Hidden>false</Hidden>
+                        <PreviousId />
+                        <NextId>cnl056</NextId>
+                        </VideoControls>
+                        <AskControls>
+                            <Hidden>false</Hidden>
+                            <Action>analyze</Action>
+                        </AskControls>
+                            <CaseName></CaseName>
+                     </Response> 
+                    <Response id="cnl056">
+                        <LeftRail>
+                            <Id>main</Id>
+                            <Hidden>false</Hidden>
+                            <ModuleSelected>0</ModuleSelected>
+                        </LeftRail>
+                        <VideoControls>
+                        <Hidden>false</Hidden>
+                        <PreviousId />
+                        <NextId>cnl210</NextId>
+                        </VideoControls>
+                        <AskControls>
+                            <Hidden>false</Hidden>
+                            <Action>analyze</Action>
+                        </AskControls>
+                            <CaseName></CaseName>
+                     </Response>                                                                                              
+                <!-- STAGE 3A -->
+                <!-- STAGE 3B -->
+                    <Response id="cnl044b">
+                        <LeftRail>
+                            <Id>main</Id>
+                            <Hidden>false</Hidden>
+                            <ModuleSelected>0</ModuleSelected>
+                        </LeftRail>
+                        <VideoControls>
+                        <Hidden>false</Hidden>
+                        <PreviousId />
+                        <NextId>cnl057</NextId>
+                        </VideoControls>
+                        <AskControls>
+                            <Hidden>false</Hidden>
+                            <Action>analyze</Action>
+                        </AskControls>
+                            <CaseName></CaseName>
+                     </Response>  
+                    <Response id="cnl057">
+                        <LeftRail>
+                            <Id>main</Id>
+                            <Hidden>false</Hidden>
+                            <ModuleSelected>0</ModuleSelected>
+                        </LeftRail>
+                        <VideoControls>
+                        <Hidden>false</Hidden>
+                        <PreviousId />
+                        <NextId>cnl058</NextId>
+                        </VideoControls>
+                        <AskControls>
+                            <Hidden>false</Hidden>
+                            <Action>analyze</Action>
+                        </AskControls>
+                            <CaseName></CaseName>
+                     </Response>    
+                    <Response id="cnl058">
+                        <LeftRail>
+                            <Id>main</Id>
+                            <Hidden>false</Hidden>
+                            <ModuleSelected>0</ModuleSelected>
+                        </LeftRail>
+                        <VideoControls>
+                        <Hidden>false</Hidden>
+                        <PreviousId />
+                        <NextId>cnl059</NextId>
+                        </VideoControls>
+                        <AskControls>
+                            <Hidden>false</Hidden>
+                            <Action>analyze</Action>
+                        </AskControls>
+                            <CaseName></CaseName>
+                     </Response> 
+                    <Response id="cnl059">
+                        <LeftRail>
+                            <Id>main</Id>
+                            <Hidden>false</Hidden>
+                            <ModuleSelected>0</ModuleSelected>
+                        </LeftRail>
+                        <VideoControls>
+                        <Hidden>false</Hidden>
+                        <PreviousId />
+                        <NextId>cnl060</NextId>
+                        </VideoControls>
+                        <AskControls>
+                            <Hidden>false</Hidden>
+                            <Action>analyze</Action>
+                        </AskControls>
+                            <CaseName></CaseName>
+                     </Response> 
+                    <Response id="cnl060">
+                        <LeftRail>
+                            <Id>main</Id>
+                            <Hidden>false</Hidden>
+                            <ModuleSelected>0</ModuleSelected>
+                        </LeftRail>
+                        <VideoControls>
+                        <Hidden>false</Hidden>
+                        <PreviousId />
+                        <NextId>cnl210</NextId>
+                        </VideoControls>
+                        <AskControls>
+                            <Hidden>false</Hidden>
+                            <Action>analyze</Action>
+                        </AskControls>
+                            <CaseName></CaseName>
+                     </Response>                                                                                            
+                <!-- STAGE 3B -->
+                <!-- STAGE 4 -->
+                    <Response id="cnl046a">
+                        <LeftRail>
+                            <Id>main</Id>
+                            <Hidden>false</Hidden>
+                            <ModuleSelected>0</ModuleSelected>
+                        </LeftRail>
+                        <VideoControls>
+                        <Hidden>false</Hidden>
+                        <PreviousId />
+                        <NextId>cnl061</NextId>
+                        </VideoControls>
+                        <AskControls>
+                            <Hidden>false</Hidden>
+                            <Action>analyze</Action>
+                        </AskControls>
+                            <CaseName></CaseName>
+                     </Response> 
+                    <Response id="cnl061">
+                        <LeftRail>
+                            <Id>main</Id>
+                            <Hidden>false</Hidden>
+                            <ModuleSelected>0</ModuleSelected>
+                        </LeftRail>
+                        <VideoControls>
+                        <Hidden>false</Hidden>
+                        <PreviousId />
+                        <NextId>cnl062</NextId>
+                        </VideoControls>
+                        <AskControls>
+                            <Hidden>false</Hidden>
+                            <Action>analyze</Action>
+                        </AskControls>
+                            <CaseName></CaseName>
+                     </Response>    
+                    <Response id="cnl062">
+                        <LeftRail>
+                            <Id>main</Id>
+                            <Hidden>false</Hidden>
+                            <ModuleSelected>0</ModuleSelected>
+                        </LeftRail>
+                        <VideoControls>
+                        <Hidden>false</Hidden>
+                        <PreviousId />
+                        <NextId>cnl063a</NextId>
+                        </VideoControls>
+                        <AskControls>
+                            <Hidden>false</Hidden>
+                            <Action>analyze</Action>
+                        </AskControls>
+                            <CaseName></CaseName>
+                     </Response> 
+                    <Response id="cnl063a">
+                        <LeftRail>
+                            <Id>main</Id>
+                            <Hidden>false</Hidden>
+                            <ModuleSelected>0</ModuleSelected>
+                        </LeftRail>
+                        <VideoControls>
+                        <Hidden>false</Hidden>
+                        <PreviousId />
+                        <NextId>cnl210</NextId>
+                        </VideoControls>
+                        <AskControls>
+                            <Hidden>false</Hidden>
+                            <Action>analyze</Action>
+                        </AskControls>
+                            <CaseName></CaseName>
+                     </Response>                                                                         
+                <!-- STAGE 4 -->
+                <!-- STAGE Recurrent -->
+                    <Response id="cnl048">
+                        <LeftRail>
+                            <Id>main</Id>
+                            <Hidden>false</Hidden>
+                            <ModuleSelected>0</ModuleSelected>
+                        </LeftRail>
+                        <VideoControls>
+                        <Hidden>false</Hidden>
+                        <PreviousId />
+                        <NextId>cnl210</NextId>
+                        </VideoControls>
+                        <AskControls>
+                            <Hidden>false</Hidden>
+                            <Action>analyze</Action>
+                        </AskControls>
+                            <CaseName></CaseName>
+                     </Response>                 
+                <!-- STAGE Recurrent -->
+                
+                <!-- IDK -->
+                    <Response id="cnl047">
+                        <LeftRail>
+                            <Id>main</Id>
+                            <Hidden>false</Hidden>
+                            <ModuleSelected>0</ModuleSelected>
+                        </LeftRail>
+                        <VideoControls>
+                        <Hidden>false</Hidden>
+                        <PreviousId />
+                        <NextId>cnl042</NextId>
+                        </VideoControls>
+                        <AskControls>
+                            <Hidden>false</Hidden>
+                            <Action>analyze</Action>
+                        </AskControls>
+                            <CaseName></CaseName>
+                     </Response>
+                    <Response id="cnl042">
+                    <LeftRail>
+                        <Id>main</Id>
+                        <Hidden>false</Hidden>
+                        <ModuleSelected>0</ModuleSelected>
+                    </LeftRail>
+                    <VideoControls>
+                    <Hidden>false</Hidden>
+                    <PreviousId />
+                    <NextId>cnl043</NextId>
+                    </VideoControls>
+                    <AskControls>
+                        <Hidden>false</Hidden>
+                        <Action>analyze</Action>
+                    </AskControls>
+                        <CaseName></CaseName>
+                     </Response>
+                    <Response id="cnl043">
+                    <LeftRail>
+                        <Id>main</Id>
+                        <Hidden>false</Hidden>
+                        <ModuleSelected>0</ModuleSelected>
+                    </LeftRail>
+                    <VideoControls>
+                    <Hidden>false</Hidden>
+                    <PreviousId />
+                    <NextId>cnl044</NextId>
+                    </VideoControls>
+                    <AskControls>
+                        <Hidden>false</Hidden>
+                        <Action>analyze</Action>
+                    </AskControls>
+                        <CaseName></CaseName>
+                     </Response>
+                    <Response id="cnl044">
+                    <LeftRail>
+                        <Id>main</Id>
+                        <Hidden>false</Hidden>
+                        <ModuleSelected>0</ModuleSelected>
+                    </LeftRail>
+                    <VideoControls>
+                    <Hidden>false</Hidden>
+                    <PreviousId />
+                    <NextId>cnl046</NextId>
+                    </VideoControls>
+                    <AskControls>
+                        <Hidden>false</Hidden>
+                        <Action>analyze</Action>
+                    </AskControls>
+                        <CaseName></CaseName>
+                     </Response>
+                    <Response id="cnl046">
+                    <LeftRail>
+                        <Id>main</Id>
+                        <Hidden>false</Hidden>
+                        <ModuleSelected>0</ModuleSelected>
+                    </LeftRail>
+                    <VideoControls>
+                    <Hidden>false</Hidden>
+                    <PreviousId />
+                    <NextId>cnl063</NextId>
+                    </VideoControls>
+                    <AskControls>
+                        <Hidden>false</Hidden>
+                        <Action>analyze</Action>
+                    </AskControls>
+                        <CaseName></CaseName>
+                     </Response>
+                    <Response id="cnl063">
+                    <LeftRail>
+                        <Id>main</Id>
+                        <Hidden>false</Hidden>
+                        <ModuleSelected>0</ModuleSelected>
+                    </LeftRail>
+                    <VideoControls>
+                    <Hidden>false</Hidden>
+                    <PreviousId />
+                    <NextId>cnl210</NextId>
+                    </VideoControls>
+                    <AskControls>
+                        <Hidden>false</Hidden>
+                        <Action>analyze</Action>
+                    </AskControls>
+                        <CaseName></CaseName>
+                     </Response>
+                <!-- IDK -->
+            <!-- Stage -->
+<!-- Path 2 -->
+<!-- PATH 5 -->
+    <Response id="cnl020">
+        <LeftRail>
+            <Id>main</Id>
+            <Hidden>false</Hidden>
+            <ModuleSelected>0</ModuleSelected>
+        </LeftRail>
+        <VideoControls>
+        <Hidden>false</Hidden>
+        <PreviousId />
+        <NextId>cnl070</NextId>
+        </VideoControls>
+        <AskControls>
+            <Hidden>false</Hidden>
+            <Action>analyze</Action>
+        </AskControls>
+            <CaseName></CaseName>
+    </Response>
+        <Response id="cnl070">
+        <LeftRail>
+            <Id>main</Id>
+            <Hidden>false</Hidden>
+            <ModuleSelected>0</ModuleSelected>
+        </LeftRail>
+        <VideoControls>
+        <Hidden>false</Hidden>
+        <PreviousId />
+        <NextId>cnl022</NextId>
+        </VideoControls>
+        <AskControls>
+            <Hidden>false</Hidden>
+            <Action>analyze</Action>
+        </AskControls>
+            <CaseName></CaseName>
+    </Response>
+    <Response id="cnl022">
+        <LeftRail>
+            <Id>main</Id>
+            <Hidden>false</Hidden>
+            <ModuleSelected>0</ModuleSelected>
+        </LeftRail>
+        <VideoControls>
+        <Hidden>false</Hidden>
+        <PreviousId />
+        <NextId>cnl023</NextId>
+        </VideoControls>
+        <AskControls>
+            <Hidden>false</Hidden>
+            <Action>analyze</Action>
+        </AskControls>
+            <CaseName></CaseName>
+    </Response>
+    <Response id="cnl023">
+        <LeftRail>
+            <Id>main</Id>
+            <Hidden>false</Hidden>
+            <ModuleSelected>0</ModuleSelected>
+        </LeftRail>
+        <VideoControls>
+        <Hidden>false</Hidden>
+        <PreviousId />
+        <NextId>cnl024</NextId>
+        </VideoControls>
+        <AskControls>
+            <Hidden>false</Hidden>
+            <Action>analyze</Action>
+        </AskControls>
+            <CaseName></CaseName>
+    </Response> 
+    <Response id="cnl024">
+        <LeftRail>
+            <Id>main</Id>
+            <Hidden>false</Hidden>
+            <ModuleSelected>0</ModuleSelected>
+        </LeftRail>
+        <VideoControls>
+        <Hidden>false</Hidden>
+        <PreviousId />
+        <NextId>cnl025</NextId>
+        </VideoControls>
+        <AskControls>
+            <Hidden>false</Hidden>
+            <Action>analyze</Action>
+        </AskControls>
+            <CaseName></CaseName>
+    </Response>  
+    <Response id="cnl025">
+        <LeftRail>
+            <Id>main</Id>
+            <Hidden>false</Hidden>
+            <ModuleSelected>0</ModuleSelected>
+        </LeftRail>
+        <VideoControls>
+        <Hidden>false</Hidden>
+        <PreviousId />
+        <NextId>cnl017</NextId>
+        </VideoControls>
+        <AskControls>
+            <Hidden>false</Hidden>
+            <Action>analyze</Action>
+        </AskControls>
+            <CaseName></CaseName>
+    </Response>    
+    <Response id="cnl017">
+        <LeftRail>
+            <Id>main</Id>
+            <Hidden>false</Hidden>
+            <ModuleSelected>0</ModuleSelected>
+        </LeftRail>
+        <VideoControls>
+        <Hidden>false</Hidden>
+        <PreviousId />
+        <NextId>cnl027</NextId>
+        </VideoControls>
+        <AskControls>
+            <Hidden>false</Hidden>
+            <Action>analyze</Action>
+        </AskControls>
+            <CaseName></CaseName>
+    </Response>
+        <Response id="cnl027">
+        <LeftRail>
+            <Id>main</Id>
+            <Hidden>false</Hidden>
+            <ModuleSelected>0</ModuleSelected>
+        </LeftRail>
+        <VideoControls>
+        <Hidden>false</Hidden>
+        <PreviousId />
+        <NextId>cnl028</NextId>
+        </VideoControls>
+        <AskControls>
+            <Hidden>false</Hidden>
+            <Action>analyze</Action>
+        </AskControls>
+            <CaseName></CaseName>
+    </Response>
+    <Response id="cnl028">
+        <LeftRail>
+            <Id>main</Id>
+            <Hidden>false</Hidden>
+            <ModuleSelected>0</ModuleSelected>
+        </LeftRail>
+        <VideoControls>
+        <Hidden>false</Hidden>
+        <PreviousId />
+        <NextId>cnl030</NextId>
+        </VideoControls>
+        <AskControls>
+            <Hidden>false</Hidden>
+            <Action>analyze</Action>
+        </AskControls>
+            <CaseName></CaseName>
+    </Response>   
+    <Response id="cnl030">
+        <LeftRail>
+            <Id>main</Id>
+            <Hidden>false</Hidden>
+            <ModuleSelected>0</ModuleSelected>
+        </LeftRail>
+        <VideoControls>
+        <Hidden>false</Hidden>
+        <PreviousId />
+        <NextId>cnl031</NextId>
+        </VideoControls>
+        <AskControls>
+            <Hidden>false</Hidden>
+            <Action>analyze</Action>
+        </AskControls>
+            <CaseName></CaseName>
+    </Response> 
+    <Response id="cnl031">
+        <LeftRail>
+            <Id>main</Id>
+            <Hidden>false</Hidden>
+            <ModuleSelected>0</ModuleSelected>
+        </LeftRail>
+        <VideoControls>
+        <Hidden>false</Hidden>
+        <PreviousId />
+        <NextId>cnl026</NextId>
+        </VideoControls>
+        <AskControls>
+            <Hidden>false</Hidden>
+            <Action>analyze</Action>
+        </AskControls>
+            <CaseName></CaseName>
+    </Response>   
+    <Response id="cnl026">
+        <LeftRail>
+            <Id>main</Id>
+            <Hidden>false</Hidden>
+            <ModuleSelected>0</ModuleSelected>
+        </LeftRail>
+        <VideoControls>
+        <Hidden>false</Hidden>
+        <PreviousId />
+        <NextId>cnl210</NextId>
+        </VideoControls>
+        <AskControls>
+            <Hidden>false</Hidden>
+            <Action>analyze</Action>
+        </AskControls>
+            <CaseName></CaseName>
+    </Response>  
+    <Response id="cnl210">
+        <LeftRail>
+            <Id>main</Id>
+            <Hidden>false</Hidden>
+            <ModuleSelected>0</ModuleSelected>
+        </LeftRail>
+        <VideoControls>
+        <Hidden>false</Hidden>
+        <PreviousId />
+        <NextId>cnl098</NextId>
+        </VideoControls>
+        <AskControls>
+            <Hidden>false</Hidden>
+            <Action>analyze</Action>
+        </AskControls>
+            <CaseName></CaseName>
+    </Response> 
+        <Response id="cnl098">
+        <LeftRail>
+            <Id>main</Id>
+            <Hidden>false</Hidden>
+            <ModuleSelected>0</ModuleSelected>
+        </LeftRail>
+        <VideoControls>
+        <Hidden>false</Hidden>
+        <PreviousId />
+        <NextId></NextId>
+        </VideoControls>
+        <AskControls>
+            <Hidden>false</Hidden>
+            <Action>analyze</Action>
+        </AskControls>
+            <CaseName></CaseName>
+    </Response>    
+                      
+<!-- PATH 5 -->
+<!-- PATH 6 -->
+    <Response id="cnl111">
+        <LeftRail>
+            <Id>main</Id>
+            <Hidden>false</Hidden>
+            <ModuleSelected>0</ModuleSelected>
+        </LeftRail>
+        <VideoControls>
+        <Hidden>false</Hidden>
+        <PreviousId />
+        <NextId>cnl110</NextId>
+        </VideoControls>
+        <AskControls>
+            <Hidden>false</Hidden>
+            <Action>analyze</Action>
+        </AskControls>
+            <CaseName></CaseName>
+    </Response> 
+        <Response id="cnl110">
+        <LeftRail>
+            <Id>main</Id>
+            <Hidden>false</Hidden>
+            <ModuleSelected>0</ModuleSelected>
+        </LeftRail>
+        <VideoControls>
+        <Hidden>false</Hidden>
+        <PreviousId />
+        <NextId>cnl112</NextId>
+        </VideoControls>
+        <AskControls>
+            <Hidden>false</Hidden>
+            <Action>analyze</Action>
+        </AskControls>
+            <CaseName></CaseName>
+    </Response> 
+        <Response id="cnl112">
+        <LeftRail>
+            <Id>main</Id>
+            <Hidden>false</Hidden>
+            <ModuleSelected>0</ModuleSelected>
+        </LeftRail>
+        <VideoControls>
+        <Hidden>false</Hidden>
+        <PreviousId />
+        <NextId>cnl113</NextId>
+        </VideoControls>
+        <AskControls>
+            <Hidden>false</Hidden>
+            <Action>analyze</Action>
+        </AskControls>
+            <CaseName></CaseName>
+    </Response> 
+    <Response id="cnl113">
+        <LeftRail>
+            <Id>main</Id>
+            <Hidden>false</Hidden>
+            <ModuleSelected>0</ModuleSelected>
+        </LeftRail>
+        <VideoControls>
+        <Hidden>false</Hidden>
+        <PreviousId />
+        <NextId>cnl114</NextId>
+        </VideoControls>
+        <AskControls>
+            <Hidden>false</Hidden>
+            <Action>analyze</Action>
+        </AskControls>
+            <CaseName></CaseName>
+    </Response> 
+    <Response id="cnl114">
+        <LeftRail>
+            <Id>main</Id>
+            <Hidden>false</Hidden>
+            <ModuleSelected>0</ModuleSelected>
+        </LeftRail>
+        <VideoControls>
+        <Hidden>false</Hidden>
+        <PreviousId />
+        <NextId>cnl115</NextId>
+        </VideoControls>
+        <AskControls>
+            <Hidden>false</Hidden>
+            <Action>analyze</Action>
+        </AskControls>
+            <CaseName></CaseName>
+    </Response>    
+    <Response id="cnl115">
+        <LeftRail>
+            <Id>main</Id>
+            <Hidden>false</Hidden>
+            <ModuleSelected>0</ModuleSelected>
+        </LeftRail>
+        <VideoControls>
+        <Hidden>false</Hidden>
+        <PreviousId />
+        <NextId>cnl116</NextId>
+        </VideoControls>
+        <AskControls>
+            <Hidden>false</Hidden>
+            <Action>analyze</Action>
+        </AskControls>
+            <CaseName></CaseName>
+    </Response>      
+    <Response id="cnl116">
+        <LeftRail>
+            <Id>main</Id>
+            <Hidden>false</Hidden>
+            <ModuleSelected>0</ModuleSelected>
+        </LeftRail>
+        <VideoControls>
+        <Hidden>false</Hidden>
+        <PreviousId />
+        <NextId>cnl117</NextId>
+        </VideoControls>
+        <AskControls>
+            <Hidden>false</Hidden>
+            <Action>analyze</Action>
+        </AskControls>
+            <CaseName></CaseName>
+    </Response> 
+    <Response id="cnl117">
+        <LeftRail>
+            <Id>main</Id>
+            <Hidden>false</Hidden>
+            <ModuleSelected>0</ModuleSelected>
+        </LeftRail>
+        <VideoControls>
+        <Hidden>false</Hidden>
+        <PreviousId />
+        <NextId>cnl118</NextId>
+        </VideoControls>
+        <AskControls>
+            <Hidden>false</Hidden>
+            <Action>analyze</Action>
+        </AskControls>
+            <CaseName></CaseName>
+    </Response> 
+    <Response id="cnl118">
+        <LeftRail>
+            <Id>main</Id>
+            <Hidden>false</Hidden>
+            <ModuleSelected>0</ModuleSelected>
+        </LeftRail>
+        <VideoControls>
+        <Hidden>false</Hidden>
+        <PreviousId />
+        <NextId>cnl119</NextId>
+        </VideoControls>
+        <AskControls>
+            <Hidden>false</Hidden>
+            <Action>analyze</Action>
+        </AskControls>
+            <CaseName></CaseName>
+    </Response>  
+    <Response id="cnl119">
+        <LeftRail>
+            <Id>main</Id>
+            <Hidden>false</Hidden>
+            <ModuleSelected>0</ModuleSelected>
+        </LeftRail>
+        <VideoControls>
+        <Hidden>false</Hidden>
+        <PreviousId />
+        <NextId>cnl120</NextId>
+        </VideoControls>
+        <AskControls>
+            <Hidden>false</Hidden>
+            <Action>analyze</Action>
+        </AskControls>
+            <CaseName></CaseName>
+    </Response>  
+    <Response id="cnl120">
+        <LeftRail>
+            <Id>main</Id>
+            <Hidden>false</Hidden>
+            <ModuleSelected>0</ModuleSelected>
+        </LeftRail>
+        <VideoControls>
+        <Hidden>false</Hidden>
+        <PreviousId />
+        <NextId>cnl123</NextId>
+        </VideoControls>
+        <AskControls>
+            <Hidden>false</Hidden>
+            <Action>analyze</Action>
+        </AskControls>
+            <CaseName></CaseName>
+    </Response>   
+    <Response id="cnl123">
+        <LeftRail>
+            <Id>main</Id>
+            <Hidden>false</Hidden>
+            <ModuleSelected>0</ModuleSelected>
+        </LeftRail>
+        <VideoControls>
+        <Hidden>false</Hidden>
+        <PreviousId />
+        <NextId></NextId>
+        </VideoControls>
+        <AskControls>
+            <Hidden>false</Hidden>
+        <Action>single_choice</Action>
+        </AskControls>
+            <CaseName></CaseName>
+    </Response>                         
+<!-- PATH 6 -->
+<!-- PATH 7 -->
+    <Response id="cnl124">
+        <LeftRail>
+            <Id>main</Id>
+            <Hidden>false</Hidden>
+            <ModuleSelected>0</ModuleSelected>
+        </LeftRail>
+        <VideoControls>
+        <Hidden>false</Hidden>
+        <PreviousId />
+        <NextId>cnl125</NextId>
+        </VideoControls>
+        <AskControls>
+            <Hidden>false</Hidden>
+        <Action>analyze</Action>
+        </AskControls>
+            <CaseName></CaseName>
+    </Response> 
+       <Response id="cnl125">
+        <LeftRail>
+            <Id>main</Id>
+            <Hidden>false</Hidden>
+            <ModuleSelected>0</ModuleSelected>
+        </LeftRail>
+        <VideoControls>
+        <Hidden>false</Hidden>
+        <PreviousId />
+        <NextId>specific treatment path based on diagnosis and stage</NextId>
+        </VideoControls>
+        <AskControls>
+            <Hidden>false</Hidden>
+        <Action>analyze</Action>
+        </AskControls>
+            <CaseName></CaseName>
+    </Response> 
+       <Response id="cnl126">
+        <LeftRail>
+            <Id>main</Id>
+            <Hidden>false</Hidden>
+            <ModuleSelected>0</ModuleSelected>
+        </LeftRail>
+        <VideoControls>
+        <Hidden>false</Hidden>
+        <PreviousId />
+        <NextId>cnl127</NextId>
+        </VideoControls>
+        <AskControls>
+            <Hidden>false</Hidden>
+        <Action>analyze</Action>
+        </AskControls>
+            <CaseName></CaseName>
+    </Response> 
+       <Response id="cnl127">
+        <LeftRail>
+            <Id>main</Id>
+            <Hidden>false</Hidden>
+            <ModuleSelected>0</ModuleSelected>
+        </LeftRail>
+        <VideoControls>
+        <Hidden>false</Hidden>
+        <PreviousId />
+        <NextId></NextId>
+        </VideoControls>
+        <AskControls>
+            <Hidden>false</Hidden>
+        <Action>analyze</Action>
+        </AskControls>
+            <CaseName></CaseName>
+    </Response> 
+       <Response id="cnl128">
+        <LeftRail>
+            <Id>main</Id>
+            <Hidden>false</Hidden>
+            <ModuleSelected>0</ModuleSelected>
+        </LeftRail>
+        <VideoControls>
+        <Hidden>false</Hidden>
+        <PreviousId />
+        <NextId>cnl141</NextId>
+        </VideoControls>
+        <AskControls>
+            <Hidden>false</Hidden>
+        <Action>analyze</Action>
+        </AskControls>
+            <CaseName></CaseName>
+    </Response> 
+       <Response id="cnl129">
+        <LeftRail>
+            <Id>main</Id>
+            <Hidden>false</Hidden>
+            <ModuleSelected>0</ModuleSelected>
+        </LeftRail>
+        <VideoControls>
+        <Hidden>false</Hidden>
+        <PreviousId />
+        <NextId>cnl141</NextId>
+        </VideoControls>
+        <AskControls>
+            <Hidden>false</Hidden>
+        <Action>analyze</Action>
+        </AskControls>
+            <CaseName></CaseName>
+    </Response> 
+       <Response id="cnl130">
+        <LeftRail>
+            <Id>main</Id>
+            <Hidden>false</Hidden>
+            <ModuleSelected>0</ModuleSelected>
+        </LeftRail>
+        <VideoControls>
+        <Hidden>false</Hidden>
+        <PreviousId />
+        <NextId>cnl141</NextId>
+        </VideoControls>
+        <AskControls>
+            <Hidden>false</Hidden>
+        <Action>analyze</Action>
+        </AskControls>
+            <CaseName></CaseName>
+    </Response> 
+       <Response id="cnl131">
+        <LeftRail>
+            <Id>main</Id>
+            <Hidden>false</Hidden>
+            <ModuleSelected>0</ModuleSelected>
+        </LeftRail>
+        <VideoControls>
+        <Hidden>false</Hidden>
+        <PreviousId />
+        <NextId>cnl141</NextId>
+        </VideoControls>
+        <AskControls>
+            <Hidden>false</Hidden>
+        <Action>analyze</Action>
+        </AskControls>
+            <CaseName></CaseName>
+    </Response> 
+       <Response id="cnl132">
+        <LeftRail>
+            <Id>main</Id>
+            <Hidden>false</Hidden>
+            <ModuleSelected>0</ModuleSelected>
+        </LeftRail>
+        <VideoControls>
+        <Hidden>false</Hidden>
+        <PreviousId />
+        <NextId>cnl141</NextId>
+        </VideoControls>
+        <AskControls>
+            <Hidden>false</Hidden>
+        <Action>analyze</Action>
+        </AskControls>
+            <CaseName></CaseName>
+    </Response> 
+       <Response id="cnl133">
+        <LeftRail>
+            <Id>main</Id>
+            <Hidden>false</Hidden>
+            <ModuleSelected>0</ModuleSelected>
+        </LeftRail>
+        <VideoControls>
+        <Hidden>false</Hidden>
+        <PreviousId />
+        <NextId>cnl141</NextId>
+        </VideoControls>
+        <AskControls>
+            <Hidden>false</Hidden>
+        <Action>analyze</Action>
+        </AskControls>
+            <CaseName></CaseName>
+    </Response> 
+       <Response id="cnl141">
+        <LeftRail>
+            <Id>main</Id>
+            <Hidden>false</Hidden>
+            <ModuleSelected>0</ModuleSelected>
+        </LeftRail>
+        <VideoControls>
+        <Hidden>false</Hidden>
+        <PreviousId />
+        <NextId>cnl303</NextId>
+        </VideoControls>
+        <AskControls>
+            <Hidden>false</Hidden>
+        <Action>analyze</Action>
+        </AskControls>
+            <CaseName></CaseName>
+    </Response> 
+<!-- PATH 7 -->
+<!-- PATH 8 -->
+       <Response id="cnl303">
+        <LeftRail>
+            <Id>main</Id>
+            <Hidden>false</Hidden>
+            <ModuleSelected>0</ModuleSelected>
+        </LeftRail>
+        <VideoControls>
+        <Hidden>false</Hidden>
+        <PreviousId />
+        <NextId>cnl312</NextId>
+        </VideoControls>
+        <AskControls>
+            <Hidden>false</Hidden>
+        <Action>analyze</Action>
+        </AskControls>
+            <CaseName></CaseName>
+    </Response>
+       <Response id="cnl312">
+        <LeftRail>
+            <Id>main</Id>
+            <Hidden>false</Hidden>
+            <ModuleSelected>0</ModuleSelected>
+        </LeftRail>
+        <VideoControls>
+        <Hidden>false</Hidden>
+        <PreviousId />
+        <NextId>cnl335</NextId>
+        </VideoControls>
+        <AskControls>
+            <Hidden>false</Hidden>
+        <Action>analyze</Action>
+        </AskControls>
+            <CaseName></CaseName>
+        </Response> 
+       <Response id="cnl335">
+        <LeftRail>
+            <Id>main</Id>
+            <Hidden>false</Hidden>
+            <ModuleSelected>0</ModuleSelected>
+        </LeftRail>
+        <VideoControls>
+        <Hidden>false</Hidden>
+        <PreviousId />
+        <NextId>cnl005</NextId>
+        </VideoControls>
+        <AskControls>
+            <Hidden>false</Hidden>
+        <Action>analyze</Action>
+        </AskControls>
+            <CaseName></CaseName>
+        </Response> 
+       <Response id="cnl005">
+        <LeftRail>
+            <Id>main</Id>
+            <Hidden>false</Hidden>
+            <ModuleSelected>0</ModuleSelected>
+        </LeftRail>
+        <VideoControls>
+        <Hidden>false</Hidden>
+        <PreviousId />
+        <NextId></NextId>
+        </VideoControls>
+        <AskControls>
+            <Hidden>false</Hidden>
+        <Action>analyze</Action>
+        </AskControls>
+            <CaseName></CaseName>
+        </Response> 
+       <Response id="cnl139">
+        <LeftRail>
+            <Id>main</Id>
+            <Hidden>false</Hidden>
+            <ModuleSelected>0</ModuleSelected>
+        </LeftRail>
+        <VideoControls>
+        <Hidden>false</Hidden>
+        <PreviousId />
+        <NextId>cnl098</NextId>
+        </VideoControls>
+        <AskControls>
+            <Hidden>false</Hidden>
+        <Action>analyze</Action>
+        </AskControls>
+            <CaseName></CaseName>
+        </Response> 
+       <Response id="cnl140">
+        <LeftRail>
+            <Id>main</Id>
+            <Hidden>false</Hidden>
+            <ModuleSelected>0</ModuleSelected>
+        </LeftRail>
+        <VideoControls>
+        <Hidden>false</Hidden>
+        <PreviousId />
+        <NextId>cnl098</NextId>
+        </VideoControls>
+        <AskControls>
+            <Hidden>false</Hidden>
+        <Action>analyze</Action>
+        </AskControls>
+            <CaseName></CaseName>
+        </Response> 
+       <Response id="cnl154">
+        <LeftRail>
+            <Id>main</Id>
+            <Hidden>false</Hidden>
+            <ModuleSelected>0</ModuleSelected>
+        </LeftRail>
+        <VideoControls>
+        <Hidden>false</Hidden>
+        <PreviousId />
+        <NextId>cnl098</NextId>
+        </VideoControls>
+        <AskControls>
+            <Hidden>false</Hidden>
+        <Action>analyze</Action>
+        </AskControls>
+            <CaseName></CaseName>
+        </Response> 
+       <Response id="cnl173">
+        <LeftRail>
+            <Id>main</Id>
+            <Hidden>false</Hidden>
+            <ModuleSelected>0</ModuleSelected>
+        </LeftRail>
+        <VideoControls>
+        <Hidden>false</Hidden>
+        <PreviousId />
+        <NextId>cnl098</NextId>
+        </VideoControls>
+        <AskControls>
+            <Hidden>false</Hidden>
+        <Action>analyze</Action>
+        </AskControls>
+            <CaseName></CaseName>
+        </Response> 
+       <Response id="cnl204">
+        <LeftRail>
+            <Id>main</Id>
+            <Hidden>false</Hidden>
+            <ModuleSelected>0</ModuleSelected>
+        </LeftRail>
+        <VideoControls>
+        <Hidden>false</Hidden>
+        <PreviousId />
+        <NextId>cnl098</NextId>
+        </VideoControls>
+        <AskControls>
+            <Hidden>false</Hidden>
+        <Action>analyze</Action>
+        </AskControls>
+            <CaseName></CaseName>
+        </Response> 
+       <Response id="cnl294">
+        <LeftRail>
+            <Id>main</Id>
+            <Hidden>false</Hidden>
+            <ModuleSelected>0</ModuleSelected>
+        </LeftRail>
+        <VideoControls>
+        <Hidden>false</Hidden>
+        <PreviousId />
+        <NextId>cnl098</NextId>
+        </VideoControls>
+        <AskControls>
+            <Hidden>false</Hidden>
+        <Action>analyze</Action>
+        </AskControls>
+            <CaseName></CaseName>
+    </Response>
+<!-- PATH 8 -->
+<!-- PATH 3 -->
+       <Response id="cnl072">
+        <LeftRail>
+            <Id>main</Id>
+            <Hidden>false</Hidden>
+            <ModuleSelected>0</ModuleSelected>
+        </LeftRail>
+        <VideoControls>
+        <Hidden>false</Hidden>
+        <PreviousId />
+        <NextId>cnl071</NextId>
+        </VideoControls>
+        <AskControls>
+            <Hidden>false</Hidden>
+        <Action>analyze</Action>
+        </AskControls>
+            <CaseName></CaseName>
+    </Response>
+    <Response id="cnl071">
+        <LeftRail>
+            <Id>main</Id>
+            <Hidden>false</Hidden>
+            <ModuleSelected>0</ModuleSelected>
+        </LeftRail>
+        <VideoControls>
+        <Hidden>false</Hidden>
+        <PreviousId />
+        <NextId></NextId>
+        </VideoControls>
+        <AskControls>
+            <Hidden>false</Hidden>
+        <Action>single_choice</Action>
+        </AskControls>
+            <CaseName></CaseName>
+    </Response>
+    <Response id="cnl074">
+        <LeftRail>
+            <Id>main</Id>
+            <Hidden>false</Hidden>
+            <ModuleSelected>0</ModuleSelected>
+        </LeftRail>
+        <VideoControls>
+        <Hidden>false</Hidden>
+        <PreviousId />
+        <NextId>cnl077</NextId>
+        </VideoControls>
+        <AskControls>
+            <Hidden>false</Hidden>
+        <Action>analyze</Action>
+        </AskControls>
+            <CaseName></CaseName>
+    </Response>
+        <Response id="cnl077">
+        <LeftRail>
+            <Id>main</Id>
+            <Hidden>false</Hidden>
+            <ModuleSelected>0</ModuleSelected>
+        </LeftRail>
+        <VideoControls>
+        <Hidden>false</Hidden>
+        <PreviousId />
+        <NextId>cnl078</NextId>
+        </VideoControls>
+        <AskControls>
+            <Hidden>false</Hidden>
+        <Action>analyze</Action>
+        </AskControls>
+            <CaseName></CaseName>
+    </Response>
+            <Response id="cnl078">
+        <LeftRail>
+            <Id>main</Id>
+            <Hidden>false</Hidden>
+            <ModuleSelected>0</ModuleSelected>
+        </LeftRail>
+        <VideoControls>
+        <Hidden>false</Hidden>
+        <PreviousId />
+        <NextId>cnl079</NextId>
+        </VideoControls>
+        <AskControls>
+            <Hidden>false</Hidden>
+        <Action>analyze</Action>
+        </AskControls>
+            <CaseName></CaseName>
+    </Response>
+            <Response id="cnl079">
+        <LeftRail>
+            <Id>main</Id>
+            <Hidden>false</Hidden>
+            <ModuleSelected>0</ModuleSelected>
+        </LeftRail>
+        <VideoControls>
+        <Hidden>false</Hidden>
+        <PreviousId />
+        <NextId>cnl210</NextId>
+        </VideoControls>
+        <AskControls>
+            <Hidden>false</Hidden>
+        <Action>analyze</Action>
+        </AskControls>
+            <CaseName></CaseName>
+    </Response>
+            <Response id="cnl075">
+        <LeftRail>
+            <Id>main</Id>
+            <Hidden>false</Hidden>
+            <ModuleSelected>0</ModuleSelected>
+        </LeftRail>
+        <VideoControls>
+        <Hidden>false</Hidden>
+        <PreviousId />
+        <NextId>cnl080</NextId>
+        </VideoControls>
+        <AskControls>
+            <Hidden>false</Hidden>
+        <Action>analyze</Action>
+        </AskControls>
+            <CaseName></CaseName>
+    </Response>
+    <Response id="cnl080">
+        <LeftRail>
+            <Id>main</Id>
+            <Hidden>false</Hidden>
+            <ModuleSelected>0</ModuleSelected>
+        </LeftRail>
+        <VideoControls>
+        <Hidden>false</Hidden>
+        <PreviousId />
+        <NextId>cnl081</NextId>
+        </VideoControls>
+        <AskControls>
+            <Hidden>false</Hidden>
+        <Action>analyze</Action>
+        </AskControls>
+            <CaseName></CaseName>
+    </Response>
+    <Response id="cnl081">
+        <LeftRail>
+            <Id>main</Id>
+            <Hidden>false</Hidden>
+            <ModuleSelected>0</ModuleSelected>
+        </LeftRail>
+        <VideoControls>
+        <Hidden>false</Hidden>
+        <PreviousId />
+        <NextId>cnl082</NextId>
+        </VideoControls>
+        <AskControls>
+            <Hidden>false</Hidden>
+        <Action>analyze</Action>
+        </AskControls>
+            <CaseName></CaseName>
+    </Response>
+    <Response id="cnl082">
+        <LeftRail>
+            <Id>main</Id>
+            <Hidden>false</Hidden>
+            <ModuleSelected>0</ModuleSelected>
+        </LeftRail>
+        <VideoControls>
+        <Hidden>false</Hidden>
+        <PreviousId />
+        <NextId>cnl083</NextId>
+        </VideoControls>
+        <AskControls>
+            <Hidden>false</Hidden>
+        <Action>analyze</Action>
+        </AskControls>
+            <CaseName></CaseName>
+    </Response>
+    <Response id="cnl083">
+        <LeftRail>
+            <Id>main</Id>
+            <Hidden>false</Hidden>
+            <ModuleSelected>0</ModuleSelected>
+        </LeftRail>
+        <VideoControls>
+        <Hidden>false</Hidden>
+        <PreviousId />
+        <NextId>cnl084</NextId>
+        </VideoControls>
+        <AskControls>
+            <Hidden>false</Hidden>
+        <Action>analyze</Action>
+        </AskControls>
+            <CaseName></CaseName>
+    </Response>
+    <Response id="cnl084">
+        <LeftRail>
+            <Id>main</Id>
+            <Hidden>false</Hidden>
+            <ModuleSelected>0</ModuleSelected>
+        </LeftRail>
+        <VideoControls>
+        <Hidden>false</Hidden>
+        <PreviousId />
+        <NextId>cnl085</NextId>
+        </VideoControls>
+        <AskControls>
+            <Hidden>false</Hidden>
+        <Action>analyze</Action>
+        </AskControls>
+            <CaseName></CaseName>
+    </Response>
+    <Response id="cnl085">
+        <LeftRail>
+            <Id>main</Id>
+            <Hidden>false</Hidden>
+            <ModuleSelected>0</ModuleSelected>
+        </LeftRail>
+        <VideoControls>
+        <Hidden>false</Hidden>
+        <PreviousId />
+        <NextId>cnl210</NextId>
+        </VideoControls>
+        <AskControls>
+            <Hidden>false</Hidden>
+        <Action>analyze</Action>
+        </AskControls>
+            <CaseName></CaseName>
+    </Response>
+    <Response id="cnl076">
+        <LeftRail>
+            <Id>main</Id>
+            <Hidden>false</Hidden>
+            <ModuleSelected>0</ModuleSelected>
+        </LeftRail>
+        <VideoControls>
+        <Hidden>false</Hidden>
+        <PreviousId />
+        <NextId>cnl074a</NextId>
+        </VideoControls>
+        <AskControls>
+            <Hidden>false</Hidden>
+        <Action>analyze</Action>
+        </AskControls>
+            <CaseName></CaseName>
+    </Response>
+    <!-- <Response id="cnl086">
+        <LeftRail>
+            <Id>main</Id>
+            <Hidden>false</Hidden>
+            <ModuleSelected>0</ModuleSelected>
+        </LeftRail>
+        <VideoControls>
+        <Hidden>false</Hidden>
+        <PreviousId />
+        <NextId>cnl074a</NextId>
+        </VideoControls>
+        <AskControls>
+            <Hidden>false</Hidden>
+        <Action>analyze</Action>
+        </AskControls>
+            <CaseName></CaseName>
+    </Response> -->
+    <Response id="cnl074a">
+        <LeftRail>
+            <Id>main</Id>
+            <Hidden>false</Hidden>
+            <ModuleSelected>0</ModuleSelected>
+        </LeftRail>
+        <VideoControls>
+        <Hidden>false</Hidden>
+        <PreviousId />
+        <NextId>cnl075a</NextId>
+        </VideoControls>
+        <AskControls>
+            <Hidden>false</Hidden>
+        <Action>analyze</Action>
+        </AskControls>
+            <CaseName></CaseName>
+    </Response>
+    <Response id="cnl075a">
+        <LeftRail>
+            <Id>main</Id>
+            <Hidden>false</Hidden>
+            <ModuleSelected>0</ModuleSelected>
+        </LeftRail>
+        <VideoControls>
+        <Hidden>false</Hidden>
+        <PreviousId />
+        <NextId>cnl210</NextId>
+        </VideoControls>
+        <AskControls>
+            <Hidden>false</Hidden>
+        <Action>analyze</Action>
+        </AskControls>
+            <CaseName></CaseName>
+    </Response>
+    <!-- <Response id="cnl089">
+        <LeftRail>
+            <Id>main</Id>
+            <Hidden>false</Hidden>
+            <ModuleSelected>0</ModuleSelected>
+        </LeftRail>
+        <VideoControls> 
+        <Hidden>false</Hidden>
+        <PreviousId />
+        <NextId>cnl210</NextId>
+        </VideoControls>
+        <AskControls>
+            <Hidden>false</Hidden>
+        <Action>analyze</Action>
+        </AskControls>
+            <CaseName></CaseName>
+    </Response> -->
+<!-- PATH 3 -->
+</xml>

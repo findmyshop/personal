@@ -1,0 +1,5010 @@
+<xml>
+
+    <Response id="in001">
+        <LeftRail>
+            <Id>main</Id>
+            <Hidden>false</Hidden>
+            <ModuleSelected>1</ModuleSelected>
+        </LeftRail>
+        <VideoControls>
+            <Hidden>false</Hidden>
+            <PreviousId></PreviousId>
+            <NextId>in002</NextId>
+        </VideoControls>
+        <AskControls>
+            <Hidden>true</Hidden>
+            <Action>question</Action>
+        </AskControls>
+        <CaseName></CaseName>
+    </Response>
+
+    <Response id="in002">
+        <LeftRail>
+            <Id>main</Id>
+            <Hidden>false</Hidden>
+            <ModuleSelected>1</ModuleSelected>
+        </LeftRail>
+        <VideoControls>
+            <Hidden>false</Hidden>
+            <PreviousId>in001</PreviousId>
+            <NextId>in003</NextId>
+        </VideoControls>
+        <AskControls>
+            <Hidden>true</Hidden>
+            <Action>question</Action>
+        </AskControls>
+        <CaseName></CaseName>
+    </Response>
+
+    <Response id="in003">
+        <LeftRail>
+            <Id>main</Id>
+            <Hidden>false</Hidden>
+            <ModuleSelected>1</ModuleSelected>
+        </LeftRail>
+        <VideoControls>
+            <Hidden>false</Hidden>
+            <PreviousId>in002</PreviousId>
+            <NextId>ts101</NextId>
+        </VideoControls>
+        <AskControls>
+            <Hidden>true</Hidden>
+            <Action>question</Action>
+        </AskControls>
+        <CaseName></CaseName>
+    </Response>
+
+    <Response id="ts101">
+        <LeftRail>
+            <Id>main</Id>
+            <Hidden>false</Hidden>
+            <ModuleSelected>2</ModuleSelected>
+        </LeftRail>
+        <VideoControls>
+            <Hidden>false</Hidden>
+            <PreviousId>in003</PreviousId>
+            <NextId>ts102</NextId>
+        </VideoControls>
+        <AskControls>
+            <Hidden>true</Hidden>
+            <Action>question</Action>
+        </AskControls>
+        <CaseName></CaseName>
+    </Response>
+
+    <Response id="ts102">
+        <LeftRail>
+            <Id>main</Id>
+            <Hidden>false</Hidden>
+            <ModuleSelected>2</ModuleSelected>
+        </LeftRail>
+        <VideoControls>
+            <Hidden>false</Hidden>
+            <PreviousId>ts101</PreviousId>
+            <NextId>ts103</NextId>
+        </VideoControls>
+        <AskControls>
+            <Hidden>true</Hidden>
+            <Action>question</Action>
+        </AskControls>
+        <CaseName></CaseName>
+    </Response>
+
+    <Response id="ts103">
+        <LeftRail>
+            <Id>main</Id>
+            <Hidden>false</Hidden>
+            <ModuleSelected>2</ModuleSelected>
+        </LeftRail>
+        <VideoControls>
+            <Hidden>false</Hidden>
+            <PreviousId>ts102</PreviousId>
+            <NextId></NextId>
+        </VideoControls>
+        <AskControls>
+            <Hidden>false</Hidden>
+            <Action>question</Action>
+        </AskControls>
+        <CaseName>EBI_T1_BadDocOpinion</CaseName>
+        <Answers>
+            <Answer id="ok">ts105</Answer>
+            <Answer id="notok">ts104</Answer>
+            <Answer id="negeval">ts104</Answer>
+            <Answer id="offtopic">ts105</Answer>
+			<Answer id="shame">admin002</Answer>
+        </Answers>
+    </Response>
+
+    <Response id="ts104">
+        <LeftRail>
+            <Id>main</Id>
+            <Hidden>false</Hidden>
+            <ModuleSelected>2</ModuleSelected>
+        </LeftRail>
+        <VideoControls>
+            <Hidden>false</Hidden>
+            <PreviousId>ts103</PreviousId>
+            <NextId>ts106</NextId>
+        </VideoControls>
+        <AskControls>
+            <Hidden>true</Hidden>
+            <Action>question</Action>
+        </AskControls>
+        <CaseName></CaseName>
+    </Response>
+
+    <Response id="ts105">
+        <LeftRail>
+            <Id>main</Id>
+            <Hidden>false</Hidden>
+            <ModuleSelected>2</ModuleSelected>
+        </LeftRail>
+        <VideoControls>
+            <Hidden>false</Hidden>
+            <PreviousId>ts103</PreviousId>
+            <NextId>ts106</NextId>
+        </VideoControls>
+        <AskControls>
+            <Hidden>true</Hidden>
+            <Action>question</Action>
+        </AskControls>
+        <CaseName></CaseName>
+    </Response>
+
+    <Response id="ts106">
+        <LeftRail>
+            <Id>main</Id>
+            <Hidden>false</Hidden>
+            <ModuleSelected>2</ModuleSelected>
+        </LeftRail>
+        <VideoControls>
+            <Hidden>false</Hidden>
+            <PreviousId>ts105</PreviousId>
+            <NextId>ts107</NextId>
+        </VideoControls>
+        <AskControls>
+            <Hidden>true</Hidden>
+            <Action>question</Action>
+        </AskControls>
+        <CaseName></CaseName>
+    </Response>
+
+    <Response id="ts107">
+        <LeftRail>
+            <Id>main</Id>
+            <Hidden>false</Hidden>
+            <ModuleSelected>2</ModuleSelected>
+        </LeftRail>
+        <VideoControls>
+            <Hidden>false</Hidden>
+            <PreviousId>ts106</PreviousId>
+            <NextId>ts108</NextId>
+        </VideoControls>
+        <AskControls>
+            <Hidden>true</Hidden>
+            <Action>question</Action>
+        </AskControls>
+        <CaseName></CaseName>
+    </Response>
+
+    <Response id="ts108">
+        <LeftRail>
+            <Id>main</Id>
+            <Hidden>false</Hidden>
+            <ModuleSelected>2</ModuleSelected>
+        </LeftRail>
+        <VideoControls>
+            <Hidden>false</Hidden>
+            <PreviousId>ts107</PreviousId>
+            <NextId>sp1intro</NextId>
+        </VideoControls>
+        <AskControls>
+            <Hidden>true</Hidden>
+            <Action>question</Action>
+        </AskControls>
+        <CaseName></CaseName>
+    </Response>
+
+    <Response id="sp1intro">
+        <LeftRail>
+            <Id>main</Id>
+            <Hidden>false</Hidden>
+            <ModuleSelected>2</ModuleSelected>
+        </LeftRail>
+        <VideoControls>
+            <Hidden>false</Hidden>
+            <PreviousId>ts108</PreviousId>
+            <NextId>sp101</NextId>
+        </VideoControls>
+        <AskControls>
+            <Hidden>true</Hidden>
+            <Action>question</Action>
+        </AskControls>
+        <CaseName></CaseName>
+    </Response>
+
+    <Response id="sp101">
+        <LeftRail>
+            <Id>main</Id>
+            <Hidden>false</Hidden>
+            <ModuleSelected>2</ModuleSelected>
+        </LeftRail>
+        <VideoControls>
+            <Hidden>false</Hidden>
+            <PreviousId>sp1intro</PreviousId>
+            <NextId>sp102</NextId>
+        </VideoControls>
+        <AskControls>
+            <Hidden>true</Hidden>
+            <Action>question</Action>
+        </AskControls>
+        <CaseName></CaseName>
+    </Response>
+
+    <Response id="sp102">
+        <LeftRail>
+            <Id>main</Id>
+            <Hidden>false</Hidden>
+            <ModuleSelected>2</ModuleSelected>
+        </LeftRail>
+        <VideoControls>
+            <Hidden>false</Hidden>
+            <PreviousId>sp101</PreviousId>
+            <NextId>sp103</NextId>
+        </VideoControls>
+        <AskControls>
+            <Hidden>true</Hidden>
+            <Action>question</Action>
+        </AskControls>
+        <CaseName></CaseName>
+    </Response>
+
+    <Response id="sp103" type="test">
+        <LeftRail>
+            <Id>main</Id>
+            <Hidden>false</Hidden>
+            <ModuleSelected>2</ModuleSelected>
+        </LeftRail>
+        <VideoControls>
+            <Hidden>false</Hidden>
+            <PreviousId>sp102</PreviousId>
+            <NextId></NextId>
+        </VideoControls>
+        <AskControls>
+            <Hidden>true</Hidden>
+            <Action>question</Action>
+        </AskControls>
+        <CaseName></CaseName>
+    </Response>
+
+    <Response id="sp104">
+        <LeftRail>
+            <Id>main</Id>
+            <Hidden>false</Hidden>
+            <ModuleSelected>2</ModuleSelected>
+        </LeftRail>
+        <VideoControls>
+            <Hidden>false</Hidden>
+            <PreviousId>sp103</PreviousId>
+            <NextId>ts201</NextId>
+        </VideoControls>
+        <AskControls>
+            <Hidden>true</Hidden>
+            <Action>question</Action>
+        </AskControls>
+        <CaseName></CaseName>
+    </Response>
+
+    <Response id="sp105">
+        <LeftRail>
+            <Id>main</Id>
+            <Hidden>false</Hidden>
+            <ModuleSelected>2</ModuleSelected>
+        </LeftRail>
+        <VideoControls>
+            <Hidden>false</Hidden>
+            <PreviousId>sp103</PreviousId>
+            <NextId>ts201</NextId>
+        </VideoControls>
+        <AskControls>
+            <Hidden>true</Hidden>
+            <Action>question</Action>
+        </AskControls>
+        <CaseName></CaseName>
+    </Response>
+
+    <Response id="sp106">
+        <LeftRail>
+            <Id>main</Id>
+            <Hidden>false</Hidden>
+            <ModuleSelected>2</ModuleSelected>
+        </LeftRail>
+        <VideoControls>
+            <Hidden>false</Hidden>
+            <PreviousId>sp103</PreviousId>
+            <NextId>ts201</NextId>
+        </VideoControls>
+        <AskControls>
+            <Hidden>true</Hidden>
+            <Action>question</Action>
+        </AskControls>
+        <CaseName></CaseName>
+    </Response>
+
+    <Response id="ts201">
+        <LeftRail>
+            <Id>main</Id>
+            <Hidden>false</Hidden>
+            <ModuleSelected>4</ModuleSelected>
+        </LeftRail>
+        <VideoControls>
+            <Hidden>false</Hidden>
+            <PreviousId></PreviousId>
+            <NextId>ts202</NextId>
+        </VideoControls>
+        <AskControls>
+            <Hidden>true</Hidden>
+            <Action>question</Action>
+        </AskControls>
+        <CaseName></CaseName>
+    </Response>
+
+    <Response id="ts202">
+        <LeftRail>
+            <Id>main</Id>
+            <Hidden>false</Hidden>
+            <ModuleSelected>4</ModuleSelected>
+        </LeftRail>
+        <VideoControls>
+            <Hidden>false</Hidden>
+            <PreviousId>ts201</PreviousId>
+            <NextId>ts203</NextId>
+        </VideoControls>
+        <AskControls>
+            <Hidden>true</Hidden>
+            <Action>question</Action>
+        </AskControls>
+        <CaseName></CaseName>
+    </Response>
+
+    <Response id="ts203">
+        <LeftRail>
+            <Id>main</Id>
+            <Hidden>false</Hidden>
+            <ModuleSelected>4</ModuleSelected>
+        </LeftRail>
+        <VideoControls>
+            <Hidden>false</Hidden>
+            <PreviousId>ts202</PreviousId>
+            <NextId>ts204</NextId>
+        </VideoControls>
+        <AskControls>
+            <Hidden>true</Hidden>
+            <Action>question</Action>
+        </AskControls>
+        <CaseName></CaseName>
+    </Response>
+
+    <Response id="ts204">
+        <LeftRail>
+            <Id>main</Id>
+            <Hidden>false</Hidden>
+            <ModuleSelected>4</ModuleSelected>
+        </LeftRail>
+        <VideoControls>
+            <Hidden>false</Hidden>
+            <PreviousId>ts203</PreviousId>
+            <NextId>ts205</NextId>
+        </VideoControls>
+        <AskControls>
+            <Hidden>true</Hidden>
+            <Action>question</Action>
+        </AskControls>
+        <CaseName></CaseName>
+    </Response>
+
+    <Response id="ts205">
+        <LeftRail>
+            <Id>main</Id>
+            <Hidden>false</Hidden>
+            <ModuleSelected>4</ModuleSelected>
+        </LeftRail>
+        <VideoControls>
+            <Hidden>false</Hidden>
+            <PreviousId>ts204</PreviousId>
+            <NextId>sp2intro</NextId>
+        </VideoControls>
+        <AskControls>
+            <Hidden>true</Hidden>
+            <Action>question</Action>
+        </AskControls>
+        <CaseName></CaseName>
+    </Response>
+
+    <Response id="sp2intro">
+        <LeftRail>
+            <Id>main</Id>
+            <Hidden>false</Hidden>
+            <ModuleSelected>4</ModuleSelected>
+        </LeftRail>
+        <VideoControls>
+            <Hidden>false</Hidden>
+            <PreviousId>ts205</PreviousId>
+            <NextId>sp201</NextId>
+        </VideoControls>
+        <AskControls>
+            <Hidden>true</Hidden>
+            <Action>question</Action>
+        </AskControls>
+        <CaseName></CaseName>
+    </Response>
+
+    <Response id="sp201">
+        <LeftRail>
+            <Id>main</Id>
+            <Hidden>false</Hidden>
+            <ModuleSelected>4</ModuleSelected>
+        </LeftRail>
+        <VideoControls>
+            <Hidden>false</Hidden>
+            <PreviousId>sp2intro</PreviousId>
+            <NextId></NextId>
+            <DoneId>sp202</DoneId>
+        </VideoControls>
+        <AskControls>
+            <Hidden>false</Hidden>
+            <Action>question</Action>
+        </AskControls>
+        <CaseName>EBI_SP2_SM4_ProvidingFeedback</CaseName>
+        <Answers>
+            <Answer id="motivational">sp201motivational</Answer>
+            <Answer id="inappropriate">sp201inappropriate</Answer>
+            <Answer id="noteffective">sp201noteffective</Answer>
+            <Answer id="offtopic">sp201offtopic</Answer>
+			<Answer id="shame">admin002</Answer>
+        </Answers>
+        
+    </Response>
+
+    <Response id="sp201motivational">
+        <LeftRail>
+            <Id>main</Id>
+            <Hidden>false</Hidden>
+            <ModuleSelected>4</ModuleSelected>
+        </LeftRail>
+        <VideoControls>
+            <Hidden>false</Hidden>
+            <PreviousId>sp201</PreviousId>
+            <NextId>sp202</NextId>
+        </VideoControls>
+        <AskControls>
+            <Hidden>true</Hidden>
+            <Action>question</Action>
+        </AskControls>
+        <CaseName></CaseName>
+    </Response>
+
+    <Response id="sp201inappropriate">
+        <LeftRail>
+            <Id>main</Id>
+            <Hidden>false</Hidden>
+            <ModuleSelected>4</ModuleSelected>
+        </LeftRail>
+        <VideoControls>
+            <Hidden>false</Hidden>
+            <PreviousId>sp201</PreviousId>
+            <!--            <NextId>sp202</NextId>-->
+            <NextId type="actionAttempt">
+                <Response previous_response="sp201">
+                    <Attempt>sp201</Attempt>
+                    <Attempt>sp202</Attempt>
+                </Response>
+            
+            </NextId>
+        </VideoControls>
+        <AskControls>
+            <Hidden>true</Hidden>
+            <Action>question</Action>
+        </AskControls>
+        <CaseName></CaseName>
+    </Response>
+
+    <Response id="sp201noteffective">
+        <LeftRail>
+            <Id>main</Id>
+            <Hidden>false</Hidden>
+            <ModuleSelected>4</ModuleSelected>
+        </LeftRail>
+        <VideoControls>
+            <Hidden>false</Hidden>
+            <PreviousId>sp201</PreviousId>
+           <NextId type="actionAttempt">
+                <Response previous_response="sp201">
+                    <Attempt>sp201</Attempt>
+                    <Attempt>sp202</Attempt>
+                </Response>
+            
+            </NextId>
+        </VideoControls>
+        <AskControls>
+            <Hidden>true</Hidden>
+            <Action>question</Action>
+        </AskControls>
+        <CaseName></CaseName>
+    </Response>
+
+    <Response id="sp201offtopic">
+        <LeftRail>
+            <Id>main</Id>
+            <Hidden>false</Hidden>
+            <ModuleSelected>4</ModuleSelected>
+        </LeftRail>
+        <VideoControls>
+            <Hidden>false</Hidden>
+            <PreviousId>sp201</PreviousId>
+           <NextId type="actionAttempt">
+                <Response previous_response="sp201">
+                    <Attempt>sp201</Attempt>
+                    <Attempt>sp202</Attempt>
+                </Response>
+            
+            </NextId>
+        </VideoControls>
+        <AskControls>
+            <Hidden>true</Hidden>
+            <Action>question</Action>
+        </AskControls>
+        <CaseName></CaseName>
+    </Response>
+
+    <Response id="sp202">
+        <LeftRail>
+            <Id>main</Id>
+            <Hidden>false</Hidden>
+            <ModuleSelected>4</ModuleSelected>
+        </LeftRail>
+        <VideoControls>
+            <Hidden>false</Hidden>
+            <PreviousId>sp201</PreviousId>
+            <NextId></NextId>
+            <DoneId>ts301</DoneId>
+        </VideoControls>
+        <AskControls>
+            <Hidden>false</Hidden>
+            <Action>question</Action>
+        </AskControls>
+        <CaseName>EBI_SP2_SM4_ProvidingFeedback</CaseName>
+        <Answers>
+            <Answer id="motivational">sp202motivational</Answer>
+            <Answer id="inappropriate">sp202inappropriate</Answer>
+            <Answer id="noteffective">sp202noteffective</Answer>
+            <Answer id="offtopic">sp202offtopic</Answer>
+			<Answer id="shame">admin002</Answer>
+        </Answers>      
+    </Response>
+
+    <Response id="sp202motivational">
+        <LeftRail>
+            <Id>main</Id>
+            <Hidden>false</Hidden>
+            <ModuleSelected>4</ModuleSelected>
+        </LeftRail>
+        <VideoControls>
+            <Hidden>false</Hidden>
+            <PreviousId>sp202</PreviousId>
+            <NextId>ts301</NextId>
+        </VideoControls>
+        <AskControls>
+            <Hidden>true</Hidden>
+            <Action>question</Action>
+        </AskControls>
+        <CaseName></CaseName>
+    </Response>
+
+    <Response id="sp202inappropriate">
+        <LeftRail>
+            <Id>main</Id>
+            <Hidden>false</Hidden>
+            <ModuleSelected>4</ModuleSelected>
+        </LeftRail>
+        <VideoControls>
+            <Hidden>false</Hidden>
+            <PreviousId>sp202</PreviousId>
+            <NextId type="actionAttempt">
+                <Response previous_response="sp202">
+                    <Attempt>sp202</Attempt>
+                    <Attempt>ts301</Attempt>
+                </Response>
+            
+            </NextId>
+<!--            <NextId>ts301</NextId>-->
+        </VideoControls>
+        <AskControls>
+            <Hidden>true</Hidden>
+            <Action>question</Action>
+        </AskControls>
+        <CaseName></CaseName>
+    </Response>
+
+    <Response id="sp202noteffective">
+        <LeftRail>
+            <Id>main</Id>
+            <Hidden>false</Hidden>
+            <ModuleSelected>4</ModuleSelected>
+        </LeftRail>
+        <VideoControls>
+            <Hidden>false</Hidden>
+            <PreviousId>sp202</PreviousId>
+            <NextId type="actionAttempt">
+                <Response previous_response="sp202">
+                    <Attempt>sp202</Attempt>
+                    <Attempt>ts301</Attempt>
+                </Response>
+            
+            </NextId>
+        </VideoControls>
+        <AskControls>
+            <Hidden>true</Hidden>
+            <Action>question</Action>
+        </AskControls>
+        <CaseName></CaseName>
+    </Response>
+
+    <Response id="sp202offtopic">
+        <LeftRail>
+            <Id>main</Id>
+            <Hidden>false</Hidden>
+            <ModuleSelected>4</ModuleSelected>
+        </LeftRail>
+        <VideoControls>
+            <Hidden>false</Hidden>
+            <PreviousId>sp202</PreviousId>
+            <NextId type="actionAttempt">
+                <Response previous_response="sp202">
+                    <Attempt>sp202</Attempt>
+                    <Attempt>ts301</Attempt>
+                </Response>
+            
+            </NextId>
+        </VideoControls>
+        <AskControls>
+             <Hidden>true</Hidden>
+            <Action>question</Action>
+        </AskControls>
+        <CaseName></CaseName>
+    </Response>
+
+    <Response id="ts301">
+        <LeftRail>
+            <Id>main</Id>
+            <Hidden>false</Hidden>
+            <ModuleSelected>6</ModuleSelected>
+        </LeftRail>
+        <VideoControls>
+            <Hidden>false</Hidden>
+            <PreviousId>sp202</PreviousId>
+            <NextId>ts302</NextId>
+        </VideoControls>
+        <AskControls>
+            <Hidden>true</Hidden>
+            <Action>question</Action>
+        </AskControls>
+        <CaseName></CaseName>
+    </Response>
+
+    <Response id="ts302">
+        <LeftRail>
+            <Id>main</Id>
+            <Hidden>false</Hidden>
+            <ModuleSelected>6</ModuleSelected>
+        </LeftRail>
+        <VideoControls>
+            <Hidden>false</Hidden>
+            <PreviousId>ts301</PreviousId>
+            <NextId>sp3intro</NextId>
+        </VideoControls>
+        <AskControls>
+            <Hidden>true</Hidden>
+            <Action>question</Action>
+        </AskControls>
+        <CaseName></CaseName>
+    </Response>
+
+    <Response id="sp3intro">
+        <LeftRail>
+            <Id>main</Id>
+            <Hidden>false</Hidden>
+            <ModuleSelected>6</ModuleSelected>
+        </LeftRail>
+        <VideoControls>
+            <Hidden>false</Hidden>
+            <PreviousId>ts302</PreviousId>
+            <NextId>sp301</NextId>
+        </VideoControls>
+        <AskControls>
+            <Hidden>true</Hidden>
+            <Action>question</Action>
+        </AskControls>
+        <CaseName></CaseName>
+    </Response>
+
+    <Response id="sp301">
+        <LeftRail>
+            <Id>main</Id>
+            <Hidden>false</Hidden>
+            <ModuleSelected>6</ModuleSelected>
+        </LeftRail>
+        <VideoControls>
+            <Hidden>false</Hidden>
+            <PreviousId>sp3intro</PreviousId>
+            <NextId></NextId>
+            <DoneId>sp302</DoneId>
+        </VideoControls>
+        <AskControls>
+            <Hidden>false</Hidden>
+            <Action>question</Action>
+        </AskControls>
+        <CaseName>filter_open_ended</CaseName>
+        <Answers>
+            <Answer id="yes" case="EBI_SP3_SM5_OpenEnded"></Answer>
+            <!--<Answer id="no">open_ended_filter_no_response</Answer>-->
+            <Answer id="no" type="random">
+                <Response>sp300a</Response>
+                <Response>sp300b</Response>
+                <Response>sp300c</Response>
+                <Response>sp300d</Response>
+            </Answer>
+            <Answer id="motivational" type="random">
+                <Response>sp300motivationala</Response>
+                <Response>sp300motivationalb</Response>
+                <Response>sp300motivationalc</Response>
+                <Response>sp300motivationald</Response>
+            </Answer>
+            <Answer id="inappropriate">sp300ino</Answer>
+            <Answer id="noteffective">sp300ino</Answer>
+            <Answer id="offtopic">sp300ino</Answer>
+			<Answer id="shame">admin002</Answer>
+        </Answers>
+    </Response>
+
+    <Response id="sp301inappropriate">
+        <LeftRail>
+            <Id>main</Id>
+            <Hidden>false</Hidden>
+            <ModuleSelected>6</ModuleSelected>
+        </LeftRail>
+        <VideoControls>
+            <Hidden>false</Hidden>
+            <PreviousId>sp301</PreviousId>
+            <NextId>sp302</NextId>
+        </VideoControls>
+        <AskControls>
+            <Hidden>true</Hidden>
+            <Action>question</Action>
+        </AskControls>
+        <CaseName></CaseName>
+    </Response>
+
+    <Response id="sp301noteffective">
+        <LeftRail>
+            <Id>main</Id>
+            <Hidden>false</Hidden>
+            <ModuleSelected>6</ModuleSelected>
+        </LeftRail>
+        <VideoControls>
+            <Hidden>false</Hidden>
+            <PreviousId>sp301</PreviousId>
+            <NextId>sp302</NextId>
+        </VideoControls>
+        <AskControls>
+            <Hidden>true</Hidden>
+            <Action>question</Action>
+        </AskControls>
+        <CaseName></CaseName>
+    </Response>
+
+    <Response id="sp301offtopic">
+        <LeftRail>
+            <Id>main</Id>
+            <Hidden>false</Hidden>
+            <ModuleSelected>6</ModuleSelected>
+        </LeftRail>
+        <VideoControls>
+            <Hidden>false</Hidden>
+            <PreviousId>sp301</PreviousId>
+            <NextId>sp302</NextId>
+        </VideoControls>
+        <AskControls>
+            <Hidden>true</Hidden>
+            <Action>question</Action>
+        </AskControls>
+        <CaseName></CaseName>
+    </Response>
+
+    <Response id="sp301motivationala">
+        <LeftRail>
+            <Id>main</Id>
+            <Hidden>false</Hidden>
+            <ModuleSelected>6</ModuleSelected>
+        </LeftRail>
+        <VideoControls>
+            <Hidden>false</Hidden>
+            <PreviousId>sp301</PreviousId>
+            <NextId>sp302</NextId>
+        </VideoControls>
+        <AskControls>
+            <Hidden>true</Hidden>
+            <Action>question</Action>
+        </AskControls>
+        <CaseName></CaseName>
+    </Response>
+
+    <Response id="sp301motivationalb">
+        <LeftRail>
+            <Id>main</Id>
+            <Hidden>false</Hidden>
+            <ModuleSelected>6</ModuleSelected>
+        </LeftRail>
+        <VideoControls>
+            <Hidden>false</Hidden>
+            <PreviousId>sp301</PreviousId>
+            <NextId>sp302</NextId>
+        </VideoControls>
+        <AskControls>
+            <Hidden>true</Hidden>
+            <Action>question</Action>
+        </AskControls>
+        <CaseName></CaseName>
+    </Response>
+
+    <Response id="sp301motivationalc">
+        <LeftRail>
+            <Id>main</Id>
+            <Hidden>false</Hidden>
+            <ModuleSelected>6</ModuleSelected>
+        </LeftRail>
+        <VideoControls>
+            <Hidden>false</Hidden>
+            <PreviousId>sp301</PreviousId>
+            <NextId>sp302</NextId>
+        </VideoControls>
+        <AskControls>
+            <Hidden>true</Hidden>
+            <Action>question</Action>
+        </AskControls>
+        <CaseName></CaseName>
+    </Response>
+
+    <Response id="sp301motivationald">
+        <LeftRail>
+            <Id>main</Id>
+            <Hidden>false</Hidden>
+            <ModuleSelected>6</ModuleSelected>
+        </LeftRail>
+        <VideoControls>
+            <Hidden>false</Hidden>
+            <PreviousId>sp301</PreviousId>
+            <NextId>sp302</NextId>
+        </VideoControls>
+        <AskControls>
+            <Hidden>true</Hidden>
+            <Action>question</Action>
+        </AskControls>
+        <CaseName></CaseName>
+    </Response>
+
+    <Response id="sp302">
+        <LeftRail>
+            <Id>main</Id>
+            <Hidden>false</Hidden>
+            <ModuleSelected>6</ModuleSelected>
+        </LeftRail>
+        <VideoControls>
+            <Hidden>false</Hidden>
+            <PreviousId>sp301</PreviousId>
+            <NextId></NextId>
+            <DoneId>sp303</DoneId>
+        </VideoControls>
+        <AskControls>
+            <Hidden>false</Hidden>
+            <Action>question</Action>
+        </AskControls>
+        <CaseName>filter_open_ended</CaseName>
+        <Answers>
+            <Answer id="yes" case="EBI_SP3_SM5_OpenEnded"></Answer>
+            <!--<Answer id="no">open_ended_filter_no_response</Answer>-->
+            <Answer id="no" type="random">
+                <Response>sp300a</Response>
+                <Response>sp300b</Response>
+                <Response>sp300c</Response>
+                <Response>sp300d</Response>
+            </Answer>
+            <Answer id="motivational" type="random">
+                <Response>sp300motivationala</Response>
+                <Response>sp300motivationalb</Response>
+                <Response>sp300motivationalc</Response>
+                <Response>sp300motivationald</Response>
+            </Answer>
+            <Answer id="inappropriate">sp300ino</Answer>
+            <Answer id="noteffective">sp300ino</Answer>
+            <Answer id="offtopic">sp300ino</Answer>
+			<Answer id="shame">admin002</Answer>
+        </Answers>
+    </Response>
+
+    <Response id="sp302inappropriate">
+        <LeftRail>
+            <Id>main</Id>
+            <Hidden>false</Hidden>
+            <ModuleSelected>6</ModuleSelected>
+        </LeftRail>
+        <VideoControls>
+            <Hidden>false</Hidden>
+            <PreviousId>sp302</PreviousId>
+            <NextId>sp303</NextId>
+        </VideoControls>
+        <AskControls>
+            <Hidden>true</Hidden>
+            <Action>question</Action>
+        </AskControls>
+        <CaseName></CaseName>
+    </Response>
+
+    <Response id="sp302noteffective">
+        <LeftRail>
+            <Id>main</Id>
+            <Hidden>false</Hidden>
+            <ModuleSelected>6</ModuleSelected>
+        </LeftRail>
+        <VideoControls>
+            <Hidden>false</Hidden>
+            <PreviousId>sp302</PreviousId>
+            <NextId>sp303</NextId>
+        </VideoControls>
+        <AskControls>
+            <Hidden>true</Hidden>
+            <Action>question</Action>
+        </AskControls>
+        <CaseName></CaseName>
+    </Response>
+
+    <Response id="sp302offtopic">
+        <LeftRail>
+            <Id>main</Id>
+            <Hidden>false</Hidden>
+            <ModuleSelected>6</ModuleSelected>
+        </LeftRail>
+        <VideoControls>
+            <Hidden>false</Hidden>
+            <PreviousId>sp302</PreviousId>
+            <NextId>sp303</NextId>
+        </VideoControls>
+        <AskControls>
+            <Hidden>true</Hidden>
+            <Action>question</Action>
+        </AskControls>
+        <CaseName></CaseName>
+    </Response>
+
+    <Response id="sp302motivationala">
+        <LeftRail>
+            <Id>main</Id>
+            <Hidden>false</Hidden>
+            <ModuleSelected>6</ModuleSelected>
+        </LeftRail>
+        <VideoControls>
+            <Hidden>false</Hidden>
+            <PreviousId>sp302</PreviousId>
+            <NextId>sp303</NextId>
+        </VideoControls>
+        <AskControls>
+            <Hidden>true</Hidden>
+            <Action>question</Action>
+        </AskControls>
+        <CaseName></CaseName>
+    </Response>
+
+    <Response id="sp302motivationalb">
+        <LeftRail>
+            <Id>main</Id>
+            <Hidden>false</Hidden>
+            <ModuleSelected>6</ModuleSelected>
+        </LeftRail>
+        <VideoControls>
+            <Hidden>false</Hidden>
+            <PreviousId>sp302</PreviousId>
+            <NextId>sp303</NextId>
+        </VideoControls>
+        <AskControls>
+            <Hidden>true</Hidden>
+            <Action>question</Action>
+        </AskControls>
+        <CaseName></CaseName>
+    </Response>
+
+    <Response id="sp302motivationalc">
+        <LeftRail>
+            <Id>main</Id>
+            <Hidden>false</Hidden>
+            <ModuleSelected>6</ModuleSelected>
+        </LeftRail>
+        <VideoControls>
+            <Hidden>false</Hidden>
+            <PreviousId>sp302</PreviousId>
+            <NextId>sp303</NextId>
+        </VideoControls>
+        <AskControls>
+            <Hidden>true</Hidden>
+            <Action>question</Action>
+        </AskControls>
+        <CaseName></CaseName>
+    </Response>
+
+    <Response id="sp302motivationald">
+        <LeftRail>
+            <Id>main</Id>
+            <Hidden>false</Hidden>
+            <ModuleSelected>6</ModuleSelected>
+        </LeftRail>
+        <VideoControls>
+            <Hidden>false</Hidden>
+            <PreviousId>sp302</PreviousId>
+            <NextId>sp303</NextId>
+        </VideoControls>
+        <AskControls>
+            <Hidden>true</Hidden>
+            <Action>question</Action>
+        </AskControls>
+        <CaseName></CaseName>
+    </Response>
+
+    <Response id="sp303">
+        <LeftRail>
+            <Id>main</Id>
+            <Hidden>false</Hidden>
+            <ModuleSelected>6</ModuleSelected>
+        </LeftRail>
+        <VideoControls>
+            <Hidden>false</Hidden>
+            <PreviousId>sp302</PreviousId>
+            <NextId></NextId>
+            <DoneId>ts401</DoneId>
+        </VideoControls>
+        <AskControls>
+            <Hidden>false</Hidden>
+            <Action>question</Action>
+        </AskControls>
+        <CaseName>filter_open_ended</CaseName>
+        <Answers>
+            <Answer id="yes" case="EBI_SP3_SM5_OpenEnded"></Answer>
+            <!--<Answer id="no">open_ended_filter_no_response</Answer>-->
+            <Answer id="no" type="random">
+                <Response>sp300a</Response>
+                <Response>sp300b</Response>
+                <Response>sp300c</Response>
+                <Response>sp300d</Response>
+            </Answer>
+            <Answer id="motivational" type="random">
+                <Response>sp300motivationala</Response>
+                <Response>sp300motivationalb</Response>
+                <Response>sp300motivationalc</Response>
+                <Response>sp300motivationald</Response>
+            </Answer>
+            <Answer id="inappropriate">sp300ino</Answer>
+            <Answer id="noteffective">sp300ino</Answer>
+            <Answer id="offtopic">sp300ino</Answer>
+			<Answer id="shame">admin002</Answer>
+        </Answers>
+    </Response>
+
+    <Response id="sp303inappropriate">
+        <LeftRail>
+            <Id>main</Id>
+            <Hidden>false</Hidden>
+            <ModuleSelected>6</ModuleSelected>
+        </LeftRail>
+        <VideoControls>
+            <Hidden>false</Hidden>
+            <PreviousId>sp303</PreviousId>
+            <NextId>ts401</NextId>
+        </VideoControls>
+        <AskControls>
+            <Hidden>true</Hidden>
+            <Action>question</Action>
+        </AskControls>
+        <CaseName></CaseName>
+    </Response>
+
+    <Response id="sp303noteffective">
+        <LeftRail>
+            <Id>main</Id>
+            <Hidden>false</Hidden>
+            <ModuleSelected>6</ModuleSelected>
+        </LeftRail>
+        <VideoControls>
+            <Hidden>false</Hidden>
+            <PreviousId>sp303</PreviousId>
+            <NextId>ts401</NextId>
+        </VideoControls>
+        <AskControls>
+            <Hidden>true</Hidden>
+            <Action>question</Action>
+        </AskControls>
+        <CaseName></CaseName>
+    </Response>
+
+    <Response id="sp303offtopic">
+        <LeftRail>
+            <Id>main</Id>
+            <Hidden>false</Hidden>
+            <ModuleSelected>6</ModuleSelected>
+        </LeftRail>
+        <VideoControls>
+            <Hidden>false</Hidden>
+            <PreviousId>sp303</PreviousId>
+            <NextId>ts401</NextId>
+        </VideoControls>
+        <AskControls>
+            <Hidden>true</Hidden>
+            <Action>question</Action>
+        </AskControls>
+        <CaseName></CaseName>
+    </Response>
+
+    <Response id="sp303motivationala">
+        <LeftRail>
+            <Id>main</Id>
+            <Hidden>false</Hidden>
+            <ModuleSelected>6</ModuleSelected>
+        </LeftRail>
+        <VideoControls>
+            <Hidden>false</Hidden>
+            <PreviousId>sp303</PreviousId>
+            <NextId>ts401</NextId>
+        </VideoControls>
+        <AskControls>
+            <Hidden>true</Hidden>
+            <Action>question</Action>
+        </AskControls>
+        <CaseName></CaseName>
+    </Response>
+
+    <Response id="sp303motivationalb">
+        <LeftRail>
+            <Id>main</Id>
+            <Hidden>false</Hidden>
+            <ModuleSelected>6</ModuleSelected>
+        </LeftRail>
+        <VideoControls>
+            <Hidden>false</Hidden>
+            <PreviousId>sp303</PreviousId>
+            <NextId>ts401</NextId>
+        </VideoControls>
+        <AskControls>
+            <Hidden>true</Hidden>
+            <Action>question</Action>
+        </AskControls>
+        <CaseName></CaseName>
+    </Response>
+
+    <Response id="sp303motivationalc">
+        <LeftRail>
+            <Id>main</Id>
+            <Hidden>false</Hidden>
+            <ModuleSelected>6</ModuleSelected>
+        </LeftRail>
+        <VideoControls>
+            <Hidden>false</Hidden>
+            <PreviousId>sp303</PreviousId>
+            <NextId>ts401</NextId>
+        </VideoControls>
+        <AskControls>
+            <Hidden>true</Hidden>
+            <Action>question</Action>
+        </AskControls>
+        <CaseName></CaseName>
+    </Response>
+
+    <Response id="sp303motivationald">
+        <LeftRail>
+            <Id>main</Id>
+            <Hidden>false</Hidden>
+            <ModuleSelected>6</ModuleSelected>
+        </LeftRail>
+        <VideoControls>
+            <Hidden>false</Hidden>
+            <PreviousId>sp303</PreviousId>
+            <NextId>ts401</NextId>
+        </VideoControls>
+        <AskControls>
+            <Hidden>true</Hidden>
+            <Action>question</Action>
+        </AskControls>
+        <CaseName></CaseName>
+    </Response>
+
+    <Response id="sp300a">
+        <LeftRail>
+            <Id>main</Id>
+            <Hidden>false</Hidden>
+            <ModuleSelected>6</ModuleSelected>
+        </LeftRail>
+        <VideoControls>
+            <Hidden>false</Hidden>
+            <PreviousId></PreviousId>
+            <NextId type="actionAttempt">
+                <Response previous_response="sp301">
+                    <Attempt>sp301</Attempt>
+                    <Attempt>sp302</Attempt>
+                </Response>
+                <Response previous_response="sp302">
+                    <Attempt>sp302</Attempt>
+                    <Attempt>sp303</Attempt>
+                </Response>
+                <Response previous_response="sp303">
+                    <Attempt>sp303</Attempt>
+                    <Attempt>ts401</Attempt>                
+                </Response>
+            </NextId>
+        </VideoControls>
+        <AskControls>
+            <Hidden>true</Hidden>
+            <Action>question</Action>
+        </AskControls>
+        <CaseName></CaseName>
+    
+    </Response>
+
+    <Response id="sp300b">
+        <LeftRail>
+            <Id>main</Id>
+            <Hidden>false</Hidden>
+            <ModuleSelected>6</ModuleSelected>
+        </LeftRail>
+        <VideoControls>
+            <Hidden>false</Hidden>
+            <PreviousId></PreviousId>
+            <NextId type="actionAttempt">
+                <Response previous_response="sp301">
+                    <Attempt>sp301</Attempt>
+                    <Attempt>sp302</Attempt>
+                </Response>
+                <Response previous_response="sp302">
+                    <Attempt>sp302</Attempt>
+                    <Attempt>sp303</Attempt>
+                </Response>
+                <Response previous_response="sp303">
+                    <Attempt>sp303</Attempt>
+                    <Attempt>ts401</Attempt>                
+                </Response>
+            </NextId>
+        </VideoControls>
+        <AskControls>
+            <Hidden>true</Hidden>
+            <Action>question</Action>
+        </AskControls>
+        <CaseName></CaseName>
+    
+    </Response>
+    <Response id="sp300c">
+        <LeftRail>
+            <Id>main</Id>
+            <Hidden>false</Hidden>
+            <ModuleSelected>6</ModuleSelected>
+        </LeftRail>
+        <VideoControls>
+            <Hidden>false</Hidden>
+            <PreviousId></PreviousId>
+            <NextId type="actionAttempt">
+                <Response previous_response="sp301">
+                    <Attempt>sp301</Attempt>
+                    <Attempt>sp302</Attempt>
+                </Response>
+                <Response previous_response="sp302">
+                    <Attempt>sp302</Attempt>
+                    <Attempt>sp303</Attempt>
+                </Response>
+                <Response previous_response="sp303">
+                    <Attempt>sp303</Attempt>
+                    <Attempt>ts401</Attempt>                
+                </Response>
+            </NextId>
+        </VideoControls>
+        <AskControls>
+            <Hidden>true</Hidden>
+            <Action>question</Action>
+        </AskControls>
+        <CaseName></CaseName>
+    
+    </Response>
+
+
+    <Response id="sp300d">
+        <LeftRail>
+            <Id>main</Id>
+            <Hidden>false</Hidden>
+            <ModuleSelected>6</ModuleSelected>
+        </LeftRail>
+        <VideoControls>
+            <Hidden>false</Hidden>
+            <PreviousId></PreviousId>
+            <NextId type="actionAttempt">
+                <Response previous_response="sp301">
+                    <Attempt>sp301</Attempt>
+                    <Attempt>sp302</Attempt>
+                </Response>
+                <Response previous_response="sp302">
+                    <Attempt>sp302</Attempt>
+                    <Attempt>sp303</Attempt>
+                </Response>
+                <Response previous_response="sp303">
+                    <Attempt>sp303</Attempt>
+                    <Attempt>ts401</Attempt>                
+                </Response>
+            </NextId>
+        </VideoControls>
+        <AskControls>
+            <Hidden>true</Hidden>
+            <Action>question</Action>
+        </AskControls>
+        <CaseName></CaseName>
+    
+    </Response>
+    
+    
+    <Response id="sp300ino">
+        <LeftRail>
+            <Id>main</Id>
+            <Hidden>false</Hidden>
+            <ModuleSelected>6</ModuleSelected>
+        </LeftRail>
+        <VideoControls>
+            <Hidden>false</Hidden>
+            <PreviousId></PreviousId>
+            <NextId type="actionAttempt">
+                <Response previous_response="sp301">
+                    <Attempt>sp301</Attempt>
+                    <Attempt>sp302</Attempt>
+                </Response>
+                <Response previous_response="sp302">
+                    <Attempt>sp302</Attempt>
+                    <Attempt>sp303</Attempt>
+                </Response>
+                <Response previous_response="sp303">
+                    <Attempt>sp303</Attempt>
+                    <Attempt>ts401</Attempt>                
+                </Response>
+            </NextId>
+        </VideoControls>
+        <AskControls>
+            <Hidden>true</Hidden>
+            <Action>question</Action>
+        </AskControls>
+        <CaseName></CaseName>
+    
+    
+    </Response>
+
+
+    <Response id="sp300motivationala">
+        <LeftRail>
+            <Id>main</Id>
+            <Hidden>false</Hidden>
+            <ModuleSelected>6</ModuleSelected>
+        </LeftRail>
+        <VideoControls>
+            <Hidden>false</Hidden>
+            <PreviousId></PreviousId>
+            <NextId type="actionAttempt">
+                <Response previous_response="sp301">
+                    <Attempt>sp302</Attempt> 
+					<Attempt>sp302</Attempt> 
+                </Response>
+                <Response previous_response="sp302">            
+                    <Attempt>sp303</Attempt>
+					<Attempt>sp303</Attempt>
+                </Response>
+                <Response previous_response="sp303">                
+                    <Attempt>ts401</Attempt> 
+					 <Attempt>ts401</Attempt>   
+                </Response>
+            </NextId>
+        </VideoControls>
+        <AskControls>
+            <Hidden>true</Hidden>
+            <Action>question</Action>
+        </AskControls>
+        <CaseName></CaseName>
+    </Response>
+
+    <Response id="sp300motivationalb">
+        <LeftRail>
+            <Id>main</Id>
+            <Hidden>false</Hidden>
+            <ModuleSelected>6</ModuleSelected>
+        </LeftRail>
+        <VideoControls>
+            <Hidden>false</Hidden>
+            <PreviousId></PreviousId>
+            <NextId type="actionAttempt">
+                <Response previous_response="sp301">
+                    <Attempt>sp302</Attempt> 
+					<Attempt>sp302</Attempt>
+                </Response>
+                <Response previous_response="sp302">            
+                    <Attempt>sp303</Attempt>
+					 <Attempt>sp303</Attempt>
+                </Response>
+                <Response previous_response="sp303">                
+                    <Attempt>ts401</Attempt> 
+					<Attempt>ts401</Attempt>
+                </Response>
+            </NextId>
+        </VideoControls>
+        <AskControls>
+            <Hidden>true</Hidden>
+            <Action>question</Action>
+        </AskControls>
+        <CaseName></CaseName>
+    </Response>
+
+    <Response id="sp300motivationalc">
+        <LeftRail>
+            <Id>main</Id>
+            <Hidden>false</Hidden>
+            <ModuleSelected>6</ModuleSelected>
+        </LeftRail>
+        <VideoControls>
+            <Hidden>false</Hidden>
+            <PreviousId></PreviousId>
+            <NextId type="actionAttempt">
+                <Response previous_response="sp301">
+                    <Attempt>sp302</Attempt> 
+					<Attempt>sp302</Attempt>
+                </Response>
+                <Response previous_response="sp302">            
+                    <Attempt>sp303</Attempt>
+					 <Attempt>sp303</Attempt>
+                </Response>
+                <Response previous_response="sp303">                
+                    <Attempt>ts401</Attempt>
+					<Attempt>ts401</Attempt>
+                </Response>
+            </NextId>
+        </VideoControls>
+        <AskControls>
+            <Hidden>true</Hidden>
+            <Action>question</Action>
+        </AskControls>
+        <CaseName></CaseName>
+    </Response>
+
+    <Response id="sp300motivationald">
+        <LeftRail>
+            <Id>main</Id>
+            <Hidden>false</Hidden>
+            <ModuleSelected>6</ModuleSelected>
+        </LeftRail>
+        <VideoControls>
+            <Hidden>false</Hidden>
+            <PreviousId></PreviousId>
+            <NextId type="actionAttempt">
+                <Response previous_response="sp301">
+                    <Attempt>sp302</Attempt>
+					 <Attempt>sp302</Attempt>
+                </Response>
+                <Response previous_response="sp302">            
+                    <Attempt>sp303</Attempt>
+					 <Attempt>sp303</Attempt>
+                </Response>
+                <Response previous_response="sp303">                
+                    <Attempt>ts401</Attempt> 
+					 <Attempt>ts401</Attempt> 
+                </Response>
+            </NextId>
+        </VideoControls>
+        <AskControls>
+            <Hidden>true</Hidden>
+            <Action>question</Action>
+        </AskControls>
+        <CaseName></CaseName>
+    </Response>
+
+
+    <Response id="ts401">
+        <LeftRail>
+            <Id>main</Id>
+            <Hidden>false</Hidden>
+            <ModuleSelected>8</ModuleSelected>
+        </LeftRail>
+        <VideoControls>
+            <Hidden>false</Hidden>
+            <PreviousId>sp303</PreviousId>
+            <NextId>sp4intro</NextId>
+        </VideoControls>
+        <AskControls>
+            <Hidden>true</Hidden>
+            <Action>question</Action>
+        </AskControls>
+        <CaseName></CaseName>
+    </Response>
+
+    <Response id="sp4intro">
+        <LeftRail>
+            <Id>main</Id>
+            <Hidden>false</Hidden>
+            <ModuleSelected>8</ModuleSelected>
+        </LeftRail>
+        <VideoControls>
+            <Hidden>false</Hidden>
+            <PreviousId>ts401</PreviousId>
+            <NextId>sp401</NextId>
+        </VideoControls>
+        <AskControls>
+            <Hidden>true</Hidden>
+            <Action>question</Action>
+        </AskControls>
+        <CaseName></CaseName>
+    </Response>
+
+    <!-- Importance or Confidence Questions -->
+    <!-- @TODO - implement importance or confidence buttons -->
+    <Response id="sp401" type="test">
+        <LeftRail>
+            <Id>main</Id>
+            <Hidden>false</Hidden>
+            <ModuleSelected>8</ModuleSelected>
+        </LeftRail>
+        <VideoControls>
+            <Hidden>false</Hidden>
+            <PreviousId>sp4intro</PreviousId>
+            <NextId>sp402</NextId>
+        </VideoControls>
+        <AskControls>
+            <Hidden>true</Hidden>
+            <Action>single_choice</Action>
+        </AskControls>
+        <CaseName></CaseName>
+        <Answers>
+            <Answer>sp402</Answer>           
+        </Answers>
+    </Response>
+
+    <Response id="sp402" type="test">
+        <LeftRail>
+            <Id>main</Id>
+            <Hidden>false</Hidden>
+            <ModuleSelected>8</ModuleSelected>
+        </LeftRail>
+        <VideoControls>
+            <Hidden>false</Hidden>
+            <PreviousId>sp401</PreviousId>
+            <NextId>sp403</NextId>
+        </VideoControls>
+        <AskControls>
+            <Hidden>true</Hidden>
+            <Action>single_choice</Action>
+        </AskControls>
+        <CaseName></CaseName>
+    </Response>
+
+    <Response id="sp403" type="test">
+        <LeftRail>
+            <Id>main</Id>
+            <Hidden>false</Hidden>
+            <ModuleSelected>8</ModuleSelected>
+        </LeftRail>
+        <VideoControls>
+            <Hidden>false</Hidden>
+            <PreviousId>sp402</PreviousId>
+            <NextId>sp404</NextId>
+        </VideoControls>
+        <AskControls>
+            <Hidden>true</Hidden>
+            <Action>single_choice</Action>
+        </AskControls>
+        <CaseName></CaseName>
+    </Response>
+
+    <Response id="sp404" type="test">
+        <LeftRail>
+            <Id>main</Id>
+            <Hidden>false</Hidden>
+            <ModuleSelected>8</ModuleSelected>
+        </LeftRail>
+        <VideoControls>
+            <Hidden>false</Hidden>
+            <PreviousId>sp403</PreviousId>
+            <NextId>sp405</NextId>
+        </VideoControls>
+        <AskControls>
+            <Hidden>true</Hidden>
+            <Action>single_choice</Action>
+        </AskControls>
+        <CaseName></CaseName>
+    </Response>
+
+    <Response id="sp405" type="test">
+        <LeftRail>
+            <Id>main</Id>
+            <Hidden>false</Hidden>
+            <ModuleSelected>8</ModuleSelected>
+        </LeftRail>
+        <VideoControls>
+            <Hidden>false</Hidden>
+            <PreviousId>sp404</PreviousId>
+            <NextId></NextId>
+        </VideoControls>
+        <AskControls>
+            <Hidden>true</Hidden>
+            <Action>single_choice</Action>
+        </AskControls>
+        <CaseName></CaseName>
+    </Response>
+
+    <Response id="sp400low">
+        <LeftRail>
+            <Id>main</Id>
+            <Hidden>false</Hidden>
+            <ModuleSelected>8</ModuleSelected>
+        </LeftRail>
+        <VideoControls>
+            <Hidden>false</Hidden>
+            <PreviousId>sp405</PreviousId>
+            <NextId>ts5intro</NextId>
+        </VideoControls>
+        <AskControls>
+            <Hidden>true</Hidden>
+            <Action>question</Action>
+        </AskControls>
+        <CaseName></CaseName>
+    </Response>
+
+    <Response id="sp400med">
+        <LeftRail>
+            <Id>main</Id>
+            <Hidden>false</Hidden>
+            <ModuleSelected>8</ModuleSelected>
+        </LeftRail>
+        <VideoControls>
+            <Hidden>false</Hidden>
+            <PreviousId>sp405</PreviousId>
+            <NextId>ts5intro</NextId>
+        </VideoControls>
+        <AskControls>
+            <Hidden>true</Hidden>
+            <Action>question</Action>
+        </AskControls>
+        <CaseName></CaseName>
+    </Response>
+
+    <Response id="sp400high">
+        <LeftRail>
+            <Id>main</Id>
+            <Hidden>false</Hidden>
+            <ModuleSelected>8</ModuleSelected>
+        </LeftRail>
+        <VideoControls>
+            <Hidden>false</Hidden>
+            <PreviousId>sp405</PreviousId>
+            <NextId>ts5intro</NextId>
+        </VideoControls>
+        <AskControls>
+            <Hidden>true</Hidden>
+            <Action>question</Action>
+        </AskControls>
+        <CaseName></CaseName>
+    </Response>
+
+    <Response id="ts5intro">
+        <LeftRail>
+            <Id>main</Id>
+            <Hidden>false</Hidden>
+            <ModuleSelected>10</ModuleSelected>
+        </LeftRail>
+        <VideoControls>
+            <Hidden>false</Hidden>
+            <PreviousId>sp400high</PreviousId>
+            <NextId>sp501</NextId>
+        </VideoControls>
+        <Autoplay>
+            <Admin>false</Admin>        
+        </Autoplay>
+        <AskControls>
+            <Hidden>true</Hidden>
+            <Action>question</Action>
+        </AskControls>
+        <CaseName></CaseName>
+    </Response>
+
+    <!-- TODO 1st attempt incorrect should go to ts501INOa, 2nd attempt incorrect should go to ts501INOb -->
+    <Response id="sp501">
+        <LeftRail>
+            <Id>main</Id>
+            <Hidden>false</Hidden>
+            <ModuleSelected>10</ModuleSelected>
+        </LeftRail>
+        <VideoControls>
+            <Hidden>false</Hidden>
+            <PreviousId>ts5intro</PreviousId>
+            <NextId></NextId>
+            <DoneId>sp502</DoneId>
+        </VideoControls>    
+        <AskControls>
+            <Hidden>false</Hidden>
+            <Action>question</Action>
+        </AskControls>
+        <CaseName>EBI_SP5_Affirmation</CaseName>
+        <Answers>
+            <Answer id="motivational">sp501motivational</Answer>
+            <Answer id="inappropriate" type="attempts">
+                <Attempt>sp501inoa</Attempt>
+                <Attempt>sp501inob</Attempt>
+            </Answer>
+            <Answer id="noteffective" type="attempts">
+                <Attempt>sp501inoa</Attempt>
+                <Attempt>sp501inob</Attempt>
+            </Answer>
+            <Answer id="offtopic" type="attempts">
+                <Attempt>sp501inoa</Attempt>
+                <Attempt>sp501inob</Attempt>
+            </Answer>
+			<Answer id="shame">admin002</Answer>
+        </Answers>
+    
+    </Response>
+
+    <Response id="sp501motivational">
+        <LeftRail>
+            <Id>main</Id>
+            <Hidden>false</Hidden>
+            <ModuleSelected>10</ModuleSelected>
+        </LeftRail>
+        <VideoControls>
+            <Hidden>false</Hidden>
+            <PreviousId>sp501</PreviousId>
+            <NextId>sp502</NextId>
+        </VideoControls>
+        <AskControls>
+            <Hidden>true</Hidden>
+            <Action>question</Action>
+        </AskControls>
+        <CaseName></CaseName>
+    </Response>
+
+    <Response id="sp501inoa">
+        <LeftRail>
+            <Id>main</Id>
+            <Hidden>false</Hidden>
+            <ModuleSelected>10</ModuleSelected>
+        </LeftRail>
+        <VideoControls>
+            <Hidden>false</Hidden>
+            <PreviousId>sp501</PreviousId>
+            <NextId>sp501</NextId>
+        </VideoControls>
+        <AskControls>
+            <Hidden>true</Hidden>
+            <Action>question</Action>
+        </AskControls>
+        <CaseName></CaseName> 
+    
+    </Response>
+
+    <Response id="sp501inob">
+        <LeftRail>
+            <Id>main</Id>
+            <Hidden>false</Hidden>
+            <ModuleSelected>10</ModuleSelected>
+        </LeftRail>
+        <VideoControls>
+            <Hidden>false</Hidden>
+            <PreviousId>sp501</PreviousId>
+            <NextId>sp502</NextId>
+        </VideoControls>
+        <AskControls>
+            <Hidden>true</Hidden>
+            <Action>question</Action>
+        </AskControls>
+        <CaseName></CaseName>
+    </Response>
+
+    <!-- TODO 1st attempt incorrect should go to ts502INOa, 2nd attempt incorrect should go to ts502INOb -->
+    <Response id="sp502">
+        <LeftRail>
+            <Id>main</Id>
+            <Hidden>false</Hidden>
+            <ModuleSelected>10</ModuleSelected>
+        </LeftRail>
+        <VideoControls>
+            <Hidden>false</Hidden>
+            <PreviousId>sp501</PreviousId>
+            <NextId></NextId>
+            <DoneId>sp503</DoneId>
+        </VideoControls>
+        <AskControls>
+            <Hidden>false</Hidden>
+            <Action>question</Action>
+        </AskControls>
+        <CaseName>EBI_SP5_Affirmation</CaseName>
+        <Answers>
+            <Answer id="motivational">sp502motivational</Answer>
+            <Answer id="inappropriate" type="attempts">
+                <Attempt>sp502inoa</Attempt>
+                <Attempt>sp502inob</Attempt>
+            </Answer>
+            <Answer id="noteffective" type="attempts">
+                <Attempt>sp502inoa</Attempt>
+                <Attempt>sp502inob</Attempt>
+            </Answer>
+            <Answer id="offtopic" type="attempts">
+                <Attempt>sp502inoa</Attempt>
+                <Attempt>sp502inob</Attempt>
+            </Answer>
+			<Answer id="shame">admin002</Answer>
+        </Answers>
+    </Response>
+
+    <Response id="sp502motivational">
+        <LeftRail>
+            <Id>main</Id>
+            <Hidden>false</Hidden>
+            <ModuleSelected>10</ModuleSelected>
+        </LeftRail>
+        <VideoControls>
+            <Hidden>false</Hidden>
+            <PreviousId>sp502</PreviousId>
+            <NextId>sp503</NextId>
+        </VideoControls>
+        <AskControls>
+            <Hidden>true</Hidden>
+            <Action>question</Action>
+        </AskControls>
+        <CaseName></CaseName>
+    </Response>
+
+    <Response id="sp502inoa">
+        <LeftRail>
+            <Id>main</Id>
+            <Hidden>false</Hidden>
+            <ModuleSelected>10</ModuleSelected>
+        </LeftRail>
+        <VideoControls>
+            <Hidden>false</Hidden>
+            <PreviousId>sp502</PreviousId>
+            <NextId>sp502</NextId>
+        </VideoControls>
+        <AskControls>
+            <Hidden>true</Hidden>
+            <Action>question</Action>
+        </AskControls>
+        <CaseName></CaseName>
+    
+    </Response>
+
+    <Response id="sp502inob">
+        <LeftRail>
+            <Id>main</Id>
+            <Hidden>false</Hidden>
+            <ModuleSelected>10</ModuleSelected>
+        </LeftRail>
+        <VideoControls>
+            <Hidden>false</Hidden>
+            <PreviousId>sp502</PreviousId>
+            <NextId>sp503</NextId>
+        </VideoControls>
+        <AskControls>
+            <Hidden>true</Hidden>
+            <Action>question</Action>
+        </AskControls>
+        <CaseName></CaseName>
+    </Response>
+
+    <!-- TODO 1st attempt incorrect should go to ts503INOa, 2nd attempt incorrect should go to ts503INOb -->
+    <Response id="sp503">
+        <LeftRail>
+            <Id>main</Id>
+            <Hidden>false</Hidden>
+            <ModuleSelected>10</ModuleSelected>
+        </LeftRail>
+        <VideoControls>
+            <Hidden>false</Hidden>
+            <PreviousId>sp502</PreviousId>
+            <NextId></NextId>
+            <DoneId>ts600</DoneId>
+        </VideoControls>
+        <AskControls>
+            <Hidden>false</Hidden>
+            <Action>question</Action>
+        </AskControls>
+        <CaseName>EBI_SP5_Affirmation</CaseName>
+        <Answers>
+            <Answer id="motivational">sp503motivational</Answer>
+            <Answer id="inappropriate" type="attempts">
+                <Attempt>sp503inoa</Attempt>
+                <Attempt>sp503inob</Attempt>
+            </Answer>
+            <Answer id="noteffective" type="attempts">
+                <Attempt>sp503inoa</Attempt>
+                <Attempt>sp503inob</Attempt>
+            </Answer>
+            <Answer id="offtopic" type="attempts">
+                <Attempt>sp503inoa</Attempt>
+                <Attempt>sp503inob</Attempt>
+            </Answer>
+			<Answer id="shame">admin002</Answer>
+        </Answers>
+    </Response>
+
+    <Response id="sp503motivational">
+        <LeftRail>
+            <Id>main</Id>
+            <Hidden>false</Hidden>
+            <ModuleSelected>10</ModuleSelected>
+        </LeftRail>
+        <VideoControls>
+            <Hidden>false</Hidden>
+            <PreviousId>sp503</PreviousId>
+            <NextId>ts600</NextId>
+        </VideoControls>
+        <AskControls>
+            <Hidden>true</Hidden>
+            <Action>question</Action>
+        </AskControls>
+        <CaseName></CaseName>
+    </Response>
+
+    <Response id="sp503inoa">
+        <LeftRail>
+            <Id>main</Id>
+            <Hidden>false</Hidden>
+            <ModuleSelected>10</ModuleSelected>
+        </LeftRail>
+        <VideoControls>
+            <Hidden>false</Hidden>
+            <PreviousId>sp503</PreviousId>
+            <NextId>sp503</NextId>
+        </VideoControls>
+        <AskControls>
+            <Hidden>true</Hidden>
+            <Action>question</Action>
+        </AskControls>
+        <CaseName></CaseName>   
+    </Response>
+
+    <Response id="sp503inob">
+        <LeftRail>
+            <Id>main</Id>
+            <Hidden>false</Hidden>
+            <ModuleSelected>10</ModuleSelected>
+        </LeftRail>
+        <VideoControls>
+            <Hidden>false</Hidden>
+            <PreviousId>sp503</PreviousId>
+            <NextId>ts600</NextId>
+        </VideoControls>
+        <AskControls>
+            <Hidden>true</Hidden>
+            <Action>question</Action>
+        </AskControls>
+        <CaseName></CaseName>
+    </Response>
+
+    <Response id="ts600">
+        <LeftRail>
+            <Id>main</Id>
+            <Hidden>false</Hidden>
+            <ModuleSelected>12</ModuleSelected>
+        </LeftRail>
+        <VideoControls>
+            <Hidden>false</Hidden>
+            <PreviousId>sp503</PreviousId>
+            <NextId>ts602</NextId>
+        </VideoControls>
+        <AskControls>
+            <Hidden>true</Hidden>
+            <Action>question</Action>
+        </AskControls>
+        <CaseName></CaseName>
+    </Response>
+
+    <Response id="ts602">
+        <LeftRail>
+            <Id>main</Id>
+            <Hidden>false</Hidden>
+            <ModuleSelected>12</ModuleSelected>
+        </LeftRail>
+        <VideoControls>
+            <Hidden>false</Hidden>
+            <PreviousId>ts600</PreviousId>
+            <NextId>ts603</NextId>
+        </VideoControls>
+        <AskControls>
+            <Hidden>true</Hidden>
+            <Action>question</Action>
+        </AskControls>
+        <CaseName></CaseName>
+    </Response>
+
+    <Response id="ts603">
+        <LeftRail>
+            <Id>main</Id>
+            <Hidden>false</Hidden>
+            <ModuleSelected>12</ModuleSelected>
+        </LeftRail>
+        <VideoControls>
+            <Hidden>false</Hidden>
+            <PreviousId>ts602</PreviousId>
+            <NextId>ts604</NextId>
+        </VideoControls>
+        <AskControls>
+            <Hidden>true</Hidden>
+            <Action>question</Action>
+        </AskControls>
+        <CaseName></CaseName>
+    </Response>
+    
+    <Response id="ts604">
+        <LeftRail>
+            <Id>main</Id>
+            <Hidden>false</Hidden>
+            <ModuleSelected>12</ModuleSelected>
+        </LeftRail>
+        <VideoControls>
+            <Hidden>false</Hidden>
+            <PreviousId>ts603</PreviousId>
+            <NextId>sp601</NextId>
+        </VideoControls>
+        <AskControls>
+            <Hidden>true</Hidden>
+            <Action>question</Action>
+        </AskControls>
+        <CaseName></CaseName>
+    </Response>
+    
+
+    <!-- TODO 1st attempt incorrect should go to sp601INOa, 2nd attempt incorrect should go to sp601INOb-->
+    <Response id="sp601">
+        <LeftRail>
+            <Id>main</Id>
+            <Hidden>false</Hidden>
+            <ModuleSelected>12</ModuleSelected>
+        </LeftRail>
+        <VideoControls>
+            <Hidden>false</Hidden>
+            <PreviousId>ts604</PreviousId>
+            <NextId></NextId>
+            <DoneId>sp602</DoneId>
+        </VideoControls>
+        <AskControls>
+            <Hidden>false</Hidden>
+            <Action>question</Action>
+        </AskControls>
+        <CaseName>EBI_SP6_Reflection</CaseName>
+        <Answers>
+            <Answer id="motivational">sp601motivational</Answer>
+            <Answer id="inappropriate" type="attempts">
+                <Attempt>sp601inoa</Attempt>
+                <Attempt>sp601inob</Attempt>
+            </Answer>
+            <Answer id="noteffective" type="attempts">
+                <Attempt>sp601inoa</Attempt>
+                <Attempt>sp601inob</Attempt>
+            </Answer>
+            <Answer id="offtopic" type="attempts">
+                <Attempt>sp601inoa</Attempt>
+                <Attempt>sp601inob</Attempt>
+            </Answer>
+			<Answer id="shame">admin002</Answer>
+        </Answers>
+    </Response>
+
+    <Response id="sp601motivational">
+        <LeftRail>
+            <Id>main</Id>
+            <Hidden>false</Hidden>
+            <ModuleSelected>12</ModuleSelected>
+        </LeftRail>
+        <VideoControls>
+            <Hidden>false</Hidden>
+            <PreviousId>sp601</PreviousId>
+            <NextId>sp602</NextId>
+        </VideoControls>
+        <AskControls>
+            <Hidden>true</Hidden>
+            <Action>question</Action>
+        </AskControls>
+        <CaseName></CaseName>
+    </Response>
+
+    <Response id="sp601inoa">
+        <LeftRail>
+            <Id>main</Id>
+            <Hidden>false</Hidden>
+            <ModuleSelected>12</ModuleSelected>
+        </LeftRail>
+        <VideoControls>
+            <Hidden>false</Hidden>
+            <PreviousId>sp601</PreviousId>
+            <NextId>sp601</NextId>
+        </VideoControls>
+        <AskControls>
+            <Hidden>true</Hidden>
+            <Action>question</Action>
+        </AskControls>
+        <CaseName></CaseName>
+    </Response>
+
+    <Response id="sp601inob">
+        <LeftRail>
+            <Id>main</Id>
+            <Hidden>false</Hidden>
+            <ModuleSelected>12</ModuleSelected>
+        </LeftRail>
+        <VideoControls>
+            <Hidden>false</Hidden>
+            <PreviousId>sp601</PreviousId>
+            <NextId>sp602</NextId>
+        </VideoControls>
+        <AskControls>
+            <Hidden>true</Hidden>
+            <Action>question</Action>
+        </AskControls>
+        <CaseName></CaseName>
+    </Response>
+
+    <!-- TODO 1st attempt incorrect should go to sp602INOa, 2nd attempt incorrect should go to sp602INOb-->
+    <Response id="sp602">
+        <LeftRail>
+            <Id>main</Id>
+            <Hidden>false</Hidden>
+            <ModuleSelected>12</ModuleSelected>
+        </LeftRail>
+        <VideoControls>
+            <Hidden>false</Hidden>
+            <PreviousId>sp601</PreviousId>
+            <NextId></NextId>
+            <DoneId>ts701</DoneId>
+        </VideoControls>
+        <AskControls>
+            <Hidden>false</Hidden>
+            <Action>question</Action>
+        </AskControls>
+        <CaseName>EBI_SP6_Reflection</CaseName>
+        <Answers>
+            <Answer id="motivational">sp602motivational</Answer>
+            <Answer id="inappropriate" type="attempts">
+                <Attempt>sp602inoa</Attempt>
+                <Attempt>sp602inob</Attempt>
+            </Answer>
+            <Answer id="noteffective" type="attempts">
+                <Attempt>sp602inoa</Attempt>
+                <Attempt>sp602inob</Attempt>
+            </Answer>
+            <Answer id="offtopic" type="attempts">
+                <Attempt>sp602inoa</Attempt>
+                <Attempt>sp602inob</Attempt>
+            </Answer>
+			<Answer id="shame">admin002</Answer>
+        </Answers>
+    </Response>
+
+    <Response id="sp602motivational">
+        <LeftRail>
+            <Id>main</Id>
+            <Hidden>false</Hidden>
+            <ModuleSelected>12</ModuleSelected>
+        </LeftRail>
+        <VideoControls>
+            <Hidden>false</Hidden>
+            <PreviousId>sp602</PreviousId>
+            <NextId>ts701</NextId>
+        </VideoControls>
+        <AskControls>
+            <Hidden>true</Hidden>
+            <Action>question</Action>
+        </AskControls>
+        <CaseName></CaseName>
+    </Response>
+
+    <Response id="sp602inoa">
+        <LeftRail>
+            <Id>main</Id>
+            <Hidden>false</Hidden>
+            <ModuleSelected>12</ModuleSelected>
+        </LeftRail>
+        <VideoControls>
+            <Hidden>false</Hidden>
+            <PreviousId>sp602</PreviousId>
+            <NextId>sp602</NextId>
+        </VideoControls>
+        <AskControls>
+            <Hidden>true</Hidden>
+            <Action>question</Action>
+        </AskControls>
+        <CaseName></CaseName>
+    </Response>
+
+    <Response id="sp602inob">
+        <LeftRail>
+            <Id>main</Id>
+            <Hidden>false</Hidden>
+            <ModuleSelected>12</ModuleSelected>
+        </LeftRail>
+        <VideoControls>
+            <Hidden>false</Hidden>
+            <PreviousId>sp602</PreviousId>
+            <NextId>ts701</NextId>
+        </VideoControls>
+        <AskControls>
+            <Hidden>true</Hidden>
+            <Action>question</Action>
+        </AskControls>
+        <CaseName></CaseName>
+    </Response>
+
+    <Response id="ts701">
+        <LeftRail>
+            <Id>main</Id>
+            <Hidden>false</Hidden>
+            <ModuleSelected>14</ModuleSelected>
+        </LeftRail>
+        <VideoControls>
+            <Hidden>false</Hidden>
+            <PreviousId>sp602</PreviousId>
+            <NextId>ts702</NextId>
+        </VideoControls>
+        <AskControls>
+            <Hidden>true</Hidden>
+            <Action>question</Action>
+        </AskControls>
+        <CaseName></CaseName>
+    </Response>
+
+    <Response id="ts702">
+        <LeftRail>
+            <Id>main</Id>
+            <Hidden>false</Hidden>
+            <ModuleSelected>14</ModuleSelected>
+        </LeftRail>
+        <VideoControls>
+            <Hidden>false</Hidden>
+            <PreviousId>ts701</PreviousId>
+            <NextId>ts703</NextId>
+        </VideoControls>
+        <AskControls>
+            <Hidden>true</Hidden>
+            <Action>question</Action>
+        </AskControls>
+        <CaseName></CaseName>
+    </Response>
+
+    <Response id="ts703">
+        <LeftRail>
+            <Id>main</Id>
+            <Hidden>false</Hidden>
+            <ModuleSelected>14</ModuleSelected>
+        </LeftRail>
+        <VideoControls>
+            <Hidden>false</Hidden>
+            <PreviousId>ts702</PreviousId>
+            <NextId>ts801</NextId>
+        </VideoControls>
+        <AskControls>
+            <Hidden>true</Hidden>
+            <Action>question</Action>
+        </AskControls>
+        <CaseName></CaseName>
+    </Response>
+
+    <Response id="ts801">
+        <LeftRail>
+            <Id>main</Id>
+            <Hidden>false</Hidden>
+            <ModuleSelected>15</ModuleSelected>
+        </LeftRail>
+        <VideoControls>
+            <Hidden>false</Hidden>
+            <PreviousId>ts703</PreviousId>
+            <NextId>ts802</NextId>
+        </VideoControls>
+        <AskControls>
+            <Hidden>true</Hidden>
+            <Action>question</Action>
+        </AskControls>
+        <CaseName></CaseName>
+    </Response>
+
+    <Response id="ts802">
+        <LeftRail>
+            <Id>main</Id>
+            <Hidden>false</Hidden>
+            <ModuleSelected>15</ModuleSelected>
+        </LeftRail>
+        <VideoControls>
+            <Hidden>false</Hidden>
+            <PreviousId>ts801</PreviousId>
+            <NextId>ts803</NextId>
+        </VideoControls>
+        <AskControls>
+            <Hidden>true</Hidden>
+            <Action>question</Action>
+        </AskControls>
+        <CaseName></CaseName>
+    </Response>
+
+    <Response id="ts803">
+        <LeftRail>
+            <Id>main</Id>
+            <Hidden>false</Hidden>
+            <ModuleSelected>15</ModuleSelected>
+        </LeftRail>
+        <VideoControls>
+            <Hidden>false</Hidden>
+            <PreviousId>ts802</PreviousId>
+            <NextId>ts804</NextId>
+        </VideoControls>
+        <AskControls>
+            <Hidden>true</Hidden>
+            <Action>question</Action>
+        </AskControls>
+        <CaseName></CaseName>
+    </Response>
+
+    <Response id="ts804">
+        <LeftRail>
+            <Id>main</Id>
+            <Hidden>false</Hidden>
+            <ModuleSelected>15</ModuleSelected>
+        </LeftRail>
+        <VideoControls>
+            <Hidden>false</Hidden>
+            <PreviousId>ts803</PreviousId>
+            <NextId>ts805</NextId>
+        </VideoControls>
+        <AskControls>
+            <Hidden>true</Hidden>
+            <Action>question</Action>
+        </AskControls>
+        <CaseName></CaseName>
+    </Response>
+
+    <Response id="ts805">
+        <LeftRail>
+            <Id>main</Id>
+            <Hidden>false</Hidden>
+            <ModuleSelected>15</ModuleSelected>
+        </LeftRail>
+        <VideoControls>
+            <Hidden>false</Hidden>
+            <PreviousId>ts804</PreviousId>
+            <NextId>sp8intro</NextId>
+        </VideoControls>
+        <AskControls>
+            <Hidden>true</Hidden>
+            <Action>question</Action>
+        </AskControls>
+        <CaseName></CaseName>
+    </Response>
+
+    <Response id="sp8intro">
+        <LeftRail>
+            <Id>main</Id>
+            <Hidden>false</Hidden>
+            <ModuleSelected>15</ModuleSelected>
+        </LeftRail>
+        <VideoControls>
+            <Hidden>false</Hidden>
+            <PreviousId>ts805</PreviousId>
+            <NextId>sp801</NextId>
+        </VideoControls>
+        <AskControls>
+            <Hidden>true</Hidden>
+            <Action>question</Action>
+        </AskControls>
+        <CaseName></CaseName>
+    </Response>
+
+    <!-- TODO 1st attempt incorrect should go to sp801INOa, 2nd attempt incorrect should go to sp801INOb-->
+    <Response id="sp801">
+        <LeftRail>
+            <Id>main</Id>
+            <Hidden>false</Hidden>
+            <ModuleSelected>15</ModuleSelected>
+        </LeftRail>
+        <VideoControls>
+            <Hidden>false</Hidden>
+            <PreviousId>sp8intro</PreviousId>
+            <NextId></NextId>
+            <DoneId>sp802</DoneId>
+        </VideoControls>
+        <AskControls>
+            <Hidden>false</Hidden>
+            <Action>question</Action>
+        </AskControls>
+        <CaseName>EBI_SP8_ChangeOptions</CaseName>
+        <Answers>
+            <Answer id="motivational">sp801motivational</Answer>
+            <Answer id="inappropriate" type="attempts">
+                <Attempt>sp801inoa</Attempt>
+                <Attempt>sp801inob</Attempt>
+            </Answer>
+            <Answer id="noteffective" type="attempts">
+                <Attempt>sp801inoa</Attempt>
+                <Attempt>sp801inob</Attempt>
+            </Answer>
+            <Answer id="offtopic" type="attempts">
+                <Attempt>sp801inoa</Attempt>
+                <Attempt>sp801inob</Attempt>
+            </Answer>
+			<Answer id="shame">admin002</Answer>
+        </Answers>
+    </Response>
+
+    <Response id="sp801motivational">
+        <LeftRail>
+            <Id>main</Id>
+            <Hidden>false</Hidden>
+            <ModuleSelected>15</ModuleSelected>
+        </LeftRail>
+        <VideoControls>
+            <Hidden>false</Hidden>
+            <PreviousId>sp801</PreviousId>
+            <NextId>sp802</NextId>
+        </VideoControls>
+        <AskControls>
+            <Hidden>true</Hidden>
+            <Action>question</Action>
+        </AskControls>
+        <CaseName></CaseName>
+    </Response>
+
+    <Response id="sp801inoa">
+        <LeftRail>
+            <Id>main</Id>
+            <Hidden>false</Hidden>
+            <ModuleSelected>15</ModuleSelected>
+        </LeftRail>
+        <VideoControls>
+            <Hidden>false</Hidden>
+            <PreviousId>sp801</PreviousId>
+            <NextId>sp801</NextId>
+        </VideoControls>
+        <AskControls>
+            <Hidden>true</Hidden>
+            <Action>question</Action>
+        </AskControls>
+        <CaseName></CaseName>
+    </Response>
+
+    <Response id="sp801inob">
+        <LeftRail>
+            <Id>main</Id>
+            <Hidden>false</Hidden>
+            <ModuleSelected>15</ModuleSelected>
+        </LeftRail>
+        <VideoControls>
+            <Hidden>false</Hidden>
+            <PreviousId>sp801</PreviousId>
+            <NextId>sp802</NextId>
+        </VideoControls>
+        <AskControls>
+            <Hidden>true</Hidden>
+            <Action>question</Action>
+        </AskControls>
+        <CaseName></CaseName>
+    </Response>
+
+    <!-- TODO 1st attempt incorrect should go to sp802INOa, 2nd attempt incorrect should go to sp802INOb-->
+    <Response id="sp802">
+        <LeftRail>
+            <Id>main</Id>
+            <Hidden>false</Hidden>
+            <ModuleSelected>15</ModuleSelected>
+        </LeftRail>
+        <VideoControls>
+            <Hidden>false</Hidden>
+            <PreviousId>sp801</PreviousId>
+            <NextId></NextId>
+            <DoneId>sp803</DoneId>
+        </VideoControls>
+        <AskControls>
+            <Hidden>false</Hidden>
+            <Action>question</Action>
+        </AskControls>
+        <CaseName>EBI_SP8_ChangeOptions</CaseName>
+        <Answers>
+            <Answer id="motivational">sp802motivational</Answer>
+            <Answer id="inappropriate" type="attempts">
+                <Attempt>sp802inoa</Attempt>
+                <Attempt>sp802inob</Attempt>
+            </Answer>
+            <Answer id="noteffective" type="attempts">
+                <Attempt>sp802inoa</Attempt>
+                <Attempt>sp802inob</Attempt>
+            </Answer>
+            <Answer id="offtopic" type="attempts">
+                <Attempt>sp802inoa</Attempt>
+                <Attempt>sp802inob</Attempt>
+            </Answer>
+			<Answer id="shame">admin002</Answer>
+        </Answers>
+    </Response>
+
+    <Response id="sp802motivational">
+        <LeftRail>
+            <Id>main</Id>
+            <Hidden>false</Hidden>
+            <ModuleSelected>15</ModuleSelected>
+        </LeftRail>
+        <VideoControls>
+            <Hidden>false</Hidden>
+            <PreviousId>sp802</PreviousId>
+            <NextId>sp803</NextId>
+        </VideoControls>
+        <AskControls>
+            <Hidden>true</Hidden>
+            <Action>question</Action>
+        </AskControls>
+        <CaseName></CaseName>
+    </Response>
+
+    <Response id="sp802inoa">
+        <LeftRail>
+            <Id>main</Id>
+            <Hidden>false</Hidden>
+            <ModuleSelected>15</ModuleSelected>
+        </LeftRail>
+        <VideoControls>
+            <Hidden>false</Hidden>
+            <PreviousId>sp802</PreviousId>
+            <NextId>sp802</NextId>
+        </VideoControls>
+        <AskControls>
+            <Hidden>true</Hidden>
+            <Action>question</Action>
+        </AskControls>
+        <CaseName></CaseName>
+    </Response>
+
+    <Response id="sp802inob">
+        <LeftRail>
+            <Id>main</Id>
+            <Hidden>false</Hidden>
+            <ModuleSelected>15</ModuleSelected>
+        </LeftRail>
+        <VideoControls>
+            <Hidden>false</Hidden>
+            <PreviousId>sp802</PreviousId>
+            <NextId>sp803</NextId>
+        </VideoControls>
+        <AskControls>
+            <Hidden>true</Hidden>
+            <Action>question</Action>
+        </AskControls>
+        <CaseName></CaseName>
+    </Response>
+
+    <!-- TODO 1st attempt incorrect should go to sp803INOa, 2nd attempt incorrect should go to sp803INOb-->
+    <Response id="sp803">
+        <LeftRail>
+            <Id>main</Id>
+            <Hidden>false</Hidden>
+            <ModuleSelected>15</ModuleSelected>
+        </LeftRail>
+        <VideoControls>
+            <Hidden>false</Hidden>
+            <PreviousId>sp802</PreviousId>
+            <NextId></NextId>
+            <DoneId>ts806</DoneId>
+        </VideoControls>
+        <AskControls>
+            <Hidden>false</Hidden>
+            <Action>question</Action>            
+        </AskControls>
+        <CaseName>EBI_SP8_ChangeOptions</CaseName>
+        <Answers>
+            <Answer id="motivational">sp803motivational</Answer>
+            <Answer id="inappropriate" type="attempts">
+                <Attempt>sp803inoa</Attempt>
+                <Attempt>sp803inob</Attempt>
+            </Answer>
+            <Answer id="noteffective" type="attempts">
+                <Attempt>sp803inoa</Attempt>
+                <Attempt>sp803inob</Attempt>
+            </Answer>
+            <Answer id="offtopic" type="attempts">
+                <Attempt>sp803inoa</Attempt>
+                <Attempt>sp803inob</Attempt>
+            </Answer>
+			<Answer id="shame">admin002</Answer>
+        </Answers>
+    </Response>
+
+    <Response id="sp803motivational">
+        <LeftRail>
+            <Id>main</Id>
+            <Hidden>false</Hidden>
+            <ModuleSelected>15</ModuleSelected>
+        </LeftRail>
+        <VideoControls>
+            <Hidden>false</Hidden>
+            <PreviousId>sp803</PreviousId>
+            <NextId>ts806</NextId>
+        </VideoControls>
+        <AskControls>
+            <Hidden>true</Hidden>
+            <Action>question</Action>
+        </AskControls>
+        <CaseName></CaseName>
+    </Response>
+
+    <Response id="sp803inoa">
+        <LeftRail>
+            <Id>main</Id>
+            <Hidden>false</Hidden>
+            <ModuleSelected>15</ModuleSelected>
+        </LeftRail>
+        <VideoControls>
+            <Hidden>false</Hidden>
+            <PreviousId>sp803</PreviousId>
+            <NextId>sp803</NextId>
+        </VideoControls>
+        <AskControls>
+            <Hidden>true</Hidden>
+            <Action>question</Action>
+        </AskControls>
+        <CaseName></CaseName>
+    </Response>
+
+    <Response id="sp803inob">
+        <LeftRail>
+            <Id>main</Id>
+            <Hidden>false</Hidden>
+            <ModuleSelected>15</ModuleSelected>
+        </LeftRail>
+        <VideoControls>
+            <Hidden>false</Hidden>
+            <PreviousId>sp803</PreviousId>
+            <NextId>ts806</NextId>
+        </VideoControls>
+        <AskControls>
+            <Hidden>true</Hidden>
+            <Action>question</Action>
+        </AskControls>
+        <CaseName></CaseName>
+    </Response>
+    <Response id="ts806">
+        <LeftRail>
+            <Id>main</Id>
+            <Hidden>false</Hidden>
+            <ModuleSelected>15</ModuleSelected>
+        </LeftRail>
+        <VideoControls>
+            <Hidden>false</Hidden>
+            <PreviousId>sp803</PreviousId>
+            <NextId>ts901</NextId>
+        </VideoControls>
+        <AskControls>
+            <Hidden>true</Hidden>
+            <Action>question</Action>
+        </AskControls>
+        <CaseName></CaseName>
+    </Response>
+    <Response id="ts901">
+        <LeftRail>
+            <Id>main</Id>
+            <Hidden>false</Hidden>
+            <ModuleSelected>17</ModuleSelected>
+        </LeftRail>
+        <VideoControls>
+            <Hidden>false</Hidden>
+            <PreviousId>ts806</PreviousId>
+            <NextId>ts902</NextId>
+        </VideoControls>
+        <AskControls>
+            <Hidden>true</Hidden>
+            <Action>question</Action>
+        </AskControls>
+        <CaseName></CaseName>
+    </Response>
+
+    <Response id="ts902">
+        <LeftRail>
+            <Id>main</Id>
+            <Hidden>false</Hidden>
+            <ModuleSelected>17</ModuleSelected>
+        </LeftRail>
+        <VideoControls>
+            <Hidden>false</Hidden>
+            <PreviousId>ts901</PreviousId>
+            <NextId>ts903</NextId>
+        </VideoControls>
+        <AskControls>
+            <Hidden>true</Hidden>
+            <Action>question</Action>
+        </AskControls>
+        <CaseName></CaseName>
+    </Response>
+
+    <Response id="ts903">
+        <LeftRail>
+            <Id>main</Id>
+            <Hidden>false</Hidden>
+            <ModuleSelected>17</ModuleSelected>
+        </LeftRail>
+        <VideoControls>
+            <Hidden>false</Hidden>
+            <PreviousId>ts902</PreviousId>
+            <NextId>ts904</NextId>
+        </VideoControls>
+        <AskControls>
+            <Hidden>true</Hidden>
+            <Action>question</Action>
+        </AskControls>
+        <CaseName></CaseName>
+    </Response>
+
+    <Response id="ts904">
+        <LeftRail>
+            <Id>main</Id>
+            <Hidden>false</Hidden>
+            <ModuleSelected>17</ModuleSelected>
+        </LeftRail>
+        <VideoControls>
+            <Hidden>false</Hidden>
+            <PreviousId>ts903</PreviousId>
+            <NextId>psintrohost</NextId>
+        </VideoControls>
+        <AskControls>
+            <Hidden>true</Hidden>
+            <Action>question</Action>
+        </AskControls>
+        <CaseName></CaseName>
+    </Response>
+
+    <Response id="psintrohost">
+        <LeftRail>
+            <Id>main</Id>
+            <Hidden>false</Hidden>
+            <ModuleSelected>18</ModuleSelected>
+        </LeftRail>
+        <VideoControls>
+            <Hidden>false</Hidden>
+            <PreviousId>ts904</PreviousId>
+            <NextId>psintropat</NextId>
+        </VideoControls>
+        <AskControls>
+            <Hidden>true</Hidden>
+            <Action>question</Action>
+        </AskControls>
+        <CaseName></CaseName>
+    </Response>
+
+    <Response id="psintropat">
+        <LeftRail>
+            <Id>main</Id>
+            <Hidden>false</Hidden>
+            <ModuleSelected>18</ModuleSelected>
+        </LeftRail>
+        <VideoControls>
+            <Hidden>false</Hidden>
+            <PreviousId>psintrohost</PreviousId>
+            <NextId>ps1host</NextId>
+        </VideoControls>
+        <AskControls>
+            <Hidden>true</Hidden>
+            <Action>question</Action>
+        </AskControls>
+        <CaseName></CaseName>
+    </Response>
+
+    <Response id="ps1host">
+        <LeftRail>
+            <Id>main</Id>
+            <Hidden>false</Hidden>
+            <ModuleSelected>18</ModuleSelected>
+        </LeftRail>
+        <VideoControls>
+            <Hidden>false</Hidden>
+            <PreviousId>psintropat</PreviousId>
+            <NextId></NextId>
+            <DoneId></DoneId>
+        </VideoControls>
+        <AskControls>
+            <Hidden>false</Hidden>
+            <Action>question</Action>
+        </AskControls>
+        <CaseName>EBI_SM1_AskingPermission</CaseName>
+        <Answers>
+            <Answer id="motivational">ps1patmotivational</Answer>
+            <Answer id="inappropriate">ps1patinappropriate</Answer>
+            <Answer id="noteffective">ps1patnoteffective</Answer>
+            <Answer id="offtopic">ps1patofftopic</Answer>
+			<Answer id="shame">admin002</Answer>
+        </Answers>
+		
+    </Response>
+
+    <Response id="ps1patmotivational">
+        <LeftRail>
+            <Id>main</Id>
+            <Hidden>false</Hidden>
+            <ModuleSelected>18</ModuleSelected>
+        </LeftRail>
+        <VideoControls>
+            <Hidden>false</Hidden>
+            <PreviousId>ps1host</PreviousId>
+            <NextId>ps2hostmotivational</NextId>
+        </VideoControls>
+        <AskControls>
+            <Hidden>true</Hidden>
+            <Action>question</Action>
+        </AskControls>
+        <CaseName></CaseName>
+    </Response>
+
+    <Response id="ps1patinappropriate">
+        <LeftRail>
+            <Id>main</Id>
+            <Hidden>false</Hidden>
+            <ModuleSelected>18</ModuleSelected>
+        </LeftRail>
+        <VideoControls>
+            <Hidden>false</Hidden>
+            <PreviousId>ps1host</PreviousId>
+            <NextId>ps2hostinappropriate</NextId>
+        </VideoControls>
+        <AskControls>
+            <Hidden>true</Hidden>
+            <Action>question</Action>
+        </AskControls>
+        <CaseName></CaseName>
+    </Response>
+
+    <Response id="ps1patnoteffective">
+        <LeftRail>
+            <Id>main</Id>
+            <Hidden>false</Hidden>
+            <ModuleSelected>18</ModuleSelected>
+        </LeftRail>
+        <VideoControls>
+            <Hidden>false</Hidden>
+            <PreviousId>ps1host</PreviousId>
+            <NextId>ps2hostnoteffective</NextId>
+        </VideoControls>
+        <AskControls>
+            <Hidden>true</Hidden>
+            <Action>question</Action>
+        </AskControls>
+        <CaseName></CaseName>
+    </Response>
+
+    <Response id="ps1patofftopic">
+        <LeftRail>
+            <Id>main</Id>
+            <Hidden>false</Hidden>
+            <ModuleSelected>18</ModuleSelected>
+        </LeftRail>
+        <VideoControls>
+            <Hidden>false</Hidden>
+            <PreviousId>ps1host</PreviousId>
+            <NextId>ps2hostofftopic</NextId>
+        </VideoControls>
+        <AskControls>
+            <Hidden>true</Hidden>
+            <Action>question</Action>
+        </AskControls>
+        <CaseName></CaseName>
+    </Response>
+
+    <Response id="ps2hostmotivational">
+        <LeftRail>
+            <Id>main</Id>
+            <Hidden>false</Hidden>
+            <ModuleSelected>18</ModuleSelected>
+        </LeftRail>
+        <VideoControls>
+            <Hidden>false</Hidden>
+            <PreviousId>ps1patmotivational</PreviousId>
+            <NextId></NextId>
+        </VideoControls>
+        <AskControls>
+            <Hidden>false</Hidden>
+            <Action>question</Action>
+        </AskControls>
+        <CaseName>EBI_SM2_PresentingResults</CaseName>
+        <Answers>
+            <Answer id="motivational">ps2patmotivationalmm</Answer>
+            <Answer id="inappropriate">ps2patinappropriateim</Answer>
+            <Answer id="noteffective">ps2patnoteffectivenm</Answer>
+            <Answer id="offtopic">ps2patofftopicom</Answer>
+			<Answer id="shame">admin002</Answer>
+        </Answers>
+    </Response>
+
+    <Response id="ps2hostinappropriate">
+        <LeftRail>
+            <Id>main</Id>
+            <Hidden>false</Hidden>
+            <ModuleSelected>18</ModuleSelected>
+        </LeftRail>
+        <VideoControls>
+            <Hidden>false</Hidden>
+            <PreviousId>ps1patinappropriate</PreviousId>
+            <NextId></NextId>
+        </VideoControls>
+        <AskControls>
+            <Hidden>false</Hidden>
+            <Action>question</Action>
+        </AskControls>
+        <CaseName>EBI_SM2_PresentingResults</CaseName>
+        <Answers>
+            <Answer id="motivational">ps2patmotivationalmi</Answer>
+            <Answer id="inappropriate">ps2patinappropriateii</Answer>
+            <Answer id="noteffective">ps2patnoteffectiveni</Answer>
+            <Answer id="offtopic">ps2patofftopicoi</Answer>
+			<Answer id="shame">admin002</Answer>
+        </Answers>
+    </Response>
+
+    <Response id="ps2hostnoteffective">
+        <LeftRail>
+            <Id>main</Id>
+            <Hidden>false</Hidden>
+            <ModuleSelected>18</ModuleSelected>
+        </LeftRail>
+        <VideoControls>
+            <Hidden>false</Hidden>
+            <PreviousId>ps1patnoteffective</PreviousId>
+            <NextId></NextId>
+        </VideoControls>
+        <AskControls>
+            <Hidden>false</Hidden>
+            <Action>question</Action>
+        </AskControls>
+        <CaseName>EBI_SM2_PresentingResults</CaseName>
+        <Answers>
+            <Answer id="motivational">ps2patmotivationalmn</Answer>
+            <Answer id="inappropriate">ps2patinappropriatein</Answer>
+            <Answer id="noteffective">ps2patnoteffectivenn</Answer>
+            <Answer id="offtopic">ps2patofftopicon</Answer>
+			<Answer id="shame">admin002</Answer>
+        </Answers>
+    </Response>
+
+    <Response id="ps2hostofftopic">
+        <LeftRail>
+            <Id>main</Id>
+            <Hidden>false</Hidden>
+            <ModuleSelected>18</ModuleSelected>
+        </LeftRail>
+        <VideoControls>
+            <Hidden>false</Hidden>
+            <PreviousId>ps1patofftopic</PreviousId>
+            <NextId></NextId>
+        </VideoControls>
+        <AskControls>
+            <Hidden>false</Hidden>
+            <Action>question</Action>
+        </AskControls>
+        <CaseName>EBI_SM2_PresentingResults</CaseName>
+        <Answers>
+            <Answer id="motivational">ps2patmotivationalmo</Answer>
+            <Answer id="inappropriate">ps2patinappropriateio</Answer>
+            <Answer id="noteffective">ps2patnoteffectiveno</Answer>
+            <Answer id="offtopic">ps2patofftopicoo</Answer>
+			<Answer id="shame">admin002</Answer>
+        </Answers>
+    </Response>
+
+    <Response id="ps2patmotivationalmm">
+        <LeftRail>
+            <Id>main</Id>
+            <Hidden>false</Hidden>
+            <ModuleSelected>18</ModuleSelected>
+        </LeftRail>
+        <VideoControls>
+            <Hidden>false</Hidden>
+            <PreviousId>ps2hostmotivational</PreviousId>
+            <NextId>ps3hostmotivational</NextId>
+        </VideoControls>
+        <AskControls>
+            <Hidden>true</Hidden>
+            <Action>question</Action>
+        </AskControls>
+        <CaseName></CaseName>
+    </Response>
+
+    <Response id="ps2patmotivationalmi">
+        <LeftRail>
+            <Id>main</Id>
+            <Hidden>false</Hidden>
+            <ModuleSelected>18</ModuleSelected>
+        </LeftRail>
+        <VideoControls>
+            <Hidden>false</Hidden>
+            <PreviousId>ps2hostinappropriate</PreviousId>
+            <NextId>ps3hostmotivational</NextId>
+        </VideoControls>
+        <AskControls>
+            <Hidden>true</Hidden>
+            <Action>question</Action>
+        </AskControls>
+        <CaseName></CaseName>
+    </Response>
+
+    <Response id="ps2patmotivationalmn">
+        <LeftRail>
+            <Id>main</Id>
+            <Hidden>false</Hidden>
+            <ModuleSelected>18</ModuleSelected>
+        </LeftRail>
+        <VideoControls>
+            <Hidden>false</Hidden>
+            <PreviousId>ps2hostnoteffective</PreviousId>
+            <NextId>ps3hostmotivational</NextId>
+        </VideoControls>
+        <AskControls>
+            <Hidden>true</Hidden>
+            <Action>question</Action>
+        </AskControls>
+        <CaseName></CaseName>
+    </Response>
+
+    <Response id="ps2patmotivationalmo">
+        <LeftRail>
+            <Id>main</Id>
+            <Hidden>false</Hidden>
+            <ModuleSelected>18</ModuleSelected>
+        </LeftRail>
+        <VideoControls>
+            <Hidden>false</Hidden>
+            <PreviousId>ps2hostofftopic</PreviousId>
+            <NextId>ps3hostmotivational</NextId>
+        </VideoControls>
+        <AskControls>
+            <Hidden>true</Hidden>
+            <Action>question</Action>
+        </AskControls>
+        <CaseName></CaseName>
+    </Response>
+
+    <Response id="ps2patinappropriateim">
+        <LeftRail>
+            <Id>main</Id>
+            <Hidden>false</Hidden>
+            <ModuleSelected>18</ModuleSelected>
+        </LeftRail>
+        <VideoControls>
+            <Hidden>false</Hidden>
+            <PreviousId>ps2hostmotivational</PreviousId>
+            <NextId>ps3hostinappropriate</NextId>
+        </VideoControls>
+        <AskControls>
+            <Hidden>true</Hidden>
+            <Action>question</Action>
+        </AskControls>
+        <CaseName></CaseName>
+    </Response>
+
+    <Response id="ps2patinappropriateii">
+        <LeftRail>
+            <Id>main</Id>
+            <Hidden>false</Hidden>
+            <ModuleSelected>18</ModuleSelected>
+        </LeftRail>
+        <VideoControls>
+            <Hidden>false</Hidden>
+            <PreviousId>ps2hostinappropriate</PreviousId>
+            <NextId>ps3hostinappropriate</NextId>
+        </VideoControls>
+        <AskControls>
+            <Hidden>true</Hidden>
+            <Action>question</Action>
+        </AskControls>
+        <CaseName></CaseName>
+    </Response>
+
+    <Response id="ps2patinappropriatein">
+        <LeftRail>
+            <Id>main</Id>
+            <Hidden>false</Hidden>
+            <ModuleSelected>18</ModuleSelected>
+        </LeftRail>
+        <VideoControls>
+            <Hidden>false</Hidden>
+            <PreviousId>ps2hostnoteffective</PreviousId>
+            <NextId>ps3hostinappropriate</NextId>
+        </VideoControls>
+        <AskControls>
+            <Hidden>true</Hidden>
+            <Action>question</Action>
+        </AskControls>
+        <CaseName></CaseName>
+    </Response>
+
+    <Response id="ps2patinappropriateio">
+        <LeftRail>
+            <Id>main</Id>
+            <Hidden>false</Hidden>
+            <ModuleSelected>18</ModuleSelected>
+        </LeftRail>
+        <VideoControls>
+            <Hidden>false</Hidden>
+            <PreviousId>ps2hostofftopic</PreviousId>
+            <NextId>ps3hostinappropriate</NextId>
+        </VideoControls>
+        <AskControls>
+            <Hidden>true</Hidden>
+            <Action>question</Action>
+        </AskControls>
+        <CaseName></CaseName>
+    </Response>
+
+    <Response id="ps2patnoteffectivenm">
+        <LeftRail>
+            <Id>main</Id>
+            <Hidden>false</Hidden>
+            <ModuleSelected>18</ModuleSelected>
+        </LeftRail>
+        <VideoControls>
+            <Hidden>false</Hidden>
+            <PreviousId>ps2hostmotivational</PreviousId>
+            <NextId>ps3hostnoteffective</NextId>
+        </VideoControls>
+        <AskControls>
+            <Hidden>true</Hidden>
+            <Action>question</Action>
+        </AskControls>
+        <CaseName></CaseName>
+    </Response>
+
+    <Response id="ps2patnoteffectiveni">
+        <LeftRail>
+            <Id>main</Id>
+            <Hidden>false</Hidden>
+            <ModuleSelected>18</ModuleSelected>
+        </LeftRail>
+        <VideoControls>
+            <Hidden>false</Hidden>
+            <PreviousId>ps2hostinappropriate</PreviousId>
+            <NextId>ps3hostnoteffective</NextId>
+        </VideoControls>
+        <AskControls>
+            <Hidden>true</Hidden>
+            <Action>question</Action>
+        </AskControls>
+        <CaseName></CaseName>
+    </Response>
+
+    <Response id="ps2patnoteffectivenn">
+        <LeftRail>
+            <Id>main</Id>
+            <Hidden>false</Hidden>
+            <ModuleSelected>18</ModuleSelected>
+        </LeftRail>
+        <VideoControls>
+            <Hidden>false</Hidden>
+            <PreviousId>ps2hostnoteffective</PreviousId>
+            <NextId>ps3hostnoteffective</NextId>
+        </VideoControls>
+        <AskControls>
+            <Hidden>true</Hidden>
+            <Action>question</Action>
+        </AskControls>
+        <CaseName></CaseName>
+    </Response>
+
+    <Response id="ps2hostnoteffectiveoo">
+        <LeftRail>
+            <Id>main</Id>
+            <Hidden>false</Hidden>
+            <ModuleSelected>18</ModuleSelected>
+        </LeftRail>
+        <VideoControls>
+            <Hidden>false</Hidden>
+            <PreviousId>ps2hostnoteffective</PreviousId>
+            <NextId>ps3hostnoteffective</NextId>
+        </VideoControls>
+        <AskControls>
+            <Hidden>true</Hidden>
+            <Action>question</Action>
+        </AskControls>
+        <CaseName></CaseName>
+    </Response>
+
+    <Response id="ps2patofftopicom">
+        <LeftRail>
+            <Id>main</Id>
+            <Hidden>false</Hidden>
+            <ModuleSelected>18</ModuleSelected>
+        </LeftRail>
+        <VideoControls>
+            <Hidden>false</Hidden>
+            <PreviousId>ps2hostmotivational</PreviousId>
+            <NextId>ps3hostofftopic</NextId>
+        </VideoControls>
+        <AskControls>
+            <Hidden>true</Hidden>
+            <Action>question</Action>
+        </AskControls>
+        <CaseName></CaseName>
+    </Response>
+
+    <Response id="ps2patofftopicoi">
+        <LeftRail>
+            <Id>main</Id>
+            <Hidden>false</Hidden>
+            <ModuleSelected>18</ModuleSelected>
+        </LeftRail>
+        <VideoControls>
+            <Hidden>false</Hidden>
+            <PreviousId>ps2hostinappropriate</PreviousId>
+            <NextId>ps3hostofftopic</NextId>
+        </VideoControls>
+        <AskControls>
+            <Hidden>true</Hidden>
+            <Action>question</Action>
+        </AskControls>
+        <CaseName></CaseName>
+    </Response>
+
+    <Response id="ps2patofftopicon">
+        <LeftRail>
+            <Id>main</Id>
+            <Hidden>false</Hidden>
+            <ModuleSelected>18</ModuleSelected>
+        </LeftRail>
+        <VideoControls>
+            <Hidden>false</Hidden>
+            <PreviousId>ps2hostnoteffective</PreviousId>
+            <NextId>ps3hostofftopic</NextId>
+        </VideoControls>
+        <AskControls>
+            <Hidden>true</Hidden>
+            <Action>question</Action>
+        </AskControls>
+        <CaseName></CaseName>
+    </Response>
+
+    <Response id="ps2patofftopicoo">
+        <LeftRail>
+            <Id>main</Id>
+            <Hidden>false</Hidden>
+            <ModuleSelected>18</ModuleSelected>
+        </LeftRail>
+        <VideoControls>
+            <Hidden>false</Hidden>
+            <PreviousId>ps2hostofftopic</PreviousId>
+            <NextId>ps3hostofftopic</NextId>
+        </VideoControls>
+        <AskControls>
+            <Hidden>true</Hidden>
+            <Action>question</Action>
+        </AskControls>
+        <CaseName></CaseName>
+    </Response>
+    
+    
+    <Response id="ps2patnoteffectiveno">
+        <LeftRail>
+            <Id>main</Id>
+            <Hidden>false</Hidden>
+            <ModuleSelected>18</ModuleSelected>
+        </LeftRail>
+        <VideoControls>
+            <Hidden>false</Hidden>
+            <PreviousId>ps2hostofftopic</PreviousId>
+            <NextId>ps3hostnoteffective</NextId>
+        </VideoControls>
+        <AskControls>
+            <Hidden>true</Hidden>
+            <Action>question</Action>
+        </AskControls>
+        <CaseName></CaseName>
+    </Response>
+
+    <Response id="ps3hostmotivational">
+        <LeftRail>
+            <Id>main</Id>
+            <Hidden>false</Hidden>
+            <ModuleSelected>18</ModuleSelected>
+        </LeftRail>
+        <VideoControls>
+            <Hidden>false</Hidden>
+            <PreviousId></PreviousId>
+            <NextId></NextId>
+        </VideoControls>
+        <AskControls>
+            <Hidden>false</Hidden>
+            <Action>question</Action>
+        </AskControls>
+        <CaseName>EBI_SM3_RespondingToDiscord</CaseName>
+        <Answers>
+            <Answer id="motivational">ps3patmotivational</Answer>
+            <Answer id="inappropriate">ps3patinappropriate</Answer>
+            <Answer id="noteffective">ps3patnoteffective</Answer>
+            <Answer id="offtopic">ps3patofftopic</Answer>
+			<Answer id="shame">admin002</Answer>
+        </Answers>
+    </Response>
+
+    <Response id="ps3hostinappropriate">
+        <LeftRail>
+            <Id>main</Id>
+            <Hidden>false</Hidden>
+            <ModuleSelected>18</ModuleSelected>
+        </LeftRail>
+        <VideoControls>
+            <Hidden>false</Hidden>
+            <PreviousId></PreviousId>
+            <NextId></NextId>
+        </VideoControls>
+        <AskControls>
+            <Hidden>false</Hidden>
+            <Action>question</Action>
+        </AskControls>
+        <CaseName>EBI_SM3_RespondingToDiscord</CaseName>
+        <Answers>
+            <Answer id="motivational">ps3patmotivational</Answer>
+            <Answer id="inappropriate">ps3patinappropriate</Answer>
+            <Answer id="noteffective">ps3patnoteffective</Answer>
+            <Answer id="offtopic">ps3patofftopic</Answer>
+			<Answer id="shame">admin002</Answer>
+        </Answers>
+    </Response>
+
+    <Response id="ps3hostnoteffective">
+        <LeftRail>
+            <Id>main</Id>
+            <Hidden>false</Hidden>
+            <ModuleSelected>18</ModuleSelected>
+        </LeftRail>
+        <VideoControls>
+            <Hidden>false</Hidden>
+            <PreviousId></PreviousId>
+            <NextId></NextId>
+        </VideoControls>
+        <AskControls>
+            <Hidden>false</Hidden>
+            <Action>question</Action>
+        </AskControls>
+        <CaseName>EBI_SM3_RespondingToDiscord</CaseName>
+        <Answers>
+            <Answer id="motivational">ps3patmotivational</Answer>
+            <Answer id="inappropriate">ps3patinappropriate</Answer>
+            <Answer id="noteffective">ps3patnoteffective</Answer>
+            <Answer id="offtopic">ps3patofftopic</Answer>
+			<Answer id="shame">admin002</Answer>
+        </Answers>
+    </Response>
+
+    <Response id="ps3hostofftopic">
+        <LeftRail>
+            <Id>main</Id>
+            <Hidden>false</Hidden>
+            <ModuleSelected>18</ModuleSelected>
+        </LeftRail>
+        <VideoControls>
+            <Hidden>false</Hidden>
+            <PreviousId></PreviousId>
+            <NextId></NextId>
+        </VideoControls>
+        <AskControls>
+            <Hidden>false</Hidden>
+            <Action>question</Action>
+        </AskControls>
+        <CaseName>EBI_SM3_RespondingToDiscord</CaseName>
+        <Answers>
+            <Answer id="motivational">ps3patmotivational</Answer>
+            <Answer id="inappropriate">ps3patinappropriate</Answer>
+            <Answer id="noteffective">ps3patnoteffective</Answer>
+            <Answer id="offtopic">ps3patofftopic</Answer>
+			<Answer id="shame">admin002</Answer>
+        </Answers>
+    </Response>
+
+    <Response id="ps3patmotivational">
+        <LeftRail>
+            <Id>main</Id>
+            <Hidden>false</Hidden>
+            <ModuleSelected>18</ModuleSelected>
+        </LeftRail>
+        <VideoControls>
+            <Hidden>false</Hidden>
+            <PreviousId></PreviousId>
+            <NextId>ps4hostmotivational</NextId>
+        </VideoControls>
+        <AskControls>
+            <Hidden>true</Hidden>
+            <Action>question</Action>
+        </AskControls>
+        <CaseName></CaseName>
+    </Response>
+
+    <Response id="ps3patinappropriate">
+        <LeftRail>
+            <Id>main</Id>
+            <Hidden>false</Hidden>
+            <ModuleSelected>18</ModuleSelected>
+        </LeftRail>
+        <VideoControls>
+            <Hidden>false</Hidden>
+            <PreviousId></PreviousId>
+            <NextId>ps4hostinappropriate</NextId>
+        </VideoControls>
+        <AskControls>
+            <Hidden>true</Hidden>
+            <Action>question</Action>
+        </AskControls>
+        <CaseName></CaseName>
+    </Response>
+
+    <Response id="ps3patnoteffective">
+        <LeftRail>
+            <Id>main</Id>
+            <Hidden>false</Hidden>
+            <ModuleSelected>18</ModuleSelected>
+        </LeftRail>
+        <VideoControls>
+            <Hidden>false</Hidden>
+            <PreviousId></PreviousId>
+            <NextId>ps4hostnoteffective</NextId>
+        </VideoControls>
+        <AskControls>
+            <Hidden>true</Hidden>
+            <Action>question</Action>
+        </AskControls>
+        <CaseName></CaseName>
+    </Response>
+
+    <Response id="ps3patofftopic">
+        <LeftRail>
+            <Id>main</Id>
+            <Hidden>false</Hidden>
+            <ModuleSelected>18</ModuleSelected>
+        </LeftRail>
+        <VideoControls>
+            <Hidden>false</Hidden>
+            <PreviousId></PreviousId>
+            <NextId>ps4hostofftopic</NextId>
+        </VideoControls>
+        <AskControls>
+            <Hidden>true</Hidden>
+            <Action>question</Action>
+        </AskControls>
+        <CaseName></CaseName>
+    </Response>
+
+    <Response id="ps4hostmotivational">
+        <LeftRail>
+            <Id>main</Id>
+            <Hidden>false</Hidden>
+            <ModuleSelected>18</ModuleSelected>
+        </LeftRail>
+        <VideoControls>
+            <Hidden>false</Hidden>
+            <PreviousId>ps3patmotivational</PreviousId>
+            <NextId></NextId>
+        </VideoControls>
+        <AskControls>
+            <Hidden>false</Hidden>
+            <Action>question</Action>
+        </AskControls>
+        <CaseName>EBI_SP2_SM4_ProvidingFeedback</CaseName>
+        <Answers>
+            <Answer id="motivational">ps4patmotivational</Answer>
+            <Answer id="inappropriate">ps4patinappropriate</Answer>
+            <Answer id="noteffective">ps4patnoteffective</Answer>
+            <Answer id="offtopic">ps4patofftopic</Answer>
+			<Answer id="shame">admin002</Answer>
+        </Answers>
+    </Response>
+
+    <Response id="ps4hostinappropriate">
+        <LeftRail>
+            <Id>main</Id>
+            <Hidden>false</Hidden>
+            <ModuleSelected>18</ModuleSelected>
+        </LeftRail>
+        <VideoControls>
+            <Hidden>false</Hidden>
+            <PreviousId>ps3patinappropriate</PreviousId>
+            <NextId></NextId>
+        </VideoControls>
+        <AskControls>
+            <Hidden>false</Hidden>
+            <Action>question</Action>
+        </AskControls>
+        <CaseName>EBI_SP2_SM4_ProvidingFeedback</CaseName>
+        <Answers>
+            <Answer id="motivational">ps4patmotivational</Answer>
+            <Answer id="inappropriate">ps4patinappropriate</Answer>
+            <Answer id="noteffective">ps4patnoteffective</Answer>
+            <Answer id="offtopic">ps4patofftopic</Answer>
+			<Answer id="shame">admin002</Answer>
+        </Answers>
+    </Response>
+
+    <Response id="ps4hostnoteffective">
+        <LeftRail>
+            <Id>main</Id>
+            <Hidden>false</Hidden>
+            <ModuleSelected>18</ModuleSelected>
+        </LeftRail>
+        <VideoControls>
+            <Hidden>false</Hidden>
+            <PreviousId>ps3patnoteffective</PreviousId>
+            <NextId></NextId>
+        </VideoControls>
+        <AskControls>
+            <Hidden>false</Hidden>
+            <Action>question</Action>
+        </AskControls>
+        <CaseName>EBI_SP2_SM4_ProvidingFeedback</CaseName>
+        <Answers>
+            <Answer id="motivational">ps4patmotivational</Answer>
+            <Answer id="inappropriate">ps4patinappropriate</Answer>
+            <Answer id="noteffective">ps4patnoteffective</Answer>
+            <Answer id="offtopic">ps4patofftopic</Answer>
+			<Answer id="shame">admin002</Answer>
+        </Answers>
+    </Response>
+
+    <Response id="ps4hostofftopic">
+        <LeftRail>
+            <Id>main</Id>
+            <Hidden>false</Hidden>
+            <ModuleSelected>18</ModuleSelected>
+        </LeftRail>
+        <VideoControls>
+            <Hidden>false</Hidden>
+            <PreviousId>ps3patofftopic</PreviousId>
+            <NextId></NextId>
+        </VideoControls>
+        <AskControls>
+            <Hidden>false</Hidden>
+            <Action>question</Action>
+        </AskControls>
+        <CaseName>EBI_SP2_SM4_ProvidingFeedback</CaseName>
+        <Answers>
+            <Answer id="motivational">ps4patmotivational</Answer>
+            <Answer id="inappropriate">ps4patinappropriate</Answer>
+            <Answer id="noteffective">ps4patnoteffective</Answer>
+            <Answer id="offtopic">ps4patofftopic</Answer>
+			<Answer id="shame">admin002</Answer>
+        </Answers>
+    </Response>
+
+    <Response id="ps4patmotivational">
+        <LeftRail>
+            <Id>main</Id>
+            <Hidden>false</Hidden>
+            <ModuleSelected>18</ModuleSelected>
+        </LeftRail>
+        <VideoControls>
+            <Hidden>false</Hidden>
+            <PreviousId></PreviousId>
+            <NextId>ps5hostmotivational</NextId>
+        </VideoControls>
+        <AskControls>
+            <Hidden>true</Hidden>
+            <Action>question</Action>
+        </AskControls>
+        <CaseName></CaseName>
+    </Response>
+
+    <Response id="ps4patinappropriate">
+        <LeftRail>
+            <Id>main</Id>
+            <Hidden>false</Hidden>
+            <ModuleSelected>18</ModuleSelected>
+        </LeftRail>
+        <VideoControls>
+            <Hidden>false</Hidden>
+            <PreviousId></PreviousId>
+            <NextId>ps5hostinappropriate</NextId>
+        </VideoControls>
+        <AskControls>
+            <Hidden>true</Hidden>
+            <Action>question</Action>
+        </AskControls>
+        <CaseName></CaseName>
+    </Response>
+
+    <Response id="ps4patnoteffective">
+        <LeftRail>
+            <Id>main</Id>
+            <Hidden>false</Hidden>
+            <ModuleSelected>18</ModuleSelected>
+        </LeftRail>
+        <VideoControls>
+            <Hidden>false</Hidden>
+            <PreviousId></PreviousId>
+            <NextId>ps5hostnoteffective</NextId>
+        </VideoControls>
+        <AskControls>
+            <Hidden>true</Hidden>
+            <Action>question</Action>
+        </AskControls>
+        <CaseName></CaseName>
+    </Response>
+
+    <Response id="ps4patofftopic">
+        <LeftRail>
+            <Id>main</Id>
+            <Hidden>false</Hidden>
+            <ModuleSelected>18</ModuleSelected>
+        </LeftRail>
+        <VideoControls>
+            <Hidden>false</Hidden>
+            <PreviousId></PreviousId>
+            <NextId>ps5hostofftopic</NextId>
+        </VideoControls>
+        <AskControls>
+            <Hidden>true</Hidden>
+            <Action>question</Action>
+        </AskControls>
+        <CaseName></CaseName>
+    </Response>
+
+    <Response id="ps5hostmotivational">
+        <LeftRail>
+            <Id>main</Id>
+            <Hidden>false</Hidden>
+            <ModuleSelected>18</ModuleSelected>
+        </LeftRail>
+        <VideoControls>
+            <Hidden>false</Hidden>
+            <PreviousId>ps4patmotivational</PreviousId>
+            <NextId></NextId>
+        </VideoControls>
+        <AskControls>
+            <Hidden>false</Hidden>
+            <Action>question</Action>
+        </AskControls>
+        <CaseName>filter_open_ended</CaseName>
+        <Answers>
+            <Answer id="yes" case="EBI_SP3_SM5_OpenEnded"></Answer>
+<!--            <Answer id="no">open_ended_filter_no_response</Answer>-->
+                <Answer id="no">ps5patnoteffective</Answer>
+            <Answer id="motivational">ps5patmotivational</Answer>
+            <Answer id="inappropriate">ps5patinappropriate</Answer>
+            <Answer id="noteffective">ps5patnoteffective</Answer>
+            <Answer id="offtopic">ps5patofftopic</Answer>
+			<Answer id="shame">admin002</Answer>
+        </Answers>
+    </Response>
+
+    <Response id="ps5hostinappropriate">
+        <LeftRail>
+            <Id>main</Id>
+            <Hidden>false</Hidden>
+            <ModuleSelected>18</ModuleSelected>
+        </LeftRail>
+        <VideoControls>
+            <Hidden>false</Hidden>
+            <PreviousId>ps4patinappropriate</PreviousId>
+            <NextId></NextId>
+        </VideoControls>
+        <AskControls>
+            <Hidden>false</Hidden>
+            <Action>question</Action>
+        </AskControls>
+        <CaseName>filter_open_ended</CaseName>
+        <Answers>
+            <Answer id="yes" case="EBI_SP3_SM5_OpenEnded"></Answer>
+<!--            <Answer id="no">open_ended_filter_no_response</Answer>-->
+            <Answer id="no">ps5patnoteffective</Answer>
+            <Answer id="motivational">ps5patmotivational</Answer>
+            <Answer id="inappropriate">ps5patinappropriate</Answer>
+            <Answer id="noteffective">ps5patnoteffective</Answer>
+            <Answer id="offtopic">ps5patofftopic</Answer>
+			<Answer id="shame">admin002</Answer>
+        </Answers>
+    </Response>
+
+    <Response id="ps5hostnoteffective">
+        <LeftRail>
+            <Id>main</Id>
+            <Hidden>false</Hidden>
+            <ModuleSelected>18</ModuleSelected>
+        </LeftRail>
+        <VideoControls>
+            <Hidden>false</Hidden>
+            <PreviousId>ps4patnoteffective</PreviousId>
+            <NextId></NextId>
+        </VideoControls>
+        <AskControls>
+            <Hidden>false</Hidden>
+            <Action>question</Action>
+        </AskControls>
+        <CaseName>filter_open_ended</CaseName>
+        <Answers>
+            <Answer id="yes" case="EBI_SP3_SM5_OpenEnded"></Answer>
+            <!--<Answer id="no">open_ended_filter_no_response</Answer>-->
+            <Answer id="no">ps5patnoteffective</Answer>
+            <Answer id="motivational">ps5patmotivational</Answer>
+            <Answer id="inappropriate">ps5patinappropriate</Answer>
+            <Answer id="noteffective">ps5patnoteffective</Answer>
+            <Answer id="offtopic">ps5patofftopic</Answer>
+			<Answer id="shame">admin002</Answer>
+        </Answers>
+    </Response>
+
+    <Response id="ps5hostofftopic">
+        <LeftRail>
+            <Id>main</Id>
+            <Hidden>false</Hidden>
+            <ModuleSelected>18</ModuleSelected>
+        </LeftRail>
+        <VideoControls>
+            <Hidden>false</Hidden>
+            <PreviousId>ps4patofftopic</PreviousId>
+            <NextId></NextId>
+        </VideoControls>
+        <AskControls>
+            <Hidden>false</Hidden>
+            <Action>question</Action>
+        </AskControls>
+        <CaseName>filter_open_ended</CaseName>
+        <Answers>
+            <Answer id="yes" case="EBI_SP3_SM5_OpenEnded"></Answer>
+            <!--<Answer id="no">open_ended_filter_no_response</Answer>-->
+            <Answer id="no">ps5patnoteffective</Answer>
+            <Answer id="motivational">ps5patmotivational</Answer>
+            <Answer id="inappropriate">ps5patinappropriate</Answer>
+            <Answer id="noteffective">ps5patnoteffective</Answer>
+            <Answer id="offtopic">ps5patofftopic</Answer>
+			<Answer id="shame">admin002</Answer>
+        </Answers>
+    </Response>
+
+    <Response id="ps5patmotivational">
+        <LeftRail>
+            <Id>main</Id>
+            <Hidden>false</Hidden>
+            <ModuleSelected>18</ModuleSelected>
+        </LeftRail>
+        <VideoControls>
+            <Hidden>false</Hidden>
+            <PreviousId></PreviousId>
+            <NextId>ps6hostmotivational</NextId>
+        </VideoControls>
+        <AskControls>
+            <Hidden>true</Hidden>
+            <Action>question</Action>
+        </AskControls>
+        <CaseName></CaseName>
+    </Response>
+
+    <Response id="ps5patinappropriate">
+        <LeftRail>
+            <Id>main</Id>
+            <Hidden>false</Hidden>
+            <ModuleSelected>18</ModuleSelected>
+        </LeftRail>
+        <VideoControls>
+            <Hidden>false</Hidden>
+            <PreviousId></PreviousId>
+            <NextId>ps6hostinappropriate</NextId>
+        </VideoControls>
+        <AskControls>
+            <Hidden>true</Hidden>
+            <Action>question</Action>
+        </AskControls>
+        <CaseName></CaseName>
+    </Response>
+
+    <Response id="ps5patnoteffective">
+        <LeftRail>
+            <Id>main</Id>
+            <Hidden>false</Hidden>
+            <ModuleSelected>18</ModuleSelected>
+        </LeftRail>
+        <VideoControls>
+            <Hidden>false</Hidden>
+            <PreviousId></PreviousId>
+            <NextId>ps6hostnoteffective</NextId>
+        </VideoControls>
+        <AskControls>
+            <Hidden>true</Hidden>
+            <Action>question</Action>
+        </AskControls>
+        <CaseName></CaseName>
+    </Response>
+
+    <Response id="ps5patofftopic">
+        <LeftRail>
+            <Id>main</Id>
+            <Hidden>false</Hidden>
+            <ModuleSelected>18</ModuleSelected>
+        </LeftRail>
+        <VideoControls>
+            <Hidden>false</Hidden>
+            <PreviousId></PreviousId>
+            <NextId>ps6hostofftopic</NextId>
+        </VideoControls>
+        <AskControls>
+            <Hidden>true</Hidden>
+            <Action>question</Action>
+        </AskControls>
+        <CaseName></CaseName>
+    </Response>
+
+    <Response id="ps6hostmotivational">
+        <LeftRail>
+            <Id>main</Id>
+            <Hidden>false</Hidden>
+            <ModuleSelected>18</ModuleSelected>
+        </LeftRail>
+        <VideoControls>
+            <Hidden>false</Hidden>
+            <PreviousId>ps5patmotivational</PreviousId>
+            <NextId></NextId>
+        </VideoControls>
+        <AskControls>
+            <Hidden>false</Hidden>
+            <Action>question</Action>
+        </AskControls>
+        <CaseName>EBI_SM6_Summarizing</CaseName>
+        <Answers>
+            <Answer id="motivational">ps6patmotivational</Answer>
+            <Answer id="inappropriate">ps6patinappropriate</Answer>
+            <Answer id="noteffective">ps6patnoteffective</Answer>
+            <Answer id="offtopic">ps6patofftopic</Answer>
+			<Answer id="shame">admin002</Answer>
+        </Answers>
+    </Response>
+
+    <Response id="ps6hostinappropriate">
+        <LeftRail>
+            <Id>main</Id>
+            <Hidden>false</Hidden>
+            <ModuleSelected>18</ModuleSelected>
+        </LeftRail>
+        <VideoControls>
+            <Hidden>false</Hidden>
+            <PreviousId>ps5patinappropriate</PreviousId>
+            <NextId></NextId>
+        </VideoControls>
+        <AskControls>
+            <Hidden>false</Hidden>
+            <Action>question</Action>
+        </AskControls>
+        <CaseName>EBI_SM6_Summarizing</CaseName>
+        <Answers>
+            <Answer id="motivational">ps6patmotivational</Answer>
+            <Answer id="inappropriate">ps6patinappropriate</Answer>
+            <Answer id="noteffective">ps6patnoteffective</Answer>
+            <Answer id="offtopic">ps6patofftopic</Answer>
+			<Answer id="shame">admin002</Answer>
+        </Answers>
+    </Response>
+
+    <Response id="ps6hostnoteffective">
+        <LeftRail>
+            <Id>main</Id>
+            <Hidden>false</Hidden>
+            <ModuleSelected>18</ModuleSelected>
+        </LeftRail>
+        <VideoControls>
+            <Hidden>false</Hidden>
+            <PreviousId>ps5patnoteffective</PreviousId>
+            <NextId></NextId>
+        </VideoControls>
+        <AskControls>
+            <Hidden>false</Hidden>
+            <Action>question</Action>
+        </AskControls>
+        <CaseName>EBI_SM6_Summarizing</CaseName>
+        <Answers>
+            <Answer id="motivational">ps6patmotivational</Answer>
+            <Answer id="inappropriate">ps6patinappropriate</Answer>
+            <Answer id="noteffective">ps6patnoteffective</Answer>
+            <Answer id="offtopic">ps6patofftopic</Answer>
+			<Answer id="shame">admin002</Answer>
+        </Answers>
+    </Response>
+
+    <Response id="ps6hostofftopic">
+        <LeftRail>
+            <Id>main</Id>
+            <Hidden>false</Hidden>
+            <ModuleSelected>18</ModuleSelected>
+        </LeftRail>
+        <VideoControls>
+            <Hidden>false</Hidden>
+            <PreviousId>ps5patofftopic</PreviousId>
+            <NextId></NextId>
+        </VideoControls>
+        <AskControls>
+            <Hidden>false</Hidden>
+            <Action>question</Action>
+        </AskControls>
+        <CaseName>EBI_SM6_Summarizing</CaseName>
+        <Answers>
+            <Answer id="motivational">ps6patmotivational</Answer>
+            <Answer id="inappropriate">ps6patinappropriate</Answer>
+            <Answer id="noteffective">ps6patnoteffective</Answer>
+            <Answer id="offtopic">ps6patofftopic</Answer>
+			<Answer id="shame">admin002</Answer>
+        </Answers>
+    </Response>
+
+    <Response id="ps6patmotivational">
+        <LeftRail>
+            <Id>main</Id>
+            <Hidden>false</Hidden>
+            <ModuleSelected>18</ModuleSelected>
+        </LeftRail>
+        <VideoControls>
+            <Hidden>false</Hidden>
+            <PreviousId></PreviousId>
+            <NextId>ps7hostmotivational</NextId>
+        </VideoControls>
+        <AskControls>
+            <Hidden>true</Hidden>
+            <Action>question</Action>
+        </AskControls>
+        <CaseName></CaseName>
+    </Response>
+
+    <Response id="ps6patinappropriate">
+        <LeftRail>
+            <Id>main</Id>
+            <Hidden>false</Hidden>
+            <ModuleSelected>18</ModuleSelected>
+        </LeftRail>
+        <VideoControls>
+            <Hidden>false</Hidden>
+            <PreviousId></PreviousId>
+            <NextId>ps7hostinappropriate</NextId>
+        </VideoControls>
+        <AskControls>
+            <Hidden>true</Hidden>
+            <Action>question</Action>
+        </AskControls>
+        <CaseName></CaseName>
+    </Response>
+
+    <Response id="ps6patnoteffective">
+        <LeftRail>
+            <Id>main</Id>
+            <Hidden>false</Hidden>
+            <ModuleSelected>18</ModuleSelected>
+        </LeftRail>
+        <VideoControls>
+            <Hidden>false</Hidden>
+            <PreviousId></PreviousId>
+            <NextId>ps7hostnoteffective</NextId>
+        </VideoControls>
+        <AskControls>
+            <Hidden>true</Hidden>
+            <Action>question</Action>
+        </AskControls>
+        <CaseName></CaseName>
+    </Response>
+
+    <Response id="ps6patofftopic">
+        <LeftRail>
+            <Id>main</Id>
+            <Hidden>false</Hidden>
+            <ModuleSelected>18</ModuleSelected>
+        </LeftRail>
+        <VideoControls>
+            <Hidden>false</Hidden>
+            <PreviousId></PreviousId>
+            <NextId>ps7hostofftopic</NextId>
+        </VideoControls>
+        <AskControls>
+            <Hidden>true</Hidden>
+            <Action>question</Action>
+        </AskControls>
+        <CaseName></CaseName>
+    </Response>
+
+    <Response id="ps7hostmotivational">
+        <LeftRail>
+            <Id>main</Id>
+            <Hidden>false</Hidden>
+            <ModuleSelected>18</ModuleSelected>
+        </LeftRail>
+        <VideoControls>
+            <Hidden>false</Hidden>
+            <PreviousId>ps6patmotivational</PreviousId>
+            <NextId></NextId>
+        </VideoControls>
+        <AskControls>
+            <Hidden>false</Hidden>
+            <Action>question</Action>
+        </AskControls>
+        <CaseName>EBI_SM7_ReadinessRuler</CaseName>
+        <Answers>
+            <Answer id="motivational">ps7patmotivational</Answer>
+            <Answer id="inappropriate">ps7patinappropriate</Answer>
+            <Answer id="noteffective">ps7patnoteffective</Answer>
+            <Answer id="offtopic">ps7patofftopic</Answer>
+			<Answer id="shame">admin002</Answer>
+        </Answers>
+    </Response>
+
+    <Response id="ps7hostinappropriate">
+        <LeftRail>
+            <Id>main</Id>
+            <Hidden>false</Hidden>
+            <ModuleSelected>18</ModuleSelected>
+        </LeftRail>
+        <VideoControls>
+            <Hidden>false</Hidden>
+            <PreviousId>ps6patinappropriate</PreviousId>
+            <NextId></NextId>
+        </VideoControls>
+        <AskControls>
+            <Hidden>false</Hidden>
+            <Action>question</Action>
+        </AskControls>
+        <CaseName>EBI_SM7_ReadinessRuler</CaseName>
+        <Answers>
+            <Answer id="motivational">ps7patmotivational</Answer>
+            <Answer id="inappropriate">ps7patinappropriate</Answer>
+            <Answer id="noteffective">ps7patnoteffective</Answer>
+            <Answer id="offtopic">ps7patofftopic</Answer>
+			<Answer id="shame">admin002</Answer>
+        </Answers>
+    </Response>
+
+    <Response id="ps7hostnoteffective">
+        <LeftRail>
+            <Id>main</Id>
+            <Hidden>false</Hidden>
+            <ModuleSelected>18</ModuleSelected>
+        </LeftRail>
+        <VideoControls>
+            <Hidden>false</Hidden>
+            <PreviousId>ps6patnoteffective</PreviousId>
+            <NextId></NextId>
+        </VideoControls>
+        <AskControls>
+            <Hidden>false</Hidden>
+            <Action>question</Action>
+        </AskControls>
+        <CaseName>EBI_SM7_ReadinessRuler</CaseName>
+        <Answers>
+            <Answer id="motivational">ps7patmotivational</Answer>
+            <Answer id="inappropriate">ps7patinappropriate</Answer>
+            <Answer id="noteffective">ps7patnoteffective</Answer>
+            <Answer id="offtopic">ps7patofftopic</Answer>
+			<Answer id="shame">admin002</Answer>
+        </Answers>
+    </Response>
+
+    <Response id="ps7hostofftopic">
+        <LeftRail>
+            <Id>main</Id>
+            <Hidden>false</Hidden>
+            <ModuleSelected>18</ModuleSelected>
+        </LeftRail>
+        <VideoControls>
+            <Hidden>false</Hidden>
+            <PreviousId>ps6patofftopic</PreviousId>
+            <NextId></NextId>
+        </VideoControls>
+        <AskControls>
+            <Hidden>false</Hidden>
+            <Action>question</Action>
+        </AskControls>
+        <CaseName>EBI_SM7_ReadinessRuler</CaseName>
+        <Answers>
+            <Answer id="motivational">ps7patmotivational</Answer>
+            <Answer id="inappropriate">ps7patinappropriate</Answer>
+            <Answer id="noteffective">ps7patnoteffective</Answer>
+            <Answer id="offtopic">ps7patofftopic</Answer>
+			<Answer id="shame">admin002</Answer>
+        </Answers>
+    </Response>
+
+    <Response id="ps7patmotivational">
+        <LeftRail>
+            <Id>main</Id>
+            <Hidden>false</Hidden>
+            <ModuleSelected>18</ModuleSelected>
+        </LeftRail>
+        <VideoControls>
+            <Hidden>false</Hidden>
+            <PreviousId></PreviousId>
+            <NextId>ps8hostmotivational</NextId>
+        </VideoControls>
+        <AskControls>
+            <Hidden>true</Hidden>
+            <Action>question</Action>
+        </AskControls>
+        <CaseName></CaseName>
+    </Response>
+
+    <Response id="ps7patinappropriate">
+        <LeftRail>
+            <Id>main</Id>
+            <Hidden>false</Hidden>
+            <ModuleSelected>18</ModuleSelected>
+        </LeftRail>
+        <VideoControls>
+            <Hidden>false</Hidden>
+            <PreviousId></PreviousId>
+            <NextId>ps8hostinappropriate</NextId>
+        </VideoControls>
+        <AskControls>
+            <Hidden>true</Hidden>
+            <Action>question</Action>
+        </AskControls>
+        <CaseName></CaseName>
+    </Response>
+
+    <Response id="ps7patnoteffective">
+        <LeftRail>
+            <Id>main</Id>
+            <Hidden>false</Hidden>
+            <ModuleSelected>18</ModuleSelected>
+        </LeftRail>
+        <VideoControls>
+            <Hidden>false</Hidden>
+            <PreviousId></PreviousId>
+            <NextId>ps8hostnoteffective</NextId>
+        </VideoControls>
+        <AskControls>
+            <Hidden>true</Hidden>
+            <Action>question</Action>
+        </AskControls>
+        <CaseName></CaseName>
+    </Response>
+
+    <Response id="ps7patofftopic">
+        <LeftRail>
+            <Id>main</Id>
+            <Hidden>false</Hidden>
+            <ModuleSelected>18</ModuleSelected>
+        </LeftRail>
+        <VideoControls>
+            <Hidden>false</Hidden>
+            <PreviousId></PreviousId>
+            <NextId>ps8hostofftopic</NextId>
+        </VideoControls>
+        <AskControls>
+            <Hidden>true</Hidden>
+            <Action>question</Action>
+        </AskControls>
+        <CaseName></CaseName>
+    </Response>
+
+    <Response id="ps8hostmotivational">
+        <LeftRail>
+            <Id>main</Id>
+            <Hidden>false</Hidden>
+            <ModuleSelected>18</ModuleSelected>
+        </LeftRail>
+        <VideoControls>
+            <Hidden>false</Hidden>
+            <PreviousId>ps7patmotivational</PreviousId>
+            <NextId></NextId>
+        </VideoControls>
+        <AskControls>
+            <Hidden>false</Hidden>
+            <Action>question</Action>
+        </AskControls>
+        <CaseName>EBI_SM8_ReinforcingReadiness</CaseName>
+        <Answers>
+            <Answer id="motivational">ps8patmotivational</Answer>
+            <Answer id="inappropriate">ps8patinappropriate</Answer>
+            <Answer id="noteffective">ps8patnoteffective</Answer>
+            <Answer id="offtopic">ps8patofftopic</Answer>
+			<Answer id="shame">admin002</Answer>
+        </Answers>
+    </Response>
+
+    <Response id="ps8hostinappropriate">
+        <LeftRail>
+            <Id>main</Id>
+            <Hidden>false</Hidden>
+            <ModuleSelected>18</ModuleSelected>
+        </LeftRail>
+        <VideoControls>
+            <Hidden>false</Hidden>
+            <PreviousId>ps7patinappropriate</PreviousId>
+            <NextId></NextId>
+        </VideoControls>
+        <AskControls>
+            <Hidden>false</Hidden>
+            <Action>question</Action>
+        </AskControls>
+        <CaseName>EBI_SM8_ReinforcingReadiness</CaseName>
+        <Answers>
+            <Answer id="motivational">ps8patmotivational</Answer>
+            <Answer id="inappropriate">ps8patinappropriate</Answer>
+            <Answer id="noteffective">ps8patnoteffective</Answer>
+            <Answer id="offtopic">ps8patofftopic</Answer>
+			<Answer id="shame">admin002</Answer>
+        </Answers>
+    </Response>
+
+    <Response id="ps8hostnoteffective">
+        <LeftRail>
+            <Id>main</Id>
+            <Hidden>false</Hidden>
+            <ModuleSelected>18</ModuleSelected>
+        </LeftRail>
+        <VideoControls>
+            <Hidden>false</Hidden>
+            <PreviousId>ps7patnoteffective</PreviousId>
+            <NextId></NextId>
+        </VideoControls>
+        <AskControls>
+            <Hidden>false</Hidden>
+            <Action>question</Action>
+        </AskControls>
+        <CaseName>EBI_SM8_ReinforcingReadiness</CaseName>
+        <Answers>
+            <Answer id="motivational">ps8patmotivational</Answer>
+            <Answer id="inappropriate">ps8patinappropriate</Answer>
+            <Answer id="noteffective">ps8patnoteffective</Answer>
+            <Answer id="offtopic">ps8patofftopic</Answer>
+			<Answer id="shame">admin002</Answer>
+        </Answers>
+    </Response>
+
+    <Response id="ps8hostofftopic">
+        <LeftRail>
+            <Id>main</Id>
+            <Hidden>false</Hidden>
+            <ModuleSelected>18</ModuleSelected>
+        </LeftRail>
+        <VideoControls>
+            <Hidden>false</Hidden>
+            <PreviousId>ps7patofftopic</PreviousId>
+            <NextId></NextId>
+        </VideoControls>
+        <AskControls>
+            <Hidden>false</Hidden>
+            <Action>question</Action>
+        </AskControls>
+        <CaseName>EBI_SM8_ReinforcingReadiness</CaseName>
+        <Answers>
+            <Answer id="motivational">ps8patmotivational</Answer>
+            <Answer id="inappropriate">ps8patinappropriate</Answer>
+            <Answer id="noteffective">ps8patnoteffective</Answer>
+            <Answer id="offtopic">ps8patofftopic</Answer>
+			<Answer id="shame">admin002</Answer>
+        </Answers>
+    </Response>
+
+    <Response id="ps8patmotivational">
+        <LeftRail>
+            <Id>main</Id>
+            <Hidden>false</Hidden>
+            <ModuleSelected>18</ModuleSelected>
+        </LeftRail>
+        <VideoControls>
+            <Hidden>false</Hidden>
+            <PreviousId></PreviousId>
+            <NextId>ps9hostmotivational</NextId>
+        </VideoControls>
+        <AskControls>
+            <Hidden>true</Hidden>
+            <Action>question</Action>
+        </AskControls>
+        <CaseName></CaseName>
+    </Response>
+
+    <Response id="ps8patinappropriate">
+        <LeftRail>
+            <Id>main</Id>
+            <Hidden>false</Hidden>
+            <ModuleSelected>18</ModuleSelected>
+        </LeftRail>
+        <VideoControls>
+            <Hidden>false</Hidden>
+            <PreviousId></PreviousId>
+            <NextId>ps9hostinappropriate</NextId>
+        </VideoControls>
+        <AskControls>
+            <Hidden>true</Hidden>
+            <Action>question</Action>
+        </AskControls>
+        <CaseName></CaseName>
+    </Response>
+
+    <Response id="ps8patnoteffective">
+        <LeftRail>
+            <Id>main</Id>
+            <Hidden>false</Hidden>
+            <ModuleSelected>18</ModuleSelected>
+        </LeftRail>
+        <VideoControls>
+            <Hidden>false</Hidden>
+            <PreviousId></PreviousId>
+            <NextId>ps9hostnoteffective</NextId>
+        </VideoControls>
+        <AskControls>
+            <Hidden>true</Hidden>
+            <Action>question</Action>
+        </AskControls>
+        <CaseName></CaseName>
+    </Response>
+
+    <Response id="ps8patofftopic">
+        <LeftRail>
+            <Id>main</Id>
+            <Hidden>false</Hidden>
+            <ModuleSelected>18</ModuleSelected>
+        </LeftRail>
+        <VideoControls>
+            <Hidden>false</Hidden>
+            <PreviousId></PreviousId>
+            <NextId>ps9hostofftopic</NextId>
+        </VideoControls>
+        <AskControls>
+            <Hidden>true</Hidden>
+            <Action>question</Action>
+        </AskControls>
+        <CaseName></CaseName>
+    </Response>
+
+    <Response id="ps9hostmotivational">
+        <LeftRail>
+            <Id>main</Id>
+            <Hidden>false</Hidden>
+            <ModuleSelected>18</ModuleSelected>
+        </LeftRail>
+        <VideoControls>
+            <Hidden>false</Hidden>
+            <PreviousId>ps8patmotivational</PreviousId>
+            <NextId></NextId>
+        </VideoControls>
+        <AskControls>
+            <Hidden>false</Hidden>
+            <Action>question</Action>
+        </AskControls>
+        <CaseName>EBI_SP8_ChangeOptions</CaseName>
+        <Answers>
+            <Answer id="motivational">ps9patmotivational</Answer>
+            <Answer id="inappropriate">ps9patinappropriate</Answer>
+            <Answer id="noteffective">ps9patnoteffective</Answer>
+            <Answer id="offtopic">ps9patofftopic</Answer>
+			<Answer id="shame">admin002</Answer>
+        </Answers>
+    </Response>
+
+    <Response id="ps9hostinappropriate">
+        <LeftRail>
+            <Id>main</Id>
+            <Hidden>false</Hidden>
+            <ModuleSelected>18</ModuleSelected>
+        </LeftRail>
+        <VideoControls>
+            <Hidden>false</Hidden>
+            <PreviousId>ps8patinappropriate</PreviousId>
+            <NextId></NextId>
+        </VideoControls>
+        <AskControls>
+            <Hidden>false</Hidden>
+            <Action>question</Action>
+        </AskControls>
+        <CaseName>EBI_SP8_ChangeOptions</CaseName>
+        <Answers>
+            <Answer id="motivational">ps9patmotivational</Answer>
+            <Answer id="inappropriate">ps9patinappropriate</Answer>
+            <Answer id="noteffective">ps9patnoteffective</Answer>
+            <Answer id="offtopic">ps9patofftopic</Answer>
+			<Answer id="shame">admin002</Answer>
+        </Answers>
+    </Response>
+
+    <Response id="ps9hostnoteffective">
+        <LeftRail>
+            <Id>main</Id>
+            <Hidden>false</Hidden>
+            <ModuleSelected>18</ModuleSelected>
+        </LeftRail>
+        <VideoControls>
+            <Hidden>false</Hidden>
+            <PreviousId>ps8patnoteffective</PreviousId>
+            <NextId></NextId>
+        </VideoControls>
+        <AskControls>
+            <Hidden>false</Hidden>
+            <Action>question</Action>
+        </AskControls>
+        <CaseName>EBI_SP8_ChangeOptions</CaseName>
+        <Answers>
+            <Answer id="motivational">ps9patmotivational</Answer>
+            <Answer id="inappropriate">ps9patinappropriate</Answer>
+            <Answer id="noteffective">ps9patnoteffective</Answer>
+            <Answer id="offtopic">ps9patofftopic</Answer>
+			<Answer id="shame">admin002</Answer>
+        </Answers>
+    </Response>
+
+    <Response id="ps9hostofftopic">
+        <LeftRail>
+            <Id>main</Id>
+            <Hidden>false</Hidden>
+            <ModuleSelected>18</ModuleSelected>
+        </LeftRail>
+        <VideoControls>
+            <Hidden>false</Hidden>
+            <PreviousId>ps8patofftopic</PreviousId>
+            <NextId></NextId>
+        </VideoControls>
+        <AskControls>
+            <Hidden>false</Hidden>
+            <Action>question</Action>
+        </AskControls>
+        <CaseName>EBI_SP8_ChangeOptions</CaseName>
+        <Answers>
+            <Answer id="motivational">ps9patmotivational</Answer>
+            <Answer id="inappropriate">ps9patinappropriate</Answer>
+            <Answer id="noteffective">ps9patnoteffective</Answer>
+            <Answer id="offtopic">ps9patofftopic</Answer>
+			<Answer id="shame">admin002</Answer>
+        </Answers>
+    </Response>
+
+    <Response id="ps9patmotivational">
+        <LeftRail>
+            <Id>main</Id>
+            <Hidden>false</Hidden>
+            <ModuleSelected>18</ModuleSelected>
+        </LeftRail>
+        <VideoControls>
+            <Hidden>false</Hidden>
+            <PreviousId></PreviousId>
+            <NextId>ps10hostmotivational</NextId>
+        </VideoControls>
+        <AskControls>
+            <Hidden>true</Hidden>
+            <Action>question</Action>
+        </AskControls>
+        <CaseName></CaseName>
+    </Response>
+
+    <Response id="ps9patinappropriate">
+        <LeftRail>
+            <Id>main</Id>
+            <Hidden>false</Hidden>
+            <ModuleSelected>18</ModuleSelected>
+        </LeftRail>
+        <VideoControls>
+            <Hidden>false</Hidden>
+            <PreviousId></PreviousId>
+            <NextId>ps10hostnotmotivational</NextId>
+        </VideoControls>
+        <AskControls>
+            <Hidden>true</Hidden>
+            <Action>question</Action>
+        </AskControls>
+        <CaseName></CaseName>
+    </Response>
+
+    <Response id="ps9patnoteffective">
+        <LeftRail>
+            <Id>main</Id>
+            <Hidden>false</Hidden>
+            <ModuleSelected>18</ModuleSelected>
+        </LeftRail>
+        <VideoControls>
+            <Hidden>false</Hidden>
+            <PreviousId></PreviousId>
+            <NextId>ps10hostnotmotivational</NextId>
+        </VideoControls>
+        <AskControls>
+            <Hidden>true</Hidden>
+            <Action>question</Action>
+        </AskControls>
+        <CaseName></CaseName>
+    </Response>
+
+    <Response id="ps9patofftopic">
+        <LeftRail>
+            <Id>main</Id>
+            <Hidden>false</Hidden>
+            <ModuleSelected>18</ModuleSelected>
+        </LeftRail>
+        <VideoControls>
+            <Hidden>false</Hidden>
+            <PreviousId></PreviousId>
+            <NextId>ps10hostnotmotivational</NextId>
+        </VideoControls>
+        <AskControls>
+            <Hidden>true</Hidden>
+            <Action>question</Action>
+        </AskControls>
+        <CaseName></CaseName>
+    </Response>
+
+    <Response id="ps10hostmotivational">
+        <LeftRail>
+            <Id>main</Id>
+            <Hidden>false</Hidden>
+            <ModuleSelected>18</ModuleSelected>
+        </LeftRail>
+        <VideoControls>
+            <Hidden>false</Hidden>
+            <PreviousId>ps9patmotivational</PreviousId>
+            <NextId>psconclusion</NextId>
+        </VideoControls>
+        <AskControls>
+            <Hidden>true</Hidden>
+            <Action>question</Action>
+        </AskControls>
+        <CaseName></CaseName>
+    </Response>
+
+    <Response id="ps10hostnotmotivational">
+        <LeftRail>
+            <Id>main</Id>
+            <Hidden>false</Hidden>
+            <ModuleSelected>18</ModuleSelected>
+        </LeftRail>
+        <VideoControls>
+            <Hidden>false</Hidden>
+            <PreviousId></PreviousId>
+            <NextId>psconclusion</NextId>
+        </VideoControls>
+        <AskControls>
+            <Hidden>true</Hidden>
+            <Action>question</Action>
+        </AskControls>
+        <CaseName></CaseName>
+    </Response>
+
+    <!-- Readiness Ruler CAP Survey -->
+    <Response id="psconclusion">
+        <LeftRail>
+            <Id>main</Id>
+            <Hidden>false</Hidden>
+            <ModuleSelected>19</ModuleSelected>
+        </LeftRail>
+        <VideoControls>
+            <Hidden>false</Hidden>
+            <PreviousId></PreviousId>
+            <NextId></NextId>
+        </VideoControls>
+        <AskControls>
+            <Hidden>true</Hidden>
+            <Action>score_slider</Action>
+        </AskControls>
+        <CaseName></CaseName>
+    </Response>
+
+    <Response id="sa101">
+        <LeftRail>
+            <Id>main</Id>
+            <Hidden>false</Hidden>
+            <ModuleSelected>19</ModuleSelected>
+        </LeftRail>
+        <VideoControls>
+            <Hidden>false</Hidden>
+            <PreviousId>psconclusion</PreviousId>
+            <NextId></NextId>
+        </VideoControls>
+        <AskControls>
+            <Hidden>false</Hidden>
+            <Action>score_slider_response</Action>
+        </AskControls>
+        <CaseName></CaseName>
+    </Response>
+
+    <Response id="sa102">
+        <LeftRail>
+            <Id>main</Id>
+            <Hidden>false</Hidden>
+            <ModuleSelected>19</ModuleSelected>
+        </LeftRail>
+        <VideoControls>
+            <Hidden>false</Hidden>
+            <PreviousId>psconclusion</PreviousId>
+            <NextId></NextId>
+        </VideoControls>
+        <AskControls>
+            <Hidden>false</Hidden>
+            <Action>score_slider_response</Action>
+        </AskControls>
+        <CaseName></CaseName>
+    </Response>
+
+    <Response id="sa103">
+        <LeftRail>
+            <Id>main</Id>
+            <Hidden>false</Hidden>
+            <ModuleSelected>19</ModuleSelected>
+        </LeftRail>
+        <VideoControls>
+            <Hidden>false</Hidden>
+            <PreviousId>psconclusion</PreviousId>
+            <NextId></NextId>
+        </VideoControls>
+        <AskControls>
+           <Hidden>false</Hidden>
+            <Action>score_slider_response</Action>
+        </AskControls>
+        <CaseName></CaseName>
+    </Response>
+
+    <Response id="sa1low">
+        <LeftRail>
+            <Id>main</Id>
+            <Hidden>false</Hidden>
+            <ModuleSelected>19</ModuleSelected>
+        </LeftRail>
+        <VideoControls>
+            <Hidden>false</Hidden>
+            <PreviousId></PreviousId>
+            <NextId>sa400</NextId>
+        </VideoControls>
+        <AskControls>
+            <Hidden>true</Hidden>
+            <Action>question</Action>
+        </AskControls>
+        <CaseName></CaseName>
+    </Response>
+
+    <Response id="sa104">
+        <LeftRail>
+            <Id>main</Id>
+            <Hidden>false</Hidden>
+            <ModuleSelected>19</ModuleSelected>
+        </LeftRail>
+        <VideoControls>
+            <Hidden>false</Hidden>
+            <PreviousId>psconclusion</PreviousId>
+            <NextId></NextId>
+        </VideoControls>
+        <AskControls>
+            <Hidden>false</Hidden>
+            <Action>score_slider_response</Action>
+        </AskControls>
+        <CaseName></CaseName>
+    </Response>
+
+    <Response id="sa105">
+        <LeftRail>
+            <Id>main</Id>
+            <Hidden>false</Hidden>
+            <ModuleSelected>19</ModuleSelected>
+        </LeftRail>
+        <VideoControls>
+            <Hidden>false</Hidden>
+            <PreviousId>psconclusion</PreviousId>
+            <NextId></NextId>
+        </VideoControls>
+        <AskControls>
+           <Hidden>false</Hidden>
+            <Action>score_slider_response</Action>
+        </AskControls>
+        <CaseName></CaseName>
+    </Response>
+
+    <Response id="sa106">
+        <LeftRail>
+            <Id>main</Id>
+            <Hidden>false</Hidden>
+            <ModuleSelected>19</ModuleSelected>
+        </LeftRail>
+        <VideoControls>
+            <Hidden>false</Hidden>
+            <PreviousId>psconclusion</PreviousId>
+            <NextId></NextId>
+        </VideoControls>
+        <AskControls>
+            <Hidden>false</Hidden>
+            <Action>score_slider_response</Action>
+        </AskControls>
+        <CaseName></CaseName>
+    </Response>
+
+    <Response id="sa107">
+        <LeftRail>
+            <Id>main</Id>
+            <Hidden>false</Hidden>
+            <ModuleSelected>19</ModuleSelected>
+        </LeftRail>
+        <VideoControls>
+            <Hidden>false</Hidden>
+            <PreviousId>psconclusion</PreviousId>
+            <NextId></NextId>
+        </VideoControls>
+        <AskControls>
+            <Hidden>false</Hidden>
+            <Action>score_slider_response</Action>
+        </AskControls>
+        <CaseName></CaseName>
+    </Response>
+
+    <Response id="sa108">
+        <LeftRail>
+            <Id>main</Id>
+            <Hidden>false</Hidden>
+            <ModuleSelected>19</ModuleSelected>
+        </LeftRail>
+        <VideoControls>
+            <Hidden>false</Hidden>
+            <PreviousId>psconclusion</PreviousId>
+            <NextId></NextId>
+        </VideoControls>
+        <AskControls>
+           <Hidden>false</Hidden>
+            <Action>score_slider_response</Action>
+        </AskControls>
+        <CaseName></CaseName>
+    </Response>
+
+    <Response id="sa109">
+        <LeftRail>
+            <Id>main</Id>
+            <Hidden>false</Hidden>
+            <ModuleSelected>19</ModuleSelected>
+        </LeftRail>
+        <VideoControls>
+            <Hidden>false</Hidden>
+            <PreviousId>psconclusion</PreviousId>
+            <NextId></NextId>
+        </VideoControls>
+        <AskControls>
+            <Hidden>false</Hidden>
+            <Action>score_slider_response</Action>
+        </AskControls>
+        <CaseName></CaseName>
+    </Response>
+
+    <Response id="sa110">
+        <LeftRail>
+            <Id>main</Id>
+            <Hidden>false</Hidden>
+            <ModuleSelected>19</ModuleSelected>
+        </LeftRail>
+        <VideoControls>
+            <Hidden>false</Hidden>
+            <PreviousId>psconclusion</PreviousId>
+            <NextId></NextId>
+        </VideoControls>
+        <AskControls>
+            <Hidden>false</Hidden>
+            <Action>score_slider_response</Action>
+        </AskControls>
+        <CaseName></CaseName>
+    </Response>
+
+    <Response id="sa1high">
+        <LeftRail>
+            <Id>main</Id>
+            <Hidden>false</Hidden>
+            <ModuleSelected>19</ModuleSelected>
+        </LeftRail>
+        <VideoControls>
+            <Hidden>false</Hidden>
+            <PreviousId></PreviousId>
+            <NextId>sa200</NextId>
+        </VideoControls>
+        <AskControls>
+            <Hidden>true</Hidden>
+            <Action>question</Action>
+        </AskControls>
+        <CaseName></CaseName>
+    </Response>
+
+    <Response id="sa200">
+        <LeftRail>
+            <Id>main</Id>
+            <Hidden>false</Hidden>
+            <ModuleSelected>19</ModuleSelected>
+        </LeftRail>
+        <VideoControls>
+            <Hidden>false</Hidden>
+            <PreviousId>psconclusion</PreviousId>
+            <NextId></NextId>
+        </VideoControls>
+        <AskControls>
+            <Hidden>false</Hidden>
+            <Action>score_slider_response</Action>
+        </AskControls>
+        <CaseName></CaseName>
+    </Response>
+
+    <Response id="sa300">
+        <LeftRail>
+            <Id>main</Id>
+            <Hidden>false</Hidden>
+            <ModuleSelected>19</ModuleSelected>
+        </LeftRail>
+        <VideoControls>
+            <Hidden>false</Hidden>
+            <PreviousId>sa200</PreviousId>
+            <NextId></NextId>
+        </VideoControls>
+        <AskControls>
+            <Hidden>false</Hidden>
+            <Action>score_slider_response</Action>
+        </AskControls>
+        <CaseName></CaseName>
+    </Response>
+
+    <Response id="sa400">
+        <LeftRail>
+            <Id>main</Id>
+            <Hidden>false</Hidden>
+            <ModuleSelected>19</ModuleSelected>
+        </LeftRail>
+        <VideoControls>
+            <Hidden>false</Hidden>
+            <PreviousId>sa300</PreviousId>
+            <NextId></NextId>
+        </VideoControls>
+        <AskControls>
+            <Hidden>false</Hidden>
+            <Action>score_slider_response</Action>
+        </AskControls>
+        <CaseName></CaseName>
+    </Response>
+
+    <Response id="saconclusion">
+        <LeftRail>
+            <Id>main</Id>
+            <Hidden>false</Hidden>
+            <ModuleSelected>19</ModuleSelected>
+        </LeftRail>
+        <VideoControls>
+            <Hidden>false</Hidden>
+            <PreviousId>sa400</PreviousId>
+            <NextId></NextId>
+        </VideoControls>
+        <AskControls>
+            <Hidden>true</Hidden>
+            <Action>question</Action>
+        </AskControls>
+        <CaseName></CaseName>
+    </Response>
+
+    <Response id="admin001">
+        <LeftRail>
+            <Id>main</Id>
+            <Hidden>false</Hidden>
+            <ModuleSelected>0</ModuleSelected>
+        </LeftRail>
+        <VideoControls>
+            <Hidden>false</Hidden>
+            <PreviousId>sa400</PreviousId>
+            <NextId>admin002</NextId>
+        </VideoControls>
+        <AskControls>
+            <Hidden>true</Hidden>
+            <Action>question</Action>
+        </AskControls>
+        <CaseName></CaseName>
+    </Response>
+
+   <!-- <Response id="admin002">
+        <LeftRail>
+            <Id>main</Id>
+            <Hidden>false</Hidden>
+            <ModuleSelected>0</ModuleSelected>
+        </LeftRail>
+        <VideoControls>
+            <Hidden>false</Hidden>
+            <PreviousId>admin001</PreviousId>
+            <NextId>admin003</NextId>
+        </VideoControls>
+        <AskControls>
+            <Hidden>true</Hidden>
+            <Action>question</Action>
+        </AskControls>
+        <CaseName></CaseName>
+    </Response>-->
+
+    <Response id="admin003">
+        <LeftRail>
+            <Id>main</Id>
+            <Hidden>false</Hidden>
+            <ModuleSelected>0</ModuleSelected>
+        </LeftRail>
+        <VideoControls>
+            <Hidden>false</Hidden>
+            <PreviousId>admin002</PreviousId>
+            <NextId>admin004</NextId>
+        </VideoControls>
+        <AskControls>
+            <Hidden>true</Hidden>
+            <Action>question</Action>
+        </AskControls>
+        <CaseName></CaseName>
+    </Response>
+
+    <Response id="admin004">
+        <LeftRail>
+            <Id>main</Id>
+            <Hidden>false</Hidden>
+            <ModuleSelected>0</ModuleSelected>
+        </LeftRail>
+        <VideoControls>
+            <Hidden>false</Hidden>
+            <PreviousId>admin003</PreviousId>
+            <NextId>admin005</NextId>
+        </VideoControls>
+        <AskControls>
+            <Hidden>true</Hidden>
+            <Action>question</Action>
+        </AskControls>
+        <CaseName></CaseName>
+    </Response>
+
+    <Response id="admin005">
+        <LeftRail>
+            <Id>main</Id>
+            <Hidden>false</Hidden>
+            <ModuleSelected>0</ModuleSelected>
+        </LeftRail>
+        <VideoControls>
+            <Hidden>false</Hidden>
+            <PreviousId>admin004</PreviousId>
+            <NextId>admin006</NextId>
+        </VideoControls>
+        <AskControls>
+            <Hidden>true</Hidden>
+            <Action>question</Action>
+        </AskControls>
+        <CaseName></CaseName>
+    </Response>
+
+    <Response id="admin006">
+        <LeftRail>
+            <Id>main</Id>
+            <Hidden>false</Hidden>
+            <ModuleSelected>0</ModuleSelected>
+        </LeftRail>
+        <VideoControls>
+            <Hidden>false</Hidden>
+            <PreviousId>admin005</PreviousId>
+            <NextId></NextId>
+        </VideoControls>
+        <AskControls>
+            <Hidden>true</Hidden>
+            <Action>question</Action>
+        </AskControls>
+        <CaseName></CaseName>
+    </Response>
+
+    <Response id="shame">
+        <LeftRail>
+            <Id>main</Id>
+            <Hidden>false</Hidden>
+            <ModuleSelected>1</ModuleSelected>
+        </LeftRail>
+        <VideoControls>
+            <Hidden>false</Hidden>
+            <PreviousId></PreviousId>
+            <NextId></NextId>
+        </VideoControls>
+        <AskControls>
+            <Hidden>true</Hidden>
+            <Action>question</Action>
+        </AskControls>
+        <CaseName></CaseName>
+    </Response>
+	
+	  <Response id="admin002">
+        <LeftRail>
+            <Id>main</Id>
+            <Hidden>false</Hidden>
+            <ModuleSelected>0</ModuleSelected>
+        </LeftRail>
+        <VideoControls>
+            <Hidden>false</Hidden>
+            <PreviousId></PreviousId>
+            <NextId></NextId>
+        </VideoControls>
+        <AskControls>
+            <Hidden>true</Hidden>
+            <Action>question</Action>
+        </AskControls>
+        <CaseName></CaseName>
+    </Response>
+</xml>

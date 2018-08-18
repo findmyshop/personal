@@ -1,0 +1,17 @@
+TRUNCATE TABLE ci_sessions;
+TRUNCATE TABLE master_activity_logs;
+TRUNCATE TABLE master_user_accreditation_map;
+TRUNCATE TABLE master_user_address_map;
+TRUNCATE TABLE master_user_certificates;
+TRUNCATE TABLE master_user_course_activity;
+TRUNCATE TABLE master_user_courses;
+TRUNCATE TABLE master_user_department_map;
+TRUNCATE TABLE master_user_numbers;
+TRUNCATE TABLE master_user_password_reset;
+TRUNCATE TABLE master_user_pay_grade_map;
+TRUNCATE TABLE master_user_role_map;
+TRUNCATE TABLE master_user_test_activity;
+TRUNCATE TABLE master_user_tests;
+TRUNCATE TABLE master_user_treatment_facility_map;
+TRUNCATE TABLE master_users;
+TRUNCATE TABLE master_users_map;

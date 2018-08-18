@@ -1,0 +1,121 @@
+/* I've overwritten the IE8 style for some of the icons that
+	 are more important to the flow of the program in order
+	 to combat IE8's reluctance to load our icon fonts.
+	 The problem with this solution is icon colors, which is why I'm
+	 only doing this for icons that are essential to our program.
+	 */
+.glyphicon-chevron-right:before,
+.glyphicon-chevron-left:before,
+.glyphicon-lock:before,
+.glyphicon-paperclip:before,
+.glyphicon-repeat:before,
+.glyphicon-home:before,
+.glyphicon-fire:before,
+.glyphicon-file:before,
+.glyphicon-question-sign:before,
+.glyphicon-volume-up:before,
+.glyphicon-volume-down:before,
+.glyphicon-volume-off:before,
+.glyphicon-forward:before,
+.glyphicon-backward:before,
+.glyphicon-play:before,
+.glyphicon-pause:before
+{
+	display:none;
+}
+.glyphicon-chevron-right{
+	display:inline-block;
+	width:16px;
+	height:16px;
+	background:url('../images/icons/16x16-glyphicon-chevron-right.png') center center no-repeat;
+}
+.glyphicon-chevron-left{
+	display:inline-block;
+	width:16px;
+	height:16px;
+	background:url('../images/icons/16x16-glyphicon-chevron-left.png') center center no-repeat;
+}
+.glyphicon-lock{
+	display:inline-block;
+	width:16px;
+	height:16px;
+	background:url('../images/icons/16x16-glyphicon-lock.png') center center no-repeat;
+}
+.glyphicon-paperclip{
+	display:inline-block;
+	width:16px;
+	height:16px;
+	background:url('../images/icons/16x16-glyphicon-paperclip.png') center center no-repeat;
+}
+.glyphicon-repeat{
+	display:inline-block;
+	width:16px;
+	height:16px;
+	background:url('../images/icons/16x16-glyphicon-repeat.png') center center no-repeat;
+}
+.glyphicon-home{
+	display:inline-block;
+	width:16px;
+	height:16px;
+	background:url('../images/icons/16x16-glyphicon-home.png') center center no-repeat;
+}
+.glyphicon-fire{
+	display:inline-block;
+	width:16px;
+	height:16px;
+	background:url('../images/icons/16x16-glyphicon-fire.png') center center no-repeat;
+}
+.glyphicon-file{
+	display:inline-block;
+	width:16px;
+	height:16px;
+	background:url('../images/icons/16x16-glyphicon-file.png') center center no-repeat;
+}
+.glyphicon-question-sign{
+	display:inline-block;
+	width:16px;
+	height:16px;
+	background:url('../images/icons/16x16-glyphicon-question-sign.png') center center no-repeat;
+}
+.glyphicon-volume-up{
+	display:inline-block;
+	width:16px;
+	height:16px;
+	background:url('../images/icons/16x16-glyphicon-volume-up.png') center center no-repeat;
+}
+.glyphicon-volume-down{
+	display:inline-block;
+	width:16px;
+	height:16px;
+	background:url('../images/icons/16x16-glyphicon-volume-down.png') center center no-repeat;
+}
+.glyphicon-volume-off{
+	display:inline-block;
+	width:16px;
+	height:16px;
+	background:url('../images/icons/16x16-glyphicon-volume-off.png') center center no-repeat;
+}
+.glyphicon-forward{
+	display:inline-block;
+	width:16px;
+	height:16px;
+	background:url('../images/icons/16x16-glyphicon-forward.png') center center no-repeat;
+}
+.glyphicon-backward{
+	display:inline-block;
+	width:16px;
+	height:16px;
+	background:url('../images/icons/16x16-glyphicon-backward.png') center center no-repeat;
+}
+.glyphicon-play{
+	display:inline-block;
+	width:16px;
+	height:16px;
+	background:url('../images/icons/16x16-glyphicon-play.png') center center no-repeat;
+}
+.glyphicon-pause{
+	display:inline-block;
+	width:16px;
+	height:16px;
+	background:url('../images/icons/16x16-glyphicon-pause.png') center center no-repeat;
+}

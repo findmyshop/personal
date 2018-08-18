@@ -1,0 +1,67 @@
+<xml>
+  <Module id='0'>
+    <Heading>
+      Introduction to Clinical Trials
+    </Heading>
+    <ResponseID>jpbl101</ResponseID>
+    <ResponseID>jpbl103</ResponseID>
+    <ResponseID>jpbl104</ResponseID>
+    <ResponseID>jpbl108</ResponseID>
+  </Module>
+  <Module id='1'>
+    <Heading>
+      Participating in a Clinical Trial
+    </Heading>
+    <ResponseID>jpbl116</ResponseID>
+    <ResponseID>jpbl117</ResponseID>
+    <ResponseID>jpbl119</ResponseID>
+    <ResponseID>jpbl121</ResponseID>
+    <ResponseID>jpbl181</ResponseID>
+  </Module>
+  <Module id='2'>
+    <Heading>
+      Rights and Responsibilities
+    </Heading>
+    <ResponseID>jpbl124</ResponseID>
+    <ResponseID>jpbl126</ResponseID>
+    <ResponseID>jpbl127</ResponseID>
+    <ResponseID>jpbl132</ResponseID>
+  </Module>
+  <Module id='3'>
+    <Heading>
+      Privacy
+    </Heading>
+    <ResponseID>jpbl138</ResponseID>
+    <ResponseID>jpbl137</ResponseID>
+  </Module>
+  <Module id='4'>
+    <Heading>
+      About the Monarch2 Study
+    </Heading>
+    <ResponseID>jpbl139</ResponseID>
+    <ResponseID>jpbl158</ResponseID>
+    <ResponseID>jpbl140</ResponseID>
+    <ResponseID>jpbl190</ResponseID>
+    <ResponseID>jpbl142</ResponseID>
+    <ResponseID>jpbl146</ResponseID>
+    <ResponseID>jpbl166</ResponseID>
+    <ResponseID>jpbl167</ResponseID>
+    <ResponseID>jpbl169</ResponseID>
+  </Module>
+  <Module id='5'>
+    <Heading>
+      Costs &amp; Compensation
+    </Heading>
+    <ResponseID>jpbl155</ResponseID>
+    <ResponseID>jpbl150</ResponseID>
+    <ResponseID>jpbl154</ResponseID>
+  </Module>
+</xml>
+
+
+
+
+
+
+
+

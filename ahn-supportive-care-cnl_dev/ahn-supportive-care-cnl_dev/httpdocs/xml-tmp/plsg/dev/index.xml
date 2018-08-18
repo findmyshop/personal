@@ -1,0 +1,550 @@
+<xml>
+<!--plsg-->
+<Response id="plsg_pre_test">
+<ResponseID id="0">plsg_pre_test</ResponseID>
+<BaseQuestion id="0">Pre Test</BaseQuestion>
+<Content id="0"></Content>
+</Response>
+
+
+<Response id="plsg_post_test">
+<ResponseID id="0">plsg_post_test</ResponseID>
+<BaseQuestion id="0">Post Test</BaseQuestion>
+<Content id="0"></Content>
+</Response>
+
+<Response id="pls001">
+<ResponseID id="0">pls001</ResponseID>
+<BaseQuestion id="0">Introduction</BaseQuestion>
+<Content id="0"></Content>
+</Response>
+
+<Response id="pls002">
+<ResponseID id="0">pls002</ResponseID>
+<BaseQuestion id="0">Do I need a corporate lawyer?</BaseQuestion>
+<Content id="0"></Content>
+</Response>
+
+<Response id="pls005">
+<ResponseID id="0">pls005</ResponseID>
+<BaseQuestion id="0">What are investors looking for?</BaseQuestion>
+<Content id="0"></Content>
+</Response>
+
+<Response id="pls011">
+<ResponseID id="0">pls011</ResponseID>
+<BaseQuestion id="0">How do LLCs and Corporations differ?</BaseQuestion>
+<Content id="0"></Content>
+</Response>
+
+<Response id="pls012">
+<ResponseID id="0">pls012</ResponseID>
+<BaseQuestion id="0">What is the difference between c-corps and s-corps?</BaseQuestion>
+<Content id="0"></Content>
+</Response>
+
+<Response id="pls015">
+<ResponseID id="0">pls015</ResponseID>
+<BaseQuestion id="0">What are the roles of the Board, CEO and members? </BaseQuestion>
+<Content id="0"></Content>
+</Response>
+
+<Response id="pls016">
+<ResponseID id="0">pls016</ResponseID>
+<BaseQuestion id="0">How do the Board and CEO work together?</BaseQuestion>
+<Content id="0"></Content>
+</Response>
+
+<Response id="pls018">
+<ResponseID id="0">pls018</ResponseID>
+<BaseQuestion id="0">What are the different sources of funding for startups?</BaseQuestion>
+<Content id="0"></Content>
+</Response>
+
+<Response id="pls019">
+<ResponseID id="0">pls019</ResponseID>
+<BaseQuestion id="0">What are preferred shares?</BaseQuestion>
+<Content id="0"></Content>
+</Response>
+
+<Response id="pls022">
+<ResponseID id="0">pls022</ResponseID>
+<BaseQuestion id="0">What is pre-money/post-money?</BaseQuestion>
+<Content id="0"></Content>
+</Response>
+
+<Response id="pls025">
+<ResponseID id="0">pls025</ResponseID>
+<BaseQuestion id="0">What is a down round?</BaseQuestion>
+<Content id="0"></Content>
+</Response>
+
+<Response id="pls029">
+<ResponseID id="0">pls029</ResponseID>
+<BaseQuestion id="0">What is the Preferred Participation payout?</BaseQuestion>
+<Content id="0"></Content>
+</Response>
+
+<Response id="pls030">
+<ResponseID id="0">pls030</ResponseID>
+<BaseQuestion id="0">How does the liquidation process work?</BaseQuestion>
+<Content id="0"></Content>
+</Response>
+
+<Response id="pls040">
+<ResponseID id="0">pls040</ResponseID>
+<BaseQuestion id="0">Articles/Certificate of Incorporation/Corporate Charter</BaseQuestion>
+<Content id="0"></Content>
+</Response>
+
+<Response id="pls041">
+<ResponseID id="0">pls041</ResponseID>
+<BaseQuestion id="0">Bylaws</BaseQuestion>
+<Content id="0"></Content>
+</Response>
+
+<Response id="pls042">
+<ResponseID id="0">pls042</ResponseID>
+<BaseQuestion id="0">Operating Agreement</BaseQuestion>
+<Content id="0"></Content>
+</Response>
+
+<Response id="pls043">
+<ResponseID id="0">pls043</ResponseID>
+<BaseQuestion id="0">IP License Agreement</BaseQuestion>
+<Content id="0"></Content>
+</Response>
+
+<Response id="pls044">
+<ResponseID id="0">pls044</ResponseID>
+<BaseQuestion id="0">Restricted Stock/Unit Agreement</BaseQuestion>
+<Content id="0"></Content>
+</Response>
+
+<Response id="pls045">
+<ResponseID id="0">pls045</ResponseID>
+<BaseQuestion id="0">Term Sheet</BaseQuestion>
+<Content id="0"></Content>
+</Response>
+
+<Response id="pls046">
+<ResponseID id="0">pls046</ResponseID>
+<BaseQuestion id="0">Purchase Agreement, etc.</BaseQuestion>
+<Content id="0"></Content>
+</Response>
+
+<Response id="pls047">
+<ResponseID id="0">pls047</ResponseID>
+<BaseQuestion id="0">Stockholders Agreement</BaseQuestion>
+<Content id="0"></Content>
+</Response>
+
+<Response id="pls048">
+<ResponseID id="0">pls048</ResponseID>
+<BaseQuestion id="0">Investor Rights Agreement</BaseQuestion>
+<Content id="0"></Content>
+</Response>
+
+<!--<Response id="pls049">
+<ResponseID id="0">pls049</ResponseID>
+<BaseQuestion id="0">Right of First Refusal & Co-Sale Agreement</BaseQuestion>
+<Content id="0"></Content>
+</Response>-->
+
+<Response id="pls049">
+<ResponseID id="0">pls049</ResponseID>
+<BaseQuestion id="0">Right of First Refusal and Co-Sale Agreement</BaseQuestion>
+<Content id="0"></Content>
+</Response>
+
+<Response id="pls050">
+<ResponseID id="0">pls050</ResponseID>
+<BaseQuestion id="0">Voting Agreement</BaseQuestion>
+<Content id="0"></Content>
+</Response>
+
+<Response id="pls051">
+<ResponseID id="0">pls051</ResponseID>
+<BaseQuestion id="0">Preferred Stock Liquidation Preference</BaseQuestion>
+<Content id="0"></Content>
+</Response>
+
+<Response id="pls052">
+<ResponseID id="0">pls052</ResponseID>
+<BaseQuestion id="0">Preferred Stock Anti-Dilution Clause</BaseQuestion>
+<Content id="0"></Content>
+</Response>
+
+<Response id="pls053">
+<ResponseID id="0">pls053</ResponseID>
+<BaseQuestion id="0">Preferred Stock Voting Rights:</BaseQuestion>
+<Content id="0"></Content>
+</Response>
+
+<Response id="pls054">
+<ResponseID id="0">pls054</ResponseID>
+<BaseQuestion id="0">Liquidity Event</BaseQuestion>
+<Content id="0"></Content>
+</Response>
+
+<Response id="pls055">
+<ResponseID id="0">pls055</ResponseID>
+<BaseQuestion id="0">Net Operating Loss – NOL</BaseQuestion>
+<Content id="0"></Content>
+</Response>
+
+<Response id="pls056">
+<ResponseID id="0">pls056</ResponseID>
+<BaseQuestion id="0">C-corp</BaseQuestion>
+<Content id="0"></Content>
+</Response>
+
+<Response id="pls057">
+<ResponseID id="0">pls057</ResponseID>
+<BaseQuestion id="0">S-corp</BaseQuestion>
+<Content id="0"></Content>
+</Response>
+
+<Response id="pls058">
+<ResponseID id="0">pls058</ResponseID>
+<BaseQuestion id="0">Accredited Investors</BaseQuestion>
+<Content id="0"></Content>
+</Response>
+
+<Response id="pls059">
+<ResponseID id="0">pls059</ResponseID>
+<BaseQuestion id="0">Limited Liability Company (LLC)</BaseQuestion>
+<Content id="0"></Content>
+</Response>
+
+<Response id="pls060">
+<ResponseID id="0">pls060</ResponseID>
+<BaseQuestion id="0">Callable Bond</BaseQuestion>
+<Content id="0"></Content>
+</Response>
+
+<Response id="pls061">
+<ResponseID id="0">pls061</ResponseID>
+<BaseQuestion id="0">Note Conversion</BaseQuestion>
+<Content id="0"></Content>
+</Response>
+
+<Response id="pls062">
+<ResponseID id="0">pls062</ResponseID>
+<BaseQuestion id="0">Authorized Shares</BaseQuestion>
+<Content id="0"></Content>
+</Response>
+
+<Response id="pls063">
+<ResponseID id="0">pls063</ResponseID>
+<BaseQuestion id="0">Trough (sometimes may be referred to as a "Chasm")</BaseQuestion>
+<Content id="0"></Content>
+</Response>
+
+<Response id="pls064">
+<ResponseID id="0">pls064</ResponseID>
+<BaseQuestion id="0">Intellectual Property (IP)</BaseQuestion>
+<Content id="0"></Content>
+</Response>
+
+<Response id="pls065">
+<ResponseID id="0">pls065</ResponseID>
+<BaseQuestion id="0">As Converted to Common</BaseQuestion>
+<Content id="0"></Content>
+</Response>
+
+<Response id="pls066">
+<ResponseID id="0">pls066</ResponseID>
+<BaseQuestion id="0">Certificate of Formation/Organization</BaseQuestion>
+<Content id="0"></Content>
+</Response>
+
+<Response id="pls067">
+<ResponseID id="0">pls067</ResponseID>
+<BaseQuestion id="0">Corporation</BaseQuestion>
+<Content id="0"></Content>
+</Response>
+
+<Response id="pls068">
+<ResponseID id="0">pls068</ResponseID>
+<BaseQuestion id="0">Convertible Note</BaseQuestion>
+<Content id="0"></Content>
+</Response>
+
+<Response id="pls069">
+<ResponseID id="0">pls069</ResponseID>
+<BaseQuestion id="0">Capital Structure vs. Capitalization</BaseQuestion>
+<Content id="0"></Content>
+</Response>
+
+<Response id="pls070">
+<ResponseID id="0">pls070</ResponseID>
+<BaseQuestion id="0">Issued Shares</BaseQuestion>
+<Content id="0"></Content>
+</Response>
+
+<Response id="pls071">
+<ResponseID id="0">pls071</ResponseID>
+<BaseQuestion id="0">Reserved Shares</BaseQuestion>
+<Content id="0"></Content>
+</Response>
+
+<!--======================-->
+<Response id="pls004">
+<ResponseID id="0">pls004</ResponseID>
+<BaseQuestion id="0">Reserved Shares</BaseQuestion>
+<Content id="0"></Content>
+</Response>
+
+
+
+
+<Response id="pls006">
+<ResponseID id="0">pls006</ResponseID>
+<BaseQuestion id="0">Reserved Shares</BaseQuestion>
+<Content id="0"></Content>
+</Response>
+
+
+
+<Response id="pls008">
+<ResponseID id="0">pls008</ResponseID>
+<BaseQuestion id="0">Reserved Shares</BaseQuestion>
+<Content id="0"></Content>
+</Response>
+
+
+
+<Response id="pls009">
+<ResponseID id="0">pls009</ResponseID>
+<BaseQuestion id="0">Reserved Shares</BaseQuestion>
+<Content id="0"></Content>
+</Response>
+
+
+
+<Response id="pls010">
+<ResponseID id="0">pls010</ResponseID>
+<BaseQuestion id="0">Reserved Shares</BaseQuestion>
+<Content id="0"></Content>
+</Response>
+
+
+
+<Response id="pls013">
+<ResponseID id="0">pls013</ResponseID>
+<BaseQuestion id="0">Reserved Shares</BaseQuestion>
+<Content id="0"></Content>
+</Response>
+
+
+
+<Response id="pls014">
+<ResponseID id="0">pls014</ResponseID>
+<BaseQuestion id="0">Reserved Shares</BaseQuestion>
+<Content id="0"></Content>
+</Response>
+
+
+
+<Response id="pls017">
+<ResponseID id="0">pls017</ResponseID>
+<BaseQuestion id="0">Reserved Shares</BaseQuestion>
+<Content id="0"></Content>
+</Response>
+
+
+
+<Response id="pls020">
+<ResponseID id="0">pls020</ResponseID>
+<BaseQuestion id="0">Reserved Shares</BaseQuestion>
+<Content id="0"></Content>
+</Response>
+
+
+<Response id="pls021">
+<ResponseID id="0">pls021</ResponseID>
+<BaseQuestion id="0">Reserved Shares</BaseQuestion>
+<Content id="0"></Content>
+</Response>
+
+
+<Response id="pls023">
+<ResponseID id="0">pls023</ResponseID>
+<BaseQuestion id="0">Reserved Shares</BaseQuestion>
+<Content id="0"></Content>
+</Response>
+
+
+
+<Response id="pls024">
+<ResponseID id="0">pls024</ResponseID>
+<BaseQuestion id="0">Reserved Shares</BaseQuestion>
+<Content id="0"></Content>
+</Response>
+
+
+<Response id="pls026">
+<ResponseID id="0">pls026</ResponseID>
+<BaseQuestion id="0">Reserved Shares</BaseQuestion>
+<Content id="0"></Content>
+</Response>
+
+
+<Response id="pls027">
+<ResponseID id="0">pls027</ResponseID>
+<BaseQuestion id="0">Reserved Shares</BaseQuestion>
+<Content id="0"></Content>
+</Response>
+
+
+<Response id="pls028">
+<ResponseID id="0">pls028</ResponseID>
+<BaseQuestion id="0">Reserved Shares</BaseQuestion>
+<Content id="0"></Content>
+</Response>
+
+
+<Response id="pls031">
+<ResponseID id="0">pls031</ResponseID>
+<BaseQuestion id="0">Reserved Shares</BaseQuestion>
+<Content id="0"></Content>
+</Response>
+
+
+<Response id="pls032">
+<ResponseID id="0">pls032</ResponseID>
+<BaseQuestion id="0">Reserved Shares</BaseQuestion>
+<Content id="0"></Content>
+</Response>
+
+
+<Response id="pls033">
+<ResponseID id="0">pls033</ResponseID>
+<BaseQuestion id="0">Reserved Shares</BaseQuestion>
+<Content id="0"></Content>
+</Response>
+
+
+<Response id="pls034">
+<ResponseID id="0">pls034</ResponseID>
+<BaseQuestion id="0">Reserved Shares</BaseQuestion>
+<Content id="0"></Content>
+</Response>
+
+
+<Response id="pls035">
+<ResponseID id="0">pls035</ResponseID>
+<BaseQuestion id="0">Reserved Shares</BaseQuestion>
+<Content id="0"></Content>
+</Response>
+
+
+<Response id="pls036">
+<ResponseID id="0">pls036</ResponseID>
+<BaseQuestion id="0">Reserved Shares</BaseQuestion>
+<Content id="0"></Content>
+</Response>
+
+
+
+
+<!--===============================-->
+
+<Response id="pls002i">
+<ResponseID id="0">pls002i</ResponseID>
+<BaseQuestion id="0">Do I need a corporate lawyer?</BaseQuestion>
+<Content id="0"></Content>
+</Response>
+
+<Response id="pls005i">
+<ResponseID id="0">pls005i</ResponseID>
+<BaseQuestion id="0">What are investors looking for?</BaseQuestion>
+<Content id="0"></Content>
+</Response>
+
+<Response id="pls011i">
+<ResponseID id="0">pls011i</ResponseID>
+<BaseQuestion id="0">How do LLCs and Corporations differ?</BaseQuestion>
+<Content id="0"></Content>
+</Response>
+
+
+<Response id="pls012i">
+<ResponseID id="0">pls012i</ResponseID>
+<BaseQuestion id="0">What is the difference between c-corps and s-corps?</BaseQuestion>
+<Content id="0"></Content>
+</Response>
+
+
+<Response id="pls015i">
+<ResponseID id="0">pls015i</ResponseID>
+<BaseQuestion id="0">What are the roles of the Board, CEO and members?</BaseQuestion>
+<Content id="0"></Content>
+</Response>
+
+<Response id="pls016i">
+<ResponseID id="0">pls016i</ResponseID>
+<BaseQuestion id="0">How do the Board and CEO work together?</BaseQuestion>
+<Content id="0"></Content>
+</Response>
+
+
+<Response id="pls018i">
+<ResponseID id="0">pls018i</ResponseID>
+<BaseQuestion id="0">What are the different sources of funding for startups?</BaseQuestion>
+<Content id="0"></Content>
+</Response>
+
+<Response id="pls019i">
+<ResponseID id="0">pls019i</ResponseID>
+<BaseQuestion id="0">What are preferred shares?</BaseQuestion>
+<Content id="0"></Content>
+</Response>
+
+<Response id="pls022i">
+<ResponseID id="0">pls022i</ResponseID>
+<BaseQuestion id="0">What is pre-money/post-money?</BaseQuestion>
+<Content id="0"></Content>
+</Response>
+
+<Response id="pls025i">
+<ResponseID id="0">pls025i</ResponseID>
+<BaseQuestion id="0">What is a down round?</BaseQuestion>
+<Content id="0"></Content>
+</Response>
+
+<Response id="pls029i">
+<ResponseID id="0">pls029i</ResponseID>
+<BaseQuestion id="0">What is the Preferred Participation payout?</BaseQuestion>
+<Content id="0"></Content>
+</Response>
+
+<Response id="pls030i">
+<ResponseID id="0">pls030i</ResponseID>
+<BaseQuestion id="0">How does the liquidation process work?</BaseQuestion>
+<Content id="0"></Content>
+</Response>
+
+
+<Response id="pls037">
+<ResponseID id="0">pls037</ResponseID>
+<BaseQuestion id="0">Welcome Back</BaseQuestion>
+<Content id="0"></Content>
+</Response>
+
+
+<Response id="pls038">
+<ResponseID id="0">pls038</ResponseID>
+<BaseQuestion id="0"></BaseQuestion>
+<Content id="0"></Content>
+</Response>
+
+
+<Response id="pls039">
+<ResponseID id="0">pls039</ResponseID>
+<BaseQuestion id="0"></BaseQuestion>
+<Content id="0"></Content>
+</Response>
+
+</xml>

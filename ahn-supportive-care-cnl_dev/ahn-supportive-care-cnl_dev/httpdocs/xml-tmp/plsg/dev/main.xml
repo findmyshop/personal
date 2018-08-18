@@ -1,0 +1,101 @@
+<xml>
+    
+      <Module id='5'>
+		<Heading>
+			Capitalization of the Company
+		</Heading>
+                <HeadingLink>pls001</HeadingLink>
+		<ResponseID>pls001</ResponseID>
+                               
+	</Module>
+	<Module id='0'>
+		<Heading>
+			Company Formation
+		</Heading>
+                <HeadingLink>pls002</HeadingLink>
+		<ResponseID>pls002i</ResponseID>
+		<ResponseID>pls005i</ResponseID>
+		<ResponseID>pls011i</ResponseID> 
+                <!--<ResponseID>pls008</ResponseID>-->
+		<ResponseID>pls012i</ResponseID>		
+	</Module>
+	<Module id='1'>
+		<Heading>
+			Governance
+		</Heading>
+                <HeadingLink>pls015</HeadingLink>
+		<ResponseID>pls015i</ResponseID>
+                <ResponseID>pls016i</ResponseID>
+
+	</Module>
+	<Module id='2'>
+		<Heading>
+			Financing
+		</Heading>
+                <HeadingLink>pls017</HeadingLink>
+<!--                <ResponseID>pls017</ResponseID>-->
+		<ResponseID>pls018i</ResponseID>
+		<ResponseID>pls019i</ResponseID>
+                <ResponseID>pls022i</ResponseID>
+		<ResponseID>pls025i</ResponseID>
+				
+	</Module>
+	<Module id='3'>
+		<Heading>
+			Exiting the Company
+		</Heading>
+                <HeadingLink>pls028</HeadingLink>                
+		<ResponseID>pls029i</ResponseID>
+                <!--<ResponseID>pls028</ResponseID>-->
+		<ResponseID>pls030i</ResponseID>
+               
+	</Module>
+<!--        <Module id='6'>
+		<Heading>
+			Conclusion
+		</Heading>
+		<ResponseID>sa3158</ResponseID>
+		<ResponseID>sa3159</ResponseID>
+                <ResponseID>sa3161</ResponseID>
+		<ResponseID>sa3163</ResponseID>
+	</Module>-->
+        <Module id='7'>
+		<Heading>
+			Glossary
+		</Heading>
+                <!--<HeadingLink>pls040</HeadingLink>--> 
+		<ResponseID>pls040</ResponseID>
+		<ResponseID>pls058</ResponseID>
+                <ResponseID>pls065</ResponseID>
+		<ResponseID>pls062</ResponseID>
+                <ResponseID>pls041</ResponseID>
+                <ResponseID>pls060</ResponseID>
+                <ResponseID>pls069</ResponseID>
+                <ResponseID>pls056</ResponseID>
+                <ResponseID>pls066</ResponseID>
+                <ResponseID>pls068</ResponseID>
+                <ResponseID>pls067</ResponseID>
+                <ResponseID>pls064</ResponseID>
+                <ResponseID>pls048</ResponseID>
+                <ResponseID>pls043</ResponseID>
+                <ResponseID>pls070</ResponseID>
+                <ResponseID>pls059</ResponseID>
+                <ResponseID>pls054</ResponseID>
+                <ResponseID>pls055</ResponseID>
+                <ResponseID>pls061</ResponseID>
+                <ResponseID>pls042</ResponseID>
+                <ResponseID>pls052</ResponseID>
+                <ResponseID>pls051</ResponseID>
+                <ResponseID>pls053</ResponseID>
+                <ResponseID>pls046</ResponseID>
+                <ResponseID>pls071</ResponseID>
+                <ResponseID>pls044</ResponseID>
+                <ResponseID>pls049</ResponseID>
+                <ResponseID>pls057</ResponseID>
+                <ResponseID>pls047</ResponseID>
+                <ResponseID>pls045</ResponseID>
+                <ResponseID>pls063</ResponseID>
+                <ResponseID>pls050</ResponseID>                
+                
+	</Module>
+</xml>

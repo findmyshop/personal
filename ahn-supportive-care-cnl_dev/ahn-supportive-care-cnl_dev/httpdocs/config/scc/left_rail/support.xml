@@ -1,0 +1,36 @@
+<xml>
+  <Module id='1'>
+    <Heading>
+      Support for Care
+    </Heading>
+    <ResponseID>scc073</ResponseID>
+    <ResponseID>scc052</ResponseID>
+    <ResponseID>scc113</ResponseID>
+  </Module>
+  <Module id='2'>
+    <Heading>
+      Support for Difficult Discussions
+    </Heading>
+    <ResponseID>scc099</ResponseID>
+    <ResponseID>scc100</ResponseID>
+    <ResponseID>scc103</ResponseID>
+    <ResponseID>scc098</ResponseID>
+  </Module>
+  <Module id='3'>
+    <Heading>
+      Emotional &amp; Spiritual Support
+    </Heading>
+    <ResponseID>scc066</ResponseID>
+    <ResponseID>scc194</ResponseID>
+    <ResponseID>scc120</ResponseID>
+  </Module>
+  <Module id='4'>
+    <Heading>
+      Other Support Resources
+    </Heading>
+    <ResponseID>scc072</ResponseID>
+    <ResponseID>scc096</ResponseID>
+    <ResponseID>scc068</ResponseID>
+    <ResponseID>scc069</ResponseID>
+  </Module>
+</xml>

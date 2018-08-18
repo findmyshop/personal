@@ -1,0 +1,277 @@
+<xml>
+<Category rail="0hour">
+<Heading>Patient Discussion Aids</Heading>
+<Resource>
+<Responses>asb0_3,asb0_4,</Responses>
+<Name>Standard Drink Chart</Name>
+<Link>https://s3.amazonaws.com/dod-media/Documents/Standard+Drink+Chart.pdf?3</Link>
+</Resource>
+<Resource>
+<Responses>asb0_1,asb0_4,</Responses>
+<Name>Drinking Patterns of US Adults and Drinker’s Pyramid</Name>
+<Link>https://s3.amazonaws.com/dod-media/Documents/Drinking+Patterns+of+US+Adults.pdf?3</Link>
+</Resource>
+<Resource>
+<Responses>asb0_2,asb0_3,asb0_4,asb0_5,</Responses>
+<Name>Recommended Guidelines for Low Risk Drinking</Name>
+<Link>https://s3.amazonaws.com/dod-media/Documents/Recommended+Guidelines+for+Low+Risk+Drinking.pdf?3</Link>
+</Resource>
+<Resource>
+<Responses>asb0_7,</Responses>
+<Name>Readiness Ruler</Name>
+<Link>https://s3.amazonaws.com/dod-media/Documents/Readiness+Ruler.pdf?3</Link>
+</Resource>
+</Category>
+<Category rail="0hour">
+<Heading>Patient and Provider Reading Materials</Heading>
+<Resource>
+<Responses>asb0_3,</Responses>
+<Name>Mixing Alcohol with Medications</Name>
+<Link>https://s3.amazonaws.com/dod-media/Documents/Mixing+Alcohol+with+Medications.pdf?3</Link>
+</Resource>
+<Resource>
+<Responses>asb0_4,</Responses>
+<Name>Illness or Injuries Complicated by Alcohol</Name>
+<Link>https://s3.amazonaws.com/dod-media/Documents/Illness+and+Injuries+caused+by+Alcohol.pdf?3</Link>
+</Resource>
+<Resource>
+<Modules>asb0_5,</Modules>
+<Name>Rethinking Drinking</Name>
+<Link>https://s3.amazonaws.com/dod-media/Documents/Rethinking_Drinking.pdf?3</Link>
+</Resource>
+</Category>
+<Category rail="0hour">
+<Heading>Alcohol Screening</Heading>
+<Resource>
+<Responses>asb0_2,asb0_3,asb0_4,asb0_5,</Responses>
+<Name>AUDIT-C Form Including Scoring</Name>
+<Link>https://s3.amazonaws.com/dod-media/Documents/Audit+C+Form+including+scoring.pdf?3</Link>
+</Resource>
+<Resource>
+<Responses>asb0_2,asb0_3,asb0_4,asb0_5,</Responses>
+<Name>AUDIT Form</Name>
+<Link>https://s3.amazonaws.com/dod-media/Documents/Audit+Form.pdf?3</Link>
+</Resource>
+<Resource>
+<Responses>asb0_2,asb0_3,asb0_4,asb0_5,</Responses>
+<Name>AUDIT Risk Ranges</Name>
+<Link>https://s3.amazonaws.com/dod-media/Documents/Audit+Risk+Ranges.pdf?3</Link>
+</Resource>
+</Category>
+<Category rail="0hour">
+<Heading>Clinical Skills</Heading>
+<Resource>
+<Name>BRIEF Alcohol Intervention</Name>
+<Responses>asb0_7,</Responses>
+<Link>https://s3.amazonaws.com/dod-media/Documents/BRIEF.pdf?3</Link>
+</Resource>
+<Resource>
+<Name>Readiness to Change</Name>
+<Responses>asb0_7,</Responses>
+<Link>https://s3.amazonaws.com/dod-media/Documents/Readiness+to+Change.pdf?3</Link>
+</Resource>
+<Resource>
+<Responses>asb0_9,</Responses>
+<Name>Comparison Between DSM–IV and DSM–5</Name>
+<Link>https://s3.amazonaws.com/dod-media/Documents/Comparison+Between+DSM–IV+and+DSM–5.pdf?3</Link>
+</Resource>
+</Category>
+<Category rail="0hour">
+<Heading>Bibliography</Heading>
+<Resource>
+<Modules></Modules>
+<Name>Bibliography</Name>
+<Details>Sources and Citations</Details>
+<Link>https://s3.amazonaws.com/dod-media/Documents/Bibliography+ASB1.pdf?3</Link>
+</Resource>
+</Category>
+<Category rail="mentor">
+<Heading>Patient Screening Forms</Heading>
+<Resource>
+<Responses></Responses>
+<Name>Screening Form: Joe Fortune</Name>
+<Details></Details>
+<Link>https://s3.amazonaws.com/sbirt-video/Documents_PAS/Resources/assist_JoeFortune.pdf</Link>
+</Resource>
+<Resource>
+<Responses></Responses>
+<Name>Patient Records: Joe Fortune</Name>
+<Details></Details>
+<Link>https://s3.amazonaws.com/sbirt-video/Documents_PAS/Resources/pas_p1_chart_joefortune.pdf</Link>
+</Resource>
+<Resource>
+<Responses>pas_p1_sp2_s35nm,pas_p1_sp3_s36,pas_p1_sp4_s37,pas_p1_sp6_s39,pas_p1_sp7_s40,pas_p1_sp9_s42,</Responses>
+<Name>Screening Form: Juan Jimenez</Name>
+<Details></Details>
+<Link>https://s3.amazonaws.com/sbirt-video/Documents_PAS/Resources/assist_JuanJimenez.pdf</Link>
+</Resource>
+<Resource>
+<Responses>pas_p1_sp2_s35nm,pas_p1_sp3_s36,pas_p1_sp4_s37,pas_p1_sp6_s39,pas_p1_sp7_s40,pas_p1_sp9_s42,</Responses>
+<Name>Patient Records: Juan Jimenez</Name>
+<Details></Details>
+<Link>https://s3.amazonaws.com/sbirt-video/Documents_PAS/Resources/pas_p1_chart_juanjimenez.pdf</Link>
+</Resource>
+<Resource>
+<Responses>pas_p1_sp2_s73m,pas_p1_sp3_s74,pas_p1_sp4_s75,pas_p1_sp8_s79,pas_p1_sp10_s81,</Responses>
+<Name>Screening Form: Martha Jennings</Name>
+<Details></Details>
+<Link>https://s3.amazonaws.com/sbirt-video/Documents_PAS/Resources/assist_MarthaJennings.pdf</Link>
+</Resource>
+<Resource>
+<Responses>pas_p1_sp2_s73m,pas_p1_sp3_s74,pas_p1_sp4_s75,pas_p1_sp8_s79,pas_p1_sp10_s81,</Responses>
+<Name>Patient Records: Martha Jennings</Name>
+<Details></Details>
+<Link>https://s3.amazonaws.com/sbirt-video/Documents_PAS/Resources/pas_p1_chart_marthajennings.pdf</Link>
+</Resource>
+<Resource>
+<Responses>pas_p1_sp2_s26m,pas_p1_sp3_s27,pas_p1_sp6_s30,pas_p1_sp7_s31,pas_p1_sp8_s32,pas_p1_sp9_s33,</Responses>
+<Name>Screening Form: Roger Simms</Name>
+<Details></Details>
+<Link>https://s3.amazonaws.com/sbirt-video/Documents_PAS/Resources/assist_RogerSimms.pdf</Link>
+</Resource>
+<Resource>
+<Responses>pas_p1_sp2_s26m,pas_p1_sp3_s27,pas_p1_sp6_s30,pas_p1_sp7_s31,pas_p1_sp8_s32,pas_p1_sp9_s33,</Responses>
+<Name>Patient Records: Roger Simms</Name>
+<Details></Details>
+<Link>https://s3.amazonaws.com/sbirt-video/Documents_PAS/Resources/pas_p1_chart_rogersimms.pdf</Link>
+</Resource>
+<Resource>
+<Responses>pas_p1_sp2_s62m,pas_p1_sp4_s64,pas_p1_sp10_s70,</Responses>
+<Name>Screening Form: Bonnie Andrews</Name>
+<Details></Details>
+<Link>https://s3.amazonaws.com/sbirt-video/Documents_PAS/Resources/AUDIT_BonnieAndrews.pdf</Link>
+</Resource>
+<Resource>
+<Responses>pas_p1_sp2_s62m,pas_p1_sp4_s64,pas_p1_sp10_s70,</Responses>
+<Name>Patient Records: Bonnie Andrews</Name>
+<Details></Details>
+<Link>https://s3.amazonaws.com/sbirt-video/Documents_PAS/Resources/pas_p1_chart_bonnieandrews.pdf</Link>
+</Resource>
+<Resource>
+<Responses>pas_p1_sp2_s53m,pas_p1_sp3_s54,pas_p1_sp4_s55,pas_p1_sp10_s61,</Responses>
+<Name>Screening Form: Chris Dunlap</Name>
+<Details></Details>
+<Link>https://s3.amazonaws.com/sbirt-video/Documents_PAS/Resources/AUDIT_ChrisDunlap.pdf</Link>
+</Resource>
+<Resource>
+<Responses>pas_p1_sp2_s53m,pas_p1_sp3_s54,pas_p1_sp4_s55,pas_p1_sp10_s61,</Responses>
+<Name>Patient Records: Chris Dunlap</Name>
+<Details></Details>
+<Link>https://s3.amazonaws.com/sbirt-video/Documents_PAS/Resources/pas_p1_chart_chrisdunlap.pdf</Link>
+</Resource>
+<Resource>
+<Responses>pas_p1_sp2_s17nm,pas_p1_sp4_s19,pas_p1_sp8_s23,</Responses>
+<Name>Screening Form: Dale Hellman</Name>
+<Details></Details>
+<Link>https://s3.amazonaws.com/sbirt-video/Documents_PAS/Resources/AUDIT_DaleHellman.pdf</Link>
+</Resource>
+<Resource>
+<Responses>pas_p1_sp2_s17nm,pas_p1_sp4_s19,pas_p1_sp8_s23,</Responses>
+<Name>Patient Records: Dale Hellman</Name>
+<Details></Details>
+<Link>https://s3.amazonaws.com/sbirt-video/Documents_PAS/Resources/pas_p1_chart_dalehellman.pdf</Link>
+</Resource>
+<Resource>
+<Responses>pas_p1_sp2_s44nm,pas_p1_sp6_s48,pas_p1_sp7_s49,pas_p1_sp9_s51,pas_p1_sp10_s52,</Responses>
+<Name>Screening Form: Serena Thomas</Name>
+<Details></Details>
+<Link>https://s3.amazonaws.com/sbirt-video/Documents_PAS/Resources/AUDIT_SerenaThomas.pdf</Link>
+</Resource>
+<Resource>
+<Responses>pas_p1_sp2_s44nm,pas_p1_sp6_s48,pas_p1_sp7_s49,pas_p1_sp9_s51,pas_p1_sp10_s52,</Responses>
+<Name>Patient Records: Serena Thomas</Name>
+<Details></Details>
+<Link>https://s3.amazonaws.com/sbirt-video/Documents_PAS/Resources/pas_p1_chart_serenathomas.pdf</Link>
+</Resource>
+<Resource>
+<Modules>,19,20,21,22,23,24,25,26,</Modules>
+<Name>Patient Records: Lisa MacPhearson</Name>
+<Details></Details>
+<Link>https://s3.amazonaws.com/sbirt-video/Documents_PAS/Resources/pas_p1_chart_patsim01.pdf</Link>
+</Resource>
+</Category>
+<Category rail="mentor">
+<Heading>Teaching Segment Supplements</Heading>
+<Resource>
+<Modules>,19,20,</Modules>
+<Name>Tips on Raising the Subject</Name>
+<Details></Details>
+<Link>https://s3.amazonaws.com/sbirt-video/Documents_PAS/Resources/PAS_P1_TS2_Supp.pdf</Link>
+</Resource>
+<Resource>
+<Modules>,21,</Modules>
+<Name>Tips on Providing Feedback</Name>
+<Details></Details>
+<Link>https://s3.amazonaws.com/sbirt-video/Documents_PAS/Resources/PAS_P1_TS3_Supp.pdf</Link>
+</Resource>
+<Resource>
+<Modules>,22,</Modules>
+<Name>Tips on Using Open-Ended Questions</Name>
+<Details></Details>
+<Link>https://s3.amazonaws.com/sbirt-video/Documents_PAS/Resources/PAS_P1_TS4_Supp.pdf</Link>
+</Resource>
+<Resource>
+<Modules>,23,24,</Modules>
+<Name>Tips on Reflections and Affirmations</Name>
+<Details></Details>
+<Link>https://s3.amazonaws.com/sbirt-video/Documents_PAS/Resources/PAS_P1_TS6_Supp.pdf</Link>
+</Resource>
+<Resource>
+<Modules>,25,</Modules>
+<Name>Tips on Negotiating and Advising</Name>
+<Details></Details>
+<Link>https://s3.amazonaws.com/sbirt-video/Documents_PAS/Resources/PAS_P1_TS8_Supp.pdf</Link>
+</Resource>
+<Resource>
+<Modules>,26,</Modules>
+<Name>Tips on Referral to Treatment</Name>
+<Details></Details>
+<Link>https://s3.amazonaws.com/sbirt-video/Documents_PAS/Resources/PAS_P1_TS9_Supp.pdf</Link>
+</Resource>
+</Category>
+<Category rail="mentor">
+<Heading>SBIRT Tools</Heading>
+<Resource>
+<Responses></Responses>
+<Name>About this Training</Name>
+<Details></Details>
+<Link>https://s3.amazonaws.com/sbirt-video/Documents_PAS/Resources/about_this_training.pdf</Link>
+</Resource>
+<Resource>
+<Modules></Modules>
+<Name>SBIRT Clinical Guidelines</Name>
+<Details></Details>
+<Link>https://s3.amazonaws.com/sbirt-video/Documents_PAS/Resources/sbirt_clinical_guidelines.pdf</Link>
+</Resource>
+<Resource>
+<Modules></Modules>
+<Name>References</Name>
+<Details></Details>
+<Link>https://s3.amazonaws.com/sbirt-video/Documents_PAS/Resources/references.pdf</Link>
+</Resource>
+<Resource>
+<Modules></Modules>
+<Name>Guideline Supplement: Rx Abuse Prevention</Name>
+<Details></Details>
+<Link>https://s3.amazonaws.com/sbirt-video/Documents_PAS/Resources/guideline_supplement_rx_abuse_prevention.pdf</Link>
+</Resource>
+<Resource>
+<Modules></Modules>
+<Name>Guideline Supplement: Motivational Interviewing</Name>
+<Details></Details>
+<Link>https://s3.amazonaws.com/sbirt-video/Documents_PAS/Resources/guideline_supplement_motivational_interviewing.pdf</Link>
+</Resource>
+<Resource>
+<Modules></Modules>
+<Name>Guideline Supplement: Fetal Alcohol Spectrum Disorder</Name>
+<Details></Details>
+<Link>https://s3.amazonaws.com/sbirt-video/Documents_PAS/Resources/guideline_supplement_fasd.pdf</Link>
+</Resource>
+<Resource>
+<Modules></Modules>
+<Name>SBIRT Pocket Card and Readiness Ruler</Name>
+<Details></Details>
+<Link>https://s3.amazonaws.com/sbirt-video/Documents_PAS/Resources/sbirt_pocket_card_and_readiness_ruler.pdf</Link>
+</Resource>
+</Category>
+</xml>

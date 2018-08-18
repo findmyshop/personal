@@ -1,0 +1,71 @@
+<!--[if lt IE 7]><html class="ie6"><![endif]-->
+<!--[if IE 7]><html class="ie7"><![endif]-->
+<!--[if IE 8]><html class="ie8"><![endif]-->
+<!--[if gt IE 8]><!--><html><!--<![endif]-->
+<head>
+	<title>Please upgrade your browser.</title>
+	<style>
+		#main{
+			display:none;
+			position:relative;margin:auto;width:600px;
+		}
+		html.ie6 #main, html.ie7 #main{
+			display:block;
+		}
+		#title{
+			width:350px;height:48px;position:relative;margin:auto;font-family:sans-serif;font-size:24pt;color:#777777;
+		}
+		#intro{
+			position:relative;margin:auto;font-family:sans-serif;font-size:10pt;color:#444444;padding:10px;
+		}
+		#browsers{
+			text-align:center;position:relative;margin:auto;font-family:sans-serif;font-size:10pt;color:#444444;padding:10px;
+		}
+		.browser{
+			width:128px;height:144px;display:inline-block;*zoom:1;*display:inline;cursor:pointer;
+		}
+		.browser img{
+			width:128px;
+			height:128px;
+		}
+	</style>
+	<script type="text/javascript" src="../../jquery/jquery-1.11.1.min.js"></script>
+	<script type="text/javascript">
+		(function(){
+			if (!$('html').hasClass('ie7') && !$('html').hasClass('ie6')){
+				window.location = '/';
+			}
+		})();
+	</script>
+</head>
+<body>
+	<div id="main">
+	<div id="title">Upgrade your browser</div>
+		<div id="intro">
+			You are using an outdated browser, and will need to upgrade to a more recent one in order to access the application. Please choose one of the browsers below, and
+			log in again once you have installed it.<br/><br/>
+			<strong>Note for Windows XP users:</strong> As Windows XP is not compatible with the most recent versions of Internet Explorer, you will need to install one of the other
+			recommended browsers instead.
+		</div>
+		<div id="browsers">
+			<div id="chrome" class="browser" onclick="window.location='http://www.google.com/chrome'">
+				<img src="/assets/medrespond/images/chrome.png"/>
+				<span>Google Chrome</span>
+			</div>
+			<div id="firefox" class="browser" onclick="window.location='http://www.firefox.com'">
+				<img src="/assets/medrespond/images/firefox.png"/>
+				<span>Mozilla Firefox</span>
+			</div>
+			<div id="ie" class="browser" onclick="window.location='http://windows.microsoft.com/en-us/internet-explorer/download-ie'">
+				<img src="/assets/medrespond/images/ie.png"/>
+				<span>Internet Explorer</span>
+			</div>
+			<div id="opera" class="browser" onclick="window.location='http://www.opera.com'">
+				<img src="/assets/medrespond/images/opera.png"/>
+				<span>Opera</span>
+			</div>
+			<div style="clear:both"></div>
+		</div>
+	</div>
+</body>
+</html>

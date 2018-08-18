@@ -1,0 +1,90 @@
+<xml>
+  <Module id='1'>
+    <Heading>
+      Module 1: Background
+    </Heading>
+    <ResponseID>asb3_mod1</ResponseID>
+  </Module>
+  <Module id='2'>
+    <Heading>
+      Module 2: Screening
+    </Heading>
+    <ResponseID>asb3_mod2_1</ResponseID>
+    <ResponseID>asb3_mod2_sp1intro</ResponseID>
+    <ResponseID>asb3_mod2_2</ResponseID>
+  </Module>
+  <Module id='3'>
+    <Heading>
+      Module 3: Brief Intervention
+    </Heading>
+    <ResponseID>asb3_mod3</ResponseID>
+  </Module>
+  <Module id='4'>
+    <Heading>
+      Module 4: Raising the Subject and Building Rapport
+    </Heading>
+    <ResponseID>asb3_mod4_1</ResponseID>
+    <ResponseID>asb3_mod4_sp1s1</ResponseID>
+    <ResponseID>asb3_mod4_2</ResponseID>
+  </Module>
+  <Module id='5'>
+    <Heading>
+      Module 5: Providing Feedback
+    </Heading>
+    <ResponseID>asb3_mod5_1</ResponseID>
+    <ResponseID>asb3_mod5_sp1intro</ResponseID>
+    <ResponseID>asb3_mod5_2</ResponseID>
+  </Module>
+  <Module id='6'>
+    <Heading>
+      Module 6: Enhancing Motivation using OARS
+    </Heading>
+    <ResponseID>asb3_mod6_1</ResponseID>
+    <ResponseID>asb3_mod6_sp1intro</ResponseID>
+    <ResponseID>asb3_mod6_2</ResponseID>
+    <ResponseID>asb3_mod6_sp2intro</ResponseID>
+    <ResponseID>asb3_mod6_3</ResponseID>
+  </Module>
+  <Module id='7'>
+    <Heading>
+      Module 7: Eliciting Change Talk
+    </Heading>
+    <ResponseID>asb3_mod7</ResponseID>
+    <ResponseID>asb3_mod7_sp1intro</ResponseID>
+  </Module>
+  <Module id='8'>
+    <Heading>
+      Module 8: Confidence Statements
+    </Heading>
+    <ResponseID>asb3_mod8</ResponseID>
+  </Module>
+  <Module id='9'>
+    <Heading>
+      Module 9: Negotiating and Advising
+    </Heading>
+    <ResponseID>asb3_mod9_1</ResponseID>
+    <ResponseID>asb3_mod9_sp1intro</ResponseID>
+    <ResponseID>asb3_mod9_2</ResponseID>
+  </Module>
+  <Module id='10'>
+    <Heading>
+      Module 10: Referral to Treatment
+    </Heading>
+    <ResponseID>asb3_mod10</ResponseID>
+  </Module>
+ <Module id='11'>
+    <Heading>
+      Module 11: Patient Simulation
+    </Heading>
+    <ResponseID>asb3_mod11_1</ResponseID>
+    <ResponseID>asb3_mod11_ps1intro</ResponseID>
+    <ResponseID>asb3_mod11_ps1s2</ResponseID>
+    <ResponseID>asb3_mod11_ps1s3</ResponseID>
+    <ResponseID>asb3_mod11_ps1s4intro</ResponseID>
+    <ResponseID>asb3_mod11_ps1s5</ResponseID>
+    <ResponseID>asb3_mod11_ps1s6</ResponseID>
+    <ResponseID>asb3_mod11_ps1s7</ResponseID>
+    <ResponseID>asb3_mod11_ps1s8</ResponseID>
+    <ResponseID>asb3_mod11_2</ResponseID>
+  </Module>
+</xml>

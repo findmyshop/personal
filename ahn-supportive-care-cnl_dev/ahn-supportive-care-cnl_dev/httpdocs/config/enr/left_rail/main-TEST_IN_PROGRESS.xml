@@ -1,0 +1,30 @@
+<xml>
+	<Module id='0' type='link' status="locked">
+		<ResponseID type="heading">fun0000</ResponseID>
+	</Module>
+	<Module id='1' type="link" status="locked">
+		<ResponseID type="heading">enr0202</ResponseID>
+		<ResponseID type="sub-heading">enr0301</ResponseID>
+		<ResponseID type="sub-heading">enr0401</ResponseID>
+		<ResponseID type="sub-heading">enr0501</ResponseID>
+		<ResponseID type="sub-heading">enr0601</ResponseID>
+		<ResponseID type="heading">enr0702</ResponseID>
+	</Module>
+	<Module id='2' type='link'>
+		<ResponseID type="sub-heading" action="no-click">enr0804</ResponseID>
+		<ResponseID title="Required for customers entering the draw." status="question" action="no-click">enr0806</ResponseID>
+		<ResponseID title="Required for customers entering the draw." status="question" action="no-click">enr0808</ResponseID>
+		<ResponseID title="Required for customers entering the draw." status="question" action="no-click">enr0810</ResponseID>
+		<ResponseID type="sub-heading" action="no-click">enr0912</ResponseID>
+		<ResponseID title="Required for customers entering the draw." status="question" action="no-click">enr0914</ResponseID>
+		<ResponseID title="Required for customers entering the draw." status="question" action="no-click">enr0916</ResponseID>
+		<ResponseID title="Required for customers entering the draw." status="question" action="no-click">enr0918</ResponseID>
+		<ResponseID type="sub-heading" action="no-click">enr1020</ResponseID>
+		<ResponseID title="Required for customers entering the draw." status="question" action="no-click">enr1022</ResponseID>
+		<ResponseID title="Required for customers entering the draw." status="question" action="no-click">enr1024</ResponseID>
+		<ResponseID title="Required for customers entering the draw." status="question" action="no-click">enr1026</ResponseID>
+		<ResponseID type="sub-heading" action="no-click">enr1129</ResponseID>
+		<ResponseID title="Required for customers entering the draw." status="question" action="no-click">enr1305</ResponseID>
+		<ResponseID title="Required for customers entering the draw." status="question" action="no-click">enr1307</ResponseID>
+	</Module>
+</xml>

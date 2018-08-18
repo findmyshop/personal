@@ -1,0 +1,2146 @@
+<!--* Index Resource* 03-16-2015-->
+<xml>
+<Response id="jpbl001">
+<ResponseID id="0">jpbl001</ResponseID>
+<BaseQuestion id="0">Response to off topic questions (i.e. Why is the sky blue?)</BaseQuestion>
+<Content id="0">I don't have an answer to that question. Please contact a member of the study staff for more information or ask a new question.</Content>
+</Response>
+<Response id="jpbl002">
+<ResponseID id="0">jpbl002</ResponseID>
+<BaseQuestion id="0">Response to profanity</BaseQuestion>
+<Content id="0">Please keep your questions and comments respectful and on topic. Thank you!</Content>
+</Response>
+<Response id="jpbl003">
+<ResponseID id="0">jpbl003</ResponseID>
+<BaseQuestion id="0">Multiple Answer</BaseQuestion>
+<Content id="0">I can think of more than one answer for your question. Which would you like to hear first? Select a question from the list to the right.</Content>
+</Response>
+<Response id="jpbl004">
+<ResponseID id="0">jpbl004</ResponseID>
+<BaseQuestion id="0">Word count</BaseQuestion>
+<Content id="0">Please limit your questions to 50 words or less.</Content>
+</Response>
+<Response id="jpbl005">
+<ResponseID id="0">jpbl005</ResponseID>
+<BaseQuestion id="0">Introduction to program</BaseQuestion>
+<Content id="0">The goal of this website is to help you understand as much as possible about clinical trials for breast cancer in a way that is right for you. The study team has developed this system to help answer questions you may have about this clinical trial. You can ask the questions you are interested in and to hear more about clinical trials and study participation.If you have a question that is not listed, try typing it into the box below; we may be able to answer it. If you have unanswered questions, I encourage you to take those questions to the study doctor or staff. This site is not intended to replace a conversation with your study doctor.Although we can't answer questions about your specific diagnosis or other trials that your doctor may recommend, we hope that this site will give you more information about what it is like to take part in a clinical trial and why clinical trials are so important to consider. I invite you now to explore the site and ask your questions.</Content>
+</Response>
+<Response id="jpbl006">
+<ResponseID id="0">jpbl006</ResponseID>
+<BaseQuestion id="0">Who are you?</BaseQuestion>
+<Content id="0">Thank you for asking, but I'm here to talk about clinical trials.</Content>
+</Response>
+<Response id="jpbl007">
+<ResponseID id="0">jpbl007</ResponseID>
+<BaseQuestion id="0">Contact information (ie, How do I get in touch with you?)</BaseQuestion>
+<Content id="0">Please contact a member of the study staff for more information or ask a new question.</Content>
+</Response>
+<Response id="jpbl101">
+<ResponseID id="0">jpbl101</ResponseID>
+<BaseQuestion id="0">What is a clinical trial?</BaseQuestion>
+<Content id="0">A clinical trial is a medical research study performed to test investigational treatments and devices for a disease or condition. These studies determine if treatments and devices are safe to use and if they improve the health of people. Before a treatment or device can be made available to the general public, it has to go through several phases of clinical research. Most prescription medications are available as a result of previous clinical trials.</Content>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">jpbl103</ResponseID>
+<BaseQuestion id="1">What are the phases of a clinical trial?</BaseQuestion>
+</RQ>
+<RQ id="1">
+<ResponseID id="2">jpbl139</ResponseID>
+<BaseQuestion id="2">What is being tested in this trial? What is the purpose of this trial?</BaseQuestion>
+</RQ>
+<RQ id="2">
+<ResponseID id="3">jpbl104</ResponseID>
+<BaseQuestion id="3">What are the types of clinical trials?</BaseQuestion>
+</RQ>
+<RQ id="3">
+<ResponseID id="4">jpbl108</ResponseID>
+<BaseQuestion id="4">What is a clinical trial protocol?</BaseQuestion>
+</RQ>
+</RQs>
+</Response>
+<Response id="jpbl102">
+<ResponseID id="0">jpbl102</ResponseID>
+<BaseQuestion id="0">What agency regulates clinical trials?</BaseQuestion>
+<Content id="0">Clinical trials are regulated by the U.S. Food and Drug Administration. The primary role of the FDA regarding clinical trials is to promote the safety of trial participants, in part by ensuring adherence to a set of principles known as good clinical practices. These practices enhance the quality of clinical trial data and ensure the protection of trial participants like you. There are also other regulatory agencies, such as the European Medical Agency, outside of the United States involved in overseeing clinical trials.</Content>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">jpbl106</ResponseID>
+<BaseQuestion id="1">What is a Data Monitoring Committee?</BaseQuestion>
+</RQ>
+<RQ id="1">
+<ResponseID id="2">jpbl107</ResponseID>
+<BaseQuestion id="2">What is an Institutional Review Board/IRB?</BaseQuestion>
+</RQ>
+<RQ id="2">
+<ResponseID id="3">jpbl137</ResponseID>
+<BaseQuestion id="3">Will my name be publically used during the trial or when the results are published?</BaseQuestion>
+</RQ>
+<RQ id="3">
+<ResponseID id="4">jpbl124</ResponseID>
+<BaseQuestion id="4">What is informed consent?</BaseQuestion>
+</RQ>
+</RQs>
+</Response>
+<Response id="jpbl103">
+<ResponseID id="0">jpbl103</ResponseID>
+<BaseQuestion id="0">What are the phases of a clinical trial?</BaseQuestion>
+<Content id="0">Clinical trials are typically performed in steps or "phases." These phases are designed to establish that an investigational treatment will be safe and also beneficial to patients with a particular disease or condition.Before a treatment can be tested in human subjects, pre-clinical testing occurs in a lab environment to gather preliminary data on whether the investigational treatment has the potential to work. Next, the investigational treatment transitions to a Phase I clinical trial, which typically involves a relatively small number of volunteers or patients and is designed to evaluate whether the investigational treatment is safe and to determine what dose should be given to people. If the results show that the treatment is safe, it transitions into Phase II clinical trials, where it will be tested in patients with the disease or condition to see whether the treatment has any effect on the disease. If the treatment performs well, it transitions into Phase III trials, which involve a relatively large number of patients to assess the effectiveness of the investigational treatment and how it compares to existing standard therapies.</Content>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">jpbl104</ResponseID>
+<BaseQuestion id="1">What are the types of clinical trials?</BaseQuestion>
+</RQ>
+<RQ id="1">
+<ResponseID id="2">jpbl139</ResponseID>
+<BaseQuestion id="2">What is being tested in this trial? What is the purpose of this trial?</BaseQuestion>
+</RQ>
+<RQ id="2">
+<ResponseID id="3">jpbl101</ResponseID>
+<BaseQuestion id="3">What is a clinical trial?</BaseQuestion>
+</RQ>
+<RQ id="3">
+<ResponseID id="4">jpbl108</ResponseID>
+<BaseQuestion id="4">What is a clinical trial protocol?</BaseQuestion>
+</RQ>
+</RQs>
+</Response>
+<Response id="jpbl104">
+<ResponseID id="0">jpbl104</ResponseID>
+<BaseQuestion id="0">What are the types of clinical trials?</BaseQuestion>
+<Content id="0">There are two main types of clinical trials: Blinded and unblinded, or open-label, trials.In unblinded trials, both the study staff and the patients are aware of the drug or treatment the patient is receiving. In single-blind trials, the study staff knows whether a patient is getting the investigational medicine but the patient is not aware. In a double-blind trial, neither the study staff nor the patient knows who is receiving the investigational medicine. By "blinding" the trial, no biases--whether real or unintentional--are introduced.Placebos are often used in blinded trials, so you may also hear blinded trials referred to as placebocontrolled--or comparative--trials. This means that one group of patients will receive the investigational medicine to be evaluated, while a second group, often known as the control group, will receive a placebo. This placebo looks just like investigational medicine but contains no active ingredients. In cancer trials, the investigational medicine or placebo is typically given 
+<i>in addition to</i>the standard treatment. This means that a patient enrolled in any cancer trial will always receive active treatment, even if they are receiving the placebo and not the investigational medicine.Placebos are used to ensure that any observed effect can be properly attributed to the investigational medicine.</Content>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">jpbl112</ResponseID>
+<BaseQuestion id="1">Is it right for a trial to include a placebo?</BaseQuestion>
+</RQ>
+<RQ id="1">
+<ResponseID id="2">jpbl188</ResponseID>
+<BaseQuestion id="2">Will the study staff know what trial treatment I’m getting?</BaseQuestion>
+</RQ>
+<RQ id="2">
+<ResponseID id="3">jpbl166</ResponseID>
+<BaseQuestion id="3">What will the trial treatment include?</BaseQuestion>
+</RQ>
+<RQ id="3">
+<ResponseID id="4">jpbl101</ResponseID>
+<BaseQuestion id="4">What is a clinical trial?</BaseQuestion>
+</RQ>
+<RQ id="4">
+<ResponseID id="5">jpbl103</ResponseID>
+<BaseQuestion id="5">What are the phases of a clinical trial?</BaseQuestion>
+</RQ>
+</RQs>
+</Response>
+<Response id="jpbl105">
+<ResponseID id="0">jpbl105</ResponseID>
+<BaseQuestion id="0">Who is managing my trial?</BaseQuestion>
+<Content id="0">A trial is typically managed by a research team that includes doctors, nurses, research assistants, data analysts, and other specialists. This research team works to closely monitor your health during the clinical trial and provide medical and other supportive care as needed.</Content>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">jpbl183</ResponseID>
+<BaseQuestion id="1">Who will be caring for me during the clinical trial?</BaseQuestion>
+</RQ>
+<RQ id="1">
+<ResponseID id="2">jpbl184</ResponseID>
+<BaseQuestion id="2">Can I use my own doctor/lab/hospital for the tests?</BaseQuestion>
+</RQ>
+<RQ id="2">
+<ResponseID id="3">jpbl185</ResponseID>
+<BaseQuestion id="3">If I get sick, who will be there to help me?</BaseQuestion>
+</RQ>
+<RQ id="3">
+<ResponseID id="4">jpbl145</ResponseID>
+<BaseQuestion id="4">Will I be able to talk to the study doctor during the trial?</BaseQuestion>
+</RQ>
+</RQs>
+</Response>
+<Response id="jpbl106">
+<ResponseID id="0">jpbl106</ResponseID>
+<BaseQuestion id="0">What is a Data Monitoring Committee?</BaseQuestion>
+<Content id="0">A Data Monitoring Committee is an independent group of experts who monitors patient safety and treatment efficacy during the course of a clinical trial. The committee keeps all of the data and information it reviews confidential so as not to affect the integrity of the study. The committee, which typically includes 3 to 10 members, is authorized to recommend that a trial be stopped due to safety concerns, because the treatment is not effective, or if the investigational medicine is so beneficial that it should be immediately considered for approval. Members of the Data Monitoring Committee are not related to the institution or company conducting or sponsoring the trial and are usually made up of clinicians with knowledge of the disease or condition being treated, statisticians, and sometimes a patient advocacy representative.</Content>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">jpbl102</ResponseID>
+<BaseQuestion id="1">What agency regulates clinical trials?</BaseQuestion>
+</RQ>
+<RQ id="1">
+<ResponseID id="2">jpbl107</ResponseID>
+<BaseQuestion id="2">What is an Institutional Review Board/IRB?</BaseQuestion>
+</RQ>
+<RQ id="2">
+<ResponseID id="3">jpbl110</ResponseID>
+<BaseQuestion id="3">How can I be assured I won’t be taken advantage of?</BaseQuestion>
+</RQ>
+<RQ id="3">
+<ResponseID id="4">jpbl112</ResponseID>
+<BaseQuestion id="4">Is it right for a trial to include a placebo?</BaseQuestion>
+</RQ>
+<RQ id="4">
+<ResponseID id="5">jpbl115</ResponseID>
+<BaseQuestion id="5">What if the treatment does not work?</BaseQuestion>
+</RQ>
+</RQs>
+</Response>
+<Response id="jpbl107">
+<ResponseID id="0">jpbl107</ResponseID>
+<BaseQuestion id="0">What is an Institutional Review Board/IRB?</BaseQuestion>
+<Content id="0">An Institutional Review Board is a committee charged with approving, monitoring, and reviewing clinical research involving humans. The main goal of the board is to protect clinical trial participants from physical or psychological harm. Ahead of the start of the clinical trial, this committee will conduct an ethical and risk-benefit analysis to determine whether the research should be performed. The facility in which your study doctor works in has an Institutional Review Board that works specifically to protect participants in trials conducted at that facility.</Content>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">jpbl102</ResponseID>
+<BaseQuestion id="1">What agency regulates clinical trials?</BaseQuestion>
+</RQ>
+<RQ id="1">
+<ResponseID id="2">jpbl106</ResponseID>
+<BaseQuestion id="2">What is a Data Monitoring Committee?</BaseQuestion>
+</RQ>
+<RQ id="2">
+<ResponseID id="3">jpbl110</ResponseID>
+<BaseQuestion id="3">How can I be assured I won’t be taken advantage of?</BaseQuestion>
+</RQ>
+<RQ id="3">
+<ResponseID id="4">jpbl112</ResponseID>
+<BaseQuestion id="4">Is it right for a trial to include a placebo?</BaseQuestion>
+</RQ>
+<RQ id="4">
+<ResponseID id="5">jpbl113</ResponseID>
+<BaseQuestion id="5">Will the doctor tell the truth?</BaseQuestion>
+</RQ>
+</RQs>
+</Response>
+<Response id="jpbl108">
+<ResponseID id="0">jpbl108</ResponseID>
+<BaseQuestion id="0">What is a clinical trial protocol?</BaseQuestion>
+<Content id="0">A protocol is a written document outlining the design and implementation of a clinical trial and is created not only to answer specific research questions, but also to ensure the safety of trial participants. In general, a protocol details the trial objectives, describes what types of people may participate, and establishes the schedule of tests, procedures, medications, and dosages, as well as the length of the trial.</Content>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">jpbl109</ResponseID>
+<BaseQuestion id="1">Where can I get a copy of the protocol?</BaseQuestion>
+</RQ>
+<RQ id="1">
+<ResponseID id="2">jpbl101</ResponseID>
+<BaseQuestion id="2">What is a clinical trial?</BaseQuestion>
+</RQ>
+<RQ id="2">
+<ResponseID id="3">jpbl158</ResponseID>
+<BaseQuestion id="3">What are the eligibility criteria for this trial?</BaseQuestion>
+</RQ>
+<RQ id="3">
+<ResponseID id="4">jpbl159</ResponseID>
+<BaseQuestion id="4">What are the exclusions?</BaseQuestion>
+</RQ>
+</RQs>
+</Response>
+<Response id="jpbl109">
+<ResponseID id="0">jpbl109</ResponseID>
+<BaseQuestion id="0">Where can I get a copy of the protocol?</BaseQuestion>
+<Content id="0">Although you will not receive a copy of the clinical trial protocol, the study staff will review the Informed Consent Form with you prior to your enrollment in the trial. The Informed Consent Form describes important trial information in a manner that is easy to understand. During this review process, the study staff will help to address any questions or concerns you may have about the study design or objective or what your participation in the trial will involve.</Content>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">jpbl108</ResponseID>
+<BaseQuestion id="1">What is a clinical trial protocol?</BaseQuestion>
+</RQ>
+<RQ id="1">
+<ResponseID id="2">jpbl127</ResponseID>
+<BaseQuestion id="2">What rights do I have if I participate in a clinical trial? Can I quit the clinical trial at any time? Will the risks/side effects be explained to me?</BaseQuestion>
+</RQ>
+<RQ id="2">
+<ResponseID id="3">jpbl139</ResponseID>
+<BaseQuestion id="3">What is being tested in this trial? What is the purpose of this trial?</BaseQuestion>
+</RQ>
+<RQ id="3">
+<ResponseID id="4">jpbl145</ResponseID>
+<BaseQuestion id="4">Will I be able to talk to the study doctor during the trial?</BaseQuestion>
+</RQ>
+</RQs>
+</Response>
+<Response id="jpbl110">
+<ResponseID id="0">jpbl110</ResponseID>
+<BaseQuestion id="0">How can I be assured I won’t be taken advantage of?</BaseQuestion>
+<Content id="0">Eli Lilly and Company, the sponsor of this study, considers safety and well-being of individual research participants to be very important. In order to conduct a clinical trial, the research team must comply with laws and regulations of the country or countries in which a study is conducted. These laws and regulations were designed to protect your physical and psychological well-being, as well as to preserve the integrity of the research. In addition to compliance with the law, the conduct of Eli Lilly and Company-sponsored trials is also consistent with both the Pharmaceutical Research and Manufacturers of America's Principles on Conduct of Clinical Trials and well-respected global ethical guidelines. One of the main points of the ethical guidelines is that individuals should be treated with respect from the time they are approached for possible participation in the trial, throughout their participation, and after their participation ends. These guidelines are developed and monitored by global medical and health organizations and ensure individuals' right to privacy and their right to change their minds about being in the trial at any point.</Content>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">jpbl111</ResponseID>
+<BaseQuestion id="1">How will I be protected from unnecessary experiments?</BaseQuestion>
+</RQ>
+<RQ id="1">
+<ResponseID id="2">jpbl107</ResponseID>
+<BaseQuestion id="2">What is an Institutional Review Board/IRB?</BaseQuestion>
+</RQ>
+<RQ id="2">
+<ResponseID id="3">jpbl106</ResponseID>
+<BaseQuestion id="3">What is a Data Monitoring Committee?</BaseQuestion>
+</RQ>
+<RQ id="3">
+<ResponseID id="4">jpbl113</ResponseID>
+<BaseQuestion id="4">Will the doctor tell the truth?</BaseQuestion>
+</RQ>
+<RQ id="4">
+<ResponseID id="5">jpbl112</ResponseID>
+<BaseQuestion id="5">Is it right for a trial to include a placebo?</BaseQuestion>
+</RQ>
+<RQ id="5">
+<ResponseID id="6">jpbl124</ResponseID>
+<BaseQuestion id="6">What is informed consent?</BaseQuestion>
+</RQ>
+</RQs>
+</Response>
+<Response id="jpbl111">
+<ResponseID id="0">jpbl111</ResponseID>
+<BaseQuestion id="0">How will I be protected from unnecessary experiments?</BaseQuestion>
+<Content id="0">The nature of participating in a clinical study means that you may receive an investigational medicine, which could be perceived by some as making you a "guinea pig." However, as a participant in any clinical trial, you have rights. One key aspect of protecting research participants' rights is the informed consent process, which is designed to respect an individual's autonomy and protect an individual's freedom of choice. Each individual who wishes to participate in Eli Lilly and Company-sponsored research is informed both verbally and in writing of the purpose, methods, and possible risks and benefits of a study, as well as the fact that they are free to withdraw from the study at any time and for any reason.The individual's consent to participate in a study is documented by a signature of agreement. In the case of an individual who is not capable of giving informed consent, including children, the consent of a legally authorized representative may be obtained on behalf of that individual, provided that the study participant is willing to participate.In addition to the informed consent process, all procedures and tests performed prior to participation, during participation, and after participation ends are clearly outlined in the clinical study protocol, which is reviewed and agreed to by the U.S. Food and Drug Administration, or FDA, your physician-investigator, and an institutional review board. The protocols are subject both to laws and regulations and to ethical guidelines, which require that the study is designed in a way so as to answer a specific scientific question. Therefore, unnecessary experiments or those that are not aimed at answering the pre-determined scientific question cannot be performed.</Content>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">jpbl110</ResponseID>
+<BaseQuestion id="1">How can I be assured I won’t be taken advantage of?</BaseQuestion>
+</RQ>
+<RQ id="1">
+<ResponseID id="2">jpbl107</ResponseID>
+<BaseQuestion id="2">What is an Institutional Review Board/IRB?</BaseQuestion>
+</RQ>
+<RQ id="2">
+<ResponseID id="3">jpbl112</ResponseID>
+<BaseQuestion id="3">Is it right for a trial to include a placebo?</BaseQuestion>
+</RQ>
+<RQ id="3">
+<ResponseID id="4">jpbl145</ResponseID>
+<BaseQuestion id="4">Will I be able to talk to the study doctor during the trial?</BaseQuestion>
+</RQ>
+<RQ id="4">
+<ResponseID id="5">jpbl181</ResponseID>
+<BaseQuestion id="5">Is it normal to be scared?</BaseQuestion>
+</RQ>
+</RQs>
+</Response>
+<Response id="jpbl112">
+<ResponseID id="0">jpbl112</ResponseID>
+<BaseQuestion id="0">Is it right for a trial to include a placebo?</BaseQuestion>
+<Content id="0">Placebos are considered ethical when used within appropriate boundaries that protect the safety and well-being of research participants. In most cases, participants in cancer trials will receive an active standard of care treatment commonly given to patients with that type of cancer. Some patients will be randomized to receive a combination of standard of care and placebo, while others will receive a combination of standard of care and the investigational medicine. Cancer clinical trials are often done to determine whether there is an additional benefit to the patient when the investigational medicine is combined with the standard of care treatment. In order to do this, it is necessary to compare this type of combination treatment to a combination of placebo and standard of care.Patients participating in a placebo-controlled clinical trial are told during the informed consent process that there is a chance that they could receive the investigational medicine or an inactive placebo plus standard of care while participating in the trial.</Content>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">jpbl166</ResponseID>
+<BaseQuestion id="1">What will the trial treatment include?</BaseQuestion>
+</RQ>
+<RQ id="1">
+<ResponseID id="2">jpbl188</ResponseID>
+<BaseQuestion id="2">Will the study staff know what trial treatment I’m getting?</BaseQuestion>
+</RQ>
+<RQ id="2">
+<ResponseID id="3">jpbl104</ResponseID>
+<BaseQuestion id="3">What are the types of clinical trials?</BaseQuestion>
+</RQ>
+<RQ id="3">
+<ResponseID id="4">jpbl107</ResponseID>
+<BaseQuestion id="4">What is an Institutional Review Board/IRB?</BaseQuestion>
+</RQ>
+<RQ id="4">
+<ResponseID id="5">jpbl110</ResponseID>
+<BaseQuestion id="5">How can I be assured I won’t be taken advantage of?</BaseQuestion>
+</RQ>
+<RQ id="5">
+<ResponseID id="6">jpbl113</ResponseID>
+<BaseQuestion id="6">Will the doctor tell the truth?</BaseQuestion>
+</RQ>
+</RQs>
+</Response>
+<Response id="jpbl113">
+<ResponseID id="0">jpbl113</ResponseID>
+<BaseQuestion id="0">Will the doctor tell the truth?</BaseQuestion>
+<Content id="0">Under the terms of the laws and regulations and ethical guidelines that govern clinical trials, the study staff is required to provide accurate and truthful information about your participation in the clinical trial. This includes information about the risks of harm and potential benefits associated with this specific trial, as well as available alternative treatments for your disease or condition. This information will be explained at the start of the trial, and you will be informed of any significant changes throughout the course of the trial so that you can reevaluate your participation. However, it should be noted that in blinded trials, study staff will not be able to tell you which treatment you are receiving because they need to preserve the scientific integrity of the trial.The information provided to you has been reviewed by an Institutional Review Board, or IRB, which is a committee charged with approving, monitoring, and reviewing clinical research involving humans. This ensures you are given accurate and truthful information about the study and your health.</Content>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">jpbl188</ResponseID>
+<BaseQuestion id="1">Will the study staff know what trial treatment I’m getting?</BaseQuestion>
+</RQ>
+<RQ id="1">
+<ResponseID id="2">jpbl191</ResponseID>
+<BaseQuestion id="2">Could there be side effects that you cannot predict?</BaseQuestion>
+</RQ>
+<RQ id="2">
+<ResponseID id="3">jpbl114</ResponseID>
+<BaseQuestion id="3">If I participate in a specific trial, will I be told if a better treatment develops?</BaseQuestion>
+</RQ>
+<RQ id="3">
+<ResponseID id="4">jpbl104</ResponseID>
+<BaseQuestion id="4">What are the types of clinical trials?</BaseQuestion>
+</RQ>
+<RQ id="4">
+<ResponseID id="5">jpbl106</ResponseID>
+<BaseQuestion id="5">What is a Data Monitoring Committee?</BaseQuestion>
+</RQ>
+<RQ id="5">
+<ResponseID id="6">jpbl127</ResponseID>
+<BaseQuestion id="6">What rights do I have if I participate in a clinical trial? Can I quit the clinical trial at any time? Will the risks/side effects be explained to me?</BaseQuestion>
+</RQ>
+<RQ id="6">
+<ResponseID id="7">jpbl112</ResponseID>
+<BaseQuestion id="7">Is it right for a trial to include a placebo?</BaseQuestion>
+</RQ>
+<RQ id="7">
+<ResponseID id="8">jpbl110</ResponseID>
+<BaseQuestion id="8">How can I be assured I won’t be taken advantage of?</BaseQuestion>
+</RQ>
+</RQs>
+</Response>
+<Response id="jpbl114">
+<ResponseID id="0">jpbl114</ResponseID>
+<BaseQuestion id="0">If I participate in a specific trial, will I be told if a better treatment develops?</BaseQuestion>
+<Content id="0">When you sign up to participate in a clinical trial, the study staff must inform you of the available treatment alternatives to the clinical trial. Under the terms of the laws and regulations and ethical guidelines that govern clinical trials, the study staff is required to inform you of new information that might emerge over the course of the research, particularly information that might change your assessment of the risks and benefits of participating in the clinical trial.</Content>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">jpbl106</ResponseID>
+<BaseQuestion id="1">What is a Data Monitoring Committee?</BaseQuestion>
+</RQ>
+<RQ id="1">
+<ResponseID id="2">jpbl113</ResponseID>
+<BaseQuestion id="2">Will the doctor tell the truth?</BaseQuestion>
+</RQ>
+<RQ id="2">
+<ResponseID id="3">jpbl102</ResponseID>
+<BaseQuestion id="3">What agency regulates clinical trials?</BaseQuestion>
+</RQ>
+</RQs>
+</Response>
+<Response id="jpbl115">
+<ResponseID id="0">jpbl115</ResponseID>
+<BaseQuestion id="0">What if the treatment does not work?</BaseQuestion>
+<Content id="0">Under the terms of the informed consent process, you will be informed about the risks and benefits of participating in a clinical trial. The purpose of a clinical trial is to assess both the safety and effectiveness of an investigational medicine. Because the investigational medicine is still considered "experimental," there is no guarantee that it will be effective. Therefore, one of the risks associated with participation is that you may not receive therapeutic benefit from the investigational medicine. However, if you decide the research does not meet your needs, you can choose not to participate. Likewise if you change your mind during the course of the trial, you can withdraw from the clinical trial at any time without penalty.</Content>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">jpbl192</ResponseID>
+<BaseQuestion id="1">Could my breast cancer progress?</BaseQuestion>
+</RQ>
+<RQ id="1">
+<ResponseID id="2">jpbl106</ResponseID>
+<BaseQuestion id="2">What is a Data Monitoring Committee?</BaseQuestion>
+</RQ>
+<RQ id="2">
+<ResponseID id="3">jpbl185</ResponseID>
+<BaseQuestion id="3">If I get sick, who will be there to help me?</BaseQuestion>
+</RQ>
+<RQ id="3">
+<ResponseID id="4">jpbl190</ResponseID>
+<BaseQuestion id="4">What are possible side effects of the study drug/investigational medicine?</BaseQuestion>
+</RQ>
+<RQ id="4">
+<ResponseID id="5">jpbl181</ResponseID>
+<BaseQuestion id="5">Is it normal to be scared?</BaseQuestion>
+</RQ>
+</RQs>
+</Response>
+<Response id="jpbl116">
+<ResponseID id="0">jpbl116</ResponseID>
+<BaseQuestion id="0">What is standard treatment?</BaseQuestion>
+<Content id="0">In a clinical trial, the standard treatment refers to therapy that is accepted by medical professionals as an appropriate treatment for a certain type of disease.</Content>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">jpbl117</ResponseID>
+<BaseQuestion id="1">If standard treatment works for me, why should I participate in a trial?</BaseQuestion>
+</RQ>
+<RQ id="1">
+<ResponseID id="2">jpbl104</ResponseID>
+<BaseQuestion id="2">What are the types of clinical trials?</BaseQuestion>
+</RQ>
+<RQ id="2">
+<ResponseID id="3">jpbl112</ResponseID>
+<BaseQuestion id="3">Is it right for a trial to include a placebo?</BaseQuestion>
+</RQ>
+</RQs>
+</Response>
+<Response id="jpbl117">
+<ResponseID id="0">jpbl117</ResponseID>
+<BaseQuestion id="0">If standard treatment works for me, why should I participate in a trial?</BaseQuestion>
+<Content id="0">In a clinical trial, there is a chance that the investigational medicine may be more effective than the standard treatment. The data from the clinical trial will provide information to help researchers better understand your disease and its treatment, which may help other patients.</Content>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">jpbl116</ResponseID>
+<BaseQuestion id="1">What is standard treatment?</BaseQuestion>
+</RQ>
+<RQ id="1">
+<ResponseID id="2">jpbl123</ResponseID>
+<BaseQuestion id="2">Should I talk to my doctor/oncologist about this trial?</BaseQuestion>
+</RQ>
+<RQ id="2">
+<ResponseID id="3">jpbl115</ResponseID>
+<BaseQuestion id="3">What if the treatment does not work?</BaseQuestion>
+</RQ>
+</RQs>
+</Response>
+<Response id="jpbl118">
+<ResponseID id="0">jpbl118</ResponseID>
+<BaseQuestion id="0">Could I die if I participate in a clinical trial?</BaseQuestion>
+<Content id="0">The risk of dying during participation in a clinical trial depends on the treatment being evaluated and, more often, on the health of the people participating in the trial. Some investigational treatments may have unpleasant or even serious side effects. Before the trial begins, all of the known risks will be fully explained to you by the study staff. If new information about risks becomes available over the course of the trial, the study staff is required to inform you.</Content>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">jpbl181</ResponseID>
+<BaseQuestion id="1">Is it normal to be scared?</BaseQuestion>
+</RQ>
+<RQ id="1">
+<ResponseID id="2">jpbl192</ResponseID>
+<BaseQuestion id="2">Could my breast cancer progress?</BaseQuestion>
+</RQ>
+<RQ id="2">
+<ResponseID id="3">jpbl190</ResponseID>
+<BaseQuestion id="3">What are possible side effects of the study drug/investigational medicine?</BaseQuestion>
+</RQ>
+<RQ id="3">
+<ResponseID id="4">jpbl191</ResponseID>
+<BaseQuestion id="4">Could there be side effects that you cannot predict?</BaseQuestion>
+</RQ>
+</RQs>
+</Response>
+<Response id="jpbl119">
+<ResponseID id="0">jpbl119</ResponseID>
+<BaseQuestion id="0">Is there any way to make sure that I get the study drug/investigational medicine instead of placebo?</BaseQuestion>
+<Content id="0">Participants in a double-blind trial are assigned to a particular treatment group through a process called "randomization." This process, which can be likened to a coin toss, ensures that patients are assigned without bias to a treatment group. The chance of receiving the investigational medicine depends on the study design.</Content>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">jpbl143</ResponseID>
+<BaseQuestion id="1">Do I have any control over the treatment I receive or can I choose not to have any treatment?</BaseQuestion>
+</RQ>
+<RQ id="1">
+<ResponseID id="2">jpbl144</ResponseID>
+<BaseQuestion id="2">When will I find out what treatment group I was in?</BaseQuestion>
+</RQ>
+<RQ id="2">
+<ResponseID id="3">jpbl160</ResponseID>
+<BaseQuestion id="3">Can I get the investigational medicine even if I am not eligible for the trial?</BaseQuestion>
+</RQ>
+<RQ id="3">
+<ResponseID id="4">jpbl104</ResponseID>
+<BaseQuestion id="4">What are the types of clinical trials?</BaseQuestion>
+</RQ>
+</RQs>
+</Response>
+<Response id="jpbl120">
+<ResponseID id="0">jpbl120</ResponseID>
+<BaseQuestion id="0">Can I change study sites if I move?</BaseQuestion>
+<Content id="0">If you move over the course of the trial and a different study site is closer to your new home, you have the option of switching to a closer study site. However, in some cases, there may not be a study site close to your new home, which could affect your continued participation in the clinical trial. Please inform the study staff if you have any immediate plans to move so that they can ensure that you can attend visits over the course of the trial.</Content>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">jpbl179</ResponseID>
+<BaseQuestion id="1">If I travel a lot, can I still participate?</BaseQuestion>
+</RQ>
+<RQ id="1">
+<ResponseID id="2">jpbl121</ResponseID>
+<BaseQuestion id="2">Will I have to go to a different doctor for my trial?</BaseQuestion>
+</RQ>
+</RQs>
+</Response>
+<Response id="jpbl121">
+<ResponseID id="0">jpbl121</ResponseID>
+<BaseQuestion id="0">Will I have to go to a different doctor for my trial?</BaseQuestion>
+<Content id="0">Over the course of the clinical trial, you will be seen by a research team that includes doctors, nurses, research assistants, data analysts, and other specialists. This team may or may not include your existing doctor or oncologist. If your doctor or oncologist is not part of the research team, you should continue to see them for regular checkups and other care while you participate in the trial. You should tell those doctors that you are participating in a clinical trial, and you should tell the study doctor if you start taking any new medications not associated with the clinical trial.</Content>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">jpbl183</ResponseID>
+<BaseQuestion id="1">Who will be caring for me during the clinical trial?</BaseQuestion>
+</RQ>
+<RQ id="1">
+<ResponseID id="2">jpbl184</ResponseID>
+<BaseQuestion id="2">Can I use my own doctor/lab/hospital for the tests?</BaseQuestion>
+</RQ>
+<RQ id="2">
+<ResponseID id="3">jpbl185</ResponseID>
+<BaseQuestion id="3">If I get sick, who will be there to help me?</BaseQuestion>
+</RQ>
+</RQs>
+</Response>
+<Response id="jpbl122">
+<ResponseID id="0">jpbl122</ResponseID>
+<BaseQuestion id="0">Does my doctor/oncologist know about this trial?</BaseQuestion>
+<Content id="0">Often, your doctor or oncologist will be the one to tell you about a clinical trial. He or she can help you decide whether you are eligible for the trial and if you could potentially benefit from participating. However, in some cases, your doctor or oncologist may not know about the trial that you are considering. If you doctor or oncologist is not part of your research team, you should tell them that you are participating in clinical trial.</Content>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">jpbl123</ResponseID>
+<BaseQuestion id="1">Should I talk to my doctor/oncologist about this trial?</BaseQuestion>
+</RQ>
+<RQ id="1">
+<ResponseID id="2">jpbl183</ResponseID>
+<BaseQuestion id="2">Who will be caring for me during the clinical trial?</BaseQuestion>
+</RQ>
+<RQ id="2">
+<ResponseID id="3">jpbl185</ResponseID>
+<BaseQuestion id="3">If I get sick, who will be there to help me?</BaseQuestion>
+</RQ>
+</RQs>
+</Response>
+<Response id="jpbl123">
+<ResponseID id="0">jpbl123</ResponseID>
+<BaseQuestion id="0">Should I talk to my doctor/oncologist about this trial?</BaseQuestion>
+<Content id="0">It is recommended that you let your regular doctor or oncologist know about your decision to participate in a clinical trial. Your doctor knows you and your health history, which makes him or her a good resource to discuss whether participating in a clinical trial might be right for you. In addition, your participation in a clinical trial may mean that you will take a different medication or undergo testing that is important to consider during your routine medical care.</Content>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">jpbl122</ResponseID>
+<BaseQuestion id="1">Does my doctor/oncologist know about this trial?</BaseQuestion>
+</RQ>
+<RQ id="1">
+<ResponseID id="2">jpbl128</ResponseID>
+<BaseQuestion id="2">Who can help me decide what is best for me?</BaseQuestion>
+</RQ>
+<RQ id="2">
+<ResponseID id="3">jpbl182</ResponseID>
+<BaseQuestion id="3">Can I get treatment for other medical problems during this trial?</BaseQuestion>
+</RQ>
+</RQs>
+</Response>
+<Response id="jpbl124">
+<ResponseID id="0">jpbl124</ResponseID>
+<BaseQuestion id="0">What is informed consent?</BaseQuestion>
+<Content id="0">Regulatory agencies require that potential trial participants be given complete information about the planned trial under a process known as "informed consent." This process is designed to accurately inform individuals about the study, including the purpose, risks, benefits, and alternatives to the clinical trial; ensure that participants understand this information and how it relates to their own health or interests; and provides an opportunity for an individual to make a voluntary decision about whether to participate in the trial.Following this discussion, you can choose to sign a written informed consent form, which states that you agree to be evaluated for the trial to see if you are eligible to participate. Even if you sign the consent form, you can still withdraw from the trial at any time, for any reason.</Content>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">jpbl126</ResponseID>
+<BaseQuestion id="1">What if I do not understand the informed consent form? Who can help me understand the informed consent form?</BaseQuestion>
+</RQ>
+<RQ id="1">
+<ResponseID id="2">jpbl125</ResponseID>
+<BaseQuestion id="2">Do I have to read the entire informed consent form?</BaseQuestion>
+</RQ>
+<RQ id="2">
+<ResponseID id="3">jpbl127</ResponseID>
+<BaseQuestion id="3">What rights do I have if I participate in a clinical trial? Can I quit the clinical trial at any time? Will the risks/side effects be explained to me?</BaseQuestion>
+</RQ>
+<RQ id="3">
+<ResponseID id="4">jpbl128</ResponseID>
+<BaseQuestion id="4">Who can help me decide what is best for me?</BaseQuestion>
+</RQ>
+</RQs>
+</Response>
+<Response id="jpbl125">
+<ResponseID id="0">jpbl125</ResponseID>
+<BaseQuestion id="0">Do I have to read the entire informed consent form?</BaseQuestion>
+<Content id="0">Before choosing to be part of this trial, you, and a loved one if you prefer, should read all of the informed consent form. The informed consent form tells you what will happen during the trial and the risks and benefits you may experience if you choose to participate. It also explains the other treatment options you have besides taking part in this trial, as well as your right to stop taking part in the trial at any time.</Content>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">jpbl124</ResponseID>
+<BaseQuestion id="1">What is informed consent?</BaseQuestion>
+</RQ>
+<RQ id="1">
+<ResponseID id="2">jpbl126</ResponseID>
+<BaseQuestion id="2">What if I do not understand the informed consent form? Who can help me understand the informed consent form?</BaseQuestion>
+</RQ>
+<RQ id="2">
+<ResponseID id="3">jpbl138</ResponseID>
+<BaseQuestion id="3">Do my family/friends need to know that I’m participating in a clinical trial?</BaseQuestion>
+</RQ>
+<RQ id="3">
+<ResponseID id="4">jpbl128</ResponseID>
+<BaseQuestion id="4">Who can help me decide what is best for me?</BaseQuestion>
+</RQ>
+<RQ id="4">
+<ResponseID id="5">jpbl181</ResponseID>
+<BaseQuestion id="5">Is it normal to be scared?</BaseQuestion>
+</RQ>
+</RQs>
+</Response>
+<Response id="jpbl126">
+<ResponseID id="0">jpbl126</ResponseID>
+<BaseQuestion id="0">What if I do not understand the informed consent form? Who can help me understand the informed consent form?</BaseQuestion>
+<Content id="0">The informed consent form may contain words that you do not understand. Please ask the study staff to explain any words or information that you do not clearly understand. Before you make a decision to participate in the trial, it is important that you understand the information in this consent form. You should not sign this consent form if you have any questions that have not been fully answered by the study staff.</Content>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">jpbl124</ResponseID>
+<BaseQuestion id="1">What is informed consent?</BaseQuestion>
+</RQ>
+<RQ id="1">
+<ResponseID id="2">jpbl125</ResponseID>
+<BaseQuestion id="2">Do I have to read the entire informed consent form?</BaseQuestion>
+</RQ>
+<RQ id="2">
+<ResponseID id="3">jpbl128</ResponseID>
+<BaseQuestion id="3">Who can help me decide what is best for me?</BaseQuestion>
+</RQ>
+<RQ id="3">
+<ResponseID id="4">jpbl129</ResponseID>
+<BaseQuestion id="4">Can I get a second opinion before I decide to participate?</BaseQuestion>
+</RQ>
+</RQs>
+</Response>
+<Response id="jpbl127">
+<ResponseID id="0">jpbl127</ResponseID>
+<BaseQuestion id="0">What rights do I have if I participate in a clinical trial? Can I quit the clinical trial at any time? Will the risks/side effects be explained to me?</BaseQuestion>
+<Content id="0">Taking part in a clinical trial is your decision and it affords you certain rights. You will be given enough time to decide whether to participate and to make that decision without any pressure from the people who are doing the research; you can refuse to participate in the trial and to stop participating at any time, and your decision not to participate will not affect your right to your usual care not related to the research. In addition, you have the right to be told why the clinical trial is being done, what will happen, and what you will be asked to do if you are in the trial. You have the right to be informed of any reasonably foreseeable risks, discomforts, or side effects that may occur during the trial and who will pay for any research-related treatment. You have the right to have your questions answered by the study staff at any time. You will also have access to information collected about you, and the study staff is required to provide you with a copy of your signed informed consent form.</Content>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">jpbl110</ResponseID>
+<BaseQuestion id="1">How can I be assured I won’t be taken advantage of?</BaseQuestion>
+</RQ>
+<RQ id="1">
+<ResponseID id="2">jpbl124</ResponseID>
+<BaseQuestion id="2">What is informed consent?</BaseQuestion>
+</RQ>
+<RQ id="2">
+<ResponseID id="3">jpbl130</ResponseID>
+<BaseQuestion id="3">If I say no to a trial now, can I change my mind later?</BaseQuestion>
+</RQ>
+<RQ id="3">
+<ResponseID id="4">jpbl190</ResponseID>
+<BaseQuestion id="4">What are possible side effects of the study drug/investigational medicine?</BaseQuestion>
+</RQ>
+<RQ id="4">
+<ResponseID id="5">jpbl107</ResponseID>
+<BaseQuestion id="5">What is an Institutional Review Board/IRB?</BaseQuestion>
+</RQ>
+<RQ id="5">
+<ResponseID id="6">jpbl132</ResponseID>
+<BaseQuestion id="6">How long will I have to make my decision?</BaseQuestion>
+</RQ>
+</RQs>
+</Response>
+<Response id="jpbl128">
+<ResponseID id="0">jpbl128</ResponseID>
+<BaseQuestion id="0">Who can help me decide what is best for me?</BaseQuestion>
+<Content id="0">Knowing all you can about clinical trials can help you decide whether to take part in one. In order to gather information about the clinical trial you are considering, you should read the informed consent form, ask questions of the study staff, and discuss the clinical trial with your regular doctor if desired. Ultimately, however, it is up to you to decide whether participation in the clinical trial is right for you.</Content>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">jpbl123</ResponseID>
+<BaseQuestion id="1">Should I talk to my doctor/oncologist about this trial?</BaseQuestion>
+</RQ>
+<RQ id="1">
+<ResponseID id="2">jpbl181</ResponseID>
+<BaseQuestion id="2">Is it normal to be scared?</BaseQuestion>
+</RQ>
+<RQ id="2">
+<ResponseID id="3">jpbl124</ResponseID>
+<BaseQuestion id="3">What is informed consent?</BaseQuestion>
+</RQ>
+<RQ id="3">
+<ResponseID id="4">jpbl126</ResponseID>
+<BaseQuestion id="4">What if I do not understand the informed consent form? Who can help me understand the informed consent form?</BaseQuestion>
+</RQ>
+<RQ id="4">
+<ResponseID id="5">jpbl125</ResponseID>
+<BaseQuestion id="5">Do I have to read the entire informed consent form?</BaseQuestion>
+</RQ>
+</RQs>
+</Response>
+<Response id="jpbl129">
+<ResponseID id="0">jpbl129</ResponseID>
+<BaseQuestion id="0">Can I get a second opinion before I decide to participate?</BaseQuestion>
+<Content id="0">You may get a second opinion at any time during your participation in a clinical trial. A second opinion can help you to better understand the existing treatments available to you and whether participation in the trial is a good option for you, both personally and from a medical point of view.</Content>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">jpbl123</ResponseID>
+<BaseQuestion id="1">Should I talk to my doctor/oncologist about this trial?</BaseQuestion>
+</RQ>
+<RQ id="1">
+<ResponseID id="2">jpbl128</ResponseID>
+<BaseQuestion id="2">Who can help me decide what is best for me?</BaseQuestion>
+</RQ>
+<RQ id="2">
+<ResponseID id="3">jpbl130</ResponseID>
+<BaseQuestion id="3">If I say no to a trial now, can I change my mind later?</BaseQuestion>
+</RQ>
+<RQ id="3">
+<ResponseID id="4">jpbl132</ResponseID>
+<BaseQuestion id="4">How long will I have to make my decision?</BaseQuestion>
+</RQ>
+<RQ id="4">
+<ResponseID id="5">jpbl127</ResponseID>
+<BaseQuestion id="5">What rights do I have if I participate in a clinical trial? Can I quit the clinical trial at any time? Will the risks/side effects be explained to me?</BaseQuestion>
+</RQ>
+</RQs>
+</Response>
+<Response id="jpbl130">
+<ResponseID id="0">jpbl130</ResponseID>
+<BaseQuestion id="0">If I say no to a trial now, can I change my mind later?</BaseQuestion>
+<Content id="0">If you decline to participate in a clinical trial, you can change your mind later as long as the trial is still accepting new patients and you are still eligible. It is recommended that you discuss with the study staff any concerns that you may have about the trial during the informed consent process, at which point you should also ask how long they plan to enroll trial participants and if there will be an additional enrollment period at a later date. At no point will you be pressured by the study staff to join the trial. It should also be noted that if you enroll in the trial and decide that you no longer wish to participate, you can withdraw at any time without penalty.</Content>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">jpbl132</ResponseID>
+<BaseQuestion id="1">How long will I have to make my decision?</BaseQuestion>
+</RQ>
+<RQ id="1">
+<ResponseID id="2">jpbl133</ResponseID>
+<BaseQuestion id="2">What will be the impact on the trial if I decide not to participate?</BaseQuestion>
+</RQ>
+<RQ id="2">
+<ResponseID id="3">jpbl134</ResponseID>
+<BaseQuestion id="3">Will the trial still proceed if I decide not to enroll?</BaseQuestion>
+</RQ>
+<RQ id="3">
+<ResponseID id="4">jpbl127</ResponseID>
+<BaseQuestion id="4">What rights do I have if I participate in a clinical trial? Can I quit the clinical trial at any time? Will the risks/side effects be explained to me?</BaseQuestion>
+</RQ>
+<RQ id="4">
+<ResponseID id="5">jpbl124</ResponseID>
+<BaseQuestion id="5">What is informed consent?</BaseQuestion>
+</RQ>
+</RQs>
+</Response>
+<Response id="jpbl131">
+<ResponseID id="0">jpbl131</ResponseID>
+<BaseQuestion id="0">Will there be other opportunities to participate in a clinical trial?</BaseQuestion>
+<Content id="0">There may be other opportunities to participate in a clinical trial, but whether you may be able to participate depends on many factors, including your overall health and the status of your medical condition.</Content>
+</Response>
+<Response id="jpbl132">
+<ResponseID id="0">jpbl132</ResponseID>
+<BaseQuestion id="0">How long will I have to make my decision?</BaseQuestion>
+<Content id="0">When you meet with the study staff, ask them how long you have to make a decision on whether or not to participate in the clinical trial. In general, you can decide to participate at any time during the enrollment period, which for some trials is only a few months, but for others, can be years. At no point will you be pressured by the study staff to join the trial.</Content>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">jpbl130</ResponseID>
+<BaseQuestion id="1">If I say no to a trial now, can I change my mind later?</BaseQuestion>
+</RQ>
+<RQ id="1">
+<ResponseID id="2">jpbl127</ResponseID>
+<BaseQuestion id="2">What rights do I have if I participate in a clinical trial? Can I quit the clinical trial at any time? Will the risks/side effects be explained to me?</BaseQuestion>
+</RQ>
+<RQ id="2">
+<ResponseID id="3">jpbl133</ResponseID>
+<BaseQuestion id="3">What will be the impact on the trial if I decide not to participate?</BaseQuestion>
+</RQ>
+<RQ id="3">
+<ResponseID id="4">jpbl134</ResponseID>
+<BaseQuestion id="4">Will the trial still proceed if I decide not to enroll?</BaseQuestion>
+</RQ>
+</RQs>
+</Response>
+<Response id="jpbl133">
+<ResponseID id="0">jpbl133</ResponseID>
+<BaseQuestion id="0">What will be the impact on the trial if I decide not to participate?</BaseQuestion>
+<Content id="0">If you choose not to participate in the trial, the trial will still continue as planned. However, participating in a trial will help researchers learn more about your medical condition and can help in the development of treatments that may benefit others with breast cancer in the future.</Content>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">jpbl134</ResponseID>
+<BaseQuestion id="1">Will the trial still proceed if I decide not to enroll?</BaseQuestion>
+</RQ>
+<RQ id="1">
+<ResponseID id="2">jpbl130</ResponseID>
+<BaseQuestion id="2">If I say no to a trial now, can I change my mind later?</BaseQuestion>
+</RQ>
+<RQ id="2">
+<ResponseID id="3">jpbl132</ResponseID>
+<BaseQuestion id="3">How long will I have to make my decision?</BaseQuestion>
+</RQ>
+</RQs>
+</Response>
+<Response id="jpbl134">
+<ResponseID id="0">jpbl134</ResponseID>
+<BaseQuestion id="0">Will the trial still proceed if I decide not to enroll?</BaseQuestion>
+<Content id="0">If you choose not to enroll in a clinical trial, the trial will still continue as planned.</Content>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">jpbl133</ResponseID>
+<BaseQuestion id="1">What will be the impact on the trial if I decide not to participate?</BaseQuestion>
+</RQ>
+<RQ id="1">
+<ResponseID id="2">jpbl130</ResponseID>
+<BaseQuestion id="2">If I say no to a trial now, can I change my mind later?</BaseQuestion>
+</RQ>
+<RQ id="2">
+<ResponseID id="3">jpbl132</ResponseID>
+<BaseQuestion id="3">How long will I have to make my decision?</BaseQuestion>
+</RQ>
+</RQs>
+</Response>
+<Response id="jpbl135">
+<ResponseID id="0">jpbl135</ResponseID>
+<BaseQuestion id="0">Will my employer be told about my participation in a clinical trial?</BaseQuestion>
+<Content id="0">If you choose to participate in a clinical trial, you are not required to tell your employer. However, it may be wise to inform your employer if the nature of the clinical trial could interfere with your ability to do your job, including if appointments with the study staff will require you to take time off work.</Content>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">jpbl137</ResponseID>
+<BaseQuestion id="1">Will my name be publically used during the trial or when the results are published?</BaseQuestion>
+</RQ>
+<RQ id="1">
+<ResponseID id="2">jpbl138</ResponseID>
+<BaseQuestion id="2">Do my family/friends need to know that I’m participating in a clinical trial?</BaseQuestion>
+</RQ>
+<RQ id="2">
+<ResponseID id="3">jpbl122</ResponseID>
+<BaseQuestion id="3">Does my doctor/oncologist know about this trial?</BaseQuestion>
+</RQ>
+</RQs>
+</Response>
+<Response id="jpbl136">
+<ResponseID id="0">jpbl136</ResponseID>
+<BaseQuestion id="0">Will my doctor be told about my participation in a clinical trial?</BaseQuestion>
+<Content id="0">When you participate in a clinical trial, you will work closely with the study staff, which includes doctors, nurses, research assistants, data analysts, and other specialists. However, you will continue to see your own doctor before, during, and after you participate in the trial; therefore it is recommended that you tell your regular doctor or oncologist about your participation so that he or she can provide appropriate medical care.</Content>
+</Response>
+<Response id="jpbl137">
+<ResponseID id="0">jpbl137</ResponseID>
+<BaseQuestion id="0">Will my name be publically used during the trial or when the results are published?</BaseQuestion>
+<Content id="0">Your name will never be publicly revealed in connection with the trial or the publication of its results. The informed consent document will go into greater detail about how your study data and personal health information is shared and disclosed.</Content>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">jpbl138</ResponseID>
+<BaseQuestion id="1">Do my family/friends need to know that I’m participating in a clinical trial?</BaseQuestion>
+</RQ>
+<RQ id="1">
+<ResponseID id="2">jpbl135</ResponseID>
+<BaseQuestion id="2">Will my employer be told about my participation in a clinical trial?</BaseQuestion>
+</RQ>
+<RQ id="2">
+<ResponseID id="3">jpbl110</ResponseID>
+<BaseQuestion id="3">How can I be assured I won’t be taken advantage of?</BaseQuestion>
+</RQ>
+</RQs>
+</Response>
+<Response id="jpbl138">
+<ResponseID id="0">jpbl138</ResponseID>
+<BaseQuestion id="0">Do my family/friends need to know that I’m participating in a clinical trial?</BaseQuestion>
+<Content id="0">If you choose to participate in a clinical trial, it is up to you if you would like to let your family and friends know of your decision. It can often be helpful to inform family or friends if you will need assistance during the trial, such as to obtain transportation to and from appointments or if you will need their help to follow the treatment plan outlined in the trial.</Content>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">jpbl137</ResponseID>
+<BaseQuestion id="1">Will my name be publically used during the trial or when the results are published?</BaseQuestion>
+</RQ>
+<RQ id="1">
+<ResponseID id="2">jpbl135</ResponseID>
+<BaseQuestion id="2">Will my employer be told about my participation in a clinical trial?</BaseQuestion>
+</RQ>
+<RQ id="2">
+<ResponseID id="3">jpbl125</ResponseID>
+<BaseQuestion id="3">Do I have to read the entire informed consent form?</BaseQuestion>
+</RQ>
+</RQs>
+</Response>
+<Response id="jpbl139">
+<ResponseID id="0">jpbl139</ResponseID>
+<BaseQuestion id="0">What is being tested in this trial? What is the purpose of this trial?</BaseQuestion>
+<Content id="0">The purpose of this trial is to learn if the addition of the investigational medicine to standard of care medication can delay progression of metastatic breast cancer for women who have locally advanced or metastatic hormone receptor positive, human epidermal growth factor receptor 2 negative breast cancer, which is often abbreviated as HR+ HER2- breast cancer. The investigational medicine is designed to slow tumor growth. The combination of investigational medicine plus standard of care medication will be compared to the combination of placebo plus standard of care medication.You are being asked to take part in this trial because you have been diagnosed with breast cancer that has spread to nearby sites, called locally advanced, or to distant sites, which is called metastatic.</Content>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">jpbl166</ResponseID>
+<BaseQuestion id="1">What will the trial treatment include?</BaseQuestion>
+</RQ>
+<RQ id="1">
+<ResponseID id="2">jpbl140</ResponseID>
+<BaseQuestion id="2">Has this study drug/investigational medicine ever been tested before?</BaseQuestion>
+</RQ>
+<RQ id="2">
+<ResponseID id="3">jpbl141</ResponseID>
+<BaseQuestion id="3">Is this study drug/investigational medicine being used to treat any other conditions?</BaseQuestion>
+</RQ>
+<RQ id="3">
+<ResponseID id="4">jpbl104</ResponseID>
+<BaseQuestion id="4">What are the types of clinical trials?</BaseQuestion>
+</RQ>
+</RQs>
+</Response>
+<Response id="jpbl140">
+<ResponseID id="0">jpbl140</ResponseID>
+<BaseQuestion id="0">Has this study drug/investigational medicine ever been tested before?</BaseQuestion>
+<Content id="0">The investigational medicine has been evaluated in clinical trials as a treatment for women with advanced breast cancer.</Content>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">jpbl141</ResponseID>
+<BaseQuestion id="1">Is this study drug/investigational medicine being used to treat any other conditions?</BaseQuestion>
+</RQ>
+<RQ id="1">
+<ResponseID id="2">jpbl139</ResponseID>
+<BaseQuestion id="2">What is being tested in this trial? What is the purpose of this trial?</BaseQuestion>
+</RQ>
+<RQ id="2">
+<ResponseID id="3">jpbl103</ResponseID>
+<BaseQuestion id="3">What are the phases of a clinical trial?</BaseQuestion>
+</RQ>
+<RQ id="3">
+<ResponseID id="4">jpbl166</ResponseID>
+<BaseQuestion id="4">What will the trial treatment include?</BaseQuestion>
+</RQ>
+</RQs>
+</Response>
+<Response id="jpbl141">
+<ResponseID id="0">jpbl141</ResponseID>
+<BaseQuestion id="0">Is this study drug/investigational medicine being used to treat any other conditions?</BaseQuestion>
+<Content id="0">At this time, the investigational medicine is being evaluated in clinical trials for the treatment of multiple cancers including breast cancer.</Content>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">jpbl140</ResponseID>
+<BaseQuestion id="1">Has this study drug/investigational medicine ever been tested before?</BaseQuestion>
+</RQ>
+<RQ id="1">
+<ResponseID id="2">jpbl139</ResponseID>
+<BaseQuestion id="2">What is being tested in this trial? What is the purpose of this trial?</BaseQuestion>
+</RQ>
+<RQ id="2">
+<ResponseID id="3">jpbl166</ResponseID>
+<BaseQuestion id="3">What will the trial treatment include?</BaseQuestion>
+</RQ>
+</RQs>
+</Response>
+<Response id="jpbl142">
+<ResponseID id="0">jpbl142</ResponseID>
+<BaseQuestion id="0">When will I find out about the trial results?</BaseQuestion>
+<Content id="0">It may take several years to analyze the data collected and report the results. The government requires that researchers submit basic results for certain clinical trials, and this generally happens one year after the completion date. The completion date is the final date on which data was or is expected to be collected. This trial is scheduled for completion in 2020. Once available, you can look up the data for this trial by visiting www.clinicaltrials.gov and searching the NCT ID number for this trial, which is NCT02107703.</Content>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">jpbl146</ResponseID>
+<BaseQuestion id="1">Will I be kept informed of my test results during the trial?</BaseQuestion>
+</RQ>
+<RQ id="1">
+<ResponseID id="2">jpbl167</ResponseID>
+<BaseQuestion id="2">How long will the trial last?</BaseQuestion>
+</RQ>
+<RQ id="2">
+<ResponseID id="3">jpbl139</ResponseID>
+<BaseQuestion id="3">What is being tested in this trial? What is the purpose of this trial?</BaseQuestion>
+</RQ>
+</RQs>
+</Response>
+<Response id="jpbl143">
+<ResponseID id="0">jpbl143</ResponseID>
+<BaseQuestion id="0">Do I have any control over the treatment I receive or can I choose not to have any treatment?</BaseQuestion>
+<Content id="0">In this trial, every participant will receive a standard of care treatment for breast cancer. In addition to standard treatment, you will be randomly assigned to receive either the investigational medicine or placebo.</Content>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">jpbl119</ResponseID>
+<BaseQuestion id="1">Is there any way to make sure that I get the study drug/investigational medicine instead of placebo?</BaseQuestion>
+</RQ>
+<RQ id="1">
+<ResponseID id="2">jpbl144</ResponseID>
+<BaseQuestion id="2">When will I find out what treatment group I was in?</BaseQuestion>
+</RQ>
+<RQ id="2">
+<ResponseID id="3">jpbl160</ResponseID>
+<BaseQuestion id="3">Can I get the investigational medicine even if I am not eligible for the trial?</BaseQuestion>
+</RQ>
+<RQ id="3">
+<ResponseID id="4">jpbl104</ResponseID>
+<BaseQuestion id="4">What are the types of clinical trials?</BaseQuestion>
+</RQ>
+</RQs>
+</Response>
+<Response id="jpbl144">
+<ResponseID id="0">jpbl144</ResponseID>
+<BaseQuestion id="0">When will I find out what treatment group I was in?</BaseQuestion>
+<Content id="0">This information will not be available until the trial is completed and the data is analyzed.</Content>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">jpbl119</ResponseID>
+<BaseQuestion id="1">Is there any way to make sure that I get the study drug/investigational medicine instead of placebo?</BaseQuestion>
+</RQ>
+<RQ id="1">
+<ResponseID id="2">jpbl143</ResponseID>
+<BaseQuestion id="2">Do I have any control over the treatment I receive or can I choose not to have any treatment?</BaseQuestion>
+</RQ>
+<RQ id="2">
+<ResponseID id="3">jpbl160</ResponseID>
+<BaseQuestion id="3">Can I get the investigational medicine even if I am not eligible for the trial?</BaseQuestion>
+</RQ>
+<RQ id="3">
+<ResponseID id="4">jpbl104</ResponseID>
+<BaseQuestion id="4">What are the types of clinical trials?</BaseQuestion>
+</RQ>
+</RQs>
+</Response>
+<Response id="jpbl145">
+<ResponseID id="0">jpbl145</ResponseID>
+<BaseQuestion id="0">Will I be able to talk to the study doctor during the trial?</BaseQuestion>
+<Content id="0">Over the course of the clinical trial, you will have regular communication with the study staff, including your study doctor. You will have opportunities to meet with the study doctor to ask questions or discuss any concerns you may have throughout the trial.</Content>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">jpbl146</ResponseID>
+<BaseQuestion id="1">Will I be kept informed of my test results during the trial?</BaseQuestion>
+</RQ>
+<RQ id="1">
+<ResponseID id="2">jpbl123</ResponseID>
+<BaseQuestion id="2">Should I talk to my doctor/oncologist about this trial?</BaseQuestion>
+</RQ>
+<RQ id="2">
+<ResponseID id="3">jpbl105</ResponseID>
+<BaseQuestion id="3">Who is managing my trial?</BaseQuestion>
+</RQ>
+<RQ id="3">
+<ResponseID id="4">jpbl183</ResponseID>
+<BaseQuestion id="4">Who will be caring for me during the clinical trial?</BaseQuestion>
+</RQ>
+<RQ id="4">
+<ResponseID id="5">jpbl184</ResponseID>
+<BaseQuestion id="5">Can I use my own doctor/lab/hospital for the tests?</BaseQuestion>
+</RQ>
+<RQ id="5">
+<ResponseID id="6">jpbl185</ResponseID>
+<BaseQuestion id="6">If I get sick, who will be there to help me?</BaseQuestion>
+</RQ>
+</RQs>
+</Response>
+<Response id="jpbl146">
+<ResponseID id="0">jpbl146</ResponseID>
+<BaseQuestion id="0">Will I be kept informed of my test results during the trial?</BaseQuestion>
+<Content id="0">The results of the routine medical tests conducted during the trial will be in your medical record, which you can request from your doctor.</Content>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">jpbl142</ResponseID>
+<BaseQuestion id="1">When will I find out about the trial results?</BaseQuestion>
+</RQ>
+<RQ id="1">
+<ResponseID id="2">jpbl145</ResponseID>
+<BaseQuestion id="2">Will I be able to talk to the study doctor during the trial?</BaseQuestion>
+</RQ>
+<RQ id="2">
+<ResponseID id="3">jpbl113</ResponseID>
+<BaseQuestion id="3">Will the doctor tell the truth?</BaseQuestion>
+</RQ>
+<RQ id="3">
+<ResponseID id="4">jpbl183</ResponseID>
+<BaseQuestion id="4">Who will be caring for me during the clinical trial?</BaseQuestion>
+</RQ>
+</RQs>
+</Response>
+<Response id="jpbl147">
+<ResponseID id="0">jpbl147</ResponseID>
+<BaseQuestion id="0">How many people will be enrolled in this trial?</BaseQuestion>
+<Content id="0">This trial is expected to enroll approximately 550 women with breast cancer.</Content>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">jpbl167</ResponseID>
+<BaseQuestion id="1">How long will the trial last?</BaseQuestion>
+</RQ>
+<RQ id="1">
+<ResponseID id="2">jpbl168</ResponseID>
+<BaseQuestion id="2">How many times will I have to visit the study site?</BaseQuestion>
+</RQ>
+<RQ id="2">
+<ResponseID id="3">jpbl104</ResponseID>
+<BaseQuestion id="3">What are the types of clinical trials?</BaseQuestion>
+</RQ>
+</RQs>
+</Response>
+<Response id="jpbl148">
+<ResponseID id="0">jpbl148</ResponseID>
+<BaseQuestion id="0">Is the study drug/investigational medicine free?</BaseQuestion>
+<Content id="0">The investigational medicine or placebo is provided without cost to you.</Content>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">jpbl155</ResponseID>
+<BaseQuestion id="1">Will I get paid to participate?</BaseQuestion>
+</RQ>
+<RQ id="1">
+<ResponseID id="2">jpbl156</ResponseID>
+<BaseQuestion id="2">Why is there no compensation?</BaseQuestion>
+</RQ>
+<RQ id="2">
+<ResponseID id="3">jpbl157</ResponseID>
+<BaseQuestion id="3">Does the study staff get paid? Who pays the study staff?</BaseQuestion>
+</RQ>
+<RQ id="3">
+<ResponseID id="4">jpbl180</ResponseID>
+<BaseQuestion id="4">What support is available for participants during the trial?</BaseQuestion>
+</RQ>
+</RQs>
+</Response>
+<Response id="jpbl149">
+<ResponseID id="0">jpbl149</ResponseID>
+<BaseQuestion id="0">Are the trial-related tests free?</BaseQuestion>
+<Content id="0">If you choose to participate in this clinical trial, any tests, procedures, and office visits that you would have for your breast cancer if you did not take part in the trial will be paid for by you or your insurance company. You will not have to pay for trial-related tests or investigational medicines, these cost will be paid for by the trial sponsor. If you have any questions or concerns related to cost, please ask your study doctor.</Content>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">jpbl148</ResponseID>
+<BaseQuestion id="1">Is the study drug/investigational medicine free?</BaseQuestion>
+</RQ>
+<RQ id="1">
+<ResponseID id="2">jpbl150</ResponseID>
+<BaseQuestion id="2">Are out-of-pocket expenses covered?</BaseQuestion>
+</RQ>
+<RQ id="2">
+<ResponseID id="3">jpbl155</ResponseID>
+<BaseQuestion id="3">Will I get paid to participate?</BaseQuestion>
+</RQ>
+<RQ id="3">
+<ResponseID id="4">jpbl156</ResponseID>
+<BaseQuestion id="4">Why is there no compensation?</BaseQuestion>
+</RQ>
+</RQs>
+</Response>
+<Response id="jpbl150">
+<ResponseID id="0">jpbl150</ResponseID>
+<BaseQuestion id="0">Are out-of-pocket expenses covered?</BaseQuestion>
+<Content id="0">You will receive the investigational medicine and trial-related tests and procedures at no cost to you. Any tests, procedures, and office visits that you would have for your breast cancer if you did not take part in the trial will be paid for by you or your insurance company. Please talk to the study staff about any questions or concerns that you may have about costs associated with participating in this trial.</Content>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">jpbl148</ResponseID>
+<BaseQuestion id="1">Is the study drug/investigational medicine free?</BaseQuestion>
+</RQ>
+<RQ id="1">
+<ResponseID id="2">jpbl149</ResponseID>
+<BaseQuestion id="2">Are the trial-related tests free?</BaseQuestion>
+</RQ>
+<RQ id="2">
+<ResponseID id="3">jpbl155</ResponseID>
+<BaseQuestion id="3">Will I get paid to participate?</BaseQuestion>
+</RQ>
+<RQ id="3">
+<ResponseID id="4">jpbl156</ResponseID>
+<BaseQuestion id="4">Why is there no compensation?</BaseQuestion>
+</RQ>
+</RQs>
+</Response>
+<Response id="jpbl151">
+<ResponseID id="0">jpbl151</ResponseID>
+<BaseQuestion id="0">If I quit the trial, will my standard treatment still be covered?</BaseQuestion>
+<Content id="0">If you choose to withdraw from the trial, standard treatment will be paid for by you or your insurance company. If you have any questions or concerns related to cost, please ask your study doctor.</Content>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">jpbl152</ResponseID>
+<BaseQuestion id="1">My insurance company won’t cover the trial. Can I still participate?</BaseQuestion>
+</RQ>
+<RQ id="1">
+<ResponseID id="2">jpbl153</ResponseID>
+<BaseQuestion id="2">What if I don’t have insurance coverage?</BaseQuestion>
+</RQ>
+<RQ id="2">
+<ResponseID id="3">jpbl154</ResponseID>
+<BaseQuestion id="3">What if my insurance company won’t pay?</BaseQuestion>
+</RQ>
+<RQ id="3">
+<ResponseID id="4">jpbl155</ResponseID>
+<BaseQuestion id="4">Will I get paid to participate?</BaseQuestion>
+</RQ>
+<RQ id="4">
+<ResponseID id="5">jpbl156</ResponseID>
+<BaseQuestion id="5">Why is there no compensation?</BaseQuestion>
+</RQ>
+</RQs>
+</Response>
+<Response id="jpbl152">
+<ResponseID id="0">jpbl152</ResponseID>
+<BaseQuestion id="0">My insurance company won’t cover the trial. Can I still participate?</BaseQuestion>
+<Content id="0">You may still be able to participate. Any tests, procedures, and office visits that you would have for your breast cancer if you did not take part in the trial will be paid for by you if your insurance company won't cover these cost. You are still welcome and encouraged to participate. If you choose to participate in this clinical trial, you will not have to pay for any trial-related tests or investigational medication. For more information, please talk to your study doctor.</Content>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">jpbl151</ResponseID>
+<BaseQuestion id="1">If I quit the trial, will my standard treatment still be covered?</BaseQuestion>
+</RQ>
+<RQ id="1">
+<ResponseID id="2">jpbl153</ResponseID>
+<BaseQuestion id="2">What if I don’t have insurance coverage?</BaseQuestion>
+</RQ>
+<RQ id="2">
+<ResponseID id="3">jpbl154</ResponseID>
+<BaseQuestion id="3">What if my insurance company won’t pay?</BaseQuestion>
+</RQ>
+<RQ id="3">
+<ResponseID id="4">jpbl155</ResponseID>
+<BaseQuestion id="4">Will I get paid to participate?</BaseQuestion>
+</RQ>
+<RQ id="4">
+<ResponseID id="5">jpbl156</ResponseID>
+<BaseQuestion id="5">Why is there no compensation?</BaseQuestion>
+</RQ>
+</RQs>
+</Response>
+<Response id="jpbl153">
+<ResponseID id="0">jpbl153</ResponseID>
+<BaseQuestion id="0">What if I don’t have insurance coverage?</BaseQuestion>
+<Content id="0">Even if you don't have health insurance coverage, you may still be able to participate. However, you will continue to have to pay for your own routine medical care as you would regardless of your participation in the clinical trial. If you have questions or concerns related to your financial ability to participate in the trial, please ask your study doctor.</Content>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">jpbl151</ResponseID>
+<BaseQuestion id="1">If I quit the trial, will my standard treatment still be covered?</BaseQuestion>
+</RQ>
+<RQ id="1">
+<ResponseID id="2">jpbl152</ResponseID>
+<BaseQuestion id="2">My insurance company won’t cover the trial. Can I still participate?</BaseQuestion>
+</RQ>
+<RQ id="2">
+<ResponseID id="3">jpbl154</ResponseID>
+<BaseQuestion id="3">What if my insurance company won’t pay?</BaseQuestion>
+</RQ>
+<RQ id="3">
+<ResponseID id="4">jpbl155</ResponseID>
+<BaseQuestion id="4">Will I get paid to participate?</BaseQuestion>
+</RQ>
+<RQ id="4">
+<ResponseID id="5">jpbl156</ResponseID>
+<BaseQuestion id="5">Why is there no compensation?</BaseQuestion>
+</RQ>
+</RQs>
+</Response>
+<Response id="jpbl154">
+<ResponseID id="0">jpbl154</ResponseID>
+<BaseQuestion id="0">What if my insurance company won’t pay?</BaseQuestion>
+<Content id="0">Even if your health insurance won't cover or your insurance company won't pay for your participation in a clinical trial, you may still be able to participate. However, you will continue to have to pay for your own routine medical care as you would regardless of your participation in the clinical trial. If you have questions or concerns related to your financial ability to participate in the trial, please ask your study doctor.</Content>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">jpbl151</ResponseID>
+<BaseQuestion id="1">If I quit the trial, will my standard treatment still be covered?</BaseQuestion>
+</RQ>
+<RQ id="1">
+<ResponseID id="2">jpbl152</ResponseID>
+<BaseQuestion id="2">My insurance company won’t cover the trial. Can I still participate?</BaseQuestion>
+</RQ>
+<RQ id="2">
+<ResponseID id="3">jpbl153</ResponseID>
+<BaseQuestion id="3">What if I don’t have insurance coverage?</BaseQuestion>
+</RQ>
+<RQ id="3">
+<ResponseID id="4">jpbl155</ResponseID>
+<BaseQuestion id="4">Will I get paid to participate?</BaseQuestion>
+</RQ>
+<RQ id="4">
+<ResponseID id="5">jpbl156</ResponseID>
+<BaseQuestion id="5">Why is there no compensation?</BaseQuestion>
+</RQ>
+</RQs>
+</Response>
+<Response id="jpbl155">
+<ResponseID id="0">jpbl155</ResponseID>
+<BaseQuestion id="0">Will I get paid to participate?</BaseQuestion>
+<Content id="0">You will not be paid for participating in this clinical trial. However, you may receive reimbursement for some expenses associated with your participation in the trial, such as transportation, parking, meals, or others. Although you may be reimbursed for some of these costs, your expenses could be more than the amount you are reimbursed.</Content>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">jpbl148</ResponseID>
+<BaseQuestion id="1">Is the study drug/investigational medicine free?</BaseQuestion>
+</RQ>
+<RQ id="1">
+<ResponseID id="2">jpbl156</ResponseID>
+<BaseQuestion id="2">Why is there no compensation?</BaseQuestion>
+</RQ>
+<RQ id="2">
+<ResponseID id="3">jpbl157</ResponseID>
+<BaseQuestion id="3">Does the study staff get paid? Who pays the study staff?</BaseQuestion>
+</RQ>
+<RQ id="3">
+<ResponseID id="4">jpbl180</ResponseID>
+<BaseQuestion id="4">What support is available for participants during the trial?</BaseQuestion>
+</RQ>
+</RQs>
+</Response>
+<Response id="jpbl156">
+<ResponseID id="0">jpbl156</ResponseID>
+<BaseQuestion id="0">Why is there no compensation?</BaseQuestion>
+<Content id="0">The study staff wants you to make a decision to enter into a clinical trial based on medical considerations and not for the purposes of receiving monetary compensation.</Content>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">jpbl148</ResponseID>
+<BaseQuestion id="1">Is the study drug/investigational medicine free?</BaseQuestion>
+</RQ>
+<RQ id="1">
+<ResponseID id="2">jpbl155</ResponseID>
+<BaseQuestion id="2">Will I get paid to participate?</BaseQuestion>
+</RQ>
+<RQ id="2">
+<ResponseID id="3">jpbl157</ResponseID>
+<BaseQuestion id="3">Does the study staff get paid? Who pays the study staff?</BaseQuestion>
+</RQ>
+<RQ id="3">
+<ResponseID id="4">jpbl180</ResponseID>
+<BaseQuestion id="4">What support is available for participants during the trial?</BaseQuestion>
+</RQ>
+</RQs>
+</Response>
+<Response id="jpbl157">
+<ResponseID id="0">jpbl157</ResponseID>
+<BaseQuestion id="0">Does the study staff get paid? Who pays the study staff?</BaseQuestion>
+<Content id="0">The study staff is paid for its time and expertise. The study staff is typically paid by the trial sponsor or by grants or other funding reserved for clinical trials.</Content>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">jpbl148</ResponseID>
+<BaseQuestion id="1">Is the study drug/investigational medicine free?</BaseQuestion>
+</RQ>
+<RQ id="1">
+<ResponseID id="2">jpbl155</ResponseID>
+<BaseQuestion id="2">Will I get paid to participate?</BaseQuestion>
+</RQ>
+<RQ id="2">
+<ResponseID id="3">jpbl156</ResponseID>
+<BaseQuestion id="3">Why is there no compensation?</BaseQuestion>
+</RQ>
+<RQ id="3">
+<ResponseID id="4">jpbl180</ResponseID>
+<BaseQuestion id="4">What support is available for participants during the trial?</BaseQuestion>
+</RQ>
+</RQs>
+</Response>
+<Response id="jpbl158">
+<ResponseID id="0">jpbl158</ResponseID>
+<BaseQuestion id="0">What are the eligibility criteria for this trial?</BaseQuestion>
+<Content id="0">To participate in the trial you must be female, at least 18 years old, and have a diagnosis of locally advanced or metastatic hormone receptor positive, human epidermal growth factor receptor 2 negative breast cancer.. This is often abbreviated as HR+ HER2- breast cancer.</Content>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">jpbl139</ResponseID>
+<BaseQuestion id="1">What is being tested in this trial? What is the purpose of this trial?</BaseQuestion>
+</RQ>
+<RQ id="1">
+<ResponseID id="2">jpbl159</ResponseID>
+<BaseQuestion id="2">What are the exclusions?</BaseQuestion>
+</RQ>
+<RQ id="2">
+<ResponseID id="3">jpbl161</ResponseID>
+<BaseQuestion id="3">Can I participate in more than one trial at a time?</BaseQuestion>
+</RQ>
+</RQs>
+</Response>
+<Response id="jpbl159">
+<ResponseID id="0">jpbl159</ResponseID>
+<BaseQuestion id="0">What are the exclusions?</BaseQuestion>
+<Content id="0">This trial will not enroll patients who received prior treatment with chemotherapy (except for neoadjuvant or adjuvant chemotherapy), fulvestrant, everolimus, or any CDK4 or CDK6 inhibitor. Nor will it enroll those patients who have inflammatory breast cancer or a history of any other cancer, unless in complete remission with no therapy for a minimum of 3 years. The trial is also not seeking to enroll patients who have received a transplant. In addition, you should not plan to join the trial if you are pregnant, are planning to become pregnant, or are currently breastfeeding. If you are unsure of whether you are eligible to enroll in the trial, please ask the study doctor.</Content>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">jpbl158</ResponseID>
+<BaseQuestion id="1">What are the eligibility criteria for this trial?</BaseQuestion>
+</RQ>
+<RQ id="1">
+<ResponseID id="2">jpbl139</ResponseID>
+<BaseQuestion id="2">What is being tested in this trial? What is the purpose of this trial?</BaseQuestion>
+</RQ>
+<RQ id="2">
+<ResponseID id="3">jpbl161</ResponseID>
+<BaseQuestion id="3">Can I participate in more than one trial at a time?</BaseQuestion>
+</RQ>
+</RQs>
+</Response>
+<Response id="jpbl160">
+<ResponseID id="0">jpbl160</ResponseID>
+<BaseQuestion id="0">Can I get the investigational medicine even if I am not eligible for the trial?</BaseQuestion>
+<Content id="0">Because the investigational medicine is considered investigational in the treatment of metastatic breast cancer, you will not be able to get the investigational medicine unless you are able to participate in the trial. The study staff is currently testing the investigational medicine in people with metastatic breast cancer who they believe are most likely to benefit from its use.</Content>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">jpbl119</ResponseID>
+<BaseQuestion id="1">Is there any way to make sure that I get the study drug/investigational medicine instead of placebo?</BaseQuestion>
+</RQ>
+<RQ id="1">
+<ResponseID id="2">jpbl143</ResponseID>
+<BaseQuestion id="2">Do I have any control over the treatment I receive or can I choose not to have any treatment?</BaseQuestion>
+</RQ>
+<RQ id="2">
+<ResponseID id="3">jpbl104</ResponseID>
+<BaseQuestion id="3">What are the types of clinical trials?</BaseQuestion>
+</RQ>
+</RQs>
+</Response>
+<Response id="jpbl161">
+<ResponseID id="0">jpbl161</ResponseID>
+<BaseQuestion id="0">Can I participate in more than one trial at a time?</BaseQuestion>
+<Content id="0">You may not participate in another clinical research trial of an investigational medicine or participate in any other type of medical research that is not compatible with this trial, while you are participating in this trial. If you are unsure of whether you are participating in a clinical trial that would make you ineligible to participate in this trial, please ask the study doctor.</Content>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">jpbl158</ResponseID>
+<BaseQuestion id="1">What are the eligibility criteria for this trial?</BaseQuestion>
+</RQ>
+<RQ id="1">
+<ResponseID id="2">jpbl159</ResponseID>
+<BaseQuestion id="2">What are the exclusions?</BaseQuestion>
+</RQ>
+<RQ id="2">
+<ResponseID id="3">jpbl139</ResponseID>
+<BaseQuestion id="3">What is being tested in this trial? What is the purpose of this trial?</BaseQuestion>
+</RQ>
+</RQs>
+</Response>
+<Response id="jpbl162">
+<ResponseID id="0">jpbl162</ResponseID>
+<BaseQuestion id="0">Is there anything I can’t eat or drink when on the investigational medicine/study drug?</BaseQuestion>
+<Content id="0">Grapefruit juice and certain medications that are called prohibited medications for this trial may interact with the investigational medicine, making it less effective. You must avoid grapefruit juice and those prohibited medications during this trial. Please speak to your study doctor about any other medications or supplements you are taking to make sure that you can continue to take them during this trial.</Content>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">jpbl165</ResponseID>
+<BaseQuestion id="1">Can I exercise while in the trial?</BaseQuestion>
+</RQ>
+<RQ id="1">
+<ResponseID id="2">jpbl182</ResponseID>
+<BaseQuestion id="2">Can I get treatment for other medical problems during this trial?</BaseQuestion>
+</RQ>
+<RQ id="2">
+<ResponseID id="3">jpbl123</ResponseID>
+<BaseQuestion id="3">Should I talk to my doctor/oncologist about this trial?</BaseQuestion>
+</RQ>
+</RQs>
+</Response>
+<Response id="jpbl163">
+<ResponseID id="0">jpbl163</ResponseID>
+<BaseQuestion id="0">Should I keep taking my other medications?</BaseQuestion>
+<Content id="0">Before you enroll in this trial, your study doctor will ask you questions about your medical history, including any treatments or medications you may be taking, such as prescription medications, over-the-counter medications, vitamins, and herbal supplements. Do not stop taking any medications your doctor told you to take without talking to your study doctor.</Content>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">jpbl182</ResponseID>
+<BaseQuestion id="1">Can I get treatment for other medical problems during this trial?</BaseQuestion>
+</RQ>
+<RQ id="1">
+<ResponseID id="2">jpbl164</ResponseID>
+<BaseQuestion id="2">Can I use alternative or complementary treatments during the trial?</BaseQuestion>
+</RQ>
+<RQ id="2">
+<ResponseID id="3">jpbl123</ResponseID>
+<BaseQuestion id="3">Should I talk to my doctor/oncologist about this trial?</BaseQuestion>
+</RQ>
+</RQs>
+</Response>
+<Response id="jpbl164">
+<ResponseID id="0">jpbl164</ResponseID>
+<BaseQuestion id="0">Can I use alternative or complementary treatments during the trial?</BaseQuestion>
+<Content id="0">If you are currently taking any alternative or complementary treatments, please discuss these therapies with your study doctor. For your safety, he or she may recommend that you stop taking these treatments prior to and during the trial.</Content>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">jpbl182</ResponseID>
+<BaseQuestion id="1">Can I get treatment for other medical problems during this trial?</BaseQuestion>
+</RQ>
+<RQ id="1">
+<ResponseID id="2">jpbl163</ResponseID>
+<BaseQuestion id="2">Should I keep taking my other medications?</BaseQuestion>
+</RQ>
+<RQ id="2">
+<ResponseID id="3">jpbl123</ResponseID>
+<BaseQuestion id="3">Should I talk to my doctor/oncologist about this trial?</BaseQuestion>
+</RQ>
+</RQs>
+</Response>
+<Response id="jpbl165">
+<ResponseID id="0">jpbl165</ResponseID>
+<BaseQuestion id="0">Can I exercise while in the trial?</BaseQuestion>
+<Content id="0">You should discuss your exercise routine with the study staff. If you have any questions or concerns about exercising while participating in this trial, please speak with the study staff.</Content>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">jpbl162</ResponseID>
+<BaseQuestion id="1">Is there anything I can’t eat or drink when on the investigational medicine/study drug?</BaseQuestion>
+</RQ>
+<RQ id="1">
+<ResponseID id="2">jpbl182</ResponseID>
+<BaseQuestion id="2">Can I get treatment for other medical problems during this trial?</BaseQuestion>
+</RQ>
+<RQ id="2">
+<ResponseID id="3">jpbl123</ResponseID>
+<BaseQuestion id="3">Should I talk to my doctor/oncologist about this trial?</BaseQuestion>
+</RQ>
+</RQs>
+</Response>
+<Response id="jpbl166">
+<ResponseID id="0">jpbl166</ResponseID>
+<BaseQuestion id="0">What will the trial treatment include?</BaseQuestion>
+<Content id="0">In this clinical trial, every participant will receive a standard of care medication that is an approved treatment for breast cancer. In addition, participants will be randomly assigned to receive either the investigational medicine or placebo. Placebo looks like the investigational medicine but has no active ingredients. You have a 2 in 3 chance of receiving the investigational medicine. Both the investigational medicine and placebo are capsules that you will take every 12 hours. The standard of care medication will be given as an injection in your buttocks twice during the first cycle of trial treatment and then on the first day of every cycle thereafter.</Content>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">jpbl170</ResponseID>
+<BaseQuestion id="1">Will there be lots of needles?</BaseQuestion>
+</RQ>
+<RQ id="1">
+<ResponseID id="2">jpbl139</ResponseID>
+<BaseQuestion id="2">What is being tested in this trial? What is the purpose of this trial?</BaseQuestion>
+</RQ>
+<RQ id="2">
+<ResponseID id="3">jpbl140</ResponseID>
+<BaseQuestion id="3">Has this study drug/investigational medicine ever been tested before?</BaseQuestion>
+</RQ>
+<RQ id="3">
+<ResponseID id="4">jpbl141</ResponseID>
+<BaseQuestion id="4">Is this study drug/investigational medicine being used to treat any other conditions?</BaseQuestion>
+</RQ>
+<RQ id="4">
+<ResponseID id="5">jpbl104</ResponseID>
+<BaseQuestion id="5">What are the types of clinical trials?</BaseQuestion>
+</RQ>
+</RQs>
+</Response>
+<Response id="jpbl167">
+<ResponseID id="0">jpbl167</ResponseID>
+<BaseQuestion id="0">How long will the trial last?</BaseQuestion>
+<Content id="0">If you choose to be in this trial, your participation is expected to last approximately 9 months. If you benefit from taking the investigational medicine, you may continue to receive it and participate in the trial until your study doctor decides that you are no longer benefitting from the trial treatment.You may be given the choice to continue taking the investigational medicine after the trial ends. This would be as part of an extended trial and the investigational medicine will be supplied by the trial sponsor. This will happen only if the study doctor and sponsor believe the investigational medicine may be of benefit to you and the sponsor continues development of the investigational medicine.</Content>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">jpbl168</ResponseID>
+<BaseQuestion id="1">How many times will I have to visit the study site?</BaseQuestion>
+</RQ>
+<RQ id="1">
+<ResponseID id="2">jpbl175</ResponseID>
+<BaseQuestion id="2">How long will I be in the trial?</BaseQuestion>
+</RQ>
+<RQ id="2">
+<ResponseID id="3">jpbl147</ResponseID>
+<BaseQuestion id="3">How many people will be enrolled in this trial?</BaseQuestion>
+</RQ>
+</RQs>
+</Response>
+<Response id="jpbl168">
+<ResponseID id="0">jpbl168</ResponseID>
+<BaseQuestion id="0">How many times will I have to visit the study site?</BaseQuestion>
+<Content id="0">You will take the investigational medicine by mouth approximately every 12 hours, every day, for 28 days; each 28-day period is called a cycle. You will visit the study site two times during the first trial treatment cycle and then on Day 1 of every cycle thereafter until you and your study doctor decide you should no longer participate in the trial.</Content>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">jpbl167</ResponseID>
+<BaseQuestion id="1">How long will the trial last?</BaseQuestion>
+</RQ>
+<RQ id="1">
+<ResponseID id="2">jpbl180</ResponseID>
+<BaseQuestion id="2">What support is available for participants during the trial?</BaseQuestion>
+</RQ>
+<RQ id="2">
+<ResponseID id="3">jpbl121</ResponseID>
+<BaseQuestion id="3">Will I have to go to a different doctor for my trial?</BaseQuestion>
+</RQ>
+<RQ id="3">
+<ResponseID id="4">jpbl147</ResponseID>
+<BaseQuestion id="4">How many people will be enrolled in this trial?</BaseQuestion>
+</RQ>
+</RQs>
+</Response>
+<Response id="jpbl169">
+<ResponseID id="0">jpbl169</ResponseID>
+<BaseQuestion id="0">What will the tests entail? What will happen at trial visits?</BaseQuestion>
+<Content id="0">Most of your trial visits will include a physical exam similar to what you would have a regular doctor's appointment. You will have your vital signs checked, which include measures of pulse rate, temperature, respiration rate, and blood pressure, and you will have blood tests and other lab work done. You will have a physical checkup and undergo radiology imaging on a regular basis to keep a careful watch on your breast cancer and evaluate if you have less, more, or the same amount of disease.</Content>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">jpbl170</ResponseID>
+<BaseQuestion id="1">Will there be lots of needles?</BaseQuestion>
+</RQ>
+<RQ id="1">
+<ResponseID id="2">jpbl171</ResponseID>
+<BaseQuestion id="2">Will I have to have blood tests?</BaseQuestion>
+</RQ>
+<RQ id="2">
+<ResponseID id="3">jpbl176</ResponseID>
+<BaseQuestion id="3">How long will each appointment be?</BaseQuestion>
+</RQ>
+<RQ id="3">
+<ResponseID id="4">jpbl168</ResponseID>
+<BaseQuestion id="4">How many times will I have to visit the study site?</BaseQuestion>
+</RQ>
+</RQs>
+</Response>
+<Response id="jpbl170">
+<ResponseID id="0">jpbl170</ResponseID>
+<BaseQuestion id="0">Will there be lots of needles?</BaseQuestion>
+<Content id="0">As part of the trial treatment, all participants will receive injections using a needle of a standard of care treatment that is approved for metastatic breast cancer. As part of this trial, blood tests using needles and vials will be necessary. Although the blood collected will be used for multiple tests, where possible, the study staff will only collect blood once per trial visit. The daily investigational medicine is taken orally, so you will not have to have injections with needles to take it.</Content>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">jpbl166</ResponseID>
+<BaseQuestion id="1">What will the trial treatment include?</BaseQuestion>
+</RQ>
+<RQ id="1">
+<ResponseID id="2">jpbl167</ResponseID>
+<BaseQuestion id="2">How long will the trial last?</BaseQuestion>
+</RQ>
+<RQ id="2">
+<ResponseID id="3">jpbl168</ResponseID>
+<BaseQuestion id="3">How many times will I have to visit the study site?</BaseQuestion>
+</RQ>
+</RQs>
+</Response>
+<Response id="jpbl171">
+<ResponseID id="0">jpbl171</ResponseID>
+<BaseQuestion id="0">Will I have to have blood tests?</BaseQuestion>
+<Content id="0">At some trial visits, you will give blood samples. As part of this trial, blood tests using needles and vials will be necessary. Although the blood collected will be used for multiple tests, where possible, the study staff will only collect blood once per trial visit. If you have any concerns about the tests over the course of the trial, please speak with your study doctor.</Content>
+</Response>
+<Response id="jpbl172">
+<ResponseID id="0">jpbl172</ResponseID>
+<BaseQuestion id="0">Do I have to do everything the study doctor tells me to do?</BaseQuestion>
+<Content id="0">When you sign up to participate in the clinical trial, it is very important that you follow the instructions given to you by the study doctor and the rest of the study staff. This includes attending visits as scheduled, taking all investigational medicines, and following all other directions given by your study doctor. If you have any concerns about your ability to follow the instructions outlined in the trial, please plan to speak with your study doctor.</Content>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">jpbl177</ResponseID>
+<BaseQuestion id="1">What will happen if I miss some appointments?</BaseQuestion>
+</RQ>
+<RQ id="1">
+<ResponseID id="2">jpbl163</ResponseID>
+<BaseQuestion id="2">Should I keep taking my other medications?</BaseQuestion>
+</RQ>
+<RQ id="2">
+<ResponseID id="3">jpbl123</ResponseID>
+<BaseQuestion id="3">Should I talk to my doctor/oncologist about this trial?</BaseQuestion>
+</RQ>
+<RQ id="3">
+<ResponseID id="4">jpbl122</ResponseID>
+<BaseQuestion id="4">Does my doctor/oncologist know about this trial?</BaseQuestion>
+</RQ>
+</RQs>
+</Response>
+<Response id="jpbl173">
+<ResponseID id="0">jpbl173</ResponseID>
+<BaseQuestion id="0">How will the study staff know if I am following the trial treatment plan?</BaseQuestion>
+<Content id="0">During your lab and study site visits, your study staff will ask you about your compliance with taking the investigational medicine. It is important that you answer truthfully about your ability to take the investigational medicine because this can impact the results of the trial. In addition, you will need to bring your unused investigational medicine to every appointment. Someone from the study staff will count the number of capsules that you have remaining at each trial visit. The study staff will use the blood drawn during your lab visits to evaluate the amount of investigational medicine in your blood and ensure that it matches the amount of the investigational medicine you should have taken.</Content>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">jpbl188</ResponseID>
+<BaseQuestion id="1">Will the study staff know what trial treatment I’m getting?</BaseQuestion>
+</RQ>
+<RQ id="1">
+<ResponseID id="2">jpbl172</ResponseID>
+<BaseQuestion id="2">Do I have to do everything the study doctor tells me to do?</BaseQuestion>
+</RQ>
+<RQ id="2">
+<ResponseID id="3">jpbl174</ResponseID>
+<BaseQuestion id="3">What if I don’t follow the trial treatment plan? When will I be considered non-compliant with the trial treatment?</BaseQuestion>
+</RQ>
+<RQ id="3">
+<ResponseID id="4">jpbl187</ResponseID>
+<BaseQuestion id="4">How familiar with the trial are the nurses and clinicians?</BaseQuestion>
+</RQ>
+</RQs>
+</Response>
+<Response id="jpbl174">
+<ResponseID id="0">jpbl174</ResponseID>
+<BaseQuestion id="0">What if I don’t follow the trial treatment plan? When will I be considered non-compliant with the trial treatment?</BaseQuestion>
+<Content id="0">Over the course of the trial, the study staff anticipates some degree of noncompliance with taking the investigational medicine because of an emergency, accident, or mistake. In the event that you fail to comply with the trial treatment protocol--such as skipping a dose of the recommended medication or missing a lab visit--please contact your research team immediately so that they can advise you on next steps to correct the issue.To be compliant with trial treatment, you must take the assigned investigational medicine as instructed in each cycle. You may be considered noncompliant if you have taken more or less than the planned doses of investigational medicine in a cycle.</Content>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">jpbl188</ResponseID>
+<BaseQuestion id="1">Will the study staff know what trial treatment I’m getting?</BaseQuestion>
+</RQ>
+<RQ id="1">
+<ResponseID id="2">jpbl172</ResponseID>
+<BaseQuestion id="2">Do I have to do everything the study doctor tells me to do?</BaseQuestion>
+</RQ>
+<RQ id="2">
+<ResponseID id="3">jpbl173</ResponseID>
+<BaseQuestion id="3">How will the study staff know if I am following the trial treatment plan?</BaseQuestion>
+</RQ>
+<RQ id="3">
+<ResponseID id="4">jpbl187</ResponseID>
+<BaseQuestion id="4">How familiar with the trial are the nurses and clinicians?</BaseQuestion>
+</RQ>
+</RQs>
+</Response>
+<Response id="jpbl175">
+<ResponseID id="0">jpbl175</ResponseID>
+<BaseQuestion id="0">How long will I be in the trial?</BaseQuestion>
+<Content id="0">If you choose to be in this trial, your participation is expected to last approximately 9 months. If, after 9 months, you benefit from taking the investigational medicine, you may continue to receive it and participate in the trial until your study doctor decides that you are no longer benefitting from the trial treatment.You may be given the choice to continue taking the investigational medicine after the trial ends. This would be as part of an extended trial and the investigational medicine will be supplied by the sponsor. This will happen only if the study doctor and sponsor believe the investigational medicine may be of benefit to you and the sponsor continues development of the investigational medicine.</Content>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">jpbl167</ResponseID>
+<BaseQuestion id="1">How long will the trial last?</BaseQuestion>
+</RQ>
+<RQ id="1">
+<ResponseID id="2">jpbl177</ResponseID>
+<BaseQuestion id="2">What will happen if I miss some appointments?</BaseQuestion>
+</RQ>
+<RQ id="2">
+<ResponseID id="3">jpbl170</ResponseID>
+<BaseQuestion id="3">Will there be lots of needles?</BaseQuestion>
+</RQ>
+</RQs>
+</Response>
+<Response id="jpbl176">
+<ResponseID id="0">jpbl176</ResponseID>
+<BaseQuestion id="0">How long will each appointment be?</BaseQuestion>
+<Content id="0">Your appointments will last from 1 to 5 hours, depending on what procedures are required at the given trial visit. You will always be told ahead of time how long a trial visit will last.</Content>
+</Response>
+<Response id="jpbl177">
+<ResponseID id="0">jpbl177</ResponseID>
+<BaseQuestion id="0">What will happen if I miss some appointments?</BaseQuestion>
+<Content id="0">When you sign up to participate in this clinical trial, you are expected to attend each of the trial appointments. The study staff will schedule your appointments for you in advance and have provided a three-day window around each planned trial visit to provide some flexibility to patients. If you expect to miss an appointment, contact the study staff immediately to reschedule. If you anticipate that it will be difficult for you to attend any of the planned trial visits, please let the study staff know as soon as possible so that they can discuss your continued eligibility and enrollment in the trial.</Content>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">jpbl179</ResponseID>
+<BaseQuestion id="1">If I travel a lot, can I still participate?</BaseQuestion>
+</RQ>
+<RQ id="1">
+<ResponseID id="2">jpbl175</ResponseID>
+<BaseQuestion id="2">How long will I be in the trial?</BaseQuestion>
+</RQ>
+<RQ id="2">
+<ResponseID id="3">jpbl172</ResponseID>
+<BaseQuestion id="3">Do I have to do everything the study doctor tells me to do?</BaseQuestion>
+</RQ>
+</RQs>
+</Response>
+<Response id="jpbl178">
+<ResponseID id="0">jpbl178</ResponseID>
+<BaseQuestion id="0">Will there be any follow up after the conclusion of the trial?</BaseQuestion>
+<Content id="0">If you received the investigational medicine during the trial, you may have an opportunity to keep taking it after the study ends as part of an extension study. The study doctor will decide if you will continue to benefit from taking the investigational medicine.</Content>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">jpbl168</ResponseID>
+<BaseQuestion id="1">How many times will I have to visit the study site?</BaseQuestion>
+</RQ>
+<RQ id="1">
+<ResponseID id="2">jpbl167</ResponseID>
+<BaseQuestion id="2">How long will the trial last?</BaseQuestion>
+</RQ>
+<RQ id="2">
+<ResponseID id="3">jpbl127</ResponseID>
+<BaseQuestion id="3">What rights do I have if I participate in a clinical trial? Can I quit the clinical trial at any time? Will the risks/side effects be explained to me?</BaseQuestion>
+</RQ>
+</RQs>
+</Response>
+<Response id="jpbl179">
+<ResponseID id="0">jpbl179</ResponseID>
+<BaseQuestion id="0">If I travel a lot, can I still participate?</BaseQuestion>
+<Content id="0">If you travel extensively, you may still be able to participate in the trial. Where possible, the study staff will attempt to make accommodations for your trial visits. However, if you plan to be out of the country or otherwise unable to undergo testing in connection with the trial for a prolonged period, it may not be wise to participate at this time. If you have any questions about your particular travel schedule and how it might impact participation, please contact the study staff.</Content>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">jpbl177</ResponseID>
+<BaseQuestion id="1">What will happen if I miss some appointments?</BaseQuestion>
+</RQ>
+<RQ id="1">
+<ResponseID id="2">jpbl175</ResponseID>
+<BaseQuestion id="2">How long will I be in the trial?</BaseQuestion>
+</RQ>
+<RQ id="2">
+<ResponseID id="3">jpbl137</ResponseID>
+<BaseQuestion id="3">Will my name be publically used during the trial or when the results are published?</BaseQuestion>
+</RQ>
+</RQs>
+</Response>
+<Response id="jpbl180">
+<ResponseID id="0">jpbl180</ResponseID>
+<BaseQuestion id="0">What support is available for participants during the trial?</BaseQuestion>
+<Content id="0">If you choose to participate in this clinical trial, you will have access to a variety of support services. The support services that are available to you vary based on the site, such as parking and transportation assistance. Regardless of your location, you will have access to the study staff for support and assistance before, during and after participation in the clinical trial. For more information on the support services available to you, please contact the study staff.</Content>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">jpbl155</ResponseID>
+<BaseQuestion id="1">Will I get paid to participate?</BaseQuestion>
+</RQ>
+<RQ id="1">
+<ResponseID id="2">jpbl148</ResponseID>
+<BaseQuestion id="2">Is the study drug/investigational medicine free?</BaseQuestion>
+</RQ>
+<RQ id="2">
+<ResponseID id="3">jpbl156</ResponseID>
+<BaseQuestion id="3">Why is there no compensation?</BaseQuestion>
+</RQ>
+</RQs>
+</Response>
+<Response id="jpbl181">
+<ResponseID id="0">jpbl181</ResponseID>
+<BaseQuestion id="0">Is it normal to be scared?</BaseQuestion>
+<Content id="0">Signing up to participate in a clinical trial can be overwhelming, so it is perfectly normal to feel anxious. You will be closely monitored throughout the trial by the study staff. You will also have regular opportunities to discuss any concerns with the study staff before, during, and after participation in the trial.</Content>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">jpbl128</ResponseID>
+<BaseQuestion id="1">Who can help me decide what is best for me?</BaseQuestion>
+</RQ>
+<RQ id="1">
+<ResponseID id="2">jpbl125</ResponseID>
+<BaseQuestion id="2">Do I have to read the entire informed consent form?</BaseQuestion>
+</RQ>
+<RQ id="2">
+<ResponseID id="3">jpbl123</ResponseID>
+<BaseQuestion id="3">Should I talk to my doctor/oncologist about this trial?</BaseQuestion>
+</RQ>
+</RQs>
+</Response>
+<Response id="jpbl182">
+<ResponseID id="0">jpbl182</ResponseID>
+<BaseQuestion id="0">Can I get treatment for other medical problems during this trial?</BaseQuestion>
+<Content id="0">It is important that you discuss any existing medical conditions with the study staff so that they have a complete picture of your health ahead of the trial, including any other medications or treatments that you may use. In the event that a new medical problem arises over the course of the trial period, please inform both your regular doctor and study doctor so that they can best coordinate your care.</Content>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">jpbl163</ResponseID>
+<BaseQuestion id="1">Should I keep taking my other medications?</BaseQuestion>
+</RQ>
+<RQ id="1">
+<ResponseID id="2">jpbl164</ResponseID>
+<BaseQuestion id="2">Can I use alternative or complementary treatments during the trial?</BaseQuestion>
+</RQ>
+<RQ id="2">
+<ResponseID id="3">jpbl183</ResponseID>
+<BaseQuestion id="3">Who will be caring for me during the clinical trial?</BaseQuestion>
+</RQ>
+</RQs>
+</Response>
+<Response id="jpbl183">
+<ResponseID id="0">jpbl183</ResponseID>
+<BaseQuestion id="0">Who will be caring for me during the clinical trial?</BaseQuestion>
+<Content id="0">If you choose to enroll in this clinical trial, you will be cared for by study staff, including doctors, nurses, research assistants, and data analyst, among others. This study staff also often works with other health professionals, including other doctors and nurses, laboratory technicians, and pharmacists, to closely monitor your health during the clinical trial and provide medical and other supportive care as needed. Beyond the trial-affiliated health care personnel, you will also be treated by your regular doctor over the course of the trial for any non-trial related care.</Content>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">jpbl121</ResponseID>
+<BaseQuestion id="1">Will I have to go to a different doctor for my trial?</BaseQuestion>
+</RQ>
+<RQ id="1">
+<ResponseID id="2">jpbl105</ResponseID>
+<BaseQuestion id="2">Who is managing my trial?</BaseQuestion>
+</RQ>
+<RQ id="2">
+<ResponseID id="3">jpbl184</ResponseID>
+<BaseQuestion id="3">Can I use my own doctor/lab/hospital for the tests?</BaseQuestion>
+</RQ>
+<RQ id="3">
+<ResponseID id="4">jpbl185</ResponseID>
+<BaseQuestion id="4">If I get sick, who will be there to help me?</BaseQuestion>
+</RQ>
+</RQs>
+</Response>
+<Response id="jpbl184">
+<ResponseID id="0">jpbl184</ResponseID>
+<BaseQuestion id="0">Can I use my own doctor/lab/hospital for the tests?</BaseQuestion>
+<Content id="0">While you are participating in the trial, you will be required to make various visits to the study site for trial-related testing. It is required that these tests be performed at the designated facilities because the health care workers at these sites have been trained in how to perform the tests in accordance with the trial protocol. However, it should be noted that you will continue to see your regular doctor for any non-trial-related testing and care throughout the trial period.</Content>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">jpbl183</ResponseID>
+<BaseQuestion id="1">Who will be caring for me during the clinical trial?</BaseQuestion>
+</RQ>
+<RQ id="1">
+<ResponseID id="2">jpbl121</ResponseID>
+<BaseQuestion id="2">Will I have to go to a different doctor for my trial?</BaseQuestion>
+</RQ>
+<RQ id="2">
+<ResponseID id="3">jpbl105</ResponseID>
+<BaseQuestion id="3">Who is managing my trial?</BaseQuestion>
+</RQ>
+<RQ id="3">
+<ResponseID id="4">jpbl185</ResponseID>
+<BaseQuestion id="4">If I get sick, who will be there to help me?</BaseQuestion>
+</RQ>
+</RQs>
+</Response>
+<Response id="jpbl185">
+<ResponseID id="0">jpbl185</ResponseID>
+<BaseQuestion id="0">If I get sick, who will be there to help me?</BaseQuestion>
+<Content id="0">If you get sick during the trial, please contact your doctor. In the case of an emergency situation, you should go to the emergency room or call 911. Remember to tell the study doctor or staff about any doctor's or emergency room visits you have while participating in this trial.</Content>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">jpbl183</ResponseID>
+<BaseQuestion id="1">Who will be caring for me during the clinical trial?</BaseQuestion>
+</RQ>
+<RQ id="1">
+<ResponseID id="2">jpbl121</ResponseID>
+<BaseQuestion id="2">Will I have to go to a different doctor for my trial?</BaseQuestion>
+</RQ>
+<RQ id="2">
+<ResponseID id="3">jpbl105</ResponseID>
+<BaseQuestion id="3">Who is managing my trial?</BaseQuestion>
+</RQ>
+<RQ id="3">
+<ResponseID id="4">jpbl184</ResponseID>
+<BaseQuestion id="4">Can I use my own doctor/lab/hospital for the tests?</BaseQuestion>
+</RQ>
+</RQs>
+</Response>
+<Response id="jpbl186">
+<ResponseID id="0">jpbl186</ResponseID>
+<BaseQuestion id="0">How qualified is the study staff?</BaseQuestion>
+<Content id="0">The study is led by your study doctor, who oversees the study staff. Your study doctor will be familiar with your condition, as well as the various treatments available to you.The other members of the study staff and the various other medical professionals that you will work with over the course of the trial have also been carefully selected based on their experience with patients with breast cancer.</Content>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">jpbl187</ResponseID>
+<BaseQuestion id="1">How familiar with the trial are the nurses and clinicians?</BaseQuestion>
+</RQ>
+<RQ id="1">
+<ResponseID id="2">jpbl184</ResponseID>
+<BaseQuestion id="2">Can I use my own doctor/lab/hospital for the tests?</BaseQuestion>
+</RQ>
+<RQ id="2">
+<ResponseID id="3">jpbl145</ResponseID>
+<BaseQuestion id="3">Will I be able to talk to the study doctor during the trial?</BaseQuestion>
+</RQ>
+<RQ id="3">
+<ResponseID id="4">jpbl122</ResponseID>
+<BaseQuestion id="4">Does my doctor/oncologist know about this trial?</BaseQuestion>
+</RQ>
+</RQs>
+</Response>
+<Response id="jpbl187">
+<ResponseID id="0">jpbl187</ResponseID>
+<BaseQuestion id="0">How familiar with the trial are the nurses and clinicians?</BaseQuestion>
+<Content id="0">All medical professionals participating in the clinical trial are very familiar with the trial. The study doctor in particular will have thoroughly reviewed the trial protocol. The nurses and other clinicians are also very knowledgeable about the trial, with a particular interest in how they are required to care for you as part of the trial. If you have questions about your participation in the trial, you can feel confident asking any member of the study staff.</Content>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">jpbl186</ResponseID>
+<BaseQuestion id="1">How qualified is the study staff?</BaseQuestion>
+</RQ>
+<RQ id="1">
+<ResponseID id="2">jpbl184</ResponseID>
+<BaseQuestion id="2">Can I use my own doctor/lab/hospital for the tests?</BaseQuestion>
+</RQ>
+<RQ id="2">
+<ResponseID id="3">jpbl185</ResponseID>
+<BaseQuestion id="3">If I get sick, who will be there to help me?</BaseQuestion>
+</RQ>
+</RQs>
+</Response>
+<Response id="jpbl188">
+<ResponseID id="0">jpbl188</ResponseID>
+<BaseQuestion id="0">Will the study staff know what trial treatment I’m getting?</BaseQuestion>
+<Content id="0">This trial is designed to be double-blind, which means that neither you, as the participant, nor the study staff will know whether you are getting the investigational medicine or the placebo. This is done to ensure that the trial results are not influenced by what is known as the placebo effect, whereby an effect is caused by the patient's belief that they are receiving a certain treatment, or through researcher bias. If you have concerns about receiving either of the trial treatments, please contact the study staff.</Content>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">jpbl112</ResponseID>
+<BaseQuestion id="1">Is it right for a trial to include a placebo?</BaseQuestion>
+</RQ>
+<RQ id="1">
+<ResponseID id="2">jpbl104</ResponseID>
+<BaseQuestion id="2">What are the types of clinical trials?</BaseQuestion>
+</RQ>
+<RQ id="2">
+<ResponseID id="3">jpbl145</ResponseID>
+<BaseQuestion id="3">Will I be able to talk to the study doctor during the trial?</BaseQuestion>
+</RQ>
+<RQ id="3">
+<ResponseID id="4">jpbl113</ResponseID>
+<BaseQuestion id="4">Will the doctor tell the truth?</BaseQuestion>
+</RQ>
+</RQs>
+</Response>
+<Response id="jpbl189">
+<ResponseID id="0">jpbl189</ResponseID>
+<BaseQuestion id="0">If the investigational medicine/study drug works for me, can you keep giving it to me when the trial ends?</BaseQuestion>
+<Content id="0">If you received the investigational medicine during the trial, you may have an opportunity to keep taking it after the trial ends as part of an extension study. The study doctor will decide if you will continue to benefit from taking the investigational medicine.</Content>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">jpbl175</ResponseID>
+<BaseQuestion id="1">How long will I be in the trial?</BaseQuestion>
+</RQ>
+<RQ id="1">
+<ResponseID id="2">jpbl178</ResponseID>
+<BaseQuestion id="2">Will there be any follow up after the conclusion of the trial?</BaseQuestion>
+</RQ>
+<RQ id="2">
+<ResponseID id="3">jpbl104</ResponseID>
+<BaseQuestion id="3">What are the types of clinical trials?</BaseQuestion>
+</RQ>
+</RQs>
+</Response>
+<Response id="jpbl190">
+<ResponseID id="0">jpbl190</ResponseID>
+<BaseQuestion id="0">What are possible side effects of the study drug/investigational medicine?</BaseQuestion>
+<Content id="0">The most common side effects include diarrhea, nausea, fatigue, low levels of the white blood cells that fight infection, vomiting, low levels of the blood cells responsible for clotting, anemia, low appetite, and increase of a substance in the blood that may indicate reduced kidney function.You may experience some pain or discomfort from trial-related procedures such as blood tests, X-rays, or other imaging scans.For a full list of the possible risks and side effects associated with this clinical trial, please review the informed consent document given to you by study staff and ask your study doctor about any specific concerns.</Content>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">jpbl191</ResponseID>
+<BaseQuestion id="1">Could there be side effects that you cannot predict?</BaseQuestion>
+</RQ>
+<RQ id="1">
+<ResponseID id="2">jpbl192</ResponseID>
+<BaseQuestion id="2">Could my breast cancer progress?</BaseQuestion>
+</RQ>
+<RQ id="2">
+<ResponseID id="3">jpbl193</ResponseID>
+<BaseQuestion id="3">What should I do if I experience side effects?</BaseQuestion>
+</RQ>
+<RQ id="3">
+<ResponseID id="4">jpbl127</ResponseID>
+<BaseQuestion id="4">What rights do I have if I participate in a clinical trial? Can I quit the clinical trial at any time? Will the risks/side effects be explained to me?</BaseQuestion>
+</RQ>
+</RQs>
+</Response>
+<Response id="jpbl191">
+<ResponseID id="0">jpbl191</ResponseID>
+<BaseQuestion id="0">Could there be side effects that you cannot predict?</BaseQuestion>
+<Content id="0">The investigational medicine has been evaluated in clinical trials but may have side effects that are not yet known. There may also be unknown interactions with other medications you are taking. However, the study staff will be tracking your health carefully during the study in order to identify any potential side effects and make any needed changes to your treatment plan.</Content>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">jpbl190</ResponseID>
+<BaseQuestion id="1">What are possible side effects of the study drug/investigational medicine?</BaseQuestion>
+</RQ>
+<RQ id="1">
+<ResponseID id="2">jpbl192</ResponseID>
+<BaseQuestion id="2">Could my breast cancer progress?</BaseQuestion>
+</RQ>
+<RQ id="2">
+<ResponseID id="3">jpbl193</ResponseID>
+<BaseQuestion id="3">What should I do if I experience side effects?</BaseQuestion>
+</RQ>
+<RQ id="3">
+<ResponseID id="4">jpbl127</ResponseID>
+<BaseQuestion id="4">What rights do I have if I participate in a clinical trial? Can I quit the clinical trial at any time? Will the risks/side effects be explained to me?</BaseQuestion>
+</RQ>
+<RQ id="4">
+<ResponseID id="5">jpbl113</ResponseID>
+<BaseQuestion id="5">Will the doctor tell the truth?</BaseQuestion>
+</RQ>
+</RQs>
+</Response>
+<Response id="jpbl192">
+<ResponseID id="0">jpbl192</ResponseID>
+<BaseQuestion id="0">Could my breast cancer progress?</BaseQuestion>
+<Content id="0">One of the main reasons this trial is being done is to learn more about how the investigational medicine controls the growth of breast cancer. There is a possibility that your breast cancer could worsen while you participate in the clinical trial. If this occurs, you and the study doctor might decide that you should stop taking part in the trial. However, the information about your experience will still be useful to other patients with breast cancer, and the study doctor will continue to follow your condition in order to better interpret the results of the trial.</Content>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">jpbl190</ResponseID>
+<BaseQuestion id="1">What are possible side effects of the study drug/investigational medicine?</BaseQuestion>
+</RQ>
+<RQ id="1">
+<ResponseID id="2">jpbl191</ResponseID>
+<BaseQuestion id="2">Could there be side effects that you cannot predict?</BaseQuestion>
+</RQ>
+<RQ id="2">
+<ResponseID id="3">jpbl193</ResponseID>
+<BaseQuestion id="3">What should I do if I experience side effects?</BaseQuestion>
+</RQ>
+</RQs>
+</Response>
+<Response id="jpbl193">
+<ResponseID id="0">jpbl193</ResponseID>
+<BaseQuestion id="0">What should I do if I experience side effects?</BaseQuestion>
+<Content id="0">If you believe that you may be experiencing a side effect, please let your study doctor know immediately. Depending on the side effect, there may be a treatment available that can address your symptoms. Based on the type and severity of the side effect, you and your study doctor might decide that you should stop taking part in the trial. For more information on what you should do if you experience a side effect, please ask the study staff.</Content>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">jpbl190</ResponseID>
+<BaseQuestion id="1">What are possible side effects of the study drug/investigational medicine?</BaseQuestion>
+</RQ>
+<RQ id="1">
+<ResponseID id="2">jpbl191</ResponseID>
+<BaseQuestion id="2">Could there be side effects that you cannot predict?</BaseQuestion>
+</RQ>
+<RQ id="2">
+<ResponseID id="3">jpbl127</ResponseID>
+<BaseQuestion id="3">What rights do I have if I participate in a clinical trial? Can I quit the clinical trial at any time? Will the risks/side effects be explained to me?</BaseQuestion>
+</RQ>
+</RQs>
+</Response>
+<Response id="jpbl194">
+<ResponseID id="0">jpbl194</ResponseID>
+<BaseQuestion id="0">What can I do to reduce side effects?</BaseQuestion>
+<Content id="0">You can reduce the risk of experiencing side effects by closely following all of the directions provided to you by your study doctor. If you believe that you are experiencing a side effect, it is very important that you tell your study doctor immediately so that he or she can conduct further testing and determine a course of action.</Content>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">jpbl193</ResponseID>
+<BaseQuestion id="1">What should I do if I experience side effects?</BaseQuestion>
+</RQ>
+<RQ id="1">
+<ResponseID id="2">jpbl190</ResponseID>
+<BaseQuestion id="2">What are possible side effects of the study drug/investigational medicine?</BaseQuestion>
+</RQ>
+<RQ id="2">
+<ResponseID id="3">jpbl191</ResponseID>
+<BaseQuestion id="3">Could there be side effects that you cannot predict?</BaseQuestion>
+</RQ>
+</RQs>
+</Response>
+<Response id="majpbl995">
+<ResponseID id="0">majpbl995</ResponseID>
+<BaseQuestion id="0">Multiple Answers Possible</BaseQuestion>
+<Content id="0">How is it different?</Content>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">jpbl104</ResponseID>
+<BaseQuestion id="1">What are the types of clinical trials?</BaseQuestion>
+</RQ>
+<RQ id="1">
+<ResponseID id="2">jpbl103</ResponseID>
+<BaseQuestion id="2">What are the phases of a clinical trial?</BaseQuestion>
+</RQ>
+<RQ id="2">
+<ResponseID id="3">jpbl116</ResponseID>
+<BaseQuestion id="3">What is standard treatment?</BaseQuestion>
+</RQ>
+<RQ id="3">
+<ResponseID id="4">jpbl123</ResponseID>
+<BaseQuestion id="4">Should I talk to my doctor/oncologist about this trial?</BaseQuestion>
+</RQ>
+<RQ id="4">
+<ResponseID id="5">jpbl005</ResponseID>
+<BaseQuestion id="5">Introduction to program</BaseQuestion>
+</RQ>
+</RQs>
+</Response>
+<Response id="majpbl996">
+<ResponseID id="0">majpbl996</ResponseID>
+<BaseQuestion id="0">Multiple Answers Possible</BaseQuestion>
+<Content id="0">Will I get the drug?</Content>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">jpbl119</ResponseID>
+<BaseQuestion id="1">Is there any way to make sure that I get the study drug/investigational medicine instead of placebo?</BaseQuestion>
+</RQ>
+<RQ id="1">
+<ResponseID id="2">jpbl160</ResponseID>
+<BaseQuestion id="2">Can I get the investigational medicine even if I am not eligible for the trial?</BaseQuestion>
+</RQ>
+</RQs>
+</Response>
+<Response id="majpbl998">
+<ResponseID id="0">majpbl998</ResponseID>
+<BaseQuestion id="0">Multiple Answers Possible</BaseQuestion>
+<Content id="0">Who will pay for this?</Content>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">jpbl149</ResponseID>
+<BaseQuestion id="1">Are the trial-related tests free?</BaseQuestion>
+</RQ>
+<RQ id="1">
+<ResponseID id="2">jpbl157</ResponseID>
+<BaseQuestion id="2">Does the study staff get paid? Who pays the study staff?</BaseQuestion>
+</RQ>
+<RQ id="2">
+<ResponseID id="3">jpbl150</ResponseID>
+<BaseQuestion id="3">Are out-of-pocket expenses covered?</BaseQuestion>
+</RQ>
+</RQs>
+</Response>
+</xml>

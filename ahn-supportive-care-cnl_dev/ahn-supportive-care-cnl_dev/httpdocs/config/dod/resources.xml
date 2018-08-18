@@ -1,0 +1,313 @@
+<xml>
+<Category rail="0hour">
+<Heading>Patient Discussion Aids</Heading>
+<Resource>
+<Responses>asb0_3,asb0_4,</Responses>
+<Name>Standard Drink Chart</Name>
+<Link>https://s3.amazonaws.com/dod-media/Documents/Standard+Drink+Chart.pdf?3</Link>
+</Resource>
+<Resource>
+<Responses>asb0_1,asb0_4,</Responses>
+<Name>Drinking Patterns of US Adults and Drinker’s Pyramid</Name>
+<Link>https://s3.amazonaws.com/dod-media/Documents/Drinking+Patterns+of+US+Adults.pdf?3</Link>
+</Resource>
+<!-- <Resource>      <Responses>asb0_4,</Responses>      <Name>Branch Specific Drinking Rates</Name>      <Link>https://s3.amazonaws.com/dod-media/Documents/BRANCH+SPECIFIC+DRINKING+RATES.pdf?3</Link>    </Resource> -->
+<Resource>
+<Responses>asb0_2,asb0_3,asb0_4,asb0_5,</Responses>
+<Name>Recommended Guidelines for Low Risk Drinking</Name>
+<Link>https://s3.amazonaws.com/dod-media/Documents/Recommended+Guidelines+for+Low+Risk+Drinking.pdf?3</Link>
+</Resource>
+<Resource>
+<Responses>asb0_7,</Responses>
+<Name>Readiness Ruler</Name>
+<Link>https://s3.amazonaws.com/dod-media/Documents/Readiness+Ruler.pdf?3</Link>
+</Resource>
+</Category>
+<Category rail="0hour">
+<Heading>Patient and Provider Reading Materials</Heading>
+<Resource>
+<Responses>asb0_3,</Responses>
+<Name>Mixing Alcohol with Medications</Name>
+<Link>https://s3.amazonaws.com/dod-media/Documents/Mixing+Alcohol+with+Medications.pdf?3</Link>
+</Resource>
+<Resource>
+<Responses>asb0_4,</Responses>
+<Name>Illness or Injuries Complicated by Alcohol</Name>
+<Link>https://s3.amazonaws.com/dod-media/Documents/Illness+and+Injuries+caused+by+Alcohol.pdf?3</Link>
+</Resource>
+<Resource>
+<Modules>,asb0_5,</Modules>
+<Name>Rethinking Drinking</Name>
+<Link>https://s3.amazonaws.com/dod-media/Documents/Rethinking_Drinking.pdf?3</Link>
+</Resource>
+</Category>
+<Category rail="0hour">
+<Heading>Alcohol Screening</Heading>
+<Resource>
+<Responses>asb0_2,asb0_3,asb0_4,asb0_5,</Responses>
+<Name>AUDIT-C Form Including Scoring</Name>
+<Link>https://s3.amazonaws.com/dod-media/Documents/Audit+C+Form+including+scoring.pdf?3</Link>
+</Resource>
+<Resource>
+<Responses>asb0_2,asb0_3,asb0_4,asb0_5,</Responses>
+<Name>AUDIT Form</Name>
+<Link>https://s3.amazonaws.com/dod-media/Documents/Audit+Form.pdf?3</Link>
+</Resource>
+<Resource>
+<Responses>asb0_2,asb0_3,asb0_4,asb0_5,</Responses>
+<Name>AUDIT Risk Ranges</Name>
+<Link>https://s3.amazonaws.com/dod-media/Documents/Audit+Risk+Ranges.pdf?3</Link>
+</Resource>
+</Category>
+<Category rail="0hour">
+<Heading>Clinical Skills</Heading>
+<Resource>
+<Name>BRIEF Alcohol Intervention</Name>
+<Responses>asb0_7,</Responses>
+<Link>https://s3.amazonaws.com/dod-media/Documents/BRIEF.pdf?3</Link>
+</Resource>
+<Resource>
+<Name>Readiness to Change</Name>
+<Responses>asb0_7,</Responses>
+<Link>https://s3.amazonaws.com/dod-media/Documents/Readiness+to+Change.pdf?3</Link>
+</Resource>
+<Resource>
+<Responses>asb0_9,</Responses>
+<Name>Comparison Between DSM–IV and DSM–5</Name>
+<Link>https://s3.amazonaws.com/dod-media/Documents/Comparison+Between+DSM–IV+and+DSM–5.pdf?3</Link>
+</Resource>
+</Category>
+<Category rail="0hour">
+<Heading>Service Guidelines</Heading>
+<!--     <Resource>      <Responses>asb0_9,</Responses>      <Name>Referral to Treatment Options - General</Name>      <Link>https://s3.amazonaws.com/dod-media/Documents/Referral+to+Treatment+Options-+General.pdf?3</Link>    </Resource>    <Resource>      <Responses>asb0_9,</Responses>      <Name>Referral to Treatment Options - Active Duty</Name>      <Link>https://s3.amazonaws.com/dod-media/Documents/Referral+to+Treatment+Options-+Active+Duty.pdf?3</Link>    </Resource> -->
+</Category>
+<Category rail="0hour" type="subheading">
+<Heading>Department of Defense</Heading>
+<Resource>
+<Responses>asb0_1,asb0_9,</Responses>
+<Name>VA/DoD Clinical Practice Guideline for Management of Substance Use Disorders (SUD), 2009.</Name>
+<Link>https://s3.amazonaws.com/dod-media/Documents/VA-DoD+Clinical+Practice+Guideline+for+Management+of+Substance+UseDisorders+(SUD),+2009.pdf?3</Link>
+</Resource>
+<Resource>
+<Responses>asb0_1,asb0_9,</Responses>
+<Name>Section 596 (b)(8) of the FY 2010 National Defense Authorization Act (NDAA) (July 2013).</Name>
+<Details>"Update to the Comprehensive Plan on Prevention, Diagnosis, and Treatment of Substance Use Disorders (SUDs) and Disposition of Substance Use Offenders in the Armed Forces."</Details>
+<Link>https://s3.amazonaws.com/dod-media/Documents/Section+596+(b)(8)+of+the+FY+2010+National+Defense+Authorization+Act+(NDAA)+(July+2013).pdf?3</Link>
+</Resource>
+<Resource>
+<Responses>asb0_1,asb0_9,</Responses>
+<Name>Department of Defense Instruction 1010.04 (Feb 20, 2014).</Name>
+<Details>"Problematic Substance Use by DoD Personnel."</Details>
+<Link>https://s3.amazonaws.com/dod-media/Documents/Department+of+Defense+Instruction+1010.04+(Feb+20,+2014).pdf?3</Link>
+</Resource>
+<Resource>
+<Responses>asb0_1,asb0_9,</Responses>
+<Name>Department of Defense Instruction 6490.15 (Aug 8, 2013).</Name>
+<Details>"Integration of Behavioral Health Personnel (BHP) Services Into Patient-Centered Medical Home (PCMH) Primary Care and Other Primary Care Service Settings."</Details>
+<Link>https://s3.amazonaws.com/dod-media/Documents/Department+of+Defense+Instruction+6490.15+(Aug+8,+2013).pdf?3</Link>
+</Resource>
+<Resource>
+<Responses>asb0_1,asb0_9,</Responses>
+<Name>Department of Defense Instruction 1010.01 (Sept 13, 2012).</Name>
+<Details>"Military Personnel Drug Abuse Testing Program (MPDATP)."</Details>
+<Link>https://s3.amazonaws.com/dod-media/Documents/Department+of+Defense+Instruction+1010.01+(Sept+13,+2012).pdf?3</Link>
+</Resource>
+<Resource>
+<Responses>asb0_1,asb0_9,</Responses>
+<Name>Department of Defense Instruction 6490.08 (Aug 17, 2011).</Name>
+<Details>"Command Notification Requirements to Dispel Stigma in Providing Mental Health Care to Service Members."</Details>
+<Link>https://s3.amazonaws.com/dod-media/Documents/Department+of+Defense+Instruction+6490.08+(Aug+17,+2011).pdf?3</Link>
+</Resource>
+</Category>
+<Category rail="0hour" type="subheading">
+<Heading>Air Force</Heading>
+<Resource>
+<Responses>asb0_1,asb0_9,</Responses>
+<Name>Air Force Instruction 44-121 (8 July 2014).</Name>
+<Details>"Alcohol and Drug Abuse Prevention and Treatment (ADAPT) Program."</Details>
+<Link>https://s3.amazonaws.com/dod-media/Documents/Air+Force+Instruction+44-121+(8+July+2014).pdf?3</Link>
+</Resource>
+</Category>
+<Category rail="0hour" type="subheading">
+<Heading>Army</Heading>
+<Resource>
+<Responses>asb0_1,asb0_9,</Responses>
+<Name>Army Regulation 600-85 (28 Dec 2012).</Name>
+<Details>"The Army Substance Abuse Program."</Details>
+<Link>https://s3.amazonaws.com/dod-media/Documents/Army+Regulation+600-85+(28+Dec+2012).pdf?3</Link>
+</Resource>
+</Category>
+<Category rail="0hour" type="subheading">
+<Heading>Navy</Heading>
+<Resource>
+<Responses>asb0_1,</Responses>
+<Name>OPNAV Instruction 5350.4D (4 Jun 09).</Name>
+<Details>"Navy Alcohol and Drug Abuse Prevention and Control."</Details>
+<Link>https://s3.amazonaws.com/dod-media/Documents/OPNAV+Instruction+5350.4D+(4+Jun+09).pdf?3</Link>
+</Resource>
+</Category>
+<Category rail="0hour">
+<Heading>Bibliography</Heading>
+<Resource>
+<Modules>,</Modules>
+<Name>Bibliography</Name>
+<Details>Sources and Citations</Details>
+<Link>https://s3.amazonaws.com/dod-media/Documents/Bibliography+ASB1.pdf?3</Link>
+</Resource>
+</Category>
+<Category rail="3hour">
+<Heading>Patient Discussion Aids</Heading>
+<Resource>
+<Modules>,2,3,4,</Modules>
+<Name>Standard Drink Chart</Name>
+<Link>https://s3.amazonaws.com/dod-media/Documents/Standard+Drink+Chart.pdf?3</Link>
+</Resource>
+<Resource>
+<Modules>,1,4,</Modules>
+<Name>Drinking Patterns of US Adults and Drinker’s Pyramid</Name>
+<Link>https://s3.amazonaws.com/dod-media/Documents/Drinking+Patterns+of+US+Adults.pdf?3</Link>
+</Resource>
+<!-- <Resource>      <Modules>,4,</Modules>      <Name>Branch Specific Drinking Rates</Name>      <Link>https://s3.amazonaws.com/dod-media/Documents/BRANCH+SPECIFIC+DRINKING+RATES.pdf?3</Link>    </Resource> -->
+<Resource>
+<Modules>,2,3,4,5,</Modules>
+<Name>Recommended Guidelines for Low Risk Drinking</Name>
+<Link>https://s3.amazonaws.com/dod-media/Documents/Recommended+Guidelines+for+Low+Risk+Drinking.pdf?3</Link>
+</Resource>
+<Resource>
+<Modules>,6,7,11,</Modules>
+<Name>Readiness Ruler</Name>
+<Link>https://s3.amazonaws.com/dod-media/Documents/Readiness+Ruler.pdf?3</Link>
+</Resource>
+</Category>
+<Category rail="3hour">
+<Heading>Patient and Provider Reading Materials</Heading>
+<Resource>
+<Modules>,2,</Modules>
+<Name>Mixing Alcohol with Medications</Name>
+<Link>https://s3.amazonaws.com/dod-media/Documents/Mixing+Alcohol+with+Medications.pdf?3</Link>
+</Resource>
+<Resource>
+<Name>Illness or Injuries Complicated by Alcohol</Name>
+<Link>https://s3.amazonaws.com/dod-media/Documents/Illness+and+Injuries+caused+by+Alcohol.pdf?3</Link>
+</Resource>
+<Resource>
+<Modules>,5,</Modules>
+<Name>Rethinking Drinking</Name>
+<Link>https://s3.amazonaws.com/dod-media/Documents/Rethinking_Drinking.pdf?3</Link>
+</Resource>
+</Category>
+<Category rail="3hour">
+<Heading>Alcohol Screening</Heading>
+<Resource>
+<Modules>,2,3,</Modules>
+<Name>AUDIT-C Form Including Scoring</Name>
+<Link>https://s3.amazonaws.com/dod-media/Documents/Audit+C+Form+including+scoring.pdf?3</Link>
+</Resource>
+<Resource>
+<Modules>,2,3,</Modules>
+<Name>AUDIT Form</Name>
+<Link>https://s3.amazonaws.com/dod-media/Documents/Audit+Form.pdf?3</Link>
+</Resource>
+<Resource>
+<Modules>,2,3,</Modules>
+<Name>AUDIT Risk Ranges</Name>
+<Link>https://s3.amazonaws.com/dod-media/Documents/Audit+Risk+Ranges.pdf?3</Link>
+</Resource>
+</Category>
+<Category rail="3hour">
+<Heading>Clinical Skills</Heading>
+<Resource>
+<Modules>,3,6,7,</Modules>
+<Name>BRIEF</Name>
+<Link>https://s3.amazonaws.com/dod-media/Documents/BNI.pdf?3</Link>
+</Resource>
+<Resource>
+<Modules>,6,7,</Modules>
+<Name>Readiness to Change</Name>
+<Link>https://s3.amazonaws.com/dod-media/Documents/Readiness+to+Change.pdf?3</Link>
+</Resource>
+<Resource>
+<Modules>,10,</Modules>
+<Name>Comparison Between DSM–IV and DSM–5</Name>
+<Link>https://s3.amazonaws.com/dod-media/Documents/Comparison+Between+DSM–IV+and+DSM–5.pdf?3</Link>
+</Resource>
+</Category>
+<Category rail="3hour">
+<Heading>Service Guidelines</Heading>
+<!--     <Resource>      <Modules>,10,2,1,</Modules>      <Name>Referral to Treatment Options - General</Name>      <Link>https://s3.amazonaws.com/dod-media/Documents/Referral+to+Treatment+Options-+General.pdf?3</Link>    </Resource>    <Resource>      <Modules>,10,2,1,</Modules>      <Name>Referral to Treatment Options - Active Duty</Name>      <Link>https://s3.amazonaws.com/dod-media/Documents/Referral+to+Treatment+Options-+Active+Duty.pdf?3</Link>    </Resource> -->
+</Category>
+<Category rail="3hour" type="subheading">
+<Heading>Department of Defense</Heading>
+<Resource>
+<Modules>,10,1,</Modules>
+<Name>VA/DoD Clinical Practice Guideline for Management of Substance Use Disorders (SUD), 2009.</Name>
+<Link>https://s3.amazonaws.com/dod-media/Documents/VA-DoD+Clinical+Practice+Guideline+for+Management+of+Substance+UseDisorders+(SUD),+2009.pdf?3</Link>
+</Resource>
+<Resource>
+<Modules>,10,1,</Modules>
+<Name>Section 596 (b)(8) of the FY 2010 National Defense Authorization Act (NDAA) (July 2013).</Name>
+<Details>"Update to the Comprehensive Plan on Prevention, Diagnosis, and Treatment of Substance Use Disorders (SUDs) and Disposition of Substance Use Offenders in the Armed Forces."</Details>
+<Link>https://s3.amazonaws.com/dod-media/Documents/Section+596+(b)(8)+of+the+FY+2010+National+Defense+Authorization+Act+(NDAA)+(July+2013).pdf?3</Link>
+</Resource>
+<Resource>
+<Modules>,10,1,</Modules>
+<Name>Department of Defense Instruction 1010.04 (Feb 20, 2014).</Name>
+<Details>"Problematic Substance Use by DoD Personnel."</Details>
+<Link>https://s3.amazonaws.com/dod-media/Documents/Department+of+Defense+Instruction+1010.04+(Feb+20,+2014).pdf?3</Link>
+</Resource>
+<Resource>
+<Modules>,10,2,</Modules>
+<Name>Department of Defense Instruction 6490.15 (Aug 8, 2013).</Name>
+<Details>"Integration of Behavioral Health Personnel (BHP) Services Into Patient-Centered Medical Home (PCMH) Primary Care and Other Primary Care Service Settings."</Details>
+<Link>https://s3.amazonaws.com/dod-media/Documents/Department+of+Defense+Instruction+6490.15+(Aug+8,+2013).pdf?3</Link>
+</Resource>
+<Resource>
+<Modules>,10,1,</Modules>
+<Name>Department of Defense Instruction 1010.01 (Sept 13, 2012).</Name>
+<Details>"Military Personnel Drug Abuse Testing Program (MPDATP)."</Details>
+<Link>https://s3.amazonaws.com/dod-media/Documents/Department+of+Defense+Instruction+1010.01+(Sept+13,+2012).pdf?3</Link>
+</Resource>
+<Resource>
+<Modules>,10,1,</Modules>
+<Name>Department of Defense Instruction 6490.08 (Aug 17, 2011).</Name>
+<Details>"Command Notification Requirements to Dispel Stigma in Providing Mental Health Care to Service Members."</Details>
+<Link>https://s3.amazonaws.com/dod-media/Documents/Department+of+Defense+Instruction+6490.08+(Aug+17,+2011).pdf?3</Link>
+</Resource>
+</Category>
+<Category rail="3hour" type="subheading">
+<Heading>Air Force</Heading>
+<Resource>
+<Modules>,10,1,</Modules>
+<Name>Air Force Instruction 44-121 (8 July 2014).</Name>
+<Details>"Alcohol and Drug Abuse Prevention and Treatment (ADAPT) Program."</Details>
+<Link>https://s3.amazonaws.com/dod-media/Documents/Air+Force+Instruction+44-121+(8+July+2014).pdf?3</Link>
+</Resource>
+</Category>
+<Category rail="3hour" type="subheading">
+<Heading>Army</Heading>
+<Resource>
+<Modules>,10,1,</Modules>
+<Name>Army Regulation 600-85 (28 Dec 2012).</Name>
+<Details>"The Army Substance Abuse Program."</Details>
+<Link>https://s3.amazonaws.com/dod-media/Documents/Army+Regulation+600-85+(28+Dec+2012).pdf?3</Link>
+</Resource>
+</Category>
+<Category rail="3hour" type="subheading">
+<Heading>Navy</Heading>
+<Resource>
+<Modules>,10,1,</Modules>
+<Name>OPNAV Instruction 5350.4D (4 Jun 09).</Name>
+<Details>"Navy Alcohol and Drug Abuse Prevention and Control."</Details>
+<Link>https://s3.amazonaws.com/dod-media/Documents/OPNAV+Instruction+5350.4D+(4+Jun+09).pdf?3</Link>
+</Resource>
+</Category>
+<Category rail="3hour">
+<Heading>Bibliography</Heading>
+<Resource>
+<Modules>,</Modules>
+<Name>Bibliography</Name>
+<Details>Sources and Citations</Details>
+<Link>https://s3.amazonaws.com/dod-media/Documents/Bibliography+ASB3.pdf?3</Link>
+</Resource>
+</Category>
+</xml>

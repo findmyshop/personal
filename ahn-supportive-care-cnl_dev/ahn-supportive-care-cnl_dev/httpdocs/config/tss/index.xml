@@ -1,0 +1,2151 @@
+<xml>
+<Response id="HWelcomeBack">
+<ResponseID id="0">HWelcomeBack</ResponseID>
+<BaseQuestion id="0"></BaseQuestion>
+<Content id="0">
+Welcome back.  Please continue where you left off.
+</Content>
+</Response>
+<Response id="HIntroD001">
+<ResponseID id="0">HIntroD001</ResponseID>
+<BaseQuestion id="0"></BaseQuestion>
+<Content id="0">
+Welcome to the Targeted Selection interview simulation.  You will be asked to lead an interview with Pat.  I’ll tell you a little bit about Pat and the position he’s interviewing for in a moment, but first, let me explain how this program works.
+
+During this simulation, Pat will give you 6 STARS; some complete, and some not.   Your goal for the exercise is to get two relevant, complete STARs for each of the two targets, Planning and Organizing and Decision Making.  You should collect motivational fit information for each of the two targets as well.
+Remember to use your time wisely.  Don’t spend time gathering irrelevant or redundant information.
+
+After you type in a question for the candidate, he will respond to you, and I will also give you some feedback.  Then you will be asked to select what kind of question you want to ask next.  Your options are:
+
+&#8226; Ask a follow up question to complete the STAR
+&#8226; Ask a motivational fit question
+&#8226; Or, you can move on to another example
+
+Some tips for success:
+
+&#8226; You will be typing in what you would say to Pat directly, so there is no need to start your sentences off with “I would ask Pat” Or “I would tell Pat.”
+&#8226; Although building rapport and managing the interview are important skills, this simulation is only evaluating how well you ask behavioral questions and motivational fit questions, so you will only be typing in the questions that you would ask the candidate.
+&#8226; Enter focused questions, and only enter one statement at a time.  For example, don't try to ask questions such as "Did you do a lot of decision making and how did you feel about that level of responsibility?"
+
+Ok, now you’re ready to meet Pat. You are interviewing Pat for a management position with your company that requires excellent planning and organizing skills as well as good decision making practices.
+Download the interview guide from the Library at the top of this page and take some notes as you interview Pat. That’s a great way to keep track of the information Pat relates, and it’s good practice for conducting interviews in real life.
+
+Let’s get started gathering STARs for Planning and Organizing.
+
+Assume that you’ve opened the interview and completed the Key Background review. I’ll ask the first question; then, after you listen to Pat’s response, you can decide what you want to do next by making the appropriate selection.
+Ok, I’m going to start the interview by asking Pat a behavioral question on Planning and Organizing.
+
+Pat, please describe a time when you needed to complete several things at the same time and tell me what you did to get the work done.
+</Content>
+</Response>
+<Response id="PS1D001">
+<ResponseID id="0">PS1D001</ResponseID>
+<BaseQuestion id="0"></BaseQuestion>
+<Content id="0">
+Absolutely.  Eight years ago when I was in college I had a pretty heavy work load.   I was taking six different classes at the same time and I was involved in a lot of activities.   I was also working at the local coffee shop ten hours a week.  It was a pretty stressful time.
+</Content>
+</Response>
+<Response id="HS1D002">
+<ResponseID id="0">HS1D002</ResponseID>
+<BaseQuestion id="0"></BaseQuestion>
+<Content id="0">
+What do you want to do next?
+</Content>
+</Response>
+<Response id="HS1FW001">
+<ResponseID id="0">HS1FW001</ResponseID>
+<BaseQuestion id="0"></BaseQuestion>
+<Content id="0">
+Ok, you’ve decided to ask a follow-up question.  Type in the follow-up question you want to ask Pat.
+</Content>
+</Response>
+<Response id="HS1FWAAA">
+<ResponseID id="0">HS1FWAAA</ResponseID>
+<BaseQuestion id="0"></BaseQuestion>
+<Content id="0">
+You have already asked a follow up question for this STAR.  Please select another type of question to ask.
+</Content>
+</Response>
+<Response id="PS1FWWrong">
+<ResponseID id="0">PS1FWWrong</ResponseID>
+<BaseQuestion id="0"></BaseQuestion>
+<Content id="0">
+I was busy with fraternity, and student government and all those time commitments made me consider whether I should change my major or stay in college at all.  I went home and had a good conversation with my parents, and worked it through.  I decided to drop my job at the coffee shop and that really helped.  Sorry if I was rambling, I really couldn’t think of a good example.
+</Content>
+</Response>
+<Response id="HS1FWWrong">
+<ResponseID id="0">HS1FWWrong</ResponseID>
+<BaseQuestion id="0"></BaseQuestion>
+<Content id="0">
+You asked for information to complete the STAR, but you asked a question that didn't focus on the Planning and Organizing Key Actions.
+
+Also think about whether the information you’re learning about Pat’s college experience is relevant to the position you’re interviewing him for.  Perhaps he has another example that is more relevant.
+
+Listen to how Pat responds when asked the follow-up question “How did you prioritize all of your tasks?”
+
+I learned to make a schedule for myself and to prioritize my activities.  Obviously, my classes came first, and my job because they were counting on me.  And, I had to learn to say no to some of the extra-curricular activities so that I didn’t take on too much.  I ended up asking for help with some of the fraternity activities I was helping to plan as well.
+</Content>
+</Response>
+<Response id="PS1FWModel">
+<ResponseID id="0">PS1FWModel</ResponseID>
+<BaseQuestion id="0"></BaseQuestion>
+<Content id="0">
+I learned to make a schedule for myself and to prioritize my activities.  Obviously my classes came first, and my job because they were counting on me.  And, I had to learn to say no to some of the extra-curricular activities so that I didn’t take on too much.  I ended up asking for help with some of the fraternity activities I was helping to plan as well.
+</Content>
+</Response>
+<Response id="HS1FWModel">
+<ResponseID id="0">HS1FWModel</ResponseID>
+<BaseQuestion id="0"></BaseQuestion>
+<Content id="0">
+You’ve asked a good follow up question.  However, think about whether the information you’re learning about Pat’s college experience is relevant to the position you’re interviewing him for now.
+
+Perhaps there’s a more relevant example that is pertinent to the job you’re interviewing him for.
+</Content>
+</Response>
+<Response id="PS1FWTheo">
+<ResponseID id="0">PS1FWTheo</ResponseID>
+<BaseQuestion id="0"></BaseQuestion>
+<Content id="0">
+I would review my work schedule for the week and do some planning at the beginning of the week.  Then I would also do a daily review of my schedule and adjust my work on a daily basis.
+</Content>
+</Response>
+<Response id="HS1FWTheo">
+<ResponseID id="0">HS1FWTheo</ResponseID>
+<BaseQuestion id="0"></BaseQuestion>
+<Content id="0">
+Remember, when you’re asking a behavioral question, try not to use the words “would” or “could”.  These words prompt theoretical responses in which the candidate tells you what they “would” do in a situation rather than what they have done in the past.
+
+Also, keep in mind that the information you’re getting is from Pat's experience in college, 8 years ago.
+
+Remember that you need two relevant STARs for each target to complete your part of the interview.
+
+Before deciding what to do next, watch Pat’s response when asked the follow-up question "How did you prioritize all of your tasks?”
+
+I learned to make a schedule for myself and to prioritize my activities.  Obviously, my classes came first, and my job because they were counting on me.  And, I had to learn to say no to some of the extra-curricular activities so that I didn’t take on too much.  I ended up asking for help with some of the fraternity activities I was helping to plan as well.
+</Content>
+</Response>
+<Response id="PS1FWLeading">
+<ResponseID id="0">PS1FWLeading</ResponseID>
+<BaseQuestion id="0"></BaseQuestion>
+<Content id="0">
+Yes, I am.  I do that all the time.
+</Content>
+</Response>
+<Response id="HS1FWLeading">
+<ResponseID id="0">HS1FWLeading</ResponseID>
+<BaseQuestion id="0"></BaseQuestion>
+<Content id="0">
+You’re looking for actual past performance, so try not to ask questions that suggest the answer you're looking for.  Good follow-up questions get the candidate to tell you about specific situations where they have used the skills you're interviewing for.
+
+Also, keep in mind that the information Pat has related is from 8 years ago, and is not really relevant to the job you're interviewing him for.
+
+Remember, you need two relevant STARs for each target to complete your part of the interview.
+
+Before moving on, watch Pat’s response to the follow up question “How did you prioritize all of your tasks?”
+
+I learned to make a schedule for myself and to prioritize my activities.  Obviously, my classes came first, and my job because they were counting on me.  And, I had to learn to say no to some of the extra-curricular activities so that I didn’t take on too much.  I ended up asking for help with some of the fraternity activities I was helping to plan as well.
+</Content>
+</Response>
+<Response id="HS1MF001">
+<ResponseID id="0">HS1MF001</ResponseID>
+<BaseQuestion id="0"></BaseQuestion>
+<Content id="0">
+You’ve said that you would ask a question to determine motivational fit.  Type in your question for Pat.
+</Content>
+</Response>
+<Response id="HS1MFAAA">
+<ResponseID id="0">HS1MFAAA</ResponseID>
+<BaseQuestion id="0"></BaseQuestion>
+<Content id="0">
+You have already asked a motivational fit question for this STAR.  Please select another type of question to ask.
+</Content>
+</Response>
+<Response id="PS1MFModel">
+<ResponseID id="0">PS1MFModel</ResponseID>
+<BaseQuestion id="0"></BaseQuestion>
+<Content id="0">
+I really liked that I was challenged. It focused me on what needed to be done and helped me organize my work. I learned a lot from that.
+</Content>
+</Response>
+<Response id="HS1MFModel">
+<ResponseID id="0">HS1MFModel</ResponseID>
+<BaseQuestion id="0"></BaseQuestion>
+<Content id="0">
+Great job.   You’ve collected some valuable motivational fit information.
+</Content>
+</Response>
+<Response id="PS1MFVague">
+<ResponseID id="0">PS1MFVague</ResponseID>
+<BaseQuestion id="0"></BaseQuestion>
+<Content id="0">
+What part of my work do you mean, exactly?
+</Content>
+</Response>
+<Response id="HS1MFVague">
+<ResponseID id="0">HS1MFVague</ResponseID>
+<BaseQuestion id="0"></BaseQuestion>
+<Content id="0">
+Motivational fit questions should prompt the candidate to give you more information about the specific aspects of their work that they like or dislike.
+
+Also, consider whether the information you’re getting is relevant to the job you’re interviewing Pat for.  Perhaps he has a more relevant example that he can share.
+
+Before you decide what to do next, listen to how Pat responds when asked a specific question such as "How did you feel about the amount of stress you were under?"
+
+I really liked that I was challenged.  It focused me on what needed to be done and helped me organize my work.  I learned a lot from that.
+</Content>
+</Response>
+<Response id="PS1MFLeading">
+<ResponseID id="0">PS1MFLeading</ResponseID>
+<BaseQuestion id="0"></BaseQuestion>
+<Content id="0">
+Yes, as I said, I do this all the time.
+</Content>
+</Response>
+<Response id="HS1MFLeading">
+<ResponseID id="0">HS1MFLeading</ResponseID>
+<BaseQuestion id="0"></BaseQuestion>
+<Content id="0">
+Motivational fit questions should prompt the candidate to give you information about the specific aspects of their work that they like or dislike.
+
+Also, consider whether the information you’re getting is relevant to the job you’re interviewing Pat for.  Perhaps he has a more applicable example to share.
+
+Listen to how Pat responds when asked a specific question such as "How did you feel about the amount of stress you were under?"
+
+I really liked that I was challenged.  It focused me on what needed to be done and helped me organize my work.  I learned a lot from that.
+</Content>
+</Response>
+<Response id="PS1Null">
+<ResponseID id="0">PS1Null</ResponseID>
+<BaseQuestion id="0"></BaseQuestion>
+<Content id="0">
+I’m not sure why you’re asking me that question.
+</Content>
+</Response>
+<Response id="HS1Null">
+<ResponseID id="0">HS1Null</ResponseID>
+<BaseQuestion id="0"></BaseQuestion>
+<Content id="0">
+You don’t want to waste everyone’s time by asking irrelevant questions.  Let’s move on.
+</Content>
+</Response>
+<Response id="PS1Shame">
+<ResponseID id="0">PS1Shame</ResponseID>
+<BaseQuestion id="0"></BaseQuestion>
+<Content id="0">
+I don’t even know how to respond to that.
+</Content>
+</Response>
+<Response id="HS1Shame">
+<ResponseID id="0">HS1Shame</ResponseID>
+<BaseQuestion id="0"></BaseQuestion>
+<Content id="0">
+Seriously, will you grow up already?  Let’s try this again, minus the smart mouth this time.
+</Content>
+</Response>
+<Response id="PS1Illegal">
+<ResponseID id="0">PS1Illegal</ResponseID>
+<BaseQuestion id="0"></BaseQuestion>
+<Content id="0">
+I’d rather focus on my qualifications for the job, if you don’t mind.
+</Content>
+</Response>
+<Response id="HS1Illegal">
+<ResponseID id="0">HS1Illegal</ResponseID>
+<BaseQuestion id="0"></BaseQuestion>
+<Content id="0">
+Pat is right, that question was off base.  Beware of questions that touch on potentially personal issues such as the candidate's home life, marital status, or ethnicity.  These may be illegal questions.  Only questions that pertain to the candidate’s qualifications for the job are appropriate.
+</Content>
+</Response>
+<Response id="PS1Brain">
+<ResponseID id="0">PS1Brain</ResponseID>
+<BaseQuestion id="0"></BaseQuestion>
+<Content id="0">
+That’s an interesting question.  Do you know the answer?
+</Content>
+</Response>
+<Response id="HS1Brain">
+<ResponseID id="0">HS1Brain</ResponseID>
+<BaseQuestion id="0"></BaseQuestion>
+<Content id="0">
+Research has shown that questions like that are not predictive of on-the-job performance.
+
+In some situations, like when you’re evaluating for specific skills, these types of questions might be appropriate.
+
+However, in this simulation we are only evaluating behavioral interviewing skills.
+</Content>
+</Response>
+<Response id="PS1Impolite">
+<ResponseID id="0">PS1Impolite</ResponseID>
+<BaseQuestion id="0"></BaseQuestion>
+<Content id="0">
+Oh, of course.  I'm sorry.  Can you repeat the question?
+</Content>
+</Response>
+<Response id="HS1Impolite">
+<ResponseID id="0">HS1Impolite</ResponseID>
+<BaseQuestion id="0"></BaseQuestion>
+<Content id="0">
+Your questions should always be neutral in tone.  That type of statement or question can cause the candidate to feel uncomfortable.
+
+Listen to how Pat responds to a follow-up question about what actions he took; for example, “How did you prioritize all of your tasks?”
+</Content>
+</Response>
+<Response id="HS2D001">
+<ResponseID id="0">HS2D001</ResponseID>
+<BaseQuestion id="0"></BaseQuestion>
+<Content id="0">
+You’ve said that you want to ask Pat for a different example of planning and organizing.  What will you ask Pat?
+</Content>
+</Response>
+<Response id="PS2BQTheo">
+<ResponseID id="0">PS2BQTheo</ResponseID>
+<BaseQuestion id="0"></BaseQuestion>
+<Content id="0">
+I would review my work schedule for the week and do some planning at the beginning of the week.  Then I would also do a daily review of my schedule and adjust my work on a daily basis.
+</Content>
+</Response>
+<Response id="HS2BQTheo1">
+<ResponseID id="0">HS2BQTheo1</ResponseID>
+<BaseQuestion id="0"></BaseQuestion>
+<Content id="0">
+Remember, when you’re asking a behavioral question, try not to use words like “would” or “could.” These words prompt theoretical STARs in which the candidate tells you what they “would” do in a situation rather than what they have done in the past.
+
+Try asking your question again.
+</Content>
+</Response>
+<Response id="HS2BQTheo2">
+<ResponseID id="0">HS2BQTheo2</ResponseID>
+<BaseQuestion id="0"></BaseQuestion>
+<Content id="0">
+Remember, when you’re asking a behavioral question, try not to use words like “would” or “could.”  These words prompt theoretical STARs in which the candidate tells you what they “would” do in a situation rather than what they have done in the past.
+
+Instead, you might ask something like “Can you give me a more recent example of a time when you had to plan a project?”
+
+Before deciding what to do next, listen to Pat's response to this question.
+
+Sure.  Well, I had 7 different projects that were all due during the past week.  I was on schedule on 5 of them.  But needed extra time for the other two projects.  So I worked with my manager to prioritize each project and create a schedule to complete them.  I also asked my manager for assistance from other people on the team to help with the projects that were behind schedule.
+</Content>
+</Response>
+<Response id="PS2BQLeading">
+<ResponseID id="0">PS2BQLeading</ResponseID>
+<BaseQuestion id="0"></BaseQuestion>
+<Content id="0">
+Yes, I am.  I do that all the time.
+</Content>
+</Response>
+<Response id="HS2BQLeading1">
+<ResponseID id="0">HS2BQLeading1</ResponseID>
+<BaseQuestion id="0"></BaseQuestion>
+<Content id="0">
+You’re looking for actual past performance, so try not to ask questions that lead the candidate to give you a specific answer.
+
+Try again to ask a question that gets Pat to tell you about a situation where he used planning and organizing skills.
+</Content>
+</Response>
+<Response id="HS2BQLeading2">
+<ResponseID id="0">HS2BQLeading2</ResponseID>
+<BaseQuestion id="0"></BaseQuestion>
+<Content id="0">
+You’re looking for actual past performance, so try not to ask questions that lead the candidate to give you a specific answer.
+
+Ask questions that get the candidate to tell you about situations where they used planning and organizing skills.
+
+For example, you might ask something like “Can you give me a more recent example of a time when you had to plan a project?”
+
+Before you decide what to do next, listen to Pat's response to this question.
+
+Sure.  Well, I had 7 different projects that were all due during the past week.  I was on schedule on 5 of them.  But needed extra time for the other two projects.  So I worked with my manager to prioritize each project and create a schedule to complete them.  I also asked my manager for assistance from other people on the team to help with the projects that were behind schedule.
+</Content>
+</Response>
+<Response id="PS2BQModel">
+<ResponseID id="0">PS2BQModel</ResponseID>
+<BaseQuestion id="0"></BaseQuestion>
+<Content id="0">
+Sure.  Well, I had 7 different projects that were all due during the past week.  I was on schedule on 5 of them.  But needed extra time for the other two projects.  So I worked with my manager to prioritize each project and create a schedule to complete them.  I also asked my manager for assistance from other people on the team to help with the projects that were behind schedule.
+</Content>
+</Response>
+<Response id="HS2BQModel">
+<ResponseID id="0">HS2BQModel</ResponseID>
+<BaseQuestion id="0"></BaseQuestion>
+<Content id="0">
+You’ve asked a question to prompt Pat for a more recent example and he has responded. Think about what information you learned from his response and how it fits into the STAR format.
+</Content>
+</Response>
+<Response id="HS2D002">
+<ResponseID id="0">HS2D002</ResponseID>
+<BaseQuestion id="0"></BaseQuestion>
+<Content id="0">
+What do you want to ask next?
+</Content>
+</Response>
+<Response id="HS2FW001">
+<ResponseID id="0">HS2FW001</ResponseID>
+<BaseQuestion id="0"></BaseQuestion>
+<Content id="0">
+OK, you’ve decided to ask a follow up question. Type in the question you want to ask Pat.
+</Content>
+</Response>
+<Response id="HS2FWAAA">
+<ResponseID id="0">HS2FWAAA</ResponseID>
+<BaseQuestion id="0"></BaseQuestion>
+<Content id="0">
+You have already asked a follow up question for this STAR.  Please select another type of question to ask.
+</Content>
+</Response>
+<Response id="PS2FWModel">
+<ResponseID id="0">PS2FWModel</ResponseID>
+<BaseQuestion id="0"></BaseQuestion>
+<Content id="0">
+Things worked out very well.  I was able to get the support I needed from the team and I ended up completing all 7 projects on time.  My boss even told me how pleased she was with the work when I saw her on Monday.
+</Content>
+</Response>
+<Response id="HS2FWModel">
+<ResponseID id="0">HS2FWModel</ResponseID>
+<BaseQuestion id="0"></BaseQuestion>
+<Content id="0">
+You asked a behavioral follow-up question to get a specific example. Good job!
+</Content>
+</Response>
+<Response id="PS2FWWrong">
+<ResponseID id="0">PS2FWWrong</ResponseID>
+<BaseQuestion id="0"></BaseQuestion>
+<Content id="0">
+I’m not sure I know what you mean.  Are you asking me what the result was?
+</Content>
+</Response>
+<Response id="HS2FWWrong1">
+<ResponseID id="0">HS2FWWrong1</ResponseID>
+<BaseQuestion id="0"></BaseQuestion>
+<Content id="0">
+You asked a follow up question, but you already had that information. What you really needed to know was how Pat’s project planning worked out.   Try asking your follow up question again.
+</Content>
+</Response>
+<Response id="HS2FWWrong2">
+<ResponseID id="0">HS2FWWrong2</ResponseID>
+<BaseQuestion id="0"></BaseQuestion>
+<Content id="0">
+You asked a follow up question, but you already had that information. What you really needed to know was how well Pat’s project planning worked out.
+
+Before moving on to what you want to do next, listen to how Pat responds when asked “So how did things turn out last week?”
+
+Things worked out very well.  I was able to get the support I needed from the team and I ended up completing all 7 projects on time.  My boss even told me how pleased she was with the work when I saw her on Monday.
+</Content>
+</Response>
+<Response id="PS2FWTheo">
+<ResponseID id="0">PS2FWTheo</ResponseID>
+<BaseQuestion id="0"></BaseQuestion>
+<Content id="0">
+I would do it differently if I had to do it again.
+</Content>
+</Response>
+<Response id="HS2FWTheo1">
+<ResponseID id="0">HS2FWTheo1</ResponseID>
+<BaseQuestion id="0"></BaseQuestion>
+<Content id="0">
+Keep your questions focused on what the candidate did in the specific situation described to you.  This will give you good information on how well Pat’s planning and organizing techniques paid off.
+
+Try asking your follow-up question again.
+</Content>
+</Response>
+<Response id="HS2FWTheo2">
+<ResponseID id="0">HS2FWTheo2</ResponseID>
+<BaseQuestion id="0"></BaseQuestion>
+<Content id="0">
+Keep your questions focused on what the candidate did in the specific situation described to you.  This will give you good information on how well Pat’s planning and organizing techniques paid off.
+
+A more focused question might be “So how did things turn out last week?”
+
+Now, decide what you’re going to ask next after listening to how Pat responds when asked this question.
+
+Things worked out very well.  I was able to get the support I needed from the team and I ended up completing all 7 projects on time.  My boss even told me how pleased she was with the work when I saw her on Monday.
+</Content>
+</Response>
+<Response id="PS2FWLeading">
+<ResponseID id="0">PS2FWLeading</ResponseID>
+<BaseQuestion id="0"></BaseQuestion>
+<Content id="0">
+Yes, I did.
+</Content>
+</Response>
+<Response id="HS2FWLeading1">
+<ResponseID id="0">HS2FWLeading1</ResponseID>
+<BaseQuestion id="0"></BaseQuestion>
+<Content id="0">
+Follow-up questions should prompt the candidate to tell you more about what really happened, rather than just agreeing with your assumption.  Try asking a follow-up question again.
+</Content>
+</Response>
+<Response id="HS2FWLeading2">
+<ResponseID id="0">HS2FWLeading2</ResponseID>
+<BaseQuestion id="0"></BaseQuestion>
+<Content id="0">
+Follow-up questions should prompt the candidate to tell you more about what really happened, rather than just agreeing with your assumption.
+
+For example, you might ask something like “So how did things turn out last week?"
+
+Before moving on to what you want to do next, listen to how Pat responds when asked this question.
+
+Things worked out very well.  I was able to get the support I needed from the team and I ended up completing all 7 projects on time.  My boss even told me how pleased she was with the work when I saw her on Monday.
+</Content>
+</Response>
+<Response id="HS2MF001">
+<ResponseID id="0">HS2MF001</ResponseID>
+<BaseQuestion id="0"></BaseQuestion>
+<Content id="0">
+You’ve decided to ask a question about Pat’s motivational fit for this position.  Type in your question for Pat.
+</Content>
+</Response>
+<Response id="HS2MFAAA">
+<ResponseID id="0">HS2MFAAA</ResponseID>
+<BaseQuestion id="0"></BaseQuestion>
+<Content id="0">
+You have already asked a motivational fit question for this STAR.  Please select another type of question to ask.
+</Content>
+</Response>
+<Response id="PS2MFModel">
+<ResponseID id="0">PS2MFModel</ResponseID>
+<BaseQuestion id="0"></BaseQuestion>
+<Content id="0">
+I enjoyed coming up with a plan to get my work done.
+</Content>
+</Response>
+<Response id="HS2MFModel">
+<ResponseID id="0">HS2MFModel</ResponseID>
+<BaseQuestion id="0"></BaseQuestion>
+<Content id="0">
+Excellent, You’ve asked a question that will help you to evaluate Pat’s motivational fit.
+</Content>
+</Response>
+<Response id="PS2MFVague">
+<ResponseID id="0">PS2MFVague</ResponseID>
+<BaseQuestion id="0"></BaseQuestion>
+<Content id="0">
+I like my work very much.
+</Content>
+</Response>
+<Response id="HS2MFVague1">
+<ResponseID id="0">HS2MFVague1</ResponseID>
+<BaseQuestion id="0"></BaseQuestion>
+<Content id="0">
+Try asking your motivational fit question again, but this time, keep your question specific to the particular aspect of Pat’s experience that you’re interested in.
+</Content>
+</Response>
+<Response id="HS2MFVague2">
+<ResponseID id="0">HS2MFVague2</ResponseID>
+<BaseQuestion id="0"></BaseQuestion>
+<Content id="0">
+Keep your questions specific to the particular aspect of Pat’s experience that you’re interested in.
+
+For instance, if you’re interested in how Pat handles having many projects due at once you might ask, “What did you like or dislike about having all of those deadlines during one week?”
+
+Now listen to how Pat responds to this question before you move on.
+
+I enjoyed coming up with a plan to get my work done.
+</Content>
+</Response>
+<Response id="PS2MFLeading">
+<ResponseID id="0">PS2MFLeading</ResponseID>
+<BaseQuestion id="0"></BaseQuestion>
+<Content id="0">
+That's correct.
+</Content>
+</Response>
+<Response id="HS2MFLeading1">
+<ResponseID id="0">HS2MFLeading1</ResponseID>
+<BaseQuestion id="0"></BaseQuestion>
+<Content id="0">
+Leading questions don’t elicit much of a response; instead, you want to invite the candidate to tell you more about how they felt.
+
+Try again to ask a motivational fit question.
+</Content>
+</Response>
+<Response id="HS2MFLeading2">
+<ResponseID id="0">HS2MFLeading2</ResponseID>
+<BaseQuestion id="0"></BaseQuestion>
+<Content id="0">
+Leading questions don’t elicit much of a response; instead, you want to invite the candidate to tell you more about how they felt.
+
+For example, you might ask a more open question like “What did you like or dislike about having all of those deadlines during one week?”
+
+Before deciding your next course of action, listen to how Pat reacts when asked this question.
+
+I enjoyed coming up with a plan to get my work done.
+</Content>
+</Response>
+<Response id="PS2Shame">
+<ResponseID id="0">PS2Shame</ResponseID>
+<BaseQuestion id="0"></BaseQuestion>
+<Content id="0">
+Unless you’re interviewing for the Howard Stern show, I don’t think that’s appropriate.
+</Content>
+</Response>
+<Response id="HS2Shame">
+<ResponseID id="0">HS2Shame</ResponseID>
+<BaseQuestion id="0"></BaseQuestion>
+<Content id="0">
+While we appreciate your humor, the FCC has just fined us 10 million dollars.
+</Content>
+</Response>
+<Response id="PS2Illegal">
+<ResponseID id="0">PS2Illegal</ResponseID>
+<BaseQuestion id="0"></BaseQuestion>
+<Content id="0">
+I’d rather focus on my qualifications for the job, if you don’t mind.
+</Content>
+</Response>
+<Response id="HS2Illegal">
+<ResponseID id="0">HS2Illegal</ResponseID>
+<BaseQuestion id="0"></BaseQuestion>
+<Content id="0">
+Pat is right, that question was off base.  Beware of questions that touch on potentially personal issues such as the candidate's home life, marital status, or ethnicity.  These may be illegal questions.  Only questions that pertain to the candidate’s qualifications for the job are appropriate.
+</Content>
+</Response>
+<Response id="PS2Brain">
+<ResponseID id="0">PS2Brain</ResponseID>
+<BaseQuestion id="0"></BaseQuestion>
+<Content id="0">
+That’s an interesting question.  Do you know the answer?
+</Content>
+</Response>
+<Response id="HS2Brain">
+<ResponseID id="0">HS2Brain</ResponseID>
+<BaseQuestion id="0"></BaseQuestion>
+<Content id="0">
+Research has shown that questions like that are not predictive of on-the-job performance.
+
+In some situations, like when you’re evaluating for specific skills, these types of questions might be appropriate.
+
+However, in this simulation we are only evaluating behavioral interviewing skills.
+</Content>
+</Response>
+<Response id="PS2Null">
+<ResponseID id="0">PS2Null</ResponseID>
+<BaseQuestion id="0"></BaseQuestion>
+<Content id="0">
+What does that have to do with this job?
+</Content>
+</Response>
+<Response id="HS2Null">
+<ResponseID id="0">HS2Null</ResponseID>
+<BaseQuestion id="0"></BaseQuestion>
+<Content id="0">
+You don’t want to waste everyone’s time by asking irrelevant questions.  Let’s move on.
+</Content>
+</Response>
+<Response id="PS2Impolite">
+<ResponseID id="0">PS2Impolite</ResponseID>
+<BaseQuestion id="0"></BaseQuestion>
+<Content id="0">
+Oh, I'm sure you're right.
+</Content>
+</Response>
+<Response id="HS2Impolite">
+<ResponseID id="0">HS2Impolite</ResponseID>
+<BaseQuestion id="0"></BaseQuestion>
+<Content id="0">
+Questions like that will prevent you from getting a full picture of the candidate because he will not feel comfortable sharing information with you.
+
+Try asking your question again.
+</Content>
+</Response>
+<Response id="HS3D001">
+<ResponseID id="0">HS3D001</ResponseID>
+<BaseQuestion id="0"></BaseQuestion>
+<Content id="0">
+You want to ask Pat for a different example of planning and organizing.  What question will you ask Pat?
+</Content>
+</Response>
+<Response id="PS3BQTheo">
+<ResponseID id="0">PS3BQTheo</ResponseID>
+<BaseQuestion id="0"></BaseQuestion>
+<Content id="0">
+I would review my work schedule for the week and do some planning at the beginning of the week.  I would also do a daily review of my schedule and adjust my work accordingly.
+</Content>
+</Response>
+<Response id="HS3BQTheo1">
+<ResponseID id="0">HS3BQTheo1</ResponseID>
+<BaseQuestion id="0"></BaseQuestion>
+<Content id="0">
+Remember, when you’re asking a behavioral question, try not to use words like “would”, or “could.”  These words prompt theoretical STARs in which the candidate tells you what they “would” do in a situation rather than what they have done in the past.
+
+Try asking your question again.
+</Content>
+</Response>
+<Response id="HS3BQTheo2">
+<ResponseID id="0">HS3BQTheo2</ResponseID>
+<BaseQuestion id="0"></BaseQuestion>
+<Content id="0">
+Remember, when you’re asking a behavioral question, try not to use words like “would”, or “could.”  These words prompt theoretical STARs in which the candidate tells you what they “would” do in a situation rather than what they have done in the past.
+
+Before selecting what to do next listen to the example Pat gives after being asked the question “Can you tell me about a time when you helped your team get organized?”
+
+Let’s see, about 6 months ago, I thought that our team wasn’t keeping each other aware of the different projects we were working on.  So I set up an online document sharing site and a process to share our project plans and to track our progress.
+
+I presented the idea to my supervisor and she really liked it.  So I shared information about the new process at our team meeting and helped everybody load the appropriate documents onto the online site.  And I helped people as they worked in the site with questions that they had about the process.
+
+After about 2 or 3 weeks everyone had learned the new process and was using it.  I received several compliments from my team members saying how much the new site and process really helped them.
+</Content>
+</Response>
+<Response id="PS3BQLeading">
+<ResponseID id="0">PS3BQLeading</ResponseID>
+<BaseQuestion id="0"></BaseQuestion>
+<Content id="0">
+Yes, I am.  I do that all the time.
+</Content>
+</Response>
+<Response id="HS3BQLeading1">
+<ResponseID id="0">HS3BQLeading1</ResponseID>
+<BaseQuestion id="0"></BaseQuestion>
+<Content id="0">
+You’re looking for actual past performance, so try not to ask questions that lead the candidate to give you a specific answer.
+
+Ask questions that get the candidate to tell you about situations where they used planning and organizing skills.
+
+Try asking your question again.
+</Content>
+</Response>
+<Response id="HS3BQLeading2">
+<ResponseID id="0">HS3BQLeading2</ResponseID>
+<BaseQuestion id="0"></BaseQuestion>
+<Content id="0">
+You’re looking for actual past performance, so try not to ask questions that lead the candidate to give you a specific answer.
+
+Ask questions that get the candidate to tell you about situations where they used planning and organizing skills.
+
+Before selecting what to do next, listen to the example Pat relates when asked the question “Can you tell me about a time when you helped your team get organized?”
+
+Let’s see, about 6 months ago, I thought that our team wasn’t keeping each other aware of the different projects we were working on.  So I set up an online document sharing site and a process to share our project plans and to track our progress.
+
+I presented the idea to my supervisor and she really liked it.  So I shared information about the new process at our team meeting and helped everybody load the appropriate documents onto the online site.  And I helped people as they worked in the site with questions that they had about the process.
+
+After about 2 or 3 weeks everyone had learned the new process and was using it.  I received several compliments from my team members saying how much the new site and process really helped them.
+</Content>
+</Response>
+<Response id="PS3BQModel">
+<ResponseID id="0">PS3BQModel</ResponseID>
+<BaseQuestion id="0"></BaseQuestion>
+<Content id="0">
+Let’s see, about 6 months ago, I thought that our team wasn’t keeping each other aware of the different projects we were working on.  So I set up an online document sharing site and a process to share our project plans and to track our progress.
+
+I presented the idea to my supervisor and she really liked it.  So I shared information about the new process at our team meeting and helped everybody load the appropriate documents onto the online site.  And I helped people as they worked in the site with questions that they had about the process.
+
+After about 2 or 3 weeks everyone had learned the new process and was using it.  I received several compliments from my team members saying how much the new site and process really helped them.
+</Content>
+</Response>
+<Response id="HS3BQModel">
+<ResponseID id="0">HS3BQModel</ResponseID>
+<BaseQuestion id="0"></BaseQuestion>
+<Content id="0">
+Excellent question that prompted Pat to give you the beginnings of a good STAR.
+</Content>
+</Response>
+<Response id="HS3D002">
+<ResponseID id="0">HS3D002</ResponseID>
+<BaseQuestion id="0"></BaseQuestion>
+<Content id="0">
+What do you want to do next?
+</Content>
+</Response>
+<Response id="HS3FW001">
+<ResponseID id="0">HS3FW001</ResponseID>
+<BaseQuestion id="0"></BaseQuestion>
+<Content id="0">
+Ok, you've decided to ask a follow up question.  Type in the question that you want to ask Pat.
+</Content>
+</Response>
+<Response id="HS3FWAAA">
+<ResponseID id="0">HS3FWAAA</ResponseID>
+<BaseQuestion id="0"></BaseQuestion>
+<Content id="0">
+You have already asked a follow up question for this STAR.  Please select another type of question to ask.
+</Content>
+</Response>
+<Response id="PS3FWModel">
+<ResponseID id="0">PS3FWModel</ResponseID>
+<BaseQuestion id="0"></BaseQuestion>
+<Content id="0">
+I was the one who actually set up the document sharing site.  Nobody else helped me with that.  I built the draft process and reviewed it with the team.  Nobody had any revisions to the process.  Within the first week it was operational and we’ve been using it ever since.
+</Content>
+</Response>
+<Response id="HS3FWModel">
+<ResponseID id="0">HS3FWModel</ResponseID>
+<BaseQuestion id="0"></BaseQuestion>
+<Content id="0">
+You asked a behavioral question to find out more about Pat’s document sharing site and that’s great, but are you certain you needed to ask a follow up question at all?
+
+Pat related the situation and task, the actions he took and the result of his actions, so that counts as a complete STAR.
+
+As you move through the rest of the interview, pay close attention to exactly what information you’re getting from Pat so that you don’t waste time asking for information you already have.
+
+Decide what you'll do next to collect the information you need on this target.
+</Content>
+</Response>
+<Response id="PS3FWTheo">
+<ResponseID id="0">PS3FWTheo</ResponseID>
+<BaseQuestion id="0"></BaseQuestion>
+<Content id="0">
+I would probably have gotten more input from my team members.
+</Content>
+</Response>
+<Response id="HS3FWTheo1">
+<ResponseID id="0">HS3FWTheo1</ResponseID>
+<BaseQuestion id="0"></BaseQuestion>
+<Content id="0">
+Asking a follow up question that contains the words “would”, “should” or “could” prompts theoretical answers that do not focus on actual past behaviors.
+
+Also, when you’re listening to Pat’s STARs, note which parts of the STAR you’re hearing so that you don’t ask for information you already have.
+
+Try asking another follow up question.
+</Content>
+</Response>
+<Response id="HS3FWTheo2">
+<ResponseID id="0">HS3FWTheo2</ResponseID>
+<BaseQuestion id="0"></BaseQuestion>
+<Content id="0">
+Asking a follow up question that contains the words “would”, “should” or “could” prompts theoretical answers that do not focus on actual past behaviors.
+
+Also, when you’re listening to Pat’s STARs, note which parts of the STAR you’re hearing so that you don’t ask for information you already have.
+
+Before moving on to the next step, listen to Pat's response when asked the question “So how did you go about setting up the document sharing site?”
+
+I was the one who actually set up the document sharing site.  Nobody else helped me with that.  I built the draft process and reviewed it with the team.  Nobody had any revisions to the process.  Within the first week it was operational and we’ve been using it ever since.
+</Content>
+</Response>
+<Response id="PS3FWLeading">
+<ResponseID id="0">PS3FWLeading</ResponseID>
+<BaseQuestion id="0"></BaseQuestion>
+<Content id="0">
+Yes, as I said, it only took a few weeks for everyone on the team to adopt the site and my boss was pleased.
+</Content>
+</Response>
+<Response id="HS3FWLeading1">
+<ResponseID id="0">HS3FWLeading1</ResponseID>
+<BaseQuestion id="0"></BaseQuestion>
+<Content id="0">
+You asked for more information about the document sharing site, but your question did not elicit much information.
+
+Leading questions can cause the candidate to modify their answers in order to meet what they hear as your expectations.
+
+Also, as you move through the rest of the interview, pay close attention to exactly what information you’re getting from Pat, so that you don’t waste time asking for information you already have.  But first, try asking your follow-up question differently.
+</Content>
+</Response>
+<Response id="HS3FWLeading2">
+<ResponseID id="0">HS3FWLeading2</ResponseID>
+<BaseQuestion id="0"></BaseQuestion>
+<Content id="0">
+You asked for more information about the document sharing site, but your question did not elicit much information.
+
+Leading questions can cause the candidate to modify their answers in order to meet what they hear as your expectations.
+
+Also, as you move through the rest of the interview, pay close attention to exactly what information you’re getting from Pat, so that you don’t waste time asking for information you already have.
+
+Now, listen to Pat respond to a follow up question like “So how did you go about setting up the document sharing site?”
+
+I was the one who actually set up the document sharing site.  Nobody else helped me with that.  I built the draft process and reviewed it with the team.  Nobody had any revisions to the process.  Within the first week it was operational and we’ve been using it ever since.
+</Content>
+</Response>
+<Response id="HS3MF001">
+<ResponseID id="0">HS3MF001</ResponseID>
+<BaseQuestion id="0"></BaseQuestion>
+<Content id="0">
+You’re going to ask a question about motivational fit.  What question can you ask Pat to determine what he enjoyed about creating a successful document sharing site?
+</Content>
+</Response>
+<Response id="HS3MFAAA">
+<ResponseID id="0">HS3MFAAA</ResponseID>
+<BaseQuestion id="0"></BaseQuestion>
+<Content id="0">
+You have already asked a motivational fit question for this STAR.  Please select another type of question to ask.
+</Content>
+</Response>
+<Response id="PS3MFModel">
+<ResponseID id="0">PS3MFModel</ResponseID>
+<BaseQuestion id="0"></BaseQuestion>
+<Content id="0">
+I liked helping others learn new things.
+</Content>
+</Response>
+<Response id="HS3MFModel">
+<ResponseID id="0">HS3MFModel</ResponseID>
+<BaseQuestion id="0"></BaseQuestion>
+<Content id="0">
+That was a great motivational fit question.
+</Content>
+</Response>
+<Response id="PS3MFVague">
+<ResponseID id="0">PS3MFVague</ResponseID>
+<BaseQuestion id="0"></BaseQuestion>
+<Content id="0">
+Of course, I was pleased and glad that I was able to help the team.
+</Content>
+</Response>
+<Response id="HS3MFVague1">
+<ResponseID id="0">HS3MFVague1</ResponseID>
+<BaseQuestion id="0"></BaseQuestion>
+<Content id="0">
+You’ll get more relevant information if you ask specific questions. In this instance, you want to find out if Pat is a good motivational fit for a job that requires managing a team that deals with a lot of documentation.
+
+Try asking your motivational fit question differently.
+</Content>
+</Response>
+<Response id="HS3MFVague2">
+<ResponseID id="0">HS3MFVague2</ResponseID>
+<BaseQuestion id="0"></BaseQuestion>
+<Content id="0">
+You’ll get more relevant information if you ask specific questions.  In this instance, you want to find out if Pat is a good motivational fit for a job that requires managing a team that deals with a lot of documentation.
+
+Before you move on, listen to Pat’s response when asked “How did you feel about setting up the site and helping your team learn to use it?”
+
+I liked helping others learn new things.
+</Content>
+</Response>
+<Response id="PS3MFLeading">
+<ResponseID id="0">PS3MFLeading</ResponseID>
+<BaseQuestion id="0"></BaseQuestion>
+<Content id="0">
+I suppose so.
+</Content>
+</Response>
+<Response id="HS3MFLeading1">
+<ResponseID id="0">HS3MFLeading1</ResponseID>
+<BaseQuestion id="0"></BaseQuestion>
+<Content id="0">
+Leading questions provide the candidate with clues about what is important to you, so most likely the candidate will give you the answer you want, rather than providing you with information about their true motivations.
+
+You want to ask a question that is specific enough to target Pat’s response, yet allows him to explain what he liked about the experience.
+
+Try asking your question again.
+</Content>
+</Response>
+<Response id="HS3MFLeading2">
+<ResponseID id="0">HS3MFLeading2</ResponseID>
+<BaseQuestion id="0"></BaseQuestion>
+<Content id="0">
+Leading questions provide the candidate with clues about what is important to you, so most likely the candidate will give you the answer you want, rather than providing you with information about their true motivations.
+
+You want to ask a question that is specific enough to target Pat’s response, yet allows him to explain what he liked about the experience.
+
+Before deciding what to ask next, listen to Pat answer the question “How did you feel about setting up the site and helping your team learn to use it?”
+
+I liked helping others learn new things.
+</Content>
+</Response>
+<Response id="PS3Shame">
+<ResponseID id="0">PS3Shame</ResponseID>
+<BaseQuestion id="0"></BaseQuestion>
+<Content id="0">
+Do you talk to your mother like that?
+</Content>
+</Response>
+<Response id="HS3Shame">
+<ResponseID id="0">HS3Shame</ResponseID>
+<BaseQuestion id="0"></BaseQuestion>
+<Content id="0">
+Yeah really, do you?  Let’s get back to the subject at hand, okay?
+</Content>
+</Response>
+<Response id="PS3Illegal">
+<ResponseID id="0">PS3Illegal</ResponseID>
+<BaseQuestion id="0"></BaseQuestion>
+<Content id="0">
+I’d rather focus on my qualifications for the job, if you don’t mind.
+</Content>
+</Response>
+<Response id="HS3Illegal">
+<ResponseID id="0">HS3Illegal</ResponseID>
+<BaseQuestion id="0"></BaseQuestion>
+<Content id="0">
+Pat is right, that question was off base.  Beware of questions that touch on potentially personal issues such as the candidate's home life, marital status, or ethnicity.  These may be illegal questions.  Only questions that pertain to the candidate’s qualifications for the job are appropriate.
+</Content>
+</Response>
+<Response id="PS3Brain">
+<ResponseID id="0">PS3Brain</ResponseID>
+<BaseQuestion id="0"></BaseQuestion>
+<Content id="0">
+That’s an interesting question.  Do you know the answer?
+</Content>
+</Response>
+<Response id="HS3Brain">
+<ResponseID id="0">HS3Brain</ResponseID>
+<BaseQuestion id="0"></BaseQuestion>
+<Content id="0">
+Research has shown that questions like that are not predictive of on-the-job performance.
+
+In some situations, like when you’re evaluating for specific skills, these types of questions might be appropriate.
+
+However, in this simulation we are only evaluating behavioral interviewing skills.
+</Content>
+</Response>
+<Response id="PS3Null">
+<ResponseID id="0">PS3Null</ResponseID>
+<BaseQuestion id="0"></BaseQuestion>
+<Content id="0">
+I’m not sure why you’re asking me that question.
+</Content>
+</Response>
+<Response id="HS3Null">
+<ResponseID id="0">HS3Null</ResponseID>
+<BaseQuestion id="0"></BaseQuestion>
+<Content id="0">
+You don’t want to waste everyone’s time by asking irrelevant questions.  Let’s move on.
+</Content>
+</Response>
+<Response id="PS3Impolite">
+<ResponseID id="0">PS3Impolite</ResponseID>
+<BaseQuestion id="0"></BaseQuestion>
+<Content id="0">
+I don't quite know how to answer that.  What are you trying to say?
+</Content>
+</Response>
+<Response id="HS3Impolite">
+<ResponseID id="0">HS3Impolite</ResponseID>
+<BaseQuestion id="0"></BaseQuestion>
+<Content id="0">
+Make sure that your questions don't make the candidate defensive.  Keep them neutral so that the candidate feels comfortable sharing both positive and negative information.
+
+Try asking your question again.
+</Content>
+</Response>
+<Response id="HS4D001">
+<ResponseID id="0">HS4D001</ResponseID>
+<BaseQuestion id="0"></BaseQuestion>
+<Content id="0">
+Okay, you’ve decided to move on to questions about decision making.  Ask Pat to tell you about his decision making experience.
+</Content>
+</Response>
+<Response id="PS4BQTheo">
+<ResponseID id="0">PS4BQTheo</ResponseID>
+<BaseQuestion id="0"></BaseQuestion>
+<Content id="0">
+I would organize all the information I had, then make my decision based on all the different factors.
+</Content>
+</Response>
+<Response id="HS4BQTheo1">
+<ResponseID id="0">HS4BQTheo1</ResponseID>
+<BaseQuestion id="0"></BaseQuestion>
+<Content id="0">
+Remember, when you’re asking a behavioral question, try not to use words like “would”, or “could.”
+
+These words prompt theoretical STARs in which the candidate tells you what they “would” do in a situation rather than what they have done in the past.
+</Content>
+</Response>
+<Response id="HS4BQTheo2">
+<ResponseID id="0">HS4BQTheo2</ResponseID>
+<BaseQuestion id="0"></BaseQuestion>
+<Content id="0">
+Remember, when you’re asking a behavioral question, try not to use words like “would”, or “could.”
+
+These words prompt theoretical STARs in which the candidate tells you what they “would” do in a situation rather than what they have done in the past.
+
+Before selecting what to do next, listen to Pat as he responds to the question: “Tell me how you went about making the best decision you made in the past year?”
+
+Let’s see, I remember an example from some volunteer work I did.
+
+Last April I ran our annual fundraiser.  I arranged the catering, hired the DJ and even managed the invitations.
+
+I organized each step that had to be completed in all three areas, determined the timing and dates for each step and organized teams to take on some of the tasks where appropriate.
+
+</Content>
+</Response>
+<Response id="PS4BQLeading">
+<ResponseID id="0">PS4BQLeading</ResponseID>
+<BaseQuestion id="0"></BaseQuestion>
+<Content id="0">
+I suppose so.
+</Content>
+</Response>
+<Response id="HS4BQLeading1">
+<ResponseID id="0">HS4BQLeading1</ResponseID>
+<BaseQuestion id="0"></BaseQuestion>
+<Content id="0">
+A question like that may be considered leading and generally won’t get you all the information you need for a STAR.
+
+Before you determine what you will do next, think about which target you're gathering information on.
+</Content>
+</Response>
+<Response id="HS4BQLeading2">
+<ResponseID id="0">HS4BQLeading2</ResponseID>
+<BaseQuestion id="0"></BaseQuestion>
+<Content id="0">
+A question like that may be considered leading and generally won’t get you all the information you need for a STAR.
+
+Before you determine what you will do next, think about which target you're gathering information on.
+
+But, first listen to Pat as he responds to the question: “Tell me how you went about making the best decision you made in the past year?”
+
+Let’s see, I remember an example from some volunteer work I did.
+
+Last April I ran our annual fundraiser.  I arranged the catering, hired the DJ and even managed the invitations.
+
+I organized each step that had to be completed in all three areas, determined the timing and dates for each step and organized teams to take on some of the tasks where appropriate.
+</Content>
+</Response>
+<Response id="PS4BQModel">
+<ResponseID id="0">PS4BQModel</ResponseID>
+<BaseQuestion id="0"></BaseQuestion>
+<Content id="0">
+Let’s see, I remember an example from some volunteer work I did.
+
+Last April I ran our annual fundraiser.  I arranged the catering, hired the DJ and even managed the invitations.
+
+I organized each step that had to be completed in all three areas, determined the timing and dates for each step and organized teams to take on some of the tasks where appropriate.
+</Content>
+</Response>
+<Response id="HS4BQModel">
+<ResponseID id="0">HS4BQModel</ResponseID>
+<BaseQuestion id="0"></BaseQuestion>
+<Content id="0">
+You asked a great behavioral question, but I don’t think Pat quite got the shift in topic.
+</Content>
+</Response>
+<Response id="HS4D002">
+<ResponseID id="0">HS4D002</ResponseID>
+<BaseQuestion id="0"></BaseQuestion>
+<Content id="0">
+ What do you want to do next?
+</Content>
+</Response>
+<Response id="HS4FW001">
+<ResponseID id="0">HS4FW001</ResponseID>
+<BaseQuestion id="0"></BaseQuestion>
+<Content id="0">
+You’ve decided to ask a follow up question to complete the STAR.  What question will you ask Pat to get the information you’re looking for?
+</Content>
+</Response>
+<Response id="HS4FWAAA">
+<ResponseID id="0">HS4FWAAA</ResponseID>
+<BaseQuestion id="0"></BaseQuestion>
+<Content id="0">
+You have already asked a follow up question for this STAR.  Please select another type of question to ask.
+</Content>
+</Response>
+<Response id="PS4FWModel">
+<ResponseID id="0">PS4FWModel</ResponseID>
+<BaseQuestion id="0"></BaseQuestion>
+<Content id="0">
+The fundraiser was a huge success.  We set a record for money raised by beating last year’s total by 20 percent
+</Content>
+</Response>
+<Response id="HS4FWModel">
+<ResponseID id="0">HS4FWModel</ResponseID>
+<BaseQuestion id="0"></BaseQuestion>
+<Content id="0">
+Nice work asking a follow-up question to complete the STAR, however, remember the goal in this step is to get a decision making STAR.
+</Content>
+</Response>
+<Response id="PS4FWWrong">
+<ResponseID id="0">PS4FWWrong</ResponseID>
+<BaseQuestion id="0"></BaseQuestion>
+<Content id="0">
+Well, like I mentioned I worked closely with my team members to get a lot of it done, and I just basically kept track of all the dates
+</Content>
+</Response>
+<Response id="HS4FWWrong">
+<ResponseID id="0">HS4FWWrong</ResponseID>
+<BaseQuestion id="0"></BaseQuestion>
+<Content id="0">
+You may realize that your question didn’t elicit any new information from Pat.
+
+His STAR was missing the result, so you want to ask a question to uncover what happened as a result of his actions.
+
+Also, remember that your target in this scenario is to obtain an example of decision making.
+
+Before you determine how best to refocus the interview, listen to Pat’s response when asked "What was the result of the fundraiser?"
+
+The fundraiser was a huge success.  We set a record for money raised by beating last year’s total by 20 percent
+</Content>
+</Response>
+<Response id="PS4FWTheo">
+<ResponseID id="0">PS4FWTheo</ResponseID>
+<BaseQuestion id="0"></BaseQuestion>
+<Content id="0">
+I think next time I would be even more successful.
+</Content>
+</Response>
+<Response id="HS4FWTheo">
+<ResponseID id="0">HS4FWTheo</ResponseID>
+<BaseQuestion id="0"></BaseQuestion>
+<Content id="0">
+Make sure your questions focus on past behavior, not what Pat “would” or “could” do.
+
+And, when deciding what to do next, remember that your target for this part of the interview is decision making.
+
+But first, listen to Pat respond when asked "What was the result of the fundraiser?”
+
+The fundraiser was a huge success.  We set a record for money raised by beating last year’s total by 20 percent
+</Content>
+</Response>
+<Response id="PS4FWLeading">
+<ResponseID id="0">PS4FWLeading</ResponseID>
+<BaseQuestion id="0"></BaseQuestion>
+<Content id="0">
+I think it went well.
+</Content>
+</Response>
+<Response id="HS4FWLeading">
+<ResponseID id="0">HS4FWLeading</ResponseID>
+<BaseQuestion id="0"></BaseQuestion>
+<Content id="0">
+Your question leads the candidate to the only possible response he can give you; agreeing with the conclusion that you’ve presented him with.
+
+Also, as you determine what to ask Pat next, remember that you were really looking for an example of decision making.
+
+But first, listen to Pat’s response when asked “What was the result of the fundraiser?”
+
+The fundraiser was a huge success.  We set a record for money raised by beating last year’s total by 20 percent
+</Content>
+</Response>
+<Response id="HS4MF001">
+<ResponseID id="0">HS4MF001</ResponseID>
+<BaseQuestion id="0"></BaseQuestion>
+<Content id="0">
+You’ll be asking a question about Pat’s volunteer experience to determine his motivational fit.  What can you say to Pat?
+</Content>
+</Response>
+<Response id="HS4MFAAA">
+<ResponseID id="0">HS4MFAAA</ResponseID>
+<BaseQuestion id="0"></BaseQuestion>
+<Content id="0">
+You have already asked a motivational fit question for this STAR.  Please select another type of question to ask.
+</Content>
+</Response>
+<Response id="PS4MFModel">
+<ResponseID id="0">PS4MFModel</ResponseID>
+<BaseQuestion id="0"></BaseQuestion>
+<Content id="0">
+I enjoyed managing all of the different tasks and coordinating the other volunteers, but I have to say that it required a lot of time on the phone tracking down donors and that part I didn’t enjoy as much.
+</Content>
+</Response>
+<Response id="HS4MFModel">
+<ResponseID id="0">HS4MFModel</ResponseID>
+<BaseQuestion id="0"></BaseQuestion>
+<Content id="0">
+Ok.  You’ve found out some good information on what does and doesn’t motivate Pat.  But, when you decide your next step, think about how relevant this information is to your goal of getting Pat to talk about his decision making skills.
+</Content>
+</Response>
+<Response id="PS4MFVague">
+<ResponseID id="0">PS4MFVague</ResponseID>
+<BaseQuestion id="0"></BaseQuestion>
+<Content id="0">
+It was good, very good.
+</Content>
+</Response>
+<Response id="HS4MFVague">
+<ResponseID id="0">HS4MFVague</ResponseID>
+<BaseQuestion id="0"></BaseQuestion>
+<Content id="0">
+To get a meaningful answer you have to ask for specific information.
+
+And, when you’re thinking about what step to take next, remember that you are really interested in Pat’s decision making skills.
+
+Before you move on, listen to what Pat says when asked the question “What did you especially enjoy about your work on this project?”
+
+I enjoyed managing all of the different tasks and coordinating the other volunteers, but I have to say that it required a lot of time on the phone tracking down donors and that part I didn’t enjoy as much.
+</Content>
+</Response>
+<Response id="PS4MFLeading">
+<ResponseID id="0">PS4MFLeading</ResponseID>
+<BaseQuestion id="0"></BaseQuestion>
+<Content id="0">
+I think it was a very beneficial experience, actually.
+</Content>
+</Response>
+<Response id="HS4MFLeading">
+<ResponseID id="0">HS4MFLeading</ResponseID>
+<BaseQuestion id="0"></BaseQuestion>
+<Content id="0">
+Motivational fit questions help you to learn more about the candidate’s motivations, so you want to be careful not to assume how the candidate feels about their experience.
+
+Also, think about what the goals of this exercise are and whether Pat’s volunteer experience is giving you the information you need.
+
+Before deciding what to do next, listen to Pat's reaction when asked "What did you especially enjoy about working on this project?”
+
+I enjoyed managing all of the different tasks and coordinating the other volunteers, but I have to say that it required a lot of time on the phone tracking down donors and that part I didn’t enjoy as much.
+</Content>
+</Response>
+<Response id="PS4Shame">
+<ResponseID id="0">PS4Shame</ResponseID>
+<BaseQuestion id="0"></BaseQuestion>
+<Content id="0">
+I was hoping you'd ask that.
+</Content>
+</Response>
+<Response id="HS4Shame">
+<ResponseID id="0">HS4Shame</ResponseID>
+<BaseQuestion id="0"></BaseQuestion>
+<Content id="0">
+You’re going to have to try harder than that if you want to shock me.  But really, just don’t.
+</Content>
+</Response>
+<Response id="PS4Illegal">
+<ResponseID id="0">PS4Illegal</ResponseID>
+<BaseQuestion id="0"></BaseQuestion>
+<Content id="0">
+I’d rather focus on my qualifications for the job, if you don’t mind.
+</Content>
+</Response>
+<Response id="HS4Illegal">
+<ResponseID id="0">HS4Illegal</ResponseID>
+<BaseQuestion id="0"></BaseQuestion>
+<Content id="0">
+Pat is right, that question was off base.  Beware of questions that touch on potentially personal issues such as the candidate's home life, marital status, or ethnicity.  These may be illegal questions.  Only questions that pertain to the candidate’s qualifications for the job are appropriate.
+</Content>
+</Response>
+<Response id="PS4Null">
+<ResponseID id="0">PS4Null</ResponseID>
+<BaseQuestion id="0"></BaseQuestion>
+<Content id="0">
+What does that have to do with this job?
+</Content>
+</Response>
+<Response id="HS4Null">
+<ResponseID id="0">HS4Null</ResponseID>
+<BaseQuestion id="0"></BaseQuestion>
+<Content id="0">
+You don’t want to waste everyone’s time by asking irrelevant questions.  Let’s move on.
+</Content>
+</Response>
+<Response id="PS4Brain">
+<ResponseID id="0">PS4Brain</ResponseID>
+<BaseQuestion id="0"></BaseQuestion>
+<Content id="0">
+That’s an interesting question.  Do you know the answer?
+</Content>
+</Response>
+<Response id="HS4Brain">
+<ResponseID id="0">HS4Brain</ResponseID>
+<BaseQuestion id="0"></BaseQuestion>
+<Content id="0">
+Research has shown that questions like that are not predictive of on-the-job performance.
+
+In some situations, like when you’re evaluating for specific skills, these types of questions might be appropriate.
+
+However, in this simulation we are only evaluating behavioral interviewing skills.
+</Content>
+</Response>
+<Response id="PS4Impolite">
+<ResponseID id="0">PS4Impolite</ResponseID>
+<BaseQuestion id="0"></BaseQuestion>
+<Content id="0">
+I don't know -- I though it went very well actually.
+</Content>
+</Response>
+<Response id="HS4Impolite">
+<ResponseID id="0">HS4Impolite</ResponseID>
+<BaseQuestion id="0"></BaseQuestion>
+<Content id="0">
+Remember, you will get more information from a candidate who feels comfortable sharing both positive and negative examples.
+</Content>
+</Response>
+<Response id="HS4D001">
+<ResponseID id="0">HS4D001</ResponseID>
+<BaseQuestion id="0"></BaseQuestion>
+<Content id="0">
+Okay, you’ve decided to move on to questions about decision making.  Ask Pat to tell you about his decision making experience.
+</Content>
+</Response>
+<Response id="HS5D001">
+<ResponseID id="0">HS5D001</ResponseID>
+<BaseQuestion id="0"></BaseQuestion>
+<Content id="0">
+Great, we’re back on track now.  How can you redirect Pat to give you a decision making example?
+</Content>
+</Response>
+<Response id="PS5BQTheo">
+<ResponseID id="0">PS5BQTheo</ResponseID>
+<BaseQuestion id="0"></BaseQuestion>
+<Content id="0">
+I would try to include other stakeholders and I would gather all the data, then I would construct different scenarios to determine the best decision.
+</Content>
+</Response>
+<Response id="HS5BQTheo1">
+<ResponseID id="0">HS5BQTheo1</ResponseID>
+<BaseQuestion id="0"></BaseQuestion>
+<Content id="0">
+Sometimes it’s okay to ask how a candidate would solve a specific problem, but not when you’re interviewing for behavioral examples.
+
+Past performance is what predicts future results, so try again, but keep your questions focused on Pat’s recent experience.
+</Content>
+</Response>
+<Response id="HS5BQTheo2">
+<ResponseID id="0">HS5BQTheo2</ResponseID>
+<BaseQuestion id="0"></BaseQuestion>
+<Content id="0">
+Sometimes it’s okay to ask how a candidate would solve a specific problem, but not when you’re interviewing for behavioral examples.
+
+Past performance is what predicts future results, so keep your questions focused on Pat’s recent experience.
+
+Before deciding what to do next, listen to Pat’s reply when asked “Can you give me an example of a recent decision that you made?”
+
+Oh you wanted a decision making example.
+
+ Well, recently we had an unhappy customer who didn’t get the correct materials for an order. So, the decision was made to credit their account, which made the client happy.
+
+However, a few weeks later that customer placed the same incorrect order.  At that point, we realized then that it wasn’t our mistake.
+
+The problem was that the form was confusing and causing the customer to enter their order incorrectly.
+
+We corrected the issue and that prevented future problems.
+</Content>
+</Response>
+<Response id="PS5BQLeading">
+<ResponseID id="0">PS5BQLeading</ResponseID>
+<BaseQuestion id="0"></BaseQuestion>
+<Content id="0">
+That’s right.
+</Content>
+</Response>
+<Response id="HS5BQLeading1">
+<ResponseID id="0">HS5BQLeading1</ResponseID>
+<BaseQuestion id="0"></BaseQuestion>
+<Content id="0">
+For a more informative answer, try again and ask a question that isn't leading.
+</Content>
+</Response>
+<Response id="HS5BQLeading2">
+<ResponseID id="0">HS5BQLeading2</ResponseID>
+<BaseQuestion id="0"></BaseQuestion>
+<Content id="0">
+For a more informative answer, try asking a question that isn't leading.
+
+Before moving on to the next step, listen to Pat’s answer when asked a more open question such as “Can you give me an example of a recent decision that you made?”
+
+Oh you wanted a decision making example.
+
+ Well, recently we had an unhappy customer who didn’t get the correct materials for an order. So, the decision was made to credit their account, which made the client happy.
+
+However, a few weeks later that customer placed the same incorrect order.  At that point, we realized then that it wasn’t our mistake.
+
+The problem was that the form was confusing and causing the customer to enter their order incorrectly.
+
+We corrected the issue and that prevented future problems.
+</Content>
+</Response>
+<Response id="PS5BQModel">
+<ResponseID id="0">PS5BQModel</ResponseID>
+<BaseQuestion id="0"></BaseQuestion>
+<Content id="0">
+Oh you wanted a decision making example.
+
+Well, recently we had an unhappy customer who didn’t get the correct materials for an order. So, the decision was made to credit their account, which made the client happy.
+
+However, a few weeks later that customer placed the same incorrect order.  At that point, we realized then that it wasn’t our mistake.
+
+The problem was that the form was confusing and causing the customer to enter their order incorrectly.
+
+We corrected the issue and that prevented future problems.
+</Content>
+</Response>
+<Response id="HS5BQModel">
+<ResponseID id="0">HS5BQModel</ResponseID>
+<BaseQuestion id="0"></BaseQuestion>
+<Content id="0">
+Great, you’ve refocused the conversation onto Pat’s decision making skills and he has provided you with some good information.
+</Content>
+</Response>
+<Response id="HS5D002">
+<ResponseID id="0">HS5D002</ResponseID>
+<BaseQuestion id="0"></BaseQuestion>
+<Content id="0">
+What action do you want to take next?
+</Content>
+</Response>
+<Response id="HS4FW001">
+<ResponseID id="0">HS4FW001</ResponseID>
+<BaseQuestion id="0"></BaseQuestion>
+<Content id="0">
+You’ve decided to ask a follow up question to complete the STAR.  What question will you ask Pat to get the information you’re looking for?
+</Content>
+</Response>
+<Response id="HS5FW001">
+<ResponseID id="0">HS5FW001</ResponseID>
+<BaseQuestion id="0"></BaseQuestion>
+<Content id="0">
+Ok, you’ve decided to ask a follow-up question.  Type in the follow-up question you want to ask Pat.
+</Content>
+</Response>
+<Response id="HS5FWAAA">
+<ResponseID id="0">HS5FWAAA</ResponseID>
+<BaseQuestion id="0"></BaseQuestion>
+<Content id="0">
+You have already asked a follow up question for this STAR.  Please select another type of question to ask.
+</Content>
+</Response>
+<Response id="PS5FWModel">
+<ResponseID id="0">PS5FWModel</ResponseID>
+<BaseQuestion id="0"></BaseQuestion>
+<Content id="0">
+I was in charge of the account.
+
+I discussed it with a few of my peers and I was the one who decided to credit the customer’s account.
+
+As I said, the client placed the same order a few weeks later and we discovered the error on the order form.
+
+So I had an idea to revise the form to prevent these kinds of mistakes from happening again.
+
+I shared my revisions with my boss, and she liked my idea, so the form was corrected per my suggestion.
+</Content>
+</Response>
+<Response id="HS5FWModel">
+<ResponseID id="0">HS5FWModel</ResponseID>
+<BaseQuestion id="0"></BaseQuestion>
+<Content id="0">
+Excellent.  You’ve followed up with Pat to complete the STAR.
+</Content>
+</Response>
+<Response id="PS5FWWrong">
+<ResponseID id="0">PS5FWWrong</ResponseID>
+<BaseQuestion id="0"></BaseQuestion>
+<Content id="0">
+This was an important client, so keeping them happy was a priority.  We managed to maintain our relationship with them and solve an internal issue as well.
+</Content>
+</Response>
+<Response id="HS5FWWrong1">
+<ResponseID id="0">HS5FWWrong1</ResponseID>
+<BaseQuestion id="0"></BaseQuestion>
+<Content id="0">
+Pat’s example of decision making didn’t reveal much information about how the decision was actually made.
+
+Try a follow-up question about what action he took to make the decision.
+</Content>
+</Response>
+<Response id="HS5FWWrong2">
+<ResponseID id="0">HS5FWWrong2</ResponseID>
+<BaseQuestion id="0"></BaseQuestion>
+<Content id="0">
+Pat’s example of decision making didn’t reveal much information about how the decision was actually made.
+
+A follow-up question about what action he took to make the decision will be more informative.
+
+Before moving on, listen to how Pat responds when asked the question “What did you do specifically to handle that challenge?”
+
+I was in charge of the account.
+
+I discussed it with a few of my peers and I was the one who decided to credit the customer’s account.
+
+As I said, the client placed the same order a few weeks later and we discovered the error on the order form.
+
+So I had an idea to revise the form to prevent these kinds of mistakes from happening again.
+
+I shared my revisions with my boss and she liked my idea, so the form was corrected per my suggestion.
+</Content>
+</Response>
+<Response id="PS5FWTheo">
+<ResponseID id="0">PS5FWTheo</ResponseID>
+<BaseQuestion id="0"></BaseQuestion>
+<Content id="0">
+Well. I suppose we would not have had a very happy client.
+</Content>
+</Response>
+<Response id="HS5FWTheo1">
+<ResponseID id="0">HS5FWTheo1</ResponseID>
+<BaseQuestion id="0"></BaseQuestion>
+<Content id="0">
+Pat’s response isn’t very illuminating because it doesn’t tell you what action Pat actually took to resolve the issue.
+
+Try your question again.
+</Content>
+</Response>
+<Response id="HS5FWTheo2">
+<ResponseID id="0">HS5FWTheo2</ResponseID>
+<BaseQuestion id="0"></BaseQuestion>
+<Content id="0">
+Pat’s response isn’t very illuminating because it doesn’t tell you what action Pat actually took to resolve the issue.
+
+In order to get a complete STAR you would need to ask more follow-up questions to clarify Pat’s role.
+
+Before moving on to your next step listen to how Pat responds when asked a more concrete follow-up question such as “What did you specifically do to handle the challenge?”
+
+I was in charge of the account.
+
+I discussed it with a few of my peers and I was the one who decided to credit the customer’s account.
+
+As I said, the client placed the same order a few weeks later and we discovered the error on the order form.
+
+So I had an idea to revise the form to prevent these kinds of mistakes from happening again.
+
+I shared my revisions with my boss and she liked my idea, so the form was corrected per my suggestion.
+</Content>
+</Response>
+<Response id="PS5FWLeading">
+<ResponseID id="0">PS5FWLeading</ResponseID>
+<BaseQuestion id="0"></BaseQuestion>
+<Content id="0">
+We fixed the client’s order.
+</Content>
+</Response>
+<Response id="HS5FWLeading1">
+<ResponseID id="0">HS5FWLeading1</ResponseID>
+<BaseQuestion id="0"></BaseQuestion>
+<Content id="0">
+Candidates are more forthcoming when asked questions that don’t assume which actions they may have taken.
+
+Try your question again
+</Content>
+</Response>
+<Response id="HS5FWLeading2">
+<ResponseID id="0">HS5FWLeading2</ResponseID>
+<BaseQuestion id="0"></BaseQuestion>
+<Content id="0">
+Candidates are more forthcoming when asked questions that don’t assume which actions they may have taken.
+
+You want to ask a question to get Pat to tell you more about the actions he took to resolve the situation.
+
+Before determining your next move, listen to Pat’s response when asked “What did you specifically do to handle the challenge?”
+
+I was in charge of the account.
+
+I discussed it with a few of my peers and I was the one who decided to credit the customer’s account.
+
+As I said, the client placed the same order a few weeks later and we discovered the error on the order form.
+
+So I had an idea to revise the form to prevent these kinds of mistakes from happening again.
+
+I shared my revisions with my boss, and she liked my idea, so the form was corrected per my suggestion.
+</Content>
+</Response>
+<Response id="HS5MF001">
+<ResponseID id="0">HS5MF001</ResponseID>
+<BaseQuestion id="0"></BaseQuestion>
+<Content id="0">
+Ask Pat a motivational fit question about his role as a decision maker.
+</Content>
+</Response>
+<Response id="HS5MFAAA">
+<ResponseID id="0">HS5MFAAA</ResponseID>
+<BaseQuestion id="0"></BaseQuestion>
+<Content id="0">
+You have already asked a motivational fit question for this STAR.  Please select another type of question to ask.
+</Content>
+</Response>
+<Response id="PS5MFModel">
+<ResponseID id="0">PS5MFModel</ResponseID>
+<BaseQuestion id="0"></BaseQuestion>
+<Content id="0">
+I enjoy working with others to come to the best solution, and I like being the one to make the final decision.
+</Content>
+</Response>
+<Response id="HS5MFModel">
+<ResponseID id="0">HS5MFModel</ResponseID>
+<BaseQuestion id="0"></BaseQuestion>
+<Content id="0">
+Wonderful.  Your question has uncovered valuable information on Pat’s motivational fit.
+</Content>
+</Response>
+<Response id="PS5MFVague">
+<ResponseID id="0">PS5MFVague</ResponseID>
+<BaseQuestion id="0"></BaseQuestion>
+<Content id="0">
+I’m not sure what you’re asking me.
+</Content>
+</Response>
+<Response id="HS5MFVague1">
+<ResponseID id="0">HS5MFVague1</ResponseID>
+<BaseQuestion id="0"></BaseQuestion>
+<Content id="0">
+What information are you trying to get at?  Try again, but be more specific when asking motivational fit questions so that your candidate knows exactly what you’re asking.
+</Content>
+</Response>
+<Response id="HS5MFVague2">
+<ResponseID id="0">HS5MFVague2</ResponseID>
+<BaseQuestion id="0"></BaseQuestion>
+<Content id="0">
+What information are you trying to get at?  Be more specific when asking motivational fit questions so that your candidate knows exactly what you’re asking.
+
+Before deciding what to do next, see how Pat responds when asked the question “How satisfied were you with your role in resolving the issue with the client.”
+
+I enjoy working with others to come to the best solution, and I like being the one to make the final decision.
+</Content>
+</Response>
+<Response id="PS5MFLeading">
+<ResponseID id="0">PS5MFLeading</ResponseID>
+<BaseQuestion id="0"></BaseQuestion>
+<Content id="0">
+I guess so.
+</Content>
+</Response>
+<Response id="HS5MFLeading1">
+<ResponseID id="0">HS5MFLeading1</ResponseID>
+<BaseQuestion id="0"></BaseQuestion>
+<Content id="0">
+A less specific question will elicit a great deal more information.  Try asking your motivational fit question again.
+</Content>
+</Response>
+<Response id="HS5MFLeading2">
+<ResponseID id="0">HS5MFLeading2</ResponseID>
+<BaseQuestion id="0"></BaseQuestion>
+<Content id="0">
+A question such as “How satisfied were you with your role in resolving the issue with the client” will elicit a great deal more information.
+
+Before moving on, listen to Pat’s response to this question.
+
+I enjoy working with others to come to the best solution, and I like being the one to make the final decision.
+</Content>
+</Response>
+<Response id="PS5Shame">
+<ResponseID id="0">PS5Shame</ResponseID>
+<BaseQuestion id="0"></BaseQuestion>
+<Content id="0">
+Oh behave!
+</Content>
+</Response>
+<Response id="HS5Shame">
+<ResponseID id="0">HS5Shame</ResponseID>
+<BaseQuestion id="0"></BaseQuestion>
+<Content id="0">
+Nice.  Are you done already?  Let’s try this again, but keep your comments respectful and on topic.
+</Content>
+</Response>
+<Response id="PS5Illegal">
+<ResponseID id="0">PS5Illegal</ResponseID>
+<BaseQuestion id="0"></BaseQuestion>
+<Content id="0">
+I’d rather focus on my qualifications for the job, if you don’t mind.
+</Content>
+</Response>
+<Response id="HS5Illegal">
+<ResponseID id="0">HS5Illegal</ResponseID>
+<BaseQuestion id="0"></BaseQuestion>
+<Content id="0">
+Pat is right, that question was off base.  Beware of questions that touch on potentially personal issues such as the candidate's home life, marital status, or ethnicity.  These may be illegal questions.  Only questions that pertain to the candidate’s qualifications for the job are appropriate.
+</Content>
+</Response>
+<Response id="PS5Brain">
+<ResponseID id="0">PS5Brain</ResponseID>
+<BaseQuestion id="0"></BaseQuestion>
+<Content id="0">
+That’s an interesting question.  Do you know the answer?
+</Content>
+</Response>
+<Response id="HS5Brain">
+<ResponseID id="0">HS5Brain</ResponseID>
+<BaseQuestion id="0"></BaseQuestion>
+<Content id="0">
+Research has shown that questions like that are not predictive of on-the-job performance.
+
+In some situations, like when you’re evaluating for specific skills, these types of questions might be appropriate.
+
+However, in this simulation we are only evaluating behavioral interviewing skills.
+</Content>
+</Response>
+<Response id="PS5Null">
+<ResponseID id="0">PS5Null</ResponseID>
+<BaseQuestion id="0"></BaseQuestion>
+<Content id="0">
+I’m not sure why you’re asking me that question.
+</Content>
+</Response>
+<Response id="HS5Null">
+<ResponseID id="0">HS5Null</ResponseID>
+<BaseQuestion id="0"></BaseQuestion>
+<Content id="0">
+You don’t want to waste everyone’s time by asking irrelevant questions.  Let’s move on.
+</Content>
+</Response>
+<Response id="PS5Impolite">
+<ResponseID id="0">PS5Impolite</ResponseID>
+<BaseQuestion id="0"></BaseQuestion>
+<Content id="0">
+It was a difficult challenge to be sure, but I really do think it turned out well.
+</Content>
+</Response>
+<Response id="HS5Impolite">
+<ResponseID id="0">HS5Impolite</ResponseID>
+<BaseQuestion id="0"></BaseQuestion>
+<Content id="0">
+Questions like that can make the candidate uncomfortable and keep them from giving you the information you're looking for.   Try again, but keep your question neutral.
+</Content>
+</Response>
+<Response id="HS6D001">
+<ResponseID id="0">HS6D001</ResponseID>
+<BaseQuestion id="0"></BaseQuestion>
+<Content id="0">
+You’ve elected to ask for another example of decision making.  What will you say to Pat?
+</Content>
+</Response>
+<Response id="PS6BQTheo">
+<ResponseID id="0">PS6BQTheo</ResponseID>
+<BaseQuestion id="0"></BaseQuestion>
+<Content id="0">
+I would try to get buy in from any stakeholders, then I would make the decision.
+</Content>
+</Response>
+<Response id="HS6BQTheo1">
+<ResponseID id="0">HS6BQTheo1</ResponseID>
+<BaseQuestion id="0"></BaseQuestion>
+<Content id="0">
+Try asking your question again, but keep your questions focused on what the candidate has done in the past to glean information on what they are likely to do in the future if they work for you.
+</Content>
+</Response>
+<Response id="HS6BQTheo2">
+<ResponseID id="0">HS6BQTheo2</ResponseID>
+<BaseQuestion id="0"></BaseQuestion>
+<Content id="0">
+Keep your questions focused on what the candidate has done in the past to glean information on what they are likely to do in the future if they work for you.
+
+Before moving on, listen to Pat answer the question “Can you give me another decision making example just like that?”
+
+Well at one point in a recent project, one of my team members approached me with concerns about meeting the client’s specification on time.
+
+He felt that in order to meet the spec, we would need to add two weeks to the schedule.
+
+Long story short, I met with the client and shared an option that would keep the project on time.
+
+Both my team and the client were happy because the project was delivered on time with all of the functionality that the client wanted.
+</Content>
+</Response>
+<Response id="PS6BQLeading">
+<ResponseID id="0">PS6BQLeading</ResponseID>
+<BaseQuestion id="0"></BaseQuestion>
+<Content id="0">
+I was involved in a lot of decision making.
+</Content>
+</Response>
+<Response id="HS6BQLeading1">
+<ResponseID id="0">HS6BQLeading1</ResponseID>
+<BaseQuestion id="0"></BaseQuestion>
+<Content id="0">
+Those kinds of questions don’t get you much of a response.  Try again to ask a question about what Pat has done rather than what he would do.
+</Content>
+</Response>
+<Response id="HS6BQLeading2">
+<ResponseID id="0">HS6BQLeading2</ResponseID>
+<BaseQuestion id="0"></BaseQuestion>
+<Content id="0">
+Those kinds of questions don’t get you much of a response.
+
+Before deciding what you will ask Pat next, listen to how he responds when asked something like “Can you give me another decision making example just like that?”
+
+Well at one point in a recent project, one of my team members approached me with concerns about meeting the client’s specification on time.
+
+He felt that in order to meet the spec, we would need to add two weeks to the schedule.
+
+Long story short, I met with the client and shared an option that would keep the project on time.
+
+Both my team and the client were happy because the project was delivered on time with all of the functionality that the client wanted.
+</Content>
+</Response>
+<Response id="PS6BQModel">
+<ResponseID id="0">PS6BQModel</ResponseID>
+<BaseQuestion id="0"></BaseQuestion>
+<Content id="0">
+Well at one point in a recent project, one of my team members approached me with concerns about meeting the client’s specification on time.
+
+He felt that in order to meet the spec, we would need to add two weeks to the schedule.
+
+Long story short, I met with the client and shared an option that would keep the project on time.
+
+Both my team and the client were happy because the project was delivered on time with all of the functionality that the client wanted.
+</Content>
+</Response>
+<Response id="HS6BQModel">
+<ResponseID id="0">HS6BQModel</ResponseID>
+<BaseQuestion id="0"></BaseQuestion>
+<Content id="0">
+Excellent question that prompted Pat to give you the beginnings of a good STAR.
+</Content>
+</Response>
+<Response id="HS6D002">
+<ResponseID id="0">HS6D002</ResponseID>
+<BaseQuestion id="0"></BaseQuestion>
+<Content id="0">
+What do you want to do next?
+</Content>
+</Response>
+<Response id="PS6BQTheo">
+<ResponseID id="0">PS6BQTheo</ResponseID>
+<BaseQuestion id="0"></BaseQuestion>
+<Content id="0">
+I would try to get buy in from any stakeholders, then I would make the decision.
+</Content>
+</Response>
+<Response id="HS6BQTheo1">
+<ResponseID id="0">HS6BQTheo1</ResponseID>
+<BaseQuestion id="0"></BaseQuestion>
+<Content id="0">
+Try asking your question again, but keep your questions focused on what the candidate has done in the past to glean information on what they are likely to do in the future if they work for you.
+</Content>
+</Response>
+<Response id="HS6BQTheo2">
+<ResponseID id="0">HS6BQTheo2</ResponseID>
+<BaseQuestion id="0"></BaseQuestion>
+<Content id="0">
+Keep your questions focused on what the candidate has done in the past to glean information on what they are likely to do in the future if they work for you.  Before moving on, listen to Pat answer the question “Can you give me another decision making example just like that?”
+</Content>
+</Response>
+<Response id="HS6FW001">
+<ResponseID id="0">HS6FW001</ResponseID>
+<BaseQuestion id="0"></BaseQuestion>
+<Content id="0">
+You want to ask a follow-up question.  Type in your question for Pat.
+</Content>
+</Response>
+<Response id="HS6FWAAA">
+<ResponseID id="0">HS6FWAAA</ResponseID>
+<BaseQuestion id="0"></BaseQuestion>
+<Content id="0">
+You have already asked a follow up question for this STAR.  Please select another type of question to ask.
+</Content>
+</Response>
+<Response id="PS6FWModel">
+<ResponseID id="0">PS6FWModel</ResponseID>
+<BaseQuestion id="0"></BaseQuestion>
+<Content id="0">
+I weighed the pros and cons of the different options and discussed them with the team, but I was the person who picked the option we presented to the client.
+</Content>
+</Response>
+<Response id="HS6FWModel">
+<ResponseID id="0">HS6FWModel</ResponseID>
+<BaseQuestion id="0"></BaseQuestion>
+<Content id="0">
+Great.  You’ve clarified Pat’s role in the decision making process.
+</Content>
+</Response>
+<Response id="PS6FWWrong">
+<ResponseID id="0">PS6FWWrong</ResponseID>
+<BaseQuestion id="0"></BaseQuestion>
+<Content id="0">
+Although the team was worried about missing deadlines, we made it work, and everyone was happy.
+</Content>
+</Response>
+<Response id="HS6FWWrong1">
+<ResponseID id="0">HS6FWWrong1</ResponseID>
+<BaseQuestion id="0"></BaseQuestion>
+<Content id="0">
+Pat has already given you that information, but what he didn’t tell you was the short part of the long story.
+
+Try asking a different follow-up question to get the information you need.
+</Content>
+</Response>
+<Response id="HS6FWWrong2">
+<ResponseID id="0">HS6FWWrong2</ResponseID>
+<BaseQuestion id="0"></BaseQuestion>
+<Content id="0">
+Pat has already given you that information, but what he didn’t tell you was the short part of the long story.
+
+Decide what your next step will be after you listen to Pat respond to the question “Tell me how you made this decision?”
+
+I weighed the pros and cons of the different options and discussed them with the team, but I was the person who picked the option we presented to the client.
+</Content>
+</Response>
+<Response id="PS6FWTheo">
+<ResponseID id="0">PS6FWTheo</ResponseID>
+<BaseQuestion id="0"></BaseQuestion>
+<Content id="0">
+I guess I would work with my team to figure out the best solution.
+</Content>
+</Response>
+<Response id="HS6FWTheo1">
+<ResponseID id="0">HS6FWTheo1</ResponseID>
+<BaseQuestion id="0"></BaseQuestion>
+<Content id="0">
+You really aren’t looking for guesses; you want to hear how Pat actually handled that specific situation.
+
+Try asking your question differently.
+</Content>
+</Response>
+<Response id="HS6FWTheo2">
+<ResponseID id="0">HS6FWTheo2</ResponseID>
+<BaseQuestion id="0"></BaseQuestion>
+<Content id="0">
+You really aren't looking for guesses; you want to hear how Pat actually handled that specific situation.
+
+Before you decide what to do next, listen to Pat respond to the question "Tell me how you made this decision?"
+
+I weighed the pros and cons of the different options and discussed them with the team, but I was the person who picked the option we presented to the client.
+</Content>
+</Response>
+<Response id="PS6FWLeading">
+<ResponseID id="0">PS6FWLeading</ResponseID>
+<BaseQuestion id="0"></BaseQuestion>
+<Content id="0">
+It was my decision.
+</Content>
+</Response>
+<Response id="HS6FWLeading1">
+<ResponseID id="0">HS6FWLeading1</ResponseID>
+<BaseQuestion id="0"></BaseQuestion>
+<Content id="0">
+It may feel like you’re saving time by asking pointed questions, but you are likely to miss important information.
+
+Try asking your question again.
+</Content>
+</Response>
+<Response id="HS6FWLeading2">
+<ResponseID id="0">HS6FWLeading2</ResponseID>
+<BaseQuestion id="0"></BaseQuestion>
+<Content id="0">
+It may feel like you’re saving time by asking pointed questions, but you are likely to miss important information.
+
+Decide what you want to do next after listening to Pat respond to the question “Tell me how you made this decision?”
+
+I weighed the pros and cons of the different options and discussed them with the team, but I was the person who picked the option we presented to the client.
+</Content>
+</Response>
+<Response id="HS6MF001">
+<ResponseID id="0">HS6MF001</ResponseID>
+<BaseQuestion id="0"></BaseQuestion>
+<Content id="0">
+You want to collect some motivational fit information.  How will you ask Pat about his comfort level in deciding which option to present to the client?
+</Content>
+</Response>
+<Response id="HS6MFAAA">
+<ResponseID id="0">HS6MFAAA</ResponseID>
+<BaseQuestion id="0"></BaseQuestion>
+<Content id="0">
+You have already asked a motivational fit question for this STAR.  Please select another type of question to ask.
+</Content>
+</Response>
+<Response id="PS6MFModel">
+<ResponseID id="0">PS6MFModel</ResponseID>
+<BaseQuestion id="0"></BaseQuestion>
+<Content id="0">
+My team always comes up with great options, but I think I understand the client best, so I’m comfortable making those decisions.
+</Content>
+</Response>
+<Response id="HS6MFModel">
+<ResponseID id="0">HS6MFModel</ResponseID>
+<BaseQuestion id="0"></BaseQuestion>
+<Content id="0">
+Excellent!  You’ve collected some valuable motivational fit information.
+</Content>
+</Response>
+<Response id="PS6MFVague">
+<ResponseID id="0">PS6MFVague</ResponseID>
+<BaseQuestion id="0"></BaseQuestion>
+<Content id="0">
+Um, good. It's all good.
+</Content>
+</Response>
+<Response id="HS6MFVague1">
+<ResponseID id="0">HS6MFVague1</ResponseID>
+<BaseQuestion id="0"></BaseQuestion>
+<Content id="0">
+Pat could answer that question any number of ways, which might not get you the information you need.
+
+Try asking a more specific question to target Pat’s response and save both of you time.
+</Content>
+</Response>
+<Response id="HS6MFVague2">
+<ResponseID id="0">HS6MFVague2</ResponseID>
+<BaseQuestion id="0"></BaseQuestion>
+<Content id="0">
+Pat could answer that question any number of ways, which might not get you the information you need.
+
+A specific question is more likely to target Pat’s response and save both of you time.
+
+Before you determine what steps you want to take next, listen to Pat answer the question “How do you feel about the responsibility of deciding which options to present to the client?”
+
+My team always comes up with great options, but I think I understand the client best, so I’m comfortable making those decisions.
+</Content>
+</Response>
+<Response id="PS6MFLeading">
+<ResponseID id="0">PS6MFLeading</ResponseID>
+<BaseQuestion id="0"></BaseQuestion>
+<Content id="0">
+As I said, I do this all the time.
+</Content>
+</Response>
+<Response id="HS6MFLeading1">
+<ResponseID id="0">HS6MFLeading1</ResponseID>
+<BaseQuestion id="0"></BaseQuestion>
+<Content id="0">
+A question that asks the candidate to tell you how they felt about a particular aspect of their work is going to get you more specific information about what a candidate likes or doesn’t like.
+
+Give your motivational fit question another try.
+</Content>
+</Response>
+<Response id="HS6MFLeading2">
+<ResponseID id="0">HS6MFLeading2</ResponseID>
+<BaseQuestion id="0"></BaseQuestion>
+<Content id="0">
+A question that asks the candidate to tell you how they felt about a particular aspect of their work is going to get you more specific information about what a candidate likes or doesn’t like.
+
+You can decide how you want to proceed with the interview after you watch Pat respond to the question “How do you feel about the responsibility of deciding which options to present to the client.”
+
+My team always comes up with great options, but I think I understand the client best, so I’m comfortable making those decisions.
+</Content>
+</Response>
+<Response id="PS6Shame">
+<ResponseID id="0">PS6Shame</ResponseID>
+<BaseQuestion id="0"></BaseQuestion>
+<Content id="0">
+I can’t believe you said that!
+</Content>
+</Response>
+<Response id="HS6Shame">
+<ResponseID id="0">HS6Shame</ResponseID>
+<BaseQuestion id="0"></BaseQuestion>
+<Content id="0">
+I’m sorry – did you really just say what I think you said?
+</Content>
+</Response>
+<Response id="PS6Illegal">
+<ResponseID id="0">PS6Illegal</ResponseID>
+<BaseQuestion id="0"></BaseQuestion>
+<Content id="0">
+I’d rather focus on my qualifications for the job, if you don’t mind.
+</Content>
+</Response>
+<Response id="HS6Illegal">
+<ResponseID id="0">HS6Illegal</ResponseID>
+<BaseQuestion id="0"></BaseQuestion>
+<Content id="0">
+Pat is right, that question was off base.  Beware of questions that touch on potentially personal issues such as the candidate's home life, marital status, or ethnicity.  These may be illegal questions.  Only questions that pertain to the candidate’s qualifications for the job are appropriate.
+</Content>
+</Response>
+<Response id="PS6Brain">
+<ResponseID id="0">PS6Brain</ResponseID>
+<BaseQuestion id="0"></BaseQuestion>
+<Content id="0">
+That’s an interesting question.  Do you know the answer?
+</Content>
+</Response>
+<Response id="HS6Brain">
+<ResponseID id="0">HS6Brain</ResponseID>
+<BaseQuestion id="0"></BaseQuestion>
+<Content id="0">
+Research has shown that questions like that are not predictive of on-the-job performance.
+
+In some situations, like when you’re evaluating for specific skills, these types of questions might be appropriate.
+
+However, in this simulation we are only evaluating behavioral interviewing skills.
+</Content>
+</Response>
+<Response id="PS6Null">
+<ResponseID id="0">PS6Null</ResponseID>
+<BaseQuestion id="0"></BaseQuestion>
+<Content id="0">
+What does that have to do with this job?
+</Content>
+</Response>
+<Response id="HS6Null">
+<ResponseID id="0">HS6Null</ResponseID>
+<BaseQuestion id="0"></BaseQuestion>
+<Content id="0">
+You don’t want to waste everyone’s time by asking irrelevant questions.  Let’s move on.
+</Content>
+</Response>
+<Response id="PS6Impolite">
+<ResponseID id="0">PS6Impolite</ResponseID>
+<BaseQuestion id="0"></BaseQuestion>
+<Content id="0">
+I suppose you're right.
+</Content>
+</Response>
+<Response id="HS6Impolite">
+<ResponseID id="0">HS6Impolite</ResponseID>
+<BaseQuestion id="0"></BaseQuestion>
+<Content id="0">
+Try asking your question again, but remember you want the candidate to feel comfortable sharing both their challenges and strengths.
+</Content>
+</Response>
+<Response id="HEndD001">
+<ResponseID id="0">HEndD001</ResponseID>
+<BaseQuestion id="0"></BaseQuestion>
+<Content id="0">
+You’ve decided that you have all the information you need from Pat to complete the interview guide.
+
+Thank you for taking the Targeted Selection Interviewing Simulation.
+</Content>
+</Response>
+</xml>

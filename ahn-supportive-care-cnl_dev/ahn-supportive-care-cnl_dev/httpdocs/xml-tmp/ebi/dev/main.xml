@@ -1,0 +1,95 @@
+<xml>
+  <Module id='1'>
+    <Heading>
+      Introduction
+    </Heading>
+    <ResponseID>in001</ResponseID>
+    <ResponseID>in003</ResponseID>
+  </Module>
+  <Module id='2'>
+    <Heading>
+      Component 1 Asking Permission
+    </Heading>
+    <ResponseID>ts101</ResponseID>
+    <ResponseID>sp1intro</ResponseID>
+  </Module>
+  <Module id='4'>
+    <Heading>
+      Component 2 Sharing Feedback
+    </Heading>
+    <ResponseID>ts201</ResponseID>
+    <ResponseID>sp2intro</ResponseID>
+  </Module>
+  <Module id='6'>
+    <Heading>
+      Component 3 Open-Ended Questions
+    </Heading>
+    <ResponseID>ts301</ResponseID>
+    <ResponseID>sp3intro</ResponseID>
+  </Module>
+  <Module id='8'>
+    <Heading>
+      Component 4 Importance and Confidence
+    </Heading>
+    <ResponseID>ts401</ResponseID>
+    <ResponseID>sp4intro</ResponseID>
+  </Module>
+  <Module id='10'>
+    <Heading>
+      Component 5 Affirmations
+    </Heading>
+     <ResponseID>ts5intro</ResponseID>
+    <ResponseID>sp501</ResponseID>
+   
+  </Module>
+  <Module id='12'>
+    <Heading>
+      Component 6 Reflections
+    </Heading>
+    <ResponseID>ts600</ResponseID>
+    <ResponseID>sp601</ResponseID>
+  </Module>
+  <Module id='14'>
+    <Heading>
+      Component 7 Summary Statements
+    </Heading>
+    <ResponseID>ts701</ResponseID>
+  </Module>
+  <Module id='15'>
+    <Heading>
+      Component 8 Change Plans
+    </Heading>
+    <ResponseID>ts801</ResponseID>
+    <ResponseID>sp8intro</ResponseID>
+  </Module>
+  <Module id='17'>
+    <Heading>
+      Component 9 CAP
+    </Heading>
+    <ResponseID>ts901</ResponseID>
+  </Module>
+  <Module id='18'>
+    <Heading>
+      Virtual Patient Encounter
+    </Heading>
+    <ResponseID>psintrohost</ResponseID>
+    <ResponseID>ps1host</ResponseID>
+    <ResponseID>ps2hostmotivational</ResponseID>
+    <ResponseID>ps3hostmotivational</ResponseID>
+    <ResponseID>ps4hostmotivational</ResponseID>
+    <ResponseID>ps5hostmotivational</ResponseID>
+    <ResponseID>ps6hostmotivational</ResponseID>
+    <ResponseID>ps7hostmotivational</ResponseID>
+    <ResponseID>ps8hostmotivational</ResponseID>
+    <ResponseID>ps9hostmotivational</ResponseID>
+  </Module>
+  <Module id='19'>
+    <Heading>
+      CAP Survey
+    </Heading>
+    <ResponseID>psconclusion</ResponseID>
+    <ResponseID>sa200</ResponseID>
+    <ResponseID>sa300</ResponseID>
+    <ResponseID>sa400</ResponseID>
+  </Module>
+</xml>

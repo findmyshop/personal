@@ -1,0 +1,497 @@
+@import "../../../medrespond/css/_mixins.less";
+
+@bgColor: #EEE;
+@colorGray: #555555;
+@colorOrange: #f36e21;
+@colorDarkOrange: #c03b00;
+@colorLightOrange: #ffa154;
+
+body.login{
+  #base_controller{
+    background:#FFF;
+  }
+}
+#base_controller{
+  background:@bgColor;
+}
+/*Login Form */
+#mr-login-form{
+  margin-top:10%;
+  margin-bottom:50%;
+}
+#mr-login-title{
+  margin:0px;
+}
+#mr-login-forgot{
+  display:none;
+}
+/* Misc */
+.fake-active {
+  pointer-events: none;
+  cursor: default;
+}
+[ng\:cloak], [ng-cloak], [data-ng-cloak], [x-ng-cloak], .ng-cloak, .x-ng-cloak {
+  display: none !important;
+}
+.btn-primary, .btn-primary[disabled], .btn-primary:focus{
+  background-color:@colorOrange;
+  border-color:@colorDarkOrange;
+  color:#FFF;
+  &:hover, &:active{
+    .box-shadow(~"inset 0px 10px 3px 0px rgba(255,255,255,.1)");
+    background-color:@colorOrange;
+    border-color:@colorDarkOrange;
+  }
+}
+/* Help Content */
+#ic{
+  position:relative;
+  margin:0 50px;
+  h3{
+    font-size:16px;
+    margin-bottom:20px;
+  }
+  #footer{
+    text-align:center;
+    color:#888;
+  }
+  &:after{
+    content:" ";
+    clear:both;
+  }
+}
+.help-back-button{
+  cursor:pointer;
+  position:absolute;
+  left:10px;
+  top:200px;
+}
+.help-forward-button{
+  cursor:pointer;
+  position:absolute;
+  right:10px;
+  top:200px;
+}
+#help-modal{
+  .modal-header{
+    background-color:@colorOrange;
+  }
+  .modal-content{
+    background:#CCC;
+  }
+  .modal-body{
+    .mr-help-text{
+      color:#888;
+      background:#FFF;
+      h4{
+        color:#666;
+      }
+    }
+    .list-group{
+      .list-group-item{
+        background:transparent;
+        border:none;
+        padding:0;
+        a{
+          padding:10px 20px;
+          display:block;
+          color:#666;
+          text-decoration:none;
+        }
+        &:hover{
+          background:rgba(0,0,0,.04);
+        }
+        &.active{
+          color:#FFF;
+          background:@colorGray;
+          a{
+            color: #FFF;
+          }
+          &:hover{
+            background: darken(@colorGray,4%);
+          }
+        }
+        &:first-child{
+          .border-radius(0);
+        }
+        &:last-child{
+          .border-radius(0);
+        }
+      }
+    }
+  }
+}
+#mr-header{
+  //background: @colorGray url('../images/logo-bg.png') left center repeat-x;
+  background: @colorGray;
+  z-index:3;
+  top:0px;
+  left:0px;
+  width:100%;
+  .container-fluid{
+    padding-left:0;
+  }
+  .navbar-logo{
+    float:left;
+    padding:0px;
+    img{
+      height:73px!important;
+    }
+  }
+  .navbar-brand{
+    width:auto;
+    display:block;
+    left:auto;
+    position:absolute;
+    top:5px;
+    right:19px;
+    padding:0;
+    font-size:12px;
+    color:#FFF;
+    text-shadow:1px 1px 1px rgba(0,0,0,.4);
+  }
+  .navbar{
+    border:none;
+    margin:0;
+    .box-shadow(~"none");
+    background:transparent;
+  }
+  .navbar-nav{
+    margin-top:20px;
+    .border-radius(6px);
+    background-color:@colorOrange;
+    border:1px solid @colorDarkOrange;
+    li{
+      a.top-nav-button{
+        color:#FFF;
+        text-shadow:0px 0px 1px rgba(0,0,0,.8);
+        padding:6px 15px;
+      }
+      &.open{
+        a.top-nav-button{
+          background:rgba(0,0,0,.1);
+        }
+      }
+    }
+  }
+  .dropdown-menu{
+    i{
+      .opacity(.5);
+      margin-right:3px;
+      margin-left:-12px;
+    }
+  }
+}
+#mr-footer{
+  clear:left;
+  padding:0;
+  .conversational-branding-text{
+    font-size:8px;
+    .opacity(.8);
+    margin:5px 5px 5px 0px;
+    padding:5px 5px 5px 0px;
+    float:left;
+  }
+}
+#mr-col-middle{
+  padding:0;
+  #mr-video-controls{
+    *{
+     text-shadow:none!important;
+    }
+    margin-top:6px;
+    .mr-vc-r{
+      &:hover{
+        background:#EEE;
+        color:#444;
+      }
+    }
+    .vjs-play-progress{
+      border-color: @colorDarkOrange;
+      .linear-gradient(@color1:@colorLightOrange, @color2:@colorOrange, @stop1:0, @stop2:100%, @deg:180deg);
+    }
+  }
+}
+#mr-video{
+  padding-top:7px;
+  #mr-player{
+    border-color:#AAA;
+  }
+}
+#video-text-div{
+  background:#FFF;
+  border:1px solid #CCC;
+  .border-radius(8px);
+  .mr-is-scroller{
+    padding: 10px 15px;
+  }
+  h4{
+    display:none;
+  }
+}
+/* Right Rail */
+#mr-col-right{
+  padding-right:0;
+  .btn-block{
+
+  }
+  #related-questions{
+    .related-q{
+      position:relative;
+      padding: 0;
+      border-bottom:1px solid #DDD;
+      a{
+        &:hover{
+          color:#333;
+        }
+        color:#888;
+        background: url('../../../medrespond/images/16x16-play.png') 8px center no-repeat;
+        padding:6px;
+        display:block;
+        padding-left:30px;
+      }
+    }
+  }
+}
+.mr-widget{
+  margin-top: 8px;
+  .panel-heading{
+    padding-top:6px!important;
+    padding-bottom:5px!important;
+    border-color: @colorGray;
+  }
+  &.mr-options-widget{
+    .panel-heading{
+      padding-left:38px;
+      background: @colorGray url('../images/icon-16x16-cog.png') 12px center no-repeat;
+    }
+    .panel-body{
+      padding:6px;
+    }
+  }
+  &.mr-related-widget{
+    .panel-heading{
+      padding-left:38px;
+      background: @colorGray url('../images/icon-16x16-help.png') 12px center no-repeat;
+    }
+  }
+  &.mr-playlist-widget{
+    .panel-heading{
+      padding-left:38px;
+      background: @colorGray url('../images/icon-16x16-comment.png') 12px center no-repeat;
+    }
+  }
+  &.mr-phone-widget{
+    .panel-heading{
+      padding-left:38px;
+      background: @colorGray url('../images/icon-16x16-phone.png') 12px center no-repeat;
+    }
+    ul{
+      font-size:12px;
+      color:#888;
+      margin:0;
+      padding:0;
+      list-style:none;
+      li{
+        background: url('../images/icon-dial.png') 11px center no-repeat;
+        border-top:1px solid #DDD;
+        margin:0;
+        padding-left:40px;
+        padding-top:4px;
+        padding-bottom:4px;
+        .tel{
+          color:#888;
+          &:hover{
+            text-decoration:none;
+            color:#777;
+          }
+        }
+      }
+    }
+  }
+  .panel-heading{
+    .border-radius(~"6px 6px 0 0");
+    background-color:@colorGray;
+    color:#FFF;
+  }
+  .panel-body{
+    padding:0;
+    background:#FFF;
+    border:1px solid @colorGray;
+  }
+}
+#mr-input-row{
+  margin-top:6px;
+  margin-bottom:10px;
+}
+#mr-quiz-row{
+  margin-top:3px;
+}
+/* Left Rail */
+#mr-col-left{
+  padding-left:0;
+  min-height:100px;
+  .left-rail-content{
+    padding:0;
+    width:100%;
+    .left-rail-response-list li{
+      list-style:none;
+      margin:0;
+      padding:0;
+    }
+  }
+  .left-rail-panel{
+    margin-top:0;
+    &:last-of-type{
+      .left-rail-heading a.collapsed{
+        .border-radius(~"0 0 6px 6px")!important;
+      }
+      .left-rail-response-body{
+        &.in, &.collapsing{
+          border-bottom:1px solid @colorGray;
+        }
+      }
+    }
+    &:first-of-type{
+      margin-top:8px;
+      .left-rail-heading a{
+        .border-radius(~"6px 6px 0 0")!important;
+      }
+    }
+    border:none;
+    border-top:0px;
+    .left-rail-heading{
+      a:before{
+        content:"";
+        width:16px;
+        height:16px;
+        margin-right:4px;
+        background:url('../images/icon-16x16-bullet-down.png') center center no-repeat;
+        position: relative;
+        top: 0px;
+        display: inline-block;
+        -webkit-font-smoothing: antialiased;
+        font-style: normal;
+        font-weight: normal;
+        line-height: 1;
+        -moz-osx-font-smoothing: grayscale;
+        vertical-align:middle;
+      }
+      a.collapsed:before{
+        background:url('../images/icon-16x16-bullet-right.png') center center no-repeat;
+      }
+    }
+    a{
+      padding:10px;
+      padding-top:6px!important;
+      padding-bottom:5px!important;
+      /*IE8 and 9 need this for some odd reason */
+      display:inline-block;
+      width:100%;
+      &.left-rail-heading-link{
+        background-color:@colorOrange;
+        border:1px solid @colorDarkOrange;
+        color:#FFF;
+        cursor:pointer;
+      }
+    }
+    a.collapsed{
+      &.left-rail-heading-link{
+        border:1px solid @colorGray;
+        border-bottom:1px solid lighten(@colorGray,4%);
+        margin:0;
+        background:@colorGray;
+      }
+    }
+  }
+  .left-rail-heading{
+    text-shadow:0 0 1px black;
+  }
+  .left-rail-direct-link{
+    background:@colorGray;
+  }
+  .left-rail-response-body{
+    padding: 0;
+    background:#FFF;
+    .left-rail-response-list{
+      border-left:1px solid @colorGray;
+      border-right:1px solid @colorGray;
+      margin:0;
+      padding:0;
+      list-style:none;
+      a{
+        &:hover, &.active{
+          color:#333;
+        }
+        color:#777;
+        padding:5px 10px;
+        border-bottom:1px solid #DDD;
+      }
+    }
+  }
+}
+/* Panels */
+.mr-panel-right, .mr-panel-left{
+  padding:0!important;
+  background:#FFF;
+}
+.mr-panel-left{
+  border-right:1px solid #CCC;
+}
+.mr-panel-right{
+  border-left:1px solid #CCC;
+  #related-questions{
+    margin:0!important;
+  }
+}
+/*Scroll Shadow*/
+.mr-is-wrapper{
+    &:after{
+    content:" ";
+    display:block;
+    position:absolute;
+    bottom:0;
+    width:100%;
+    height:20px;
+    .pointer-events();
+    .linear-gradient(@color1:@bgColor, @color2:transparent, @stop1:0, @stop2:100%, @deg:0deg);
+  }
+}
+@media (max-width: 768px){
+  #mr-header{
+    a{
+      padding-left:36px;
+      color:#FFF;
+    }
+    background-position: top left;
+    .navbar-brand{
+      display:none;
+    }
+    .navbar-nav{
+      top:0;
+      margin-top:0;
+      background: @colorOrange;
+
+    }
+  }
+}
+.mr-warning-bottom{
+  font-size:12px!important;
+  img{
+    margin-left:15px;
+  }
+}
+/* American Sign Language Video Language Instructions Box */
+#american-sign-language-interpreting-icon-wrapper{
+  background-color:@colorOrange;
+  padding:5px;
+  margin-right:5px;
+  border-radius:5px;
+}
+#american-sign-language-interpreting-icon{
+  color:white;
+  font-size:24px;
+}
+#video-language-instructions-table{
+  margin:5px;
+}

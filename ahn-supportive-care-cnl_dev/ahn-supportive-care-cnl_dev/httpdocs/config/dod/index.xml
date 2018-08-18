@@ -1,0 +1,2312 @@
+<!--* Index Resource* 03-16-2015-->
+<xml>
+<Response id="dod_1hr_pre_test">
+<ResponseID id="0">dod_1hr_pre_test</ResponseID>
+<BaseQuestion id="0">Pretest</BaseQuestion>
+<Content id="0"></Content>
+</Response>
+<Response id="dod_3hr_pre_test">
+<ResponseID id="0">dod_3hr_pre_test</ResponseID>
+<BaseQuestion id="0">Pretest</BaseQuestion>
+<Content id="0"></Content>
+</Response>
+<Response id="dod_1hr_practice">
+<ResponseID id="0">dod_1hr_practice</ResponseID>
+<BaseQuestion id="0">Practice Test</BaseQuestion>
+<Content id="0"></Content>
+</Response>
+<Response id="dod_3hr_practice">
+<ResponseID id="0">dod_3hr_practice</ResponseID>
+<BaseQuestion id="0">Practice Test</BaseQuestion>
+<Content id="0"></Content>
+</Response>
+<Response id="dod_1hr_post_test_competence">
+<ResponseID id="0">dod_1hr_post_test_competence</ResponseID>
+<BaseQuestion id="0">Competence Post Test</BaseQuestion>
+<Content id="0"></Content>
+</Response>
+<Response id="dod_3hr_post_test_competence">
+<ResponseID id="0">dod_3hr_post_test_competence</ResponseID>
+<BaseQuestion id="0">Competence Post Test</BaseQuestion>
+<Content id="0"></Content>
+</Response>
+<Response id="dod_1hr_post_test_content">
+<ResponseID id="0">dod_1hr_post_test_content</ResponseID>
+<BaseQuestion id="0">Content Post Test</BaseQuestion>
+<Content id="0"></Content>
+</Response>
+<Response id="dod_3hr_post_test_content">
+<ResponseID id="0">dod_3hr_post_test_content</ResponseID>
+<BaseQuestion id="0">Content Post Test</BaseQuestion>
+<Content id="0"></Content>
+</Response>
+<Response id="dod_1hr_post_test_satisfaction">
+<ResponseID id="0">dod_1hr_post_test_satisfaction</ResponseID>
+<BaseQuestion id="0">Satisfaction Post Test</BaseQuestion>
+<Content id="0"></Content>
+</Response>
+<Response id="dod_3hr_post_test_satisfaction">
+<ResponseID id="0">dod_3hr_post_test_satisfaction</ResponseID>
+<BaseQuestion id="0">Satisfaction Post Test</BaseQuestion>
+<Content id="0"></Content>
+</Response>
+<Response id="dod_3hr_mod2_sp1s1">
+<ResponseID id="0">dod_3hr_mod2_sp1s1</ResponseID>
+<BaseQuestion id="0">Module 2: Skill Practice 1</BaseQuestion>
+<Content id="0"></Content>
+</Response>
+<Response id="dod_3hr_mod2_sp1s2">
+<ResponseID id="0">dod_3hr_mod2_sp1s2</ResponseID>
+<BaseQuestion id="0">Module 2: Skill Practice 1 pt. 2</BaseQuestion>
+<Content id="0"></Content>
+</Response>
+<Response id="asb1_did001">
+<ResponseID id="0">asb1_did001</ResponseID>
+<BaseQuestion id="0">Overview</BaseQuestion>
+<Content id="0"></Content>
+</Response>
+<Response id="asb1_did002">
+<ResponseID id="0">asb1_did002</ResponseID>
+<BaseQuestion id="0">Overview</BaseQuestion>
+<Content id="0"></Content>
+</Response>
+<Response id="asb1_did003">
+<ResponseID id="0">asb1_did003</ResponseID>
+<BaseQuestion id="0">AlcoholSBIRT</BaseQuestion>
+<Content id="0"></Content>
+</Response>
+<Response id="asb1_did004">
+<ResponseID id="0">asb1_did004</ResponseID>
+<BaseQuestion id="0">AlcoholSBIRT</BaseQuestion>
+<Content id="0"></Content>
+</Response>
+<Response id="asb1_did005">
+<ResponseID id="0">asb1_did005</ResponseID>
+<BaseQuestion id="0">AlcoholSBIRT</BaseQuestion>
+<Content id="0"></Content>
+</Response>
+<Response id="asb1_did006">
+<ResponseID id="0">asb1_did006</ResponseID>
+<BaseQuestion id="0">Review</BaseQuestion>
+<Content id="0"></Content>
+</Response>
+<Response id="asb1_did007">
+<ResponseID id="0">asb1_did007</ResponseID>
+<BaseQuestion id="0">How AlcoholSBIRT Works</BaseQuestion>
+<Content id="0"></Content>
+</Response>
+<Response id="asb1_did008">
+<ResponseID id="0">asb1_did008</ResponseID>
+<BaseQuestion id="0">How AlcoholSBIRT Works</BaseQuestion>
+<Content id="0"></Content>
+</Response>
+<Response id="asb1_did009">
+<ResponseID id="0">asb1_did009</ResponseID>
+<BaseQuestion id="0">Review</BaseQuestion>
+<Content id="0"></Content>
+</Response>
+<Response id="asb1_did010">
+<ResponseID id="0">asb1_did010</ResponseID>
+<BaseQuestion id="0">Screening with AUDIT-C</BaseQuestion>
+<Content id="0"></Content>
+</Response>
+<Response id="asb1_did011">
+<ResponseID id="0">asb1_did011</ResponseID>
+<BaseQuestion id="0">Screening with AUDIT-C</BaseQuestion>
+<Content id="0"></Content>
+</Response>
+<Response id="asb1_did012">
+<ResponseID id="0">asb1_did012</ResponseID>
+<BaseQuestion id="0">Screening with AUDIT-C</BaseQuestion>
+<Content id="0"></Content>
+</Response>
+<Response id="asb1_did013">
+<ResponseID id="0">asb1_did013</ResponseID>
+<BaseQuestion id="0">Screening with AUDIT-C</BaseQuestion>
+<Content id="0"></Content>
+</Response>
+<Response id="asb1_did014">
+<ResponseID id="0">asb1_did014</ResponseID>
+<BaseQuestion id="0">Screening with AUDIT-C</BaseQuestion>
+<Content id="0"></Content>
+</Response>
+<Response id="asb1_did015">
+<ResponseID id="0">asb1_did015</ResponseID>
+<BaseQuestion id="0">Screening with AUDIT-C</BaseQuestion>
+<Content id="0"></Content>
+</Response>
+<Response id="asb1_mod3_vig1">
+<ResponseID id="0">asb1_mod3_vig1</ResponseID>
+<BaseQuestion id="0">Patient Provider Example</BaseQuestion>
+<Content id="0"></Content>
+</Response>
+<Response id="asb1_did016">
+<ResponseID id="0">asb1_did016</ResponseID>
+<BaseQuestion id="0">Patient Provider Example</BaseQuestion>
+<Content id="0"></Content>
+</Response>
+<Response id="asb1_mod3_sp1intro">
+<ResponseID id="0">asb1_mod3_sp1intro</ResponseID>
+<BaseQuestion id="0">Skill Practice</BaseQuestion>
+<Content id="0"></Content>
+</Response>
+<Response id="asb1_mod3_sp1">
+<ResponseID id="0">asb1_mod3_sp1</ResponseID>
+<BaseQuestion id="0">Skill Practice</BaseQuestion>
+<Content id="0"></Content>
+</Response>
+<Response id="asb1_mod3_sp1pass">
+<ResponseID id="0">asb1_mod3_sp1pass</ResponseID>
+<BaseQuestion id="0"></BaseQuestion>
+<Content id="0"></Content>
+</Response>
+<Response id="asb1_mod3_sp1fail">
+<ResponseID id="0">asb1_mod3_sp1fail</ResponseID>
+<BaseQuestion id="0"></BaseQuestion>
+<Content id="0"></Content>
+</Response>
+<Response id="asb1_did017">
+<ResponseID id="0">asb1_did017</ResponseID>
+<BaseQuestion id="0">Review</BaseQuestion>
+<Content id="0"></Content>
+</Response>
+<Response id="asb1_did018">
+<ResponseID id="0">asb1_did018</ResponseID>
+<BaseQuestion id="0">Bring Attention to Elevated Drinking Levels</BaseQuestion>
+<Content id="0"></Content>
+</Response>
+<Response id="asb1_did019">
+<ResponseID id="0">asb1_did019</ResponseID>
+<BaseQuestion id="0">Bring Attention to Elevated Drinking Levels</BaseQuestion>
+<Content id="0"></Content>
+</Response>
+<Response id="asb1_did020">
+<ResponseID id="0">asb1_did020</ResponseID>
+<BaseQuestion id="0">Bring Attention to Elevated Drinking Levels</BaseQuestion>
+<Content id="0"></Content>
+</Response>
+<Response id="asb1_mod4_vig1">
+<ResponseID id="0">asb1_mod4_vig1</ResponseID>
+<BaseQuestion id="0">Patient Provider Example</BaseQuestion>
+<Content id="0"></Content>
+</Response>
+<Response id="asb1_mod4_sp1intro">
+<ResponseID id="0">asb1_mod4_sp1intro</ResponseID>
+<BaseQuestion id="0">Skill Practice</BaseQuestion>
+<Content id="0"></Content>
+</Response>
+<Response id="asb1_mod4_sp1pass">
+<ResponseID id="0">asb1_mod4_sp1pass</ResponseID>
+<BaseQuestion id="0"></BaseQuestion>
+<Content id="0"></Content>
+</Response>
+<Response id="asb1_mod4_sp1fail">
+<ResponseID id="0">asb1_mod4_sp1fail</ResponseID>
+<BaseQuestion id="0"></BaseQuestion>
+<Content id="0"></Content>
+</Response>
+<Response id="asb1_mod4_sp1s1intro">
+<ResponseID id="0">asb1_mod4_sp1s1intro</ResponseID>
+<BaseQuestion id="0">Skill Practice</BaseQuestion>
+<Content id="0"></Content>
+</Response>
+<Response id="asb1_mod4_sp1s1">
+<ResponseID id="0">asb1_mod4_sp1s1</ResponseID>
+<BaseQuestion id="0">Skill Practice</BaseQuestion>
+<Content id="0"></Content>
+</Response>
+<Response id="asb1_mod4_sp1s1m">
+<ResponseID id="0">asb1_mod4_sp1s1m</ResponseID>
+<BaseQuestion id="0"></BaseQuestion>
+<Content id="0"></Content>
+</Response>
+<Response id="asb1_mod4_sp1s1a">
+<ResponseID id="0">asb1_mod4_sp1s1a</ResponseID>
+<BaseQuestion id="0"></BaseQuestion>
+<Content id="0"></Content>
+</Response>
+<Response id="asb1_mod4_sp1s1d">
+<ResponseID id="0">asb1_mod4_sp1s1d</ResponseID>
+<BaseQuestion id="0"></BaseQuestion>
+<Content id="0"></Content>
+</Response>
+<Response id="asb1_mod4_sp1s1i">
+<ResponseID id="0">asb1_mod4_sp1s1i</ResponseID>
+<BaseQuestion id="0"></BaseQuestion>
+<Content id="0"></Content>
+</Response>
+<Response id="asb1_mod4_sp1s1o">
+<ResponseID id="0">asb1_mod4_sp1s1o</ResponseID>
+<BaseQuestion id="0"></BaseQuestion>
+<Content id="0"></Content>
+</Response>
+<Response id="asb1_mod4_sp1s2intro">
+<ResponseID id="0">asb1_mod4_sp1s2intro</ResponseID>
+<BaseQuestion id="0">Skill Practice</BaseQuestion>
+<Content id="0"></Content>
+</Response>
+<Response id="asb1_mod4_sp1s2">
+<ResponseID id="0">asb1_mod4_sp1s2</ResponseID>
+<BaseQuestion id="0">Skill Practice</BaseQuestion>
+<Content id="0"></Content>
+</Response>
+<Response id="asb1_mod4_sp1s2m">
+<ResponseID id="0">asb1_mod4_sp1s2m</ResponseID>
+<BaseQuestion id="0"></BaseQuestion>
+<Content id="0"></Content>
+</Response>
+<Response id="asb1_mod4_sp1s2a">
+<ResponseID id="0">asb1_mod4_sp1s2a</ResponseID>
+<BaseQuestion id="0"></BaseQuestion>
+<Content id="0"></Content>
+</Response>
+<Response id="asb1_mod4_sp1s2d">
+<ResponseID id="0">asb1_mod4_sp1s2d</ResponseID>
+<BaseQuestion id="0"></BaseQuestion>
+<Content id="0"></Content>
+</Response>
+<Response id="asb1_mod4_sp1s2i">
+<ResponseID id="0">asb1_mod4_sp1s2i</ResponseID>
+<BaseQuestion id="0"></BaseQuestion>
+<Content id="0"></Content>
+</Response>
+<Response id="asb1_mod4_sp1s2o">
+<ResponseID id="0">asb1_mod4_sp1s2o</ResponseID>
+<BaseQuestion id="0"></BaseQuestion>
+<Content id="0"></Content>
+</Response>
+<Response id="asb1_did021">
+<ResponseID id="0">asb1_did021</ResponseID>
+<BaseQuestion id="0">Review</BaseQuestion>
+<Content id="0"></Content>
+</Response>
+<Response id="asb1_did022">
+<ResponseID id="0">asb1_did022</ResponseID>
+<BaseQuestion id="0">Recommending Limiting Use or Abstaining</BaseQuestion>
+<Content id="0"></Content>
+</Response>
+<Response id="asb1_did023">
+<ResponseID id="0">asb1_did023</ResponseID>
+<BaseQuestion id="0">Review</BaseQuestion>
+<Content id="0"></Content>
+</Response>
+<Response id="asb1_did024">
+<ResponseID id="0">asb1_did024</ResponseID>
+<BaseQuestion id="0">Inform about the Effects of Alcohol</BaseQuestion>
+<Content id="0"></Content>
+</Response>
+<Response id="asb1_mod6_vig1">
+<ResponseID id="0">asb1_mod6_vig1</ResponseID>
+<BaseQuestion id="0">Patient Provider Example</BaseQuestion>
+<Content id="0"></Content>
+</Response>
+<Response id="asb1_mod6_sp1intro">
+<ResponseID id="0">asb1_mod6_sp1intro</ResponseID>
+<BaseQuestion id="0">Skill Practice</BaseQuestion>
+<Content id="0"></Content>
+</Response>
+<Response id="asb1_mod6_sp1pass">
+<ResponseID id="0">asb1_mod6_sp1pass</ResponseID>
+<BaseQuestion id="0"></BaseQuestion>
+<Content id="0"></Content>
+</Response>
+<Response id="asb1_mod6_sp1fail">
+<ResponseID id="0">asb1_mod6_sp1fail</ResponseID>
+<BaseQuestion id="0"></BaseQuestion>
+<Content id="0"></Content>
+</Response>
+<Response id="asb1_mod6_sp1s1">
+<ResponseID id="0">asb1_mod6_sp1s1</ResponseID>
+<BaseQuestion id="0">Skill Practice</BaseQuestion>
+<Content id="0"></Content>
+</Response>
+<Response id="asb1_mod6_sp1s1m">
+<ResponseID id="0">asb1_mod6_sp1s1m</ResponseID>
+<BaseQuestion id="0"></BaseQuestion>
+<Content id="0"></Content>
+</Response>
+<Response id="asb1_mod6_sp1s1a">
+<ResponseID id="0">asb1_mod6_sp1s1a</ResponseID>
+<BaseQuestion id="0"></BaseQuestion>
+<Content id="0"></Content>
+</Response>
+<Response id="asb1_mod6_sp1s1d">
+<ResponseID id="0">asb1_mod6_sp1s1d</ResponseID>
+<BaseQuestion id="0"></BaseQuestion>
+<Content id="0"></Content>
+</Response>
+<Response id="asb1_mod6_sp1s1i">
+<ResponseID id="0">asb1_mod6_sp1s1i</ResponseID>
+<BaseQuestion id="0"></BaseQuestion>
+<Content id="0"></Content>
+</Response>
+<Response id="asb1_mod6_sp1s1o">
+<ResponseID id="0">asb1_mod6_sp1s1o</ResponseID>
+<BaseQuestion id="0"></BaseQuestion>
+<Content id="0"></Content>
+</Response>
+<Response id="asb1_mod6_sp1s2">
+<ResponseID id="0">asb1_mod6_sp1s2</ResponseID>
+<BaseQuestion id="0">Skill Practice</BaseQuestion>
+<Content id="0"></Content>
+</Response>
+<Response id="asb1_mod6_sp1s2m">
+<ResponseID id="0">asb1_mod6_sp1s2m</ResponseID>
+<BaseQuestion id="0"></BaseQuestion>
+<Content id="0"></Content>
+</Response>
+<Response id="asb1_mod6_sp1s2a">
+<ResponseID id="0">asb1_mod6_sp1s2a</ResponseID>
+<BaseQuestion id="0"></BaseQuestion>
+<Content id="0"></Content>
+</Response>
+<Response id="asb1_mod6_sp1s2d">
+<ResponseID id="0">asb1_mod6_sp1s2d</ResponseID>
+<BaseQuestion id="0"></BaseQuestion>
+<Content id="0"></Content>
+</Response>
+<Response id="asb1_mod6_sp1s2i">
+<ResponseID id="0">asb1_mod6_sp1s2i</ResponseID>
+<BaseQuestion id="0"></BaseQuestion>
+<Content id="0"></Content>
+</Response>
+<Response id="asb1_mod6_sp1s2o">
+<ResponseID id="0">asb1_mod6_sp1s2o</ResponseID>
+<BaseQuestion id="0"></BaseQuestion>
+<Content id="0"></Content>
+</Response>
+<Response id="asb1_mod6_sp1s3">
+<ResponseID id="0">asb1_mod6_sp1s3</ResponseID>
+<BaseQuestion id="0">Skill Practice</BaseQuestion>
+<Content id="0"></Content>
+</Response>
+<Response id="asb1_mod6_sp1s3m">
+<ResponseID id="0">asb1_mod6_sp1s3m</ResponseID>
+<BaseQuestion id="0"></BaseQuestion>
+<Content id="0"></Content>
+</Response>
+<Response id="asb1_mod6_sp1s3a">
+<ResponseID id="0">asb1_mod6_sp1s3a</ResponseID>
+<BaseQuestion id="0"></BaseQuestion>
+<Content id="0"></Content>
+</Response>
+<Response id="asb1_mod6_sp1s3d">
+<ResponseID id="0">asb1_mod6_sp1s3d</ResponseID>
+<BaseQuestion id="0"></BaseQuestion>
+<Content id="0"></Content>
+</Response>
+<Response id="asb1_mod6_sp1s3i">
+<ResponseID id="0">asb1_mod6_sp1s3i</ResponseID>
+<BaseQuestion id="0"></BaseQuestion>
+<Content id="0"></Content>
+</Response>
+<Response id="asb1_mod6_sp1s3o">
+<ResponseID id="0">asb1_mod6_sp1s3o</ResponseID>
+<BaseQuestion id="0"></BaseQuestion>
+<Content id="0"></Content>
+</Response>
+<Response id="asb1_did025">
+<ResponseID id="0">asb1_did025</ResponseID>
+<BaseQuestion id="0">Review</BaseQuestion>
+<Content id="0"></Content>
+</Response>
+<Response id="asb1_did026">
+<ResponseID id="0">asb1_did026</ResponseID>
+<BaseQuestion id="0">Exploring Low-risk Drinking Goals (OARS)</BaseQuestion>
+<Content id="0"></Content>
+</Response>
+<Response id="asb1_did027">
+<ResponseID id="0">asb1_did027</ResponseID>
+<BaseQuestion id="0">Using Open Ended Questions</BaseQuestion>
+<Content id="0"></Content>
+</Response>
+<Response id="asb1_mod7_vig1">
+<ResponseID id="0">asb1_mod7_vig1</ResponseID>
+<BaseQuestion id="0">Patient Provider Example</BaseQuestion>
+<Content id="0"></Content>
+</Response>
+<Response id="asb1_mod7_sp1intro">
+<ResponseID id="0">asb1_mod7_sp1intro</ResponseID>
+<BaseQuestion id="0">Skill Practice</BaseQuestion>
+<Content id="0"></Content>
+</Response>
+<Response id="asb1_mod7_sp1pass">
+<ResponseID id="0">asb1_mod7_sp1pass</ResponseID>
+<BaseQuestion id="0"></BaseQuestion>
+<Content id="0"></Content>
+</Response>
+<Response id="asb1_mod7_sp1fail">
+<ResponseID id="0">asb1_mod7_sp1fail</ResponseID>
+<BaseQuestion id="0"></BaseQuestion>
+<Content id="0"></Content>
+</Response>
+<Response id="asb1_mod7_sp1s1">
+<ResponseID id="0">asb1_mod7_sp1s1</ResponseID>
+<BaseQuestion id="0">Skill Practice</BaseQuestion>
+<Content id="0"></Content>
+</Response>
+<Response id="asb1_mod7_sp1s1m">
+<ResponseID id="0">asb1_mod7_sp1s1m</ResponseID>
+<BaseQuestion id="0"></BaseQuestion>
+<Content id="0"></Content>
+</Response>
+<Response id="asb1_mod7_sp1s1a">
+<ResponseID id="0">asb1_mod7_sp1s1a</ResponseID>
+<BaseQuestion id="0"></BaseQuestion>
+<Content id="0"></Content>
+</Response>
+<Response id="asb1_mod7_sp1s1d">
+<ResponseID id="0">asb1_mod7_sp1s1d</ResponseID>
+<BaseQuestion id="0"></BaseQuestion>
+<Content id="0"></Content>
+</Response>
+<Response id="asb1_mod7_sp1s1i">
+<ResponseID id="0">asb1_mod7_sp1s1i</ResponseID>
+<BaseQuestion id="0"></BaseQuestion>
+<Content id="0"></Content>
+</Response>
+<Response id="asb1_mod7_sp1s1o">
+<ResponseID id="0">asb1_mod7_sp1s1o</ResponseID>
+<BaseQuestion id="0"></BaseQuestion>
+<Content id="0"></Content>
+</Response>
+<Response id="asb1_mod7_sp1s2">
+<ResponseID id="0">asb1_mod7_sp1s2</ResponseID>
+<BaseQuestion id="0">Skill Practice</BaseQuestion>
+<Content id="0"></Content>
+</Response>
+<Response id="asb1_mod7_sp1s2m">
+<ResponseID id="0">asb1_mod7_sp1s2m</ResponseID>
+<BaseQuestion id="0"></BaseQuestion>
+<Content id="0"></Content>
+</Response>
+<Response id="asb1_mod7_sp1s2a">
+<ResponseID id="0">asb1_mod7_sp1s2a</ResponseID>
+<BaseQuestion id="0"></BaseQuestion>
+<Content id="0"></Content>
+</Response>
+<Response id="asb1_mod7_sp1s2d">
+<ResponseID id="0">asb1_mod7_sp1s2d</ResponseID>
+<BaseQuestion id="0"></BaseQuestion>
+<Content id="0"></Content>
+</Response>
+<Response id="asb1_mod7_sp1s2i">
+<ResponseID id="0">asb1_mod7_sp1s2i</ResponseID>
+<BaseQuestion id="0"></BaseQuestion>
+<Content id="0"></Content>
+</Response>
+<Response id="asb1_mod7_sp1s2o">
+<ResponseID id="0">asb1_mod7_sp1s2o</ResponseID>
+<BaseQuestion id="0"></BaseQuestion>
+<Content id="0"></Content>
+</Response>
+<Response id="asb1_did028">
+<ResponseID id="0">asb1_did028</ResponseID>
+<BaseQuestion id="0">Affirmations</BaseQuestion>
+<Content id="0"></Content>
+</Response>
+<Response id="asb1_mod7_vig2">
+<ResponseID id="0">asb1_mod7_vig2</ResponseID>
+<BaseQuestion id="0">Patient Provider Example</BaseQuestion>
+<Content id="0"></Content>
+</Response>
+<Response id="asb1_did029">
+<ResponseID id="0">asb1_did029</ResponseID>
+<BaseQuestion id="0">Reflections</BaseQuestion>
+<Content id="0"></Content>
+</Response>
+<Response id="asb1_mod7_vig3">
+<ResponseID id="0">asb1_mod7_vig3</ResponseID>
+<BaseQuestion id="0">Patient Provider Example</BaseQuestion>
+<Content id="0"></Content>
+</Response>
+<Response id="asb1_mod7_sp2intro">
+<ResponseID id="0">asb1_mod7_sp2intro</ResponseID>
+<BaseQuestion id="0">Skill Practice</BaseQuestion>
+<Content id="0"></Content>
+</Response>
+<Response id="asb1_mod7_sp2pass">
+<ResponseID id="0">asb1_mod7_sp2pass</ResponseID>
+<BaseQuestion id="0"></BaseQuestion>
+<Content id="0"></Content>
+</Response>
+<Response id="asb1_mod7_sp2fail">
+<ResponseID id="0">asb1_mod7_sp2fail</ResponseID>
+<BaseQuestion id="0"></BaseQuestion>
+<Content id="0"></Content>
+</Response>
+<Response id="asb1_mod7_sp2s1">
+<ResponseID id="0">asb1_mod7_sp2s1</ResponseID>
+<BaseQuestion id="0">Skill Practice</BaseQuestion>
+<Content id="0"></Content>
+</Response>
+<Response id="asb1_mod7_sp2s1m">
+<ResponseID id="0">asb1_mod7_sp2s1m</ResponseID>
+<BaseQuestion id="0"></BaseQuestion>
+<Content id="0"></Content>
+</Response>
+<Response id="asb1_mod7_sp2s1a">
+<ResponseID id="0">asb1_mod7_sp2s1a</ResponseID>
+<BaseQuestion id="0"></BaseQuestion>
+<Content id="0"></Content>
+</Response>
+<Response id="asb1_mod7_sp2s1d">
+<ResponseID id="0">asb1_mod7_sp2s1d</ResponseID>
+<BaseQuestion id="0"></BaseQuestion>
+<Content id="0"></Content>
+</Response>
+<Response id="asb1_mod7_sp2s1i">
+<ResponseID id="0">asb1_mod7_sp2s1i</ResponseID>
+<BaseQuestion id="0"></BaseQuestion>
+<Content id="0"></Content>
+</Response>
+<Response id="asb1_mod7_sp2s1o">
+<ResponseID id="0">asb1_mod7_sp2s1o</ResponseID>
+<BaseQuestion id="0"></BaseQuestion>
+<Content id="0"></Content>
+</Response>
+<Response id="asb1_mod7_sp2s2">
+<ResponseID id="0">asb1_mod7_sp2s2</ResponseID>
+<BaseQuestion id="0">Skill Practice</BaseQuestion>
+<Content id="0"></Content>
+</Response>
+<Response id="asb1_mod7_sp2s2m">
+<ResponseID id="0">asb1_mod7_sp2s2m</ResponseID>
+<BaseQuestion id="0"></BaseQuestion>
+<Content id="0"></Content>
+</Response>
+<Response id="asb1_mod7_sp2s2a">
+<ResponseID id="0">asb1_mod7_sp2s2a</ResponseID>
+<BaseQuestion id="0"></BaseQuestion>
+<Content id="0"></Content>
+</Response>
+<Response id="asb1_mod7_sp2s2d">
+<ResponseID id="0">asb1_mod7_sp2s2d</ResponseID>
+<BaseQuestion id="0"></BaseQuestion>
+<Content id="0"></Content>
+</Response>
+<Response id="asb1_mod7_sp2s2i">
+<ResponseID id="0">asb1_mod7_sp2s2i</ResponseID>
+<BaseQuestion id="0"></BaseQuestion>
+<Content id="0"></Content>
+</Response>
+<Response id="asb1_mod7_sp2s2o">
+<ResponseID id="0">asb1_mod7_sp2s2o</ResponseID>
+<BaseQuestion id="0"></BaseQuestion>
+<Content id="0"></Content>
+</Response>
+<Response id="asb1_did030">
+<ResponseID id="0">asb1_did030</ResponseID>
+<BaseQuestion id="0">Summarizing</BaseQuestion>
+<Content id="0"></Content>
+</Response>
+<Response id="asb1_mod7_vig4">
+<ResponseID id="0">asb1_mod7_vig4</ResponseID>
+<BaseQuestion id="0">Patient Provider Example</BaseQuestion>
+<Content id="0"></Content>
+</Response>
+<Response id="asb1_did031">
+<ResponseID id="0">asb1_did031</ResponseID>
+<BaseQuestion id="0">Review</BaseQuestion>
+<Content id="0"></Content>
+</Response>
+<Response id="asb1_did032">
+<ResponseID id="0">asb1_did032</ResponseID>
+<BaseQuestion id="0">Review</BaseQuestion>
+<Content id="0"></Content>
+</Response>
+<Response id="asb1_did033">
+<ResponseID id="0">asb1_did033</ResponseID>
+<BaseQuestion id="0">Follow-up</BaseQuestion>
+<Content id="0"></Content>
+</Response>
+<Response id="asb1_mod8_vig1">
+<ResponseID id="0">asb1_mod8_vig1</ResponseID>
+<BaseQuestion id="0">Patient Provider Example</BaseQuestion>
+<Content id="0"></Content>
+</Response>
+<Response id="asb1_mod8_sp1intro">
+<ResponseID id="0">asb1_mod8_sp1intro</ResponseID>
+<BaseQuestion id="0">Skill Practice</BaseQuestion>
+<Content id="0"></Content>
+</Response>
+<Response id="asb1_mod8_sp1pass">
+<ResponseID id="0">asb1_mod8_sp1pass</ResponseID>
+<BaseQuestion id="0"></BaseQuestion>
+<Content id="0"></Content>
+</Response>
+<Response id="asb1_mod8_sp1fail">
+<ResponseID id="0">asb1_mod8_sp1fail</ResponseID>
+<BaseQuestion id="0"></BaseQuestion>
+<Content id="0"></Content>
+</Response>
+<Response id="asb1_mod8_sp1s1">
+<ResponseID id="0">asb1_mod8_sp1s1</ResponseID>
+<BaseQuestion id="0">Skill Practice</BaseQuestion>
+<Content id="0"></Content>
+</Response>
+<Response id="asb1_mod8_sp1s1m">
+<ResponseID id="0">asb1_mod8_sp1s1m</ResponseID>
+<BaseQuestion id="0"></BaseQuestion>
+<Content id="0"></Content>
+</Response>
+<Response id="asb1_mod8_sp1s1a">
+<ResponseID id="0">asb1_mod8_sp1s1a</ResponseID>
+<BaseQuestion id="0"></BaseQuestion>
+<Content id="0"></Content>
+</Response>
+<Response id="asb1_mod8_sp1s1d">
+<ResponseID id="0">asb1_mod8_sp1s1d</ResponseID>
+<BaseQuestion id="0"></BaseQuestion>
+<Content id="0"></Content>
+</Response>
+<Response id="asb1_mod8_sp1s1i">
+<ResponseID id="0">asb1_mod8_sp1s1i</ResponseID>
+<BaseQuestion id="0"></BaseQuestion>
+<Content id="0"></Content>
+</Response>
+<Response id="asb1_mod8_sp1s1o">
+<ResponseID id="0">asb1_mod8_sp1s1o</ResponseID>
+<BaseQuestion id="0"></BaseQuestion>
+<Content id="0"></Content>
+</Response>
+<Response id="asb1_mod8_sp1s2">
+<ResponseID id="0">asb1_mod8_sp1s2</ResponseID>
+<BaseQuestion id="0">Skill Practice</BaseQuestion>
+<Content id="0"></Content>
+</Response>
+<Response id="asb1_mod8_sp1s2m">
+<ResponseID id="0">asb1_mod8_sp1s2m</ResponseID>
+<BaseQuestion id="0"></BaseQuestion>
+<Content id="0"></Content>
+</Response>
+<Response id="asb1_mod8_sp1s2a">
+<ResponseID id="0">asb1_mod8_sp1s2a</ResponseID>
+<BaseQuestion id="0"></BaseQuestion>
+<Content id="0"></Content>
+</Response>
+<Response id="asb1_mod8_sp1s2d">
+<ResponseID id="0">asb1_mod8_sp1s2d</ResponseID>
+<BaseQuestion id="0"></BaseQuestion>
+<Content id="0"></Content>
+</Response>
+<Response id="asb1_mod8_sp1s2i">
+<ResponseID id="0">asb1_mod8_sp1s2i</ResponseID>
+<BaseQuestion id="0"></BaseQuestion>
+<Content id="0"></Content>
+</Response>
+<Response id="asb1_mod8_sp1s2o">
+<ResponseID id="0">asb1_mod8_sp1s2o</ResponseID>
+<BaseQuestion id="0"></BaseQuestion>
+<Content id="0"></Content>
+</Response>
+<Response id="asb1_did034">
+<ResponseID id="0">asb1_did034</ResponseID>
+<BaseQuestion id="0">Review</BaseQuestion>
+<Content id="0"></Content>
+</Response>
+<Response id="asb1_did035">
+<ResponseID id="0">asb1_did035</ResponseID>
+<BaseQuestion id="0">Referral to Treatment</BaseQuestion>
+<Content id="0"></Content>
+</Response>
+<Response id="asb1_did036">
+<ResponseID id="0">asb1_did036</ResponseID>
+<BaseQuestion id="0">Continue Referral to Treatment</BaseQuestion>
+<Content id="0"></Content>
+</Response>
+<Response id="asb1_mod9_vig1">
+<ResponseID id="0">asb1_mod9_vig1</ResponseID>
+<BaseQuestion id="0">Patient Provider Example</BaseQuestion>
+<Content id="0"></Content>
+</Response>
+<Response id="asb1_mod9_vig2">
+<ResponseID id="0">asb1_mod9_vig2</ResponseID>
+<BaseQuestion id="0">Patient Provider Example</BaseQuestion>
+<Content id="0"></Content>
+</Response>
+<Response id="asb1_did037">
+<ResponseID id="0">asb1_did037</ResponseID>
+<BaseQuestion id="0">Patient Provider Example</BaseQuestion>
+<Content id="0"></Content>
+</Response>
+<Response id="asb1_mod9_vig3">
+<ResponseID id="0">asb1_mod9_vig3</ResponseID>
+<BaseQuestion id="0">Patient Provider Example</BaseQuestion>
+<Content id="0"></Content>
+</Response>
+<Response id="asb1_did038">
+<ResponseID id="0">asb1_did038</ResponseID>
+<BaseQuestion id="0">Patient Simulation</BaseQuestion>
+<Content id="0"></Content>
+</Response>
+<Response id="asb1_mod10_ps1intro">
+<ResponseID id="0">asb1_mod10_ps1intro</ResponseID>
+<BaseQuestion id="0">Patient Simulation</BaseQuestion>
+<Content id="0"></Content>
+</Response>
+<Response id="asb1_mod10_ps1s1">
+<ResponseID id="0">asb1_mod10_ps1s1</ResponseID>
+<BaseQuestion id="0">Step 1: Bring Attention to Elevated Drinking Levels</BaseQuestion>
+<Content id="0"></Content>
+</Response>
+<Response id="asb1_mod10_ps1s1m">
+<ResponseID id="0">asb1_mod10_ps1s1m</ResponseID>
+<BaseQuestion id="0"></BaseQuestion>
+<Content id="0"></Content>
+</Response>
+<Response id="asb1_mod10_ps1s1a">
+<ResponseID id="0">asb1_mod10_ps1s1a</ResponseID>
+<BaseQuestion id="0"></BaseQuestion>
+<Content id="0"></Content>
+</Response>
+<Response id="asb1_mod10_ps1s1d">
+<ResponseID id="0">asb1_mod10_ps1s1d</ResponseID>
+<BaseQuestion id="0"></BaseQuestion>
+<Content id="0"></Content>
+</Response>
+<Response id="asb1_mod10_ps1s1i">
+<ResponseID id="0">asb1_mod10_ps1s1i</ResponseID>
+<BaseQuestion id="0"></BaseQuestion>
+<Content id="0"></Content>
+</Response>
+<Response id="asb1_mod10_ps1s1o">
+<ResponseID id="0">asb1_mod10_ps1s1o</ResponseID>
+<BaseQuestion id="0"></BaseQuestion>
+<Content id="0"></Content>
+</Response>
+<Response id="asb1_mod10_ps1s2">
+<ResponseID id="0">asb1_mod10_ps1s2</ResponseID>
+<BaseQuestion id="0">Step 2: Recommending Cutting Back or Abstaining</BaseQuestion>
+<Content id="0"></Content>
+</Response>
+<Response id="asb1_mod10_ps1s2m">
+<ResponseID id="0">asb1_mod10_ps1s2m</ResponseID>
+<BaseQuestion id="0"></BaseQuestion>
+<Content id="0"></Content>
+</Response>
+<Response id="asb1_mod10_ps1s2a">
+<ResponseID id="0">asb1_mod10_ps1s2a</ResponseID>
+<BaseQuestion id="0"></BaseQuestion>
+<Content id="0"></Content>
+</Response>
+<Response id="asb1_mod10_ps1s2d">
+<ResponseID id="0">asb1_mod10_ps1s2d</ResponseID>
+<BaseQuestion id="0"></BaseQuestion>
+<Content id="0"></Content>
+</Response>
+<Response id="asb1_mod10_ps1s2i">
+<ResponseID id="0">asb1_mod10_ps1s2i</ResponseID>
+<BaseQuestion id="0"></BaseQuestion>
+<Content id="0"></Content>
+</Response>
+<Response id="asb1_mod10_ps1s2o">
+<ResponseID id="0">asb1_mod10_ps1s2o</ResponseID>
+<BaseQuestion id="0"></BaseQuestion>
+<Content id="0"></Content>
+</Response>
+<Response id="asb1_mod10_ps1s3">
+<ResponseID id="0">asb1_mod10_ps1s3</ResponseID>
+<BaseQuestion id="0">Step 3: Recommending Cutting Back or Abstaining</BaseQuestion>
+<Content id="0"></Content>
+</Response>
+<Response id="asb1_mod10_ps1s3m">
+<ResponseID id="0">asb1_mod10_ps1s3m</ResponseID>
+<BaseQuestion id="0"></BaseQuestion>
+<Content id="0"></Content>
+</Response>
+<Response id="asb1_mod10_ps1s3a">
+<ResponseID id="0">asb1_mod10_ps1s3a</ResponseID>
+<BaseQuestion id="0"></BaseQuestion>
+<Content id="0"></Content>
+</Response>
+<Response id="asb1_mod10_ps1s3d">
+<ResponseID id="0">asb1_mod10_ps1s3d</ResponseID>
+<BaseQuestion id="0"></BaseQuestion>
+<Content id="0"></Content>
+</Response>
+<Response id="asb1_mod10_ps1s3i">
+<ResponseID id="0">asb1_mod10_ps1s3i</ResponseID>
+<BaseQuestion id="0"></BaseQuestion>
+<Content id="0"></Content>
+</Response>
+<Response id="asb1_mod10_ps1s3o">
+<ResponseID id="0">asb1_mod10_ps1s3o</ResponseID>
+<BaseQuestion id="0"></BaseQuestion>
+<Content id="0"></Content>
+</Response>
+<Response id="asb1_mod10_ps1s4">
+<ResponseID id="0">asb1_mod10_ps1s4</ResponseID>
+<BaseQuestion id="0">Step 4: Inform about the Effects of Alcohol</BaseQuestion>
+<Content id="0"></Content>
+</Response>
+<Response id="asb1_mod10_ps1s4m">
+<ResponseID id="0">asb1_mod10_ps1s4m</ResponseID>
+<BaseQuestion id="0"></BaseQuestion>
+<Content id="0"></Content>
+</Response>
+<Response id="asb1_mod10_ps1s4a">
+<ResponseID id="0">asb1_mod10_ps1s4a</ResponseID>
+<BaseQuestion id="0"></BaseQuestion>
+<Content id="0"></Content>
+</Response>
+<Response id="asb1_mod10_ps1s4d">
+<ResponseID id="0">asb1_mod10_ps1s4d</ResponseID>
+<BaseQuestion id="0"></BaseQuestion>
+<Content id="0"></Content>
+</Response>
+<Response id="asb1_mod10_ps1s4i">
+<ResponseID id="0">asb1_mod10_ps1s4i</ResponseID>
+<BaseQuestion id="0"></BaseQuestion>
+<Content id="0"></Content>
+</Response>
+<Response id="asb1_mod10_ps1s4o">
+<ResponseID id="0">asb1_mod10_ps1s4o</ResponseID>
+<BaseQuestion id="0"></BaseQuestion>
+<Content id="0"></Content>
+</Response>
+<Response id="asb1_mod10_ps1s5">
+<ResponseID id="0">asb1_mod10_ps1s5</ResponseID>
+<BaseQuestion id="0">Step 5: Reflections and Affirmations</BaseQuestion>
+<Content id="0"></Content>
+</Response>
+<Response id="asb1_mod10_ps1s5m">
+<ResponseID id="0">asb1_mod10_ps1s5m</ResponseID>
+<BaseQuestion id="0"></BaseQuestion>
+<Content id="0"></Content>
+</Response>
+<Response id="asb1_mod10_ps1s5a">
+<ResponseID id="0">asb1_mod10_ps1s5a</ResponseID>
+<BaseQuestion id="0"></BaseQuestion>
+<Content id="0"></Content>
+</Response>
+<Response id="asb1_mod10_ps1s5d">
+<ResponseID id="0">asb1_mod10_ps1s5d</ResponseID>
+<BaseQuestion id="0"></BaseQuestion>
+<Content id="0"></Content>
+</Response>
+<Response id="asb1_mod10_ps1s5i">
+<ResponseID id="0">asb1_mod10_ps1s5i</ResponseID>
+<BaseQuestion id="0"></BaseQuestion>
+<Content id="0"></Content>
+</Response>
+<Response id="asb1_mod10_ps1s5o">
+<ResponseID id="0">asb1_mod10_ps1s5o</ResponseID>
+<BaseQuestion id="0"></BaseQuestion>
+<Content id="0"></Content>
+</Response>
+<Response id="asb1_mod10_ps1s6">
+<ResponseID id="0">asb1_mod10_ps1s6</ResponseID>
+<BaseQuestion id="0">Step 6: Asking Permission to Follow up</BaseQuestion>
+<Content id="0"></Content>
+</Response>
+<Response id="asb1_mod10_ps1s6m">
+<ResponseID id="0">asb1_mod10_ps1s6m</ResponseID>
+<BaseQuestion id="0"></BaseQuestion>
+<Content id="0"></Content>
+</Response>
+<Response id="asb1_mod10_ps1s6a">
+<ResponseID id="0">asb1_mod10_ps1s6a</ResponseID>
+<BaseQuestion id="0"></BaseQuestion>
+<Content id="0"></Content>
+</Response>
+<Response id="asb1_mod10_ps1s6d">
+<ResponseID id="0">asb1_mod10_ps1s6d</ResponseID>
+<BaseQuestion id="0"></BaseQuestion>
+<Content id="0"></Content>
+</Response>
+<Response id="asb1_mod10_ps1s6i">
+<ResponseID id="0">asb1_mod10_ps1s6i</ResponseID>
+<BaseQuestion id="0"></BaseQuestion>
+<Content id="0"></Content>
+</Response>
+<Response id="asb1_mod10_ps1s6o">
+<ResponseID id="0">asb1_mod10_ps1s6o</ResponseID>
+<BaseQuestion id="0"></BaseQuestion>
+<Content id="0"></Content>
+</Response>
+<Response id="asb1_did039">
+<ResponseID id="0">asb1_did039</ResponseID>
+<BaseQuestion id="0">Closing</BaseQuestion>
+<Content id="0"></Content>
+</Response>
+<!-- THREE HOUR PROGRAM -->
+<Response id="asb3_mod1">
+<ResponseID id="0">asb3_mod1</ResponseID>
+<BaseQuestion id="0">AlcoholSBIRT 3 Hour Program</BaseQuestion>
+<Content id="0"></Content>
+</Response>
+<Response id="asb3_mod2_1">
+<ResponseID id="0">asb3_mod2_1</ResponseID>
+<BaseQuestion id="0">Screening</BaseQuestion>
+<Content id="0"></Content>
+</Response>
+<Response id="asb3_mod2_2">
+<ResponseID id="0">asb3_mod2_2</ResponseID>
+<BaseQuestion id="0">Review</BaseQuestion>
+<Content id="0"></Content>
+</Response>
+<Response id="asb3_mod3">
+<ResponseID id="0">asb3_mod3</ResponseID>
+<BaseQuestion id="0">Brief Intervention</BaseQuestion>
+<Content id="0"></Content>
+</Response>
+<Response id="asb3_mod4_1">
+<ResponseID id="0">asb3_mod4_1</ResponseID>
+<BaseQuestion id="0">Raising the Subject and Building Rapport</BaseQuestion>
+<Content id="0"></Content>
+</Response>
+<Response id="asb3_mod4_2">
+<ResponseID id="0">asb3_mod4_2</ResponseID>
+<BaseQuestion id="0">Review</BaseQuestion>
+<Content id="0"></Content>
+</Response>
+<Response id="asb3_mod5_1">
+<ResponseID id="0">asb3_mod5_1</ResponseID>
+<BaseQuestion id="0">Providing Feedback</BaseQuestion>
+<Content id="0"></Content>
+</Response>
+<Response id="asb3_mod5_2">
+<ResponseID id="0">asb3_mod5_2</ResponseID>
+<BaseQuestion id="0">Review</BaseQuestion>
+<Content id="0"></Content>
+</Response>
+<Response id="asb3_mod6_1">
+<ResponseID id="0">asb3_mod6_1</ResponseID>
+<BaseQuestion id="0">Enhancing Motivation</BaseQuestion>
+<Content id="0"></Content>
+</Response>
+<Response id="asb3_mod6_2">
+<ResponseID id="0">asb3_mod6_2</ResponseID>
+<BaseQuestion id="0">Affirmations / Reflections</BaseQuestion>
+<Content id="0"></Content>
+</Response>
+<Response id="asb3_mod6_3">
+<ResponseID id="0">asb3_mod6_3</ResponseID>
+<BaseQuestion id="0">Review</BaseQuestion>
+<Content id="0"></Content>
+</Response>
+<Response id="asb3_mod7">
+<ResponseID id="0">asb3_mod7</ResponseID>
+<BaseQuestion id="0">Eliciting Change Talk</BaseQuestion>
+<Content id="0"></Content>
+</Response>
+<Response id="asb3_mod8">
+<ResponseID id="0">asb3_mod8</ResponseID>
+<BaseQuestion id="0">Confidence Statements</BaseQuestion>
+<Content id="0"></Content>
+</Response>
+<Response id="asb3_mod9_1">
+<ResponseID id="0">asb3_mod9_1</ResponseID>
+<BaseQuestion id="0">Negotiating and Advising</BaseQuestion>
+<Content id="0"></Content>
+</Response>
+<Response id="asb3_mod9_2">
+<ResponseID id="0">asb3_mod9_2</ResponseID>
+<BaseQuestion id="0">Review</BaseQuestion>
+<Content id="0"></Content>
+</Response>
+<Response id="asb3_mod10">
+<ResponseID id="0">asb3_mod10</ResponseID>
+<BaseQuestion id="0">Referral to Treatment</BaseQuestion>
+<Content id="0"></Content>
+</Response>
+<Response id="asb3_mod11_1">
+<ResponseID id="0">asb3_mod11_1</ResponseID>
+<BaseQuestion id="0">Patient Simulation</BaseQuestion>
+<Content id="0"></Content>
+</Response>
+<Response id="asb3_mod11_2">
+<ResponseID id="0">asb3_mod11_2</ResponseID>
+<BaseQuestion id="0">Closing</BaseQuestion>
+<Content id="0"></Content>
+</Response>
+<Response id="asb3_did001">
+<ResponseID id="0">asb3_did001</ResponseID>
+<BaseQuestion id="0">AlcoholSBIRT Overview</BaseQuestion>
+<Content id="0"></Content>
+</Response>
+<Response id="asb3_did002">
+<ResponseID id="0">asb3_did002</ResponseID>
+<BaseQuestion id="0">AlcoholSBIRT Overview</BaseQuestion>
+<Content id="0"></Content>
+</Response>
+<Response id="asb3_did003">
+<ResponseID id="0">asb3_did003</ResponseID>
+<BaseQuestion id="0">AlcoholSBIRT Overview</BaseQuestion>
+<Content id="0"></Content>
+</Response>
+<Response id="asb3_did004">
+<ResponseID id="0">asb3_did004</ResponseID>
+<BaseQuestion id="0">AlcoholSBIRT Overview</BaseQuestion>
+<Content id="0"></Content>
+</Response>
+<Response id="asb3_did005">
+<ResponseID id="0">asb3_did005</ResponseID>
+<BaseQuestion id="0">AlcoholSBIRT Overview</BaseQuestion>
+<Content id="0"></Content>
+</Response>
+<Response id="asb3_did006">
+<ResponseID id="0">asb3_did006</ResponseID>
+<BaseQuestion id="0">AlcoholSBIRT Overview</BaseQuestion>
+<Content id="0"></Content>
+</Response>
+<Response id="asb3_did007">
+<ResponseID id="0">asb3_did007</ResponseID>
+<BaseQuestion id="0">AlcoholSBIRT Overview</BaseQuestion>
+<Content id="0"></Content>
+</Response>
+<Response id="asb3_did008">
+<ResponseID id="0">asb3_did008</ResponseID>
+<BaseQuestion id="0">AlcoholSBIRT Overview</BaseQuestion>
+<Content id="0"></Content>
+</Response>
+<Response id="asb3_did009">
+<ResponseID id="0">asb3_did009</ResponseID>
+<BaseQuestion id="0">Review</BaseQuestion>
+<Content id="0"></Content>
+</Response>
+<Response id="asb3_did010">
+<ResponseID id="0">asb3_did010</ResponseID>
+<BaseQuestion id="0">AlcoholSBIRT Background</BaseQuestion>
+<Content id="0"></Content>
+</Response>
+<Response id="asb3_did011">
+<ResponseID id="0">asb3_did011</ResponseID>
+<BaseQuestion id="0">AlcoholSBIRT Background</BaseQuestion>
+<Content id="0"></Content>
+</Response>
+<Response id="asb3_did012">
+<ResponseID id="0">asb3_did012</ResponseID>
+<BaseQuestion id="0">AlcoholSBIRT Background</BaseQuestion>
+<Content id="0"></Content>
+</Response>
+<Response id="asb3_mod1_vig1">
+<ResponseID id="0">asb3_mod1_vig1</ResponseID>
+<BaseQuestion id="0">Patient Provider Example</BaseQuestion>
+<Content id="0"></Content>
+</Response>
+<Response id="asb3_did013">
+<ResponseID id="0">asb3_did013</ResponseID>
+<BaseQuestion id="0">Patient Provider Example</BaseQuestion>
+<Content id="0"></Content>
+</Response>
+<Response id="asb3_mod1_vig2">
+<ResponseID id="0">asb3_mod1_vig2</ResponseID>
+<BaseQuestion id="0">Patient Provider Example</BaseQuestion>
+<Content id="0"></Content>
+</Response>
+<Response id="asb3_did014">
+<ResponseID id="0">asb3_did014</ResponseID>
+<BaseQuestion id="0">Review</BaseQuestion>
+<Content id="0"></Content>
+</Response>
+<Response id="asb3_did015">
+<ResponseID id="0">asb3_did015</ResponseID>
+<BaseQuestion id="0">How AlcoholSBIRT Works</BaseQuestion>
+<Content id="0"></Content>
+</Response>
+<Response id="asb3_did016">
+<ResponseID id="0">asb3_did016</ResponseID>
+<BaseQuestion id="0">How AlcoholSBIRT Works</BaseQuestion>
+<Content id="0"></Content>
+</Response>
+<Response id="asb3_did017">
+<ResponseID id="0">asb3_did017</ResponseID>
+<BaseQuestion id="0">How AlcoholSBIRT Works</BaseQuestion>
+<Content id="0"></Content>
+</Response>
+<Response id="asb3_did018">
+<ResponseID id="0">asb3_did018</ResponseID>
+<BaseQuestion id="0">How AlcoholSBIRT Works</BaseQuestion>
+<Content id="0"></Content>
+</Response>
+<Response id="asb3_did019">
+<ResponseID id="0">asb3_did019</ResponseID>
+<BaseQuestion id="0">How AlcoholSBIRT Works</BaseQuestion>
+<Content id="0"></Content>
+</Response>
+<Response id="asb3_did020">
+<ResponseID id="0">asb3_did020</ResponseID>
+<BaseQuestion id="0">How AlcoholSBIRT Works</BaseQuestion>
+<Content id="0"></Content>
+</Response>
+<Response id="asb3_did021">
+<ResponseID id="0">asb3_did021</ResponseID>
+<BaseQuestion id="0">How AlcoholSBIRT Works</BaseQuestion>
+<Content id="0"></Content>
+</Response>
+<Response id="asb3_did022">
+<ResponseID id="0">asb3_did022</ResponseID>
+<BaseQuestion id="0">How AlcoholSBIRT Works</BaseQuestion>
+<Content id="0"></Content>
+</Response>
+<Response id="asb3_did023">
+<ResponseID id="0">asb3_did023</ResponseID>
+<BaseQuestion id="0">How AlcoholSBIRT Works</BaseQuestion>
+<Content id="0"></Content>
+</Response>
+<Response id="asb3_did024">
+<ResponseID id="0">asb3_did024</ResponseID>
+<BaseQuestion id="0">How AlcoholSBIRT Works</BaseQuestion>
+<Content id="0"></Content>
+</Response>
+<Response id="asb3_did024a">
+<ResponseID id="0">asb3_did024a</ResponseID>
+<BaseQuestion id="0">How AlcoholSBIRT Works</BaseQuestion>
+<Content id="0"></Content>
+</Response>
+<Response id="asb3_mod2_vig1">
+<ResponseID id="0">asb3_mod2_vig1</ResponseID>
+<BaseQuestion id="0">Patient Provider Example</BaseQuestion>
+<Content id="0"></Content>
+</Response>
+<Response id="asb3_did025">
+<ResponseID id="0">asb3_did025</ResponseID>
+<BaseQuestion id="0">Patient Provider Example</BaseQuestion>
+<Content id="0"></Content>
+</Response>
+<Response id="asb3_mod2_vig2">
+<ResponseID id="0">asb3_mod2_vig2</ResponseID>
+<BaseQuestion id="0">Patient Provider Example</BaseQuestion>
+<Content id="0"></Content>
+</Response>
+<Response id="asb3_mod2_sp1intro">
+<ResponseID id="0">asb3_mod2_sp1intro</ResponseID>
+<BaseQuestion id="0">Skill Practice</BaseQuestion>
+<Content id="0"></Content>
+</Response>
+<Response id="asb3_did026">
+<ResponseID id="0">asb3_did026</ResponseID>
+<BaseQuestion id="0">Review</BaseQuestion>
+<Content id="0"></Content>
+</Response>
+<Response id="asb3_did027">
+<ResponseID id="0">asb3_did027</ResponseID>
+<BaseQuestion id="0">Brief Intervention</BaseQuestion>
+<Content id="0"></Content>
+</Response>
+<Response id="asb3_did028">
+<ResponseID id="0">asb3_did028</ResponseID>
+<BaseQuestion id="0">Brief Intervention</BaseQuestion>
+<Content id="0"></Content>
+</Response>
+<Response id="asb3_mod3_vig1">
+<ResponseID id="0">asb3_mod3_vig1</ResponseID>
+<BaseQuestion id="0">Patient Provider Example</BaseQuestion>
+<Content id="0"></Content>
+</Response>
+<Response id="asb3_did029">
+<ResponseID id="0">asb3_did029</ResponseID>
+<BaseQuestion id="0">Patient Provider Example</BaseQuestion>
+<Content id="0"></Content>
+</Response>
+<Response id="asb3_did030">
+<ResponseID id="0">asb3_did030</ResponseID>
+<BaseQuestion id="0">Raising the Subject and Building Rapport</BaseQuestion>
+<Content id="0"></Content>
+</Response>
+<Response id="asb3_mod4_vig1">
+<ResponseID id="0">asb3_mod4_vig1</ResponseID>
+<BaseQuestion id="0">Patient Provider Example</BaseQuestion>
+<Content id="0"></Content>
+</Response>
+<Response id="asb3_mod4_sp1intro">
+<ResponseID id="0">asb3_mod4_sp1intro</ResponseID>
+<BaseQuestion id="0">Skill Practice</BaseQuestion>
+<Content id="0"></Content>
+</Response>
+<Response id="asb3_mod4_sp1s1">
+<ResponseID id="0">asb3_mod4_sp1s1</ResponseID>
+<BaseQuestion id="0">Skill Practice</BaseQuestion>
+<Content id="0"></Content>
+</Response>
+<Response id="asb3_mod4_sp1s1m">
+<ResponseID id="0">asb3_mod4_sp1s1m</ResponseID>
+<BaseQuestion id="0"></BaseQuestion>
+<Content id="0"></Content>
+</Response>
+<Response id="asb3_mod4_sp1s1a">
+<ResponseID id="0">asb3_mod4_sp1s1a</ResponseID>
+<BaseQuestion id="0"></BaseQuestion>
+<Content id="0"></Content>
+</Response>
+<Response id="asb3_mod4_sp1s1d">
+<ResponseID id="0">asb3_mod4_sp1s1d</ResponseID>
+<BaseQuestion id="0"></BaseQuestion>
+<Content id="0"></Content>
+</Response>
+<Response id="asb3_mod4_sp1s1i">
+<ResponseID id="0">asb3_mod4_sp1s1i</ResponseID>
+<BaseQuestion id="0"></BaseQuestion>
+<Content id="0"></Content>
+</Response>
+<Response id="asb3_mod4_sp1s1o">
+<ResponseID id="0">asb3_mod4_sp1s1o</ResponseID>
+<BaseQuestion id="0"></BaseQuestion>
+<Content id="0"></Content>
+</Response>
+<Response id="asb3_mod4_sp1s1n">
+<ResponseID id="0">asb3_mod4_sp1s1n</ResponseID>
+<BaseQuestion id="0"></BaseQuestion>
+<WrongAnswer>The goal of this exercise is to ask permission to review the screening results.</WrongAnswer>
+</Response>
+<Response id="asb3_mod4_sp1s2">
+<ResponseID id="0">asb3_mod4_sp1s2</ResponseID>
+<BaseQuestion id="0">Skill Practice</BaseQuestion>
+<Content id="0"></Content>
+</Response>
+<Response id="asb3_mod4_sp1s2m">
+<ResponseID id="0">asb3_mod4_sp1s2m</ResponseID>
+<BaseQuestion id="0"></BaseQuestion>
+<Content id="0"></Content>
+</Response>
+<Response id="asb3_mod4_sp1s2a">
+<ResponseID id="0">asb3_mod4_sp1s2a</ResponseID>
+<BaseQuestion id="0"></BaseQuestion>
+<Content id="0"></Content>
+</Response>
+<Response id="asb3_mod4_sp1s2d">
+<ResponseID id="0">asb3_mod4_sp1s2d</ResponseID>
+<BaseQuestion id="0"></BaseQuestion>
+<Content id="0"></Content>
+</Response>
+<Response id="asb3_mod4_sp1s2i">
+<ResponseID id="0">asb3_mod4_sp1s2i</ResponseID>
+<BaseQuestion id="0"></BaseQuestion>
+<Content id="0"></Content>
+</Response>
+<Response id="asb3_mod4_sp1s2o">
+<ResponseID id="0">asb3_mod4_sp1s2o</ResponseID>
+<BaseQuestion id="0"></BaseQuestion>
+<Content id="0"></Content>
+</Response>
+<Response id="asb3_mod4_sp1s2n">
+<ResponseID id="0">asb3_mod4_sp1s2n</ResponseID>
+<BaseQuestion id="0"></BaseQuestion>
+<WrongAnswer>The goal of this exercise is to ask permission to review the screening results.</WrongAnswer>
+</Response>
+<Response id="asb3_mod4_sp1pass">
+<ResponseID id="0">asb3_mod4_sp1pass</ResponseID>
+<BaseQuestion id="0"></BaseQuestion>
+<Content id="0"></Content>
+</Response>
+<Response id="asb3_mod4_sp1fail">
+<ResponseID id="0">asb3_mod4_sp1fail</ResponseID>
+<BaseQuestion id="0"></BaseQuestion>
+<Content id="0"></Content>
+</Response>
+<Response id="asb3_did031">
+<ResponseID id="0">asb3_did031</ResponseID>
+<BaseQuestion id="0">Review</BaseQuestion>
+<Content id="0"></Content>
+</Response>
+<Response id="asb3_did032">
+<ResponseID id="0">asb3_did032</ResponseID>
+<BaseQuestion id="0">Providing Feedback</BaseQuestion>
+<Content id="0"></Content>
+</Response>
+<Response id="asb3_did033">
+<ResponseID id="0">asb3_did033</ResponseID>
+<BaseQuestion id="0">Providing Feedback</BaseQuestion>
+<Content id="0"></Content>
+</Response>
+<Response id="asb3_did034">
+<ResponseID id="0">asb3_did034</ResponseID>
+<BaseQuestion id="0">Providing Feedback</BaseQuestion>
+<Content id="0"></Content>
+</Response>
+<Response id="asb3_mod5_vig1">
+<ResponseID id="0">asb3_mod5_vig1</ResponseID>
+<BaseQuestion id="0">Patient Provider Example</BaseQuestion>
+<Content id="0"></Content>
+</Response>
+<Response id="asb3_did035">
+<ResponseID id="0">asb3_did035</ResponseID>
+<BaseQuestion id="0">Patient Provider Example</BaseQuestion>
+<Content id="0"></Content>
+</Response>
+<Response id="asb3_mod5_vig2">
+<ResponseID id="0">asb3_mod5_vig2</ResponseID>
+<BaseQuestion id="0">Patient Provider Example</BaseQuestion>
+<Content id="0"></Content>
+</Response>
+<Response id="asb3_mod5_sp1intro">
+<ResponseID id="0">asb3_mod5_sp1intro</ResponseID>
+<BaseQuestion id="0">Skill Practice</BaseQuestion>
+<Content id="0"></Content>
+</Response>
+<Response id="asb3_mod5_sp1s1">
+<ResponseID id="0">asb3_mod5_sp1s1</ResponseID>
+<BaseQuestion id="0">Skill Practice</BaseQuestion>
+<Content id="0"></Content>
+</Response>
+<Response id="asb3_mod5_sp1s1m">
+<ResponseID id="0">asb3_mod5_sp1s1m</ResponseID>
+<BaseQuestion id="0"></BaseQuestion>
+<Content id="0"></Content>
+</Response>
+<Response id="asb3_mod5_sp1s1a">
+<ResponseID id="0">asb3_mod5_sp1s1a</ResponseID>
+<BaseQuestion id="0"></BaseQuestion>
+<Content id="0"></Content>
+</Response>
+<Response id="asb3_mod5_sp1s1d">
+<ResponseID id="0">asb3_mod5_sp1s1d</ResponseID>
+<BaseQuestion id="0"></BaseQuestion>
+<Content id="0"></Content>
+</Response>
+<Response id="asb3_mod5_sp1s1i">
+<ResponseID id="0">asb3_mod5_sp1s1i</ResponseID>
+<BaseQuestion id="0"></BaseQuestion>
+<Content id="0"></Content>
+</Response>
+<Response id="asb3_mod5_sp1s1o">
+<ResponseID id="0">asb3_mod5_sp1s1o</ResponseID>
+<BaseQuestion id="0"></BaseQuestion>
+<Content id="0"></Content>
+</Response>
+<Response id="asb3_mod5_sp1s2intro">
+<ResponseID id="0">asb3_mod5_sp1s2intro</ResponseID>
+<BaseQuestion id="0">Skill Practice</BaseQuestion>
+<Content id="0"></Content>
+</Response>
+<Response id="asb3_mod5_sp1s2">
+<ResponseID id="0">asb3_mod4_sp1s2</ResponseID>
+<BaseQuestion id="0">Skill Practice</BaseQuestion>
+<Content id="0"></Content>
+</Response>
+<Response id="asb3_mod5_sp1s2m">
+<ResponseID id="0">asb3_mod5_sp1s2m</ResponseID>
+<BaseQuestion id="0"></BaseQuestion>
+<Content id="0"></Content>
+</Response>
+<Response id="asb3_mod5_sp1s2a">
+<ResponseID id="0">asb3_mod5_sp1s2a</ResponseID>
+<BaseQuestion id="0"></BaseQuestion>
+<Content id="0"></Content>
+</Response>
+<Response id="asb3_mod5_sp1s2d">
+<ResponseID id="0">asb3_mod5_sp1s2d</ResponseID>
+<BaseQuestion id="0"></BaseQuestion>
+<Content id="0"></Content>
+</Response>
+<Response id="asb3_mod5_sp1s2i">
+<ResponseID id="0">asb3_mod5_sp1s2i</ResponseID>
+<BaseQuestion id="0"></BaseQuestion>
+<Content id="0"></Content>
+</Response>
+<Response id="asb3_mod5_sp1s2o">
+<ResponseID id="0">asb3_mod5_sp1s2o</ResponseID>
+<BaseQuestion id="0"></BaseQuestion>
+<Content id="0"></Content>
+</Response>
+<Response id="asb3_mod5_sp1pass">
+<ResponseID id="0">asb3_mod5_sp1pass</ResponseID>
+<BaseQuestion id="0"></BaseQuestion>
+<Content id="0"></Content>
+</Response>
+<Response id="asb3_mod5_sp1fail">
+<ResponseID id="0">asb3_mod5_sp1fail</ResponseID>
+<BaseQuestion id="0"></BaseQuestion>
+<Content id="0"></Content>
+</Response>
+<Response id="asb3_did036">
+<ResponseID id="0">asb3_did036</ResponseID>
+<BaseQuestion id="0">Review</BaseQuestion>
+<Content id="0"></Content>
+</Response>
+<Response id="asb3_did037">
+<ResponseID id="0">asb3_did037</ResponseID>
+<BaseQuestion id="0">Enhancing Motivation Using OARS</BaseQuestion>
+<Content id="0"></Content>
+</Response>
+<Response id="asb3_did038">
+<ResponseID id="0">asb3_did038</ResponseID>
+<BaseQuestion id="0">Open Ended Questions</BaseQuestion>
+<Content id="0"></Content>
+</Response>
+<Response id="asb3_mod6_vig1">
+<ResponseID id="0">asb3_mod6_vig1</ResponseID>
+<BaseQuestion id="0">Patient Provider Example</BaseQuestion>
+<Content id="0"></Content>
+</Response>
+<Response id="asb3_mod6_sp1intro">
+<ResponseID id="0">asb3_mod6_sp1intro</ResponseID>
+<BaseQuestion id="0">Skill Practice</BaseQuestion>
+<Content id="0"></Content>
+</Response>
+<Response id="asb3_mod6_sp1s1">
+<ResponseID id="0">asb3_mod6_sp1s1</ResponseID>
+<BaseQuestion id="0">Skill Practice</BaseQuestion>
+<Content id="0"></Content>
+</Response>
+<Response id="asb3_mod6_sp1s1m">
+<ResponseID id="0">asb3_mod6_sp1s1m</ResponseID>
+<BaseQuestion id="0"></BaseQuestion>
+<Content id="0"></Content>
+</Response>
+<Response id="asb3_mod6_sp1s1a">
+<ResponseID id="0">asb3_mod6_sp1s1a</ResponseID>
+<BaseQuestion id="0"></BaseQuestion>
+<Content id="0"></Content>
+</Response>
+<Response id="asb3_mod6_sp1s1d">
+<ResponseID id="0">asb3_mod6_sp1s1d</ResponseID>
+<BaseQuestion id="0"></BaseQuestion>
+<Content id="0"></Content>
+</Response>
+<Response id="asb3_mod6_sp1s1i">
+<ResponseID id="0">asb3_mod6_sp1s1i</ResponseID>
+<BaseQuestion id="0"></BaseQuestion>
+<Content id="0"></Content>
+</Response>
+<Response id="asb3_mod6_sp1s1o">
+<ResponseID id="0">asb3_mod6_sp1s1o</ResponseID>
+<BaseQuestion id="0"></BaseQuestion>
+<Content id="0"></Content>
+</Response>
+<Response id="asb3_mod6_sp1s1n">
+<ResponseID id="0">asb3_mod6_sp1s1n</ResponseID>
+<BaseQuestion id="0"></BaseQuestion>
+<WrongAnswer>The goal of this exercise is to ask an open ended question.</WrongAnswer>
+<Content id="0"></Content>
+</Response>
+<Response id="asb3_mod6_sp1s2">
+<ResponseID id="0">asb3_mod4_sp1s2</ResponseID>
+<BaseQuestion id="0">Skill Practice</BaseQuestion>
+<Content id="0"></Content>
+</Response>
+<Response id="asb3_mod6_sp1s2m">
+<ResponseID id="0">asb3_mod6_sp1s2m</ResponseID>
+<BaseQuestion id="0"></BaseQuestion>
+<Content id="0"></Content>
+</Response>
+<Response id="asb3_mod6_sp1s2a">
+<ResponseID id="0">asb3_mod6_sp1s2a</ResponseID>
+<BaseQuestion id="0"></BaseQuestion>
+<Content id="0"></Content>
+</Response>
+<Response id="asb3_mod6_sp1s2d">
+<ResponseID id="0">asb3_mod6_sp1s2d</ResponseID>
+<BaseQuestion id="0"></BaseQuestion>
+<Content id="0"></Content>
+</Response>
+<Response id="asb3_mod6_sp1s2i">
+<ResponseID id="0">asb3_mod6_sp1s2i</ResponseID>
+<BaseQuestion id="0"></BaseQuestion>
+<Content id="0"></Content>
+</Response>
+<Response id="asb3_mod6_sp1s2o">
+<ResponseID id="0">asb3_mod6_sp1s2o</ResponseID>
+<BaseQuestion id="0"></BaseQuestion>
+<Content id="0"></Content>
+</Response>
+<Response id="asb3_mod6_sp1s2n">
+<ResponseID id="0">asb3_mod6_sp1s2n</ResponseID>
+<BaseQuestion id="0"></BaseQuestion>
+<WrongAnswer>The goal of this exercise is to ask an open ended question.</WrongAnswer>
+<Content id="0"></Content>
+</Response>
+<Response id="asb3_mod6_sp1pass">
+<ResponseID id="0">asb3_mod6_sp1pass</ResponseID>
+<BaseQuestion id="0"></BaseQuestion>
+<Content id="0"></Content>
+</Response>
+<Response id="asb3_mod6_sp1fail">
+<ResponseID id="0">asb3_mod6_sp1fail</ResponseID>
+<BaseQuestion id="0"></BaseQuestion>
+<Content id="0"></Content>
+</Response>
+<Response id="asb3_did039">
+<ResponseID id="0">asb3_did039</ResponseID>
+<BaseQuestion id="0">Affirmations</BaseQuestion>
+<Content id="0"></Content>
+</Response>
+<Response id="asb3_mod6_vig2">
+<ResponseID id="0">asb3_mod6_vig2</ResponseID>
+<BaseQuestion id="0">Affirmations</BaseQuestion>
+<Content id="0"></Content>
+</Response>
+<Response id="asb3_did040">
+<ResponseID id="0">asb3_did040</ResponseID>
+<BaseQuestion id="0">Reflections</BaseQuestion>
+<Content id="0"></Content>
+</Response>
+<Response id="asb3_mod6_vig3">
+<ResponseID id="0">asb3_mod6_vig3</ResponseID>
+<BaseQuestion id="0">Reflections</BaseQuestion>
+<Content id="0"></Content>
+</Response>
+<Response id="asb3_mod6_sp2intro">
+<ResponseID id="0">asb3_mod6_sp2intro</ResponseID>
+<BaseQuestion id="0">Skill Practice</BaseQuestion>
+<Content id="0"></Content>
+</Response>
+<Response id="asb3_mod6_sp2s1">
+<ResponseID id="0">asb3_mod6_sp2s1</ResponseID>
+<BaseQuestion id="0">Skill Practice</BaseQuestion>
+<Content id="0"></Content>
+</Response>
+<Response id="asb3_mod6_sp2s1m">
+<ResponseID id="0">asb3_mod6_sp2s1m</ResponseID>
+<BaseQuestion id="0"></BaseQuestion>
+<Content id="0"></Content>
+</Response>
+<Response id="asb3_mod6_sp2s1a">
+<ResponseID id="0">asb3_mod6_sp2s1a</ResponseID>
+<BaseQuestion id="0"></BaseQuestion>
+<Content id="0"></Content>
+</Response>
+<Response id="asb3_mod6_sp2s1d">
+<ResponseID id="0">asb3_mod6_sp2s1d</ResponseID>
+<BaseQuestion id="0"></BaseQuestion>
+<Content id="0"></Content>
+</Response>
+<Response id="asb3_mod6_sp2s1i">
+<ResponseID id="0">asb3_mod6_sp2s1i</ResponseID>
+<BaseQuestion id="0"></BaseQuestion>
+<Content id="0"></Content>
+</Response>
+<Response id="asb3_mod6_sp2s1o">
+<ResponseID id="0">asb3_mod6_sp2s1o</ResponseID>
+<BaseQuestion id="0"></BaseQuestion>
+<Content id="0"></Content>
+</Response>
+<Response id="asb3_mod6_sp2s2intro">
+<ResponseID id="0">asb3_mod6_sp2s2intro</ResponseID>
+<BaseQuestion id="0">Skill Practice</BaseQuestion>
+<Content id="0"></Content>
+</Response>
+<Response id="asb3_mod6_sp2s2">
+<ResponseID id="0">asb3_mod4_sp1s2</ResponseID>
+<BaseQuestion id="0">Skill Practice</BaseQuestion>
+<Content id="0"></Content>
+</Response>
+<Response id="asb3_mod6_sp2s2m">
+<ResponseID id="0">asb3_mod6_sp2s2m</ResponseID>
+<BaseQuestion id="0"></BaseQuestion>
+<Content id="0"></Content>
+</Response>
+<Response id="asb3_mod6_sp2s2a">
+<ResponseID id="0">asb3_mod6_sp2s2a</ResponseID>
+<BaseQuestion id="0"></BaseQuestion>
+<Content id="0"></Content>
+</Response>
+<Response id="asb3_mod6_sp2s2d">
+<ResponseID id="0">asb3_mod6_sp2s2d</ResponseID>
+<BaseQuestion id="0"></BaseQuestion>
+<Content id="0"></Content>
+</Response>
+<Response id="asb3_mod6_sp2s2i">
+<ResponseID id="0">asb3_mod6_sp2s2i</ResponseID>
+<BaseQuestion id="0"></BaseQuestion>
+<Content id="0"></Content>
+</Response>
+<Response id="asb3_mod6_sp2s2o">
+<ResponseID id="0">asb3_mod6_sp2s2o</ResponseID>
+<BaseQuestion id="0"></BaseQuestion>
+<Content id="0"></Content>
+</Response>
+<Response id="asb3_mod6_sp2pass">
+<ResponseID id="0">asb3_mod6_sp2pass</ResponseID>
+<BaseQuestion id="0"></BaseQuestion>
+<Content id="0"></Content>
+</Response>
+<Response id="asb3_mod6_sp2fail">
+<ResponseID id="0">asb3_mod6_sp2fail</ResponseID>
+<BaseQuestion id="0"></BaseQuestion>
+<Content id="0"></Content>
+</Response>
+<Response id="asb3_did041">
+<ResponseID id="0">asb3_did041</ResponseID>
+<BaseQuestion id="0">Summarization</BaseQuestion>
+<Content id="0"></Content>
+</Response>
+<Response id="asb3_mod6_vig4">
+<ResponseID id="0">asb3_mod6_vig4</ResponseID>
+<BaseQuestion id="0">Summarization</BaseQuestion>
+<Content id="0"></Content>
+</Response>
+<Response id="asb3_did041a">
+<ResponseID id="0">asb3_did041a</ResponseID>
+<BaseQuestion id="0">Summarization</BaseQuestion>
+<Content id="0"></Content>
+</Response>
+<Response id="asb3_did042">
+<ResponseID id="0">asb3_did042</ResponseID>
+<BaseQuestion id="0">Eliciting Change Talk</BaseQuestion>
+<Content id="0"></Content>
+</Response>
+<Response id="asb3_did043">
+<ResponseID id="0">asb3_did043</ResponseID>
+<BaseQuestion id="0">Eliciting Change Talk</BaseQuestion>
+<Content id="0"></Content>
+</Response>
+<Response id="asb3_mod7_vig1">
+<ResponseID id="0">asb3_mod7_vig1</ResponseID>
+<BaseQuestion id="0">Patient Provider Example</BaseQuestion>
+<Content id="0"></Content>
+</Response>
+<Response id="asb3_did044">
+<ResponseID id="0">asb3_did044</ResponseID>
+<BaseQuestion id="0">Patient Provider Example</BaseQuestion>
+<Content id="0"></Content>
+</Response>
+<Response id="asb3_mod7_vig2">
+<ResponseID id="0">asb3_mod7_vig2</ResponseID>
+<BaseQuestion id="0">Patient Provider Example</BaseQuestion>
+<Content id="0"></Content>
+</Response>
+<Response id="asb3_did045">
+<ResponseID id="0">asb3_did045</ResponseID>
+<BaseQuestion id="0">Patient Provider Example</BaseQuestion>
+<Content id="0"></Content>
+</Response>
+<Response id="asb3_did046">
+<ResponseID id="0">asb3_did046</ResponseID>
+<BaseQuestion id="0">Patient Provider Example</BaseQuestion>
+<Content id="0"></Content>
+</Response>
+<Response id="asb3_did047">
+<ResponseID id="0">asb3_did047</ResponseID>
+<BaseQuestion id="0">Review</BaseQuestion>
+<Content id="0"></Content>
+</Response>
+<Response id="asb3_mod7_sp1intro">
+<ResponseID id="0">asb3_mod7_sp1intro</ResponseID>
+<BaseQuestion id="0">Skill Practice</BaseQuestion>
+<Content id="0"></Content>
+</Response>
+<Response id="asb3_mod7_sp1s1">
+<ResponseID id="0">asb3_mod7_sp1s1</ResponseID>
+<BaseQuestion id="0">Skill Practice</BaseQuestion>
+<Content id="0"></Content>
+</Response>
+<Response id="asb3_mod7_sp1s1m">
+<ResponseID id="0">asb3_mod7_sp1s1m</ResponseID>
+<BaseQuestion id="0"></BaseQuestion>
+<Content id="0"></Content>
+</Response>
+<Response id="asb3_mod7_sp1s1a">
+<ResponseID id="0">asb3_mod7_sp1s1a</ResponseID>
+<BaseQuestion id="0"></BaseQuestion>
+<Content id="0"></Content>
+</Response>
+<Response id="asb3_mod7_sp1s1d">
+<ResponseID id="0">asb3_mod7_sp1s1d</ResponseID>
+<BaseQuestion id="0"></BaseQuestion>
+<Content id="0"></Content>
+</Response>
+<Response id="asb3_mod7_sp1s1i">
+<ResponseID id="0">asb3_mod7_sp1s1i</ResponseID>
+<BaseQuestion id="0"></BaseQuestion>
+<Content id="0"></Content>
+</Response>
+<Response id="asb3_mod7_sp1s1o">
+<ResponseID id="0">asb3_mod7_sp1s1o</ResponseID>
+<BaseQuestion id="0"></BaseQuestion>
+<Content id="0"></Content>
+</Response>
+<Response id="asb3_mod7_sp1s2">
+<ResponseID id="0">asb3_mod4_sp1s2</ResponseID>
+<BaseQuestion id="0">Skill Practice</BaseQuestion>
+<Content id="0"></Content>
+</Response>
+<Response id="asb3_mod7_sp1s2m">
+<ResponseID id="0">asb3_mod7_sp1s2m</ResponseID>
+<BaseQuestion id="0"></BaseQuestion>
+<Content id="0"></Content>
+</Response>
+<Response id="asb3_mod7_sp1s2a">
+<ResponseID id="0">asb3_mod7_sp1s2a</ResponseID>
+<BaseQuestion id="0"></BaseQuestion>
+<Content id="0"></Content>
+</Response>
+<Response id="asb3_mod7_sp1s2d">
+<ResponseID id="0">asb3_mod7_sp1s2d</ResponseID>
+<BaseQuestion id="0"></BaseQuestion>
+<Content id="0"></Content>
+</Response>
+<Response id="asb3_mod7_sp1s2i">
+<ResponseID id="0">asb3_mod7_sp1s2i</ResponseID>
+<BaseQuestion id="0"></BaseQuestion>
+<Content id="0"></Content>
+</Response>
+<Response id="asb3_mod7_sp1s2o">
+<ResponseID id="0">asb3_mod7_sp1s2o</ResponseID>
+<BaseQuestion id="0"></BaseQuestion>
+<Content id="0"></Content>
+</Response>
+<Response id="asb3_mod7_sp1pass">
+<ResponseID id="0">asb3_mod7_sp1pass</ResponseID>
+<BaseQuestion id="0"></BaseQuestion>
+<Content id="0"></Content>
+</Response>
+<Response id="asb3_mod7_sp1fail">
+<ResponseID id="0">asb3_mod7_sp1fail</ResponseID>
+<BaseQuestion id="0"></BaseQuestion>
+<Content id="0"></Content>
+</Response>
+<Response id="asb3_did048">
+<ResponseID id="0">asb3_did048</ResponseID>
+<BaseQuestion id="0">Confidence Statements</BaseQuestion>
+<Content id="0"></Content>
+</Response>
+<Response id="asb3_mod8_vig1">
+<ResponseID id="0">asb3_mod8_vig1</ResponseID>
+<BaseQuestion id="0">Patient Provider Example</BaseQuestion>
+<Content id="0"></Content>
+</Response>
+<Response id="asb3_did049">
+<ResponseID id="0">asb3_did049</ResponseID>
+<BaseQuestion id="0">Patient Provider Example</BaseQuestion>
+<Content id="0"></Content>
+</Response>
+<Response id="asb3_mod8_vig2">
+<ResponseID id="0">asb3_mod8_vig2</ResponseID>
+<BaseQuestion id="0">Patient Provider Example</BaseQuestion>
+<Content id="0"></Content>
+</Response>
+<Response id="asb3_did050">
+<ResponseID id="0">asb3_did050</ResponseID>
+<BaseQuestion id="0">Negotiating and Advising</BaseQuestion>
+<Content id="0"></Content>
+</Response>
+<Response id="asb3_mod9_vig1">
+<ResponseID id="0">asb3_mod9_vig1</ResponseID>
+<BaseQuestion id="0">Patient Provider Example</BaseQuestion>
+<Content id="0"></Content>
+</Response>
+<Response id="asb3_did051">
+<ResponseID id="0">asb3_did051</ResponseID>
+<BaseQuestion id="0">Patient Provider Example</BaseQuestion>
+<Content id="0"></Content>
+</Response>
+<Response id="asb3_mod9_sp1intro">
+<ResponseID id="0">asb3_mod9_sp1intro</ResponseID>
+<BaseQuestion id="0">Skill Practice</BaseQuestion>
+<Content id="0"></Content>
+</Response>
+<Response id="asb3_mod9_sp1s1">
+<ResponseID id="0">asb3_mod9_sp1s1</ResponseID>
+<BaseQuestion id="0">Skill Practice</BaseQuestion>
+<Content id="0"></Content>
+</Response>
+<Response id="asb3_mod9_sp1s1m">
+<ResponseID id="0">asb3_mod9_sp1s1m</ResponseID>
+<BaseQuestion id="0"></BaseQuestion>
+<Content id="0"></Content>
+</Response>
+<Response id="asb3_mod9_sp1s1a">
+<ResponseID id="0">asb3_mod9_sp1s1a</ResponseID>
+<BaseQuestion id="0"></BaseQuestion>
+<Content id="0"></Content>
+</Response>
+<Response id="asb3_mod9_sp1s1d">
+<ResponseID id="0">asb3_mod9_sp1s1d</ResponseID>
+<BaseQuestion id="0"></BaseQuestion>
+<Content id="0"></Content>
+</Response>
+<Response id="asb3_mod9_sp1s1i">
+<ResponseID id="0">asb3_mod9_sp1s1i</ResponseID>
+<BaseQuestion id="0"></BaseQuestion>
+<Content id="0"></Content>
+</Response>
+<Response id="asb3_mod9_sp1s1o">
+<ResponseID id="0">asb3_mod9_sp1s1o</ResponseID>
+<BaseQuestion id="0"></BaseQuestion>
+<Content id="0"></Content>
+</Response>
+<Response id="asb3_mod9_sp1s2">
+<ResponseID id="0">asb3_mod9_sp1s2</ResponseID>
+<BaseQuestion id="0">Skill Practice</BaseQuestion>
+<Content id="0"></Content>
+</Response>
+<Response id="asb3_mod9_sp1s2m">
+<ResponseID id="0">asb3_mod9_sp1s2m</ResponseID>
+<BaseQuestion id="0"></BaseQuestion>
+<Content id="0"></Content>
+</Response>
+<Response id="asb3_mod9_sp1s2a">
+<ResponseID id="0">asb3_mod9_sp1s2a</ResponseID>
+<BaseQuestion id="0"></BaseQuestion>
+<Content id="0"></Content>
+</Response>
+<Response id="asb3_mod9_sp1s2d">
+<ResponseID id="0">asb3_mod9_sp1s2d</ResponseID>
+<BaseQuestion id="0"></BaseQuestion>
+<Content id="0"></Content>
+</Response>
+<Response id="asb3_mod9_sp1s2i">
+<ResponseID id="0">asb3_mod9_sp1s2i</ResponseID>
+<BaseQuestion id="0"></BaseQuestion>
+<Content id="0"></Content>
+</Response>
+<Response id="asb3_mod9_sp1s2o">
+<ResponseID id="0">asb3_mod9_sp1s2o</ResponseID>
+<BaseQuestion id="0"></BaseQuestion>
+<Content id="0"></Content>
+</Response>
+<Response id="asb3_mod9_sp1pass">
+<ResponseID id="0">asb3_mod9_sp1pass</ResponseID>
+<BaseQuestion id="0">Skill Practice</BaseQuestion>
+<Content id="0"></Content>
+</Response>
+<Response id="asb3_mod9_sp1fail">
+<ResponseID id="0">asb3_mod9_sp1fail</ResponseID>
+<BaseQuestion id="0">Skill Practice</BaseQuestion>
+<Content id="0"></Content>
+</Response>
+<Response id="asb3_did052">
+<ResponseID id="0">asb3_did052</ResponseID>
+<BaseQuestion id="0">Referral to Treatment</BaseQuestion>
+<Content id="0"></Content>
+</Response>
+<Response id="asb3_did053">
+<ResponseID id="0">asb3_did053</ResponseID>
+<BaseQuestion id="0">Referral to Treatment</BaseQuestion>
+<Content id="0"></Content>
+</Response>
+<Response id="asb3_did054">
+<ResponseID id="0">asb3_did054</ResponseID>
+<BaseQuestion id="0">Referral to Treatment</BaseQuestion>
+<Content id="0"></Content>
+</Response>
+<Response id="asb3_did054a">
+<ResponseID id="0">asb3_did054a</ResponseID>
+<BaseQuestion id="0">Referral to Treatment</BaseQuestion>
+<Content id="0"></Content>
+</Response>
+<Response id="asb3_did055">
+<ResponseID id="0">asb3_did055</ResponseID>
+<BaseQuestion id="0">Referral to Treatment</BaseQuestion>
+<Content id="0"></Content>
+</Response>
+<Response id="asb3_mod10_vig1">
+<ResponseID id="0">asb3_mod10_vig1</ResponseID>
+<BaseQuestion id="0">Patient Provider Example</BaseQuestion>
+<Content id="0"></Content>
+</Response>
+<Response id="asb3_mod10_vig2">
+<ResponseID id="0">asb3_mod10_vig2</ResponseID>
+<BaseQuestion id="0">Patient Provider Example</BaseQuestion>
+<Content id="0"></Content>
+</Response>
+<Response id="asb3_did056">
+<ResponseID id="0">asb3_did056</ResponseID>
+<BaseQuestion id="0">Patient Provider Example</BaseQuestion>
+<Content id="0"></Content>
+</Response>
+<Response id="asb3_did057">
+<ResponseID id="0">asb3_did057</ResponseID>
+<BaseQuestion id="0">Patient Provider Example</BaseQuestion>
+<Content id="0"></Content>
+</Response>
+<Response id="asb3_did058">
+<ResponseID id="0">asb3_did058</ResponseID>
+<BaseQuestion id="0">Patient Provider Example</BaseQuestion>
+<Content id="0"></Content>
+</Response>
+<Response id="asb3_mod11_ps1intro">
+<ResponseID id="0">asb3_mod11_ps1intro</ResponseID>
+<BaseQuestion id="0">Step 1: Raising the Subject &amp; Building Rapport</BaseQuestion>
+<Content id="0"></Content>
+</Response>
+<Response id="asb3_mod11_ps1s1">
+<ResponseID id="0">asb3_mod11_ps1s1</ResponseID>
+<BaseQuestion id="0">Step 1: Raising the Subject &amp; Building Rapport</BaseQuestion>
+<Content id="0">A successful response includes a description of your role, such as, "I am LCDR Valens, an internal behavioral health consultant here at the clinic."</Content>
+</Response>
+<Response id="asb3_mod11_ps1s1m">
+<ResponseID id="0">asb3_mod11_ps1s1m</ResponseID>
+<BaseQuestion id="0"></BaseQuestion>
+<Content id="0"></Content>
+</Response>
+<Response id="asb3_mod11_ps1s1a">
+<ResponseID id="0">asb3_mod11_ps1s1a</ResponseID>
+<BaseQuestion id="0"></BaseQuestion>
+<Content id="0"></Content>
+<WrongAnswer>The goal of this exercise is to introduce yourself to Captain Miller.</WrongAnswer>
+</Response>
+<Response id="asb3_mod11_ps1s1d">
+<ResponseID id="0">asb3_mod11_ps1s1d</ResponseID>
+<BaseQuestion id="0"></BaseQuestion>
+<Content id="0"></Content>
+<WrongAnswer>The goal of this exercise is to introduce yourself to Captain Miller.</WrongAnswer>
+</Response>
+<Response id="asb3_mod11_ps1s1i">
+<ResponseID id="0">asb3_mod11_ps1s1i</ResponseID>
+<BaseQuestion id="0"></BaseQuestion>
+<Content id="0"></Content>
+<WrongAnswer>The goal of this exercise is to introduce yourself to Captain Miller.</WrongAnswer>
+</Response>
+<Response id="asb3_mod11_ps1s1o">
+<ResponseID id="0">asb3_mod11_ps1s1o</ResponseID>
+<BaseQuestion id="0"></BaseQuestion>
+<Content id="0"></Content>
+<WrongAnswer>The goal of this exercise is to introduce yourself to Captain Miller.</WrongAnswer>
+</Response>
+<Response id="asb3_mod11_ps1s2">
+<ResponseID id="0">asb3_mod11_ps1s2</ResponseID>
+<BaseQuestion id="0">Step 2: Asking Permission to Review Screening</BaseQuestion>
+<Content id="0"></Content>
+</Response>
+<Response id="asb3_mod11_ps1s2m">
+<ResponseID id="0">asb3_mod11_ps1s2m</ResponseID>
+<BaseQuestion id="0"></BaseQuestion>
+<Content id="0"></Content>
+</Response>
+<Response id="asb3_mod11_ps1s2a">
+<ResponseID id="0">asb3_mod11_ps1s2a</ResponseID>
+<BaseQuestion id="0"></BaseQuestion>
+<Content id="0"></Content>
+<WrongAnswer>The goal of this exercise is to ask permission to review the screening results.</WrongAnswer>
+</Response>
+<Response id="asb3_mod11_ps1s2d">
+<ResponseID id="0">asb3_mod11_ps1s2d</ResponseID>
+<BaseQuestion id="0"></BaseQuestion>
+<Content id="0"></Content>
+<WrongAnswer>The goal of this exercise is to ask permission to review the screening results.</WrongAnswer>
+</Response>
+<Response id="asb3_mod11_ps1s2i">
+<ResponseID id="0">asb3_mod11_ps1s2i</ResponseID>
+<BaseQuestion id="0"></BaseQuestion>
+<Content id="0"></Content>
+<WrongAnswer>The goal of this exercise is to ask permission to review the screening results.</WrongAnswer>
+</Response>
+<Response id="asb3_mod11_ps1s2o">
+<ResponseID id="0">asb3_mod11_ps1s2o</ResponseID>
+<BaseQuestion id="0"></BaseQuestion>
+<Content id="0"></Content>
+<WrongAnswer>The goal of this exercise is to ask permission to review the screening results.</WrongAnswer>
+</Response>
+<Response id="asb3_mod11_ps1s3">
+<ResponseID id="0">asb3_mod11_ps1s3</ResponseID>
+<BaseQuestion id="0">Step 3: Reviewing Audit-C Screening</BaseQuestion>
+<Content id="0"></Content>
+</Response>
+<Response id="asb3_mod11_ps1s3m">
+<ResponseID id="0">asb3_mod11_ps1s3m</ResponseID>
+<BaseQuestion id="0"></BaseQuestion>
+<Content id="0"></Content>
+</Response>
+<Response id="asb3_mod11_ps1s3a">
+<ResponseID id="0">asb3_mod11_ps1s3a</ResponseID>
+<BaseQuestion id="0"></BaseQuestion>
+<Content id="0"></Content>
+</Response>
+<Response id="asb3_mod11_ps1s3d">
+<ResponseID id="0">asb3_mod11_ps1s3d</ResponseID>
+<BaseQuestion id="0"></BaseQuestion>
+<Content id="0"></Content>
+</Response>
+<Response id="asb3_mod11_ps1s3i">
+<ResponseID id="0">asb3_mod11_ps1s3i</ResponseID>
+<BaseQuestion id="0"></BaseQuestion>
+<Content id="0"></Content>
+</Response>
+<Response id="asb3_mod11_ps1s3o">
+<ResponseID id="0">asb3_mod11_ps1s3o</ResponseID>
+<BaseQuestion id="0"></BaseQuestion>
+<Content id="0"></Content>
+</Response>
+<Response id="asb3_mod11_ps1s4intro">
+<ResponseID id="0">asb3_mod11_ps1s4intro</ResponseID>
+<BaseQuestion id="0">Step 4: Bring attention to Elevated Drinking Levels</BaseQuestion>
+<Content id="0"></Content>
+</Response>
+<Response id="asb3_mod11_ps1s4q4">
+<ResponseID id="0">asb3_mod11_ps1s4q4</ResponseID>
+<BaseQuestion id="0"></BaseQuestion>
+<Content id="0">Enter the numerical score that corresponds to Captain Miller's response.</Content>
+</Response>
+<Response id="asb3_mod11_ps1s4q5">
+<ResponseID id="0">asb3_mod11_ps1s4q5</ResponseID>
+<BaseQuestion id="0"></BaseQuestion>
+<Content id="0">Enter the numerical score that corresponds to Captain Miller's response.</Content>
+</Response>
+<Response id="asb3_mod11_ps1s4q6">
+<ResponseID id="0">asb3_mod11_ps1s4q6</ResponseID>
+<BaseQuestion id="0"></BaseQuestion>
+<Content id="0">Enter the numerical score that corresponds to Captain Miller's response.</Content>
+</Response>
+<Response id="asb3_mod11_ps1s4q7">
+<ResponseID id="0">asb3_mod11_ps1s4q7</ResponseID>
+<BaseQuestion id="0"></BaseQuestion>
+<Content id="0">Enter the numerical score that corresponds to Captain Miller's response.</Content>
+</Response>
+<Response id="asb3_mod11_ps1s4q8">
+<ResponseID id="0">asb3_mod11_ps1s4q8</ResponseID>
+<BaseQuestion id="0"></BaseQuestion>
+<Content id="0">Enter the numerical score that corresponds to Captain Miller's response.</Content>
+</Response>
+<Response id="asb3_mod11_ps1s4q9">
+<ResponseID id="0">asb3_mod11_ps1s4q9</ResponseID>
+<BaseQuestion id="0"></BaseQuestion>
+<Content id="0">Enter the numerical score that corresponds to Captain Miller's response.</Content>
+</Response>
+<Response id="asb3_mod11_ps1s4q10">
+<ResponseID id="0">asb3_mod11_ps1s4q10</ResponseID>
+<BaseQuestion id="0"></BaseQuestion>
+<Content id="0">Enter the numerical score that corresponds to Captain Miller's response.</Content>
+</Response>
+<Response id="asb3_mod11_ps1s4">
+<ResponseID id="0">asb3_mod11_ps1s4</ResponseID>
+<BaseQuestion id="0">Step 4: Bring Attention to Elevated Drinking Levels</BaseQuestion>
+<Content id="0"></Content>
+</Response>
+<Response id="asb3_mod11_ps1s4m">
+<ResponseID id="0">asb3_mod11_ps1s4m</ResponseID>
+<BaseQuestion id="0"></BaseQuestion>
+<Content id="0"></Content>
+</Response>
+<Response id="asb3_mod11_ps1s4a">
+<ResponseID id="0">asb3_mod11_ps1s4a</ResponseID>
+<BaseQuestion id="0"></BaseQuestion>
+<Content id="0"></Content>
+</Response>
+<Response id="asb3_mod11_ps1s4d">
+<ResponseID id="0">asb3_mod11_ps1s4d</ResponseID>
+<BaseQuestion id="0"></BaseQuestion>
+<Content id="0"></Content>
+</Response>
+<Response id="asb3_mod11_ps1s4i">
+<ResponseID id="0">asb3_mod11_ps1s4i</ResponseID>
+<BaseQuestion id="0"></BaseQuestion>
+<Content id="0"></Content>
+</Response>
+<Response id="asb3_mod11_ps1s4o">
+<ResponseID id="0">asb3_mod11_ps1s4o</ResponseID>
+<BaseQuestion id="0"></BaseQuestion>
+<Content id="0"></Content>
+</Response>
+<Response id="asb3_mod11_ps1s4n">
+<ResponseID id="0">asb3_mod11_ps1s4n</ResponseID>
+<BaseQuestion id="0"></BaseQuestion>
+<WrongAnswer>The goal of this exercise is to ask an open ended question.</WrongAnswer>
+<Content id="0"></Content>
+</Response>
+<Response id="asb3_mod11_ps1s5">
+<ResponseID id="0">asb3_mod11_ps1s5</ResponseID>
+<BaseQuestion id="0">Step 5: Recommend Cutting Back or Abstaining</BaseQuestion>
+<Content id="0"></Content>
+</Response>
+<Response id="asb3_mod11_ps1s5model">
+<ResponseID id="0">asb3_mod11_ps1s5model</ResponseID>
+<BaseQuestion id="0"></BaseQuestion>
+<Content id="0"></Content>
+</Response>
+<Response id="asb3_mod11_ps1s5m">
+<ResponseID id="0">asb3_mod11_ps1s5m</ResponseID>
+<BaseQuestion id="0"></BaseQuestion>
+<Content id="0"></Content>
+</Response>
+<Response id="asb3_mod11_ps1s5a">
+<ResponseID id="0">asb3_mod11_ps1s5a</ResponseID>
+<BaseQuestion id="0"></BaseQuestion>
+<Content id="0"></Content>
+</Response>
+<Response id="asb3_mod11_ps1s5d">
+<ResponseID id="0">asb3_mod11_ps1s5d</ResponseID>
+<BaseQuestion id="0"></BaseQuestion>
+<Content id="0"></Content>
+</Response>
+<Response id="asb3_mod11_ps1s5i">
+<ResponseID id="0">asb3_mod11_ps1s5i</ResponseID>
+<BaseQuestion id="0"></BaseQuestion>
+<Content id="0"></Content>
+</Response>
+<Response id="asb3_mod11_ps1s5o">
+<ResponseID id="0">asb3_mod11_ps1s5o</ResponseID>
+<BaseQuestion id="0"></BaseQuestion>
+<Content id="0"></Content>
+</Response>
+<Response id="asb3_mod11_ps1s6">
+<ResponseID id="0">asb3_mod11_ps1s6</ResponseID>
+<BaseQuestion id="0">Step 6: Open Ended Questions</BaseQuestion>
+<Content id="0"></Content>
+</Response>
+<Response id="asb3_mod11_ps1s6m">
+<ResponseID id="0">asb3_mod11_ps1s6m</ResponseID>
+<BaseQuestion id="0"></BaseQuestion>
+<Content id="0"></Content>
+</Response>
+<Response id="asb3_mod11_ps1s6a">
+<ResponseID id="0">asb3_mod11_ps1s6a</ResponseID>
+<BaseQuestion id="0"></BaseQuestion>
+<Content id="0"></Content>
+</Response>
+<Response id="asb3_mod11_ps1s6d">
+<ResponseID id="0">asb3_mod11_ps1s6d</ResponseID>
+<BaseQuestion id="0"></BaseQuestion>
+<Content id="0"></Content>
+</Response>
+<Response id="asb3_mod11_ps1s6i">
+<ResponseID id="0">asb3_mod11_ps1s6i</ResponseID>
+<BaseQuestion id="0"></BaseQuestion>
+<Content id="0"></Content>
+</Response>
+<Response id="asb3_mod11_ps1s6o">
+<ResponseID id="0">asb3_mod11_ps1s6o</ResponseID>
+<BaseQuestion id="0"></BaseQuestion>
+<Content id="0"></Content>
+</Response>
+<Response id="asb3_mod11_ps1s6n">
+<ResponseID id="0">asb3_mod11_ps1s6n</ResponseID>
+<WrongAnswer>The goal of this exercise is to ask permission to review the screening results.</WrongAnswer>
+<BaseQuestion id="0"></BaseQuestion>
+<Content id="0"></Content>
+</Response>
+<Response id="asb3_mod11_ps1s7">
+<ResponseID id="0">asb3_mod11_ps1s7</ResponseID>
+<BaseQuestion id="0">Step 7: Reflections</BaseQuestion>
+<Content id="0"></Content>
+</Response>
+<Response id="asb3_mod11_ps1s7model">
+<ResponseID id="0">asb3_mod11_ps1s7model</ResponseID>
+<BaseQuestion id="0"></BaseQuestion>
+<Content id="0"></Content>
+</Response>
+<Response id="asb3_mod11_ps1s7m">
+<ResponseID id="0">asb3_mod11_ps1s7m</ResponseID>
+<BaseQuestion id="0"></BaseQuestion>
+<Content id="0"></Content>
+</Response>
+<Response id="asb3_mod11_ps1s7a">
+<ResponseID id="0">asb3_mod11_ps1s7a</ResponseID>
+<BaseQuestion id="0"></BaseQuestion>
+<Content id="0"></Content>
+</Response>
+<Response id="asb3_mod11_ps1s7d">
+<ResponseID id="0">asb3_mod11_ps1s7d</ResponseID>
+<BaseQuestion id="0"></BaseQuestion>
+<Content id="0"></Content>
+</Response>
+<Response id="asb3_mod11_ps1s7i">
+<ResponseID id="0">asb3_mod11_ps1s7i</ResponseID>
+<BaseQuestion id="0"></BaseQuestion>
+<Content id="0"></Content>
+</Response>
+<Response id="asb3_mod11_ps1s7o">
+<ResponseID id="0">asb3_mod11_ps1s7o</ResponseID>
+<BaseQuestion id="0"></BaseQuestion>
+<Content id="0"></Content>
+</Response>
+<Response id="asb3_mod11_ps1s8">
+<ResponseID id="0">asb3_mod11_ps1s8</ResponseID>
+<BaseQuestion id="0">Step 8: Confidence Statements</BaseQuestion>
+<Content id="0"></Content>
+</Response>
+<Response id="asb3_mod11_ps1s8model">
+<ResponseID id="0">asb3_mod11_ps1s8model</ResponseID>
+<BaseQuestion id="0"></BaseQuestion>
+<Content id="0"></Content>
+</Response>
+<Response id="asb3_mod11_ps1s8m">
+<ResponseID id="0">asb3_mod11_ps1s8m</ResponseID>
+<BaseQuestion id="0"></BaseQuestion>
+<Content id="0"></Content>
+</Response>
+<Response id="asb3_mod11_ps1s8a">
+<ResponseID id="0">asb3_mod11_ps1s8a</ResponseID>
+<BaseQuestion id="0"></BaseQuestion>
+<Content id="0"></Content>
+</Response>
+<Response id="asb3_mod11_ps1s8d">
+<ResponseID id="0">asb3_mod11_ps1s8d</ResponseID>
+<BaseQuestion id="0"></BaseQuestion>
+<Content id="0"></Content>
+</Response>
+<Response id="asb3_mod11_ps1s8i">
+<ResponseID id="0">asb3_mod11_ps1s8i</ResponseID>
+<BaseQuestion id="0"></BaseQuestion>
+<Content id="0"></Content>
+</Response>
+<Response id="asb3_mod11_ps1s8o">
+<ResponseID id="0">asb3_mod11_ps1s8o</ResponseID>
+<BaseQuestion id="0"></BaseQuestion>
+<Content id="0"></Content>
+</Response>
+<Response id="asb3_mod11_ps1s9">
+<ResponseID id="0">asb3_mod11_ps1s9</ResponseID>
+<BaseQuestion id="0">Step 8: Confidence Statements</BaseQuestion>
+<Content id="0"></Content>
+</Response>
+<Response id="asb3_mod11_ps1s9m">
+<ResponseID id="0">asb3_mod11_ps1s9m</ResponseID>
+<BaseQuestion id="0"></BaseQuestion>
+<Content id="0"></Content>
+</Response>
+<Response id="asb3_mod11_ps1s9a">
+<ResponseID id="0">asb3_mod11_ps1s9a</ResponseID>
+<BaseQuestion id="0"></BaseQuestion>
+<Content id="0"></Content>
+</Response>
+<Response id="asb3_mod11_ps1s9d">
+<ResponseID id="0">asb3_mod11_ps1s9d</ResponseID>
+<BaseQuestion id="0"></BaseQuestion>
+<Content id="0"></Content>
+</Response>
+<Response id="asb3_mod11_ps1s9i">
+<ResponseID id="0">asb3_mod11_ps1s9i</ResponseID>
+<BaseQuestion id="0"></BaseQuestion>
+<Content id="0"></Content>
+</Response>
+<Response id="asb3_mod11_ps1s9o">
+<ResponseID id="0">asb3_mod11_ps1s9o</ResponseID>
+<BaseQuestion id="0"></BaseQuestion>
+<Content id="0"></Content>
+</Response>
+<Response id="asb3_did059">
+<ResponseID id="0">asb3_did059</ResponseID>
+<BaseQuestion id="0">Closing</BaseQuestion>
+<Content id="0"></Content>
+</Response>
+<!-- 0 Hour -->
+<Response id="asb0_1">
+<ResponseID id="0">asb0_1</ResponseID>
+<BaseQuestion id="0">Module 1: AlcoholSBIRT 1 Hour Program</BaseQuestion>
+<Content id="0"></Content>
+</Response>
+<Response id="asb0_2">
+<ResponseID id="0">asb0_2</ResponseID>
+<BaseQuestion id="0">Module 2: Introduction to AlcoholSBIRT</BaseQuestion>
+<Content id="0"></Content>
+</Response>
+<Response id="asb0_3">
+<ResponseID id="0">asb0_3</ResponseID>
+<BaseQuestion id="0">Module 3: Screening Using the AUDIT-C</BaseQuestion>
+<Content id="0"></Content>
+</Response>
+<Response id="asb0_4">
+<ResponseID id="0">asb0_4</ResponseID>
+<BaseQuestion id="0">Module 4: Bring Attention to Elevated Drinking Level</BaseQuestion>
+<Content id="0"></Content>
+</Response>
+<Response id="asb0_5">
+<ResponseID id="0">asb0_5</ResponseID>
+<BaseQuestion id="0">Module 5: Recommending Limiting Use or Abstaining</BaseQuestion>
+<Content id="0"></Content>
+</Response>
+<Response id="asb0_6">
+<ResponseID id="0">asb0_6</ResponseID>
+<BaseQuestion id="0">Module 6: Inform About the Effects of Alcohol</BaseQuestion>
+<Content id="0"></Content>
+</Response>
+<Response id="asb0_7">
+<ResponseID id="0">asb0_7</ResponseID>
+<BaseQuestion id="0">Module 7: Exploring Low-Risk Drinking Goals</BaseQuestion>
+<Content id="0"></Content>
+</Response>
+<Response id="asb0_8">
+<ResponseID id="0">asb0_8</ResponseID>
+<BaseQuestion id="0">Module 8: Follow-Up</BaseQuestion>
+<Content id="0"></Content>
+</Response>
+<Response id="asb0_9">
+<ResponseID id="0">asb0_9</ResponseID>
+<BaseQuestion id="0">Module 9: Referral to Treatment</BaseQuestion>
+<Content id="0"></Content>
+</Response>
+</xml>

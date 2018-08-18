@@ -1,0 +1,3541 @@
+<xml>
+<!-- 0 HOUR -->
+<Response id="dod_1hr_pre_test" type="test">
+<LeftRail>
+<Id>0hour</Id>
+<Hidden>false</Hidden>
+<ModuleSelected>0</ModuleSelected>
+</LeftRail>
+<VideoControls>
+<Hidden>false</Hidden>
+<PreviousId />
+<NextId>asb0_1</NextId>
+</VideoControls>
+<AskControls>
+<Hidden>true</Hidden>
+<Action>test</Action>
+</AskControls>
+<CaseName>DOD_ASB1_GenMADIO</CaseName>
+</Response>
+<Response id="asb0_1">
+<LeftRail>
+<Id>0hour</Id>
+<Hidden>false</Hidden>
+<ModuleSelected>0</ModuleSelected>
+</LeftRail>
+<VideoControls>
+<Hidden>false</Hidden>
+<PreviousId />
+<NextId>asb0_2</NextId>
+</VideoControls>
+<AskControls>
+<Hidden>true</Hidden>
+<Action>question</Action>
+</AskControls>
+<CaseName>DOD_ASB1_GenMADIO</CaseName>
+</Response>
+<Response id="asb0_2">
+<LeftRail>
+<Id>0hour</Id>
+<Hidden>false</Hidden>
+<ModuleSelected>0</ModuleSelected>
+</LeftRail>
+<VideoControls>
+<Hidden>false</Hidden>
+<PreviousId>asb0_1</PreviousId>
+<NextId>asb0_3</NextId>
+</VideoControls>
+<AskControls>
+<Hidden>true</Hidden>
+<Action>question</Action>
+</AskControls>
+<CaseName>DOD_ASB1_GenMADIO</CaseName>
+</Response>
+<Response id="asb0_3">
+<LeftRail>
+<Id>0hour</Id>
+<Hidden>false</Hidden>
+<ModuleSelected>0</ModuleSelected>
+</LeftRail>
+<VideoControls>
+<Hidden>false</Hidden>
+<PreviousId>asb0_2</PreviousId>
+<NextId>asb0_4</NextId>
+</VideoControls>
+<AskControls>
+<Hidden>true</Hidden>
+<Action>question</Action>
+</AskControls>
+<CaseName>DOD_ASB1_GenMADIO</CaseName>
+</Response>
+<Response id="asb0_4">
+<LeftRail>
+<Id>0hour</Id>
+<Hidden>false</Hidden>
+<ModuleSelected>0</ModuleSelected>
+</LeftRail>
+<VideoControls>
+<Hidden>false</Hidden>
+<PreviousId>asb0_3</PreviousId>
+<NextId>asb0_5</NextId>
+</VideoControls>
+<AskControls>
+<Hidden>true</Hidden>
+<Action>question</Action>
+</AskControls>
+<CaseName>DOD_ASB1_GenMADIO</CaseName>
+</Response>
+<Response id="asb0_5">
+<LeftRail>
+<Id>0hour</Id>
+<Hidden>false</Hidden>
+<ModuleSelected>0</ModuleSelected>
+</LeftRail>
+<VideoControls>
+<Hidden>false</Hidden>
+<PreviousId>asb0_4</PreviousId>
+<NextId>asb0_6</NextId>
+</VideoControls>
+<AskControls>
+<Hidden>true</Hidden>
+<Action>question</Action>
+</AskControls>
+<CaseName>DOD_ASB1_GenMADIO</CaseName>
+</Response>
+<Response id="asb0_6">
+<LeftRail>
+<Id>0hour</Id>
+<Hidden>false</Hidden>
+<ModuleSelected>0</ModuleSelected>
+</LeftRail>
+<VideoControls>
+<Hidden>false</Hidden>
+<PreviousId>asb0_5</PreviousId>
+<NextId>asb0_7</NextId>
+</VideoControls>
+<AskControls>
+<Hidden>true</Hidden>
+<Action>question</Action>
+</AskControls>
+<CaseName>DOD_ASB1_GenMADIO</CaseName>
+</Response>
+<Response id="asb0_7">
+<LeftRail>
+<Id>0hour</Id>
+<Hidden>false</Hidden>
+<ModuleSelected>0</ModuleSelected>
+</LeftRail>
+<VideoControls>
+<Hidden>false</Hidden>
+<PreviousId>asb0_6</PreviousId>
+<NextId>asb0_8</NextId>
+</VideoControls>
+<AskControls>
+<Hidden>true</Hidden>
+<Action>question</Action>
+</AskControls>
+<CaseName>DOD_ASB1_GenMADIO</CaseName>
+</Response>
+<Response id="asb0_8">
+<LeftRail>
+<Id>0hour</Id>
+<Hidden>false</Hidden>
+<ModuleSelected>0</ModuleSelected>
+</LeftRail>
+<VideoControls>
+<Hidden>false</Hidden>
+<PreviousId>asb0_7</PreviousId>
+<NextId>asb0_9</NextId>
+</VideoControls>
+<AskControls>
+<Hidden>true</Hidden>
+<Action>question</Action>
+</AskControls>
+<CaseName>DOD_ASB1_GenMADIO</CaseName>
+</Response>
+<Response id="asb0_9">
+<LeftRail>
+<Id>0hour</Id>
+<Hidden>false</Hidden>
+<ModuleSelected>0</ModuleSelected>
+</LeftRail>
+<VideoControls>
+<Hidden>false</Hidden>
+<PreviousId>asb0_8</PreviousId>
+<NextId>dod_1hr_post_test_content</NextId>
+</VideoControls>
+<AskControls>
+<Hidden>true</Hidden>
+<Action>question</Action>
+</AskControls>
+<CaseName>DOD_ASB1_GenMADIO</CaseName>
+</Response>
+<Response id="dod_1hr_post_test_content" type="test">
+<LeftRail>
+<Id>0hour</Id>
+<Hidden>false</Hidden>
+<ModuleSelected>0</ModuleSelected>
+</LeftRail>
+<VideoControls>
+<Hidden>false</Hidden>
+<PreviousId>asb0_9</PreviousId>
+<NextId>dod_1hr_post_test_satisfaction</NextId>
+</VideoControls>
+<AskControls>
+<Hidden>true</Hidden>
+<Action>test</Action>
+</AskControls>
+<CaseName>DOD_ASB1_GenMADIO</CaseName>
+</Response>
+<Response id="dod_1hr_post_test_satisfaction" type="test">
+<LeftRail>
+<Id>0hour</Id>
+<Hidden>false</Hidden>
+<ModuleSelected>0</ModuleSelected>
+</LeftRail>
+<VideoControls>
+<Hidden>false</Hidden>
+<PreviousId>dod_1hr_post_test_content</PreviousId>
+<NextId>dod_1hr_post_test_competence</NextId>
+</VideoControls>
+<AskControls>
+<Hidden>true</Hidden>
+<Action>test</Action>
+</AskControls>
+<CaseName>DOD_ASB1_GenMADIO</CaseName>
+</Response>
+<Response id="dod_1hr_post_test_competence" type="test">
+<LeftRail>
+<Id>0hour</Id>
+<Hidden>false</Hidden>
+<ModuleSelected>0</ModuleSelected>
+</LeftRail>
+<VideoControls>
+<Hidden>false</Hidden>
+<PreviousId>dod_1hr_post_test_satisfaction</PreviousId>
+<NextId>dod_1hr_practice</NextId>
+</VideoControls>
+<AskControls>
+<Hidden>true</Hidden>
+<Action>test</Action>
+</AskControls>
+<CaseName>DOD_ASB1_GenMADIO</CaseName>
+</Response>
+<Response id="dod_1hr_practice" type="test">
+<LeftRail>
+<Id>0hour</Id>
+<Hidden>false</Hidden>
+<ModuleSelected>0</ModuleSelected>
+</LeftRail>
+<VideoControls>
+<Hidden>false</Hidden>
+<PreviousId>dod_1hr_post_test_competence</PreviousId>
+<NextId>asb0_1</NextId>
+</VideoControls>
+<AskControls>
+<Hidden>true</Hidden>
+<Action>test</Action>
+</AskControls>
+<CaseName>DOD_ASB1_GenMADIO</CaseName>
+</Response>
+<!-- THREE HOUR PROGRAM -->
+<Response id="dod_3hr_pre_test" type="test">
+<LeftRail>
+<Id>3hour</Id>
+<Hidden>false</Hidden>
+<ModuleSelected>0</ModuleSelected>
+</LeftRail>
+<VideoControls>
+<Hidden>false</Hidden>
+<PreviousId />
+<NextId>asb3_mod1</NextId>
+</VideoControls>
+<AskControls>
+<Hidden>true</Hidden>
+<Action>test</Action>
+</AskControls>
+<CaseName>DOD_ASB1_GenMADIO</CaseName>
+</Response>
+<Response id="asb3_mod1">
+<LeftRail>
+<Id>3hour</Id>
+<Hidden>false</Hidden>
+<ModuleSelected>1</ModuleSelected>
+</LeftRail>
+<VideoControls>
+<Hidden>false</Hidden>
+<PreviousId />
+<NextId>asb3_mod2_1</NextId>
+</VideoControls>
+<AskControls>
+<Hidden>true</Hidden>
+<Action>question</Action>
+</AskControls>
+<CaseName>DOD_ASB1_GenMADIO</CaseName>
+</Response>
+<Response id="asb3_mod2_1">
+<LeftRail>
+<Id>3hour</Id>
+<Hidden>false</Hidden>
+<ModuleSelected>2</ModuleSelected>
+</LeftRail>
+<VideoControls>
+<Hidden>false</Hidden>
+<PreviousId>asb3_mod1</PreviousId>
+<NextId>asb3_mod2_sp1intro</NextId>
+</VideoControls>
+<AskControls>
+<Hidden>true</Hidden>
+<Action>question</Action>
+</AskControls>
+<CaseName>DOD_ASB1_GenMADIO</CaseName>
+</Response>
+<Response id="asb3_mod2_sp1intro">
+<LeftRail>
+<Id>3hour</Id>
+<Hidden>false</Hidden>
+<ModuleSelected>2</ModuleSelected>
+</LeftRail>
+<VideoControls>
+<Hidden>false</Hidden>
+<PreviousId>asb3_mod2_1</PreviousId>
+<NextId>dod_3hr_mod2_sp1s1</NextId>
+</VideoControls>
+<AskControls>
+<Hidden>true</Hidden>
+<Action>question</Action>
+</AskControls>
+<CaseName>DOD_ASB1_GenMADIO</CaseName>
+</Response>
+<Response id="dod_3hr_mod2_sp1s1" type="test">
+<LeftRail>
+<Id>3hour</Id>
+<Hidden>false</Hidden>
+<ModuleSelected>2</ModuleSelected>
+<ResponseSelected>asb3_mod2_sp1intro</ResponseSelected>
+</LeftRail>
+<VideoControls>
+<Hidden>false</Hidden>
+<PreviousId>asb3_mod2_sp1intro</PreviousId>
+<NextId>dod_3hr_mod2_sp1s2</NextId>
+</VideoControls>
+<AskControls>
+<Hidden>true</Hidden>
+<Action>test</Action>
+</AskControls>
+<CaseName>DOD_ASB1_GenMADIO</CaseName>
+</Response>
+<Response id="dod_3hr_mod2_sp1s2" type="test">
+<LeftRail>
+<Id>3hour</Id>
+<Hidden>false</Hidden>
+<ModuleSelected>2</ModuleSelected>
+<ResponseSelected>asb3_mod2_sp1intro</ResponseSelected>
+</LeftRail>
+<VideoControls>
+<Hidden>false</Hidden>
+<PreviousId>dod_3hr_mod2_sp1s1</PreviousId>
+<NextId>asb3_mod2_2</NextId>
+</VideoControls>
+<AskControls>
+<Hidden>true</Hidden>
+<Action>test</Action>
+</AskControls>
+<CaseName>DOD_ASB1_GenMADIO</CaseName>
+</Response>
+<Response id="asb3_mod2_2">
+<LeftRail>
+<Id>3hour</Id>
+<Hidden>false</Hidden>
+<ModuleSelected>2</ModuleSelected>
+</LeftRail>
+<VideoControls>
+<Hidden>false</Hidden>
+<PreviousId>dod_3hr_mod2_sp1s2</PreviousId>
+<NextId>asb3_mod3</NextId>
+</VideoControls>
+<AskControls>
+<Hidden>true</Hidden>
+<Action>question</Action>
+</AskControls>
+<CaseName>DOD_ASB1_GenMADIO</CaseName>
+</Response>
+<Response id="asb3_mod3">
+<LeftRail>
+<Id>3hour</Id>
+<Hidden>false</Hidden>
+<ModuleSelected>3</ModuleSelected>
+</LeftRail>
+<VideoControls>
+<Hidden>false</Hidden>
+<PreviousId>asb3_mod1</PreviousId>
+<NextId>asb3_mod4_1</NextId>
+</VideoControls>
+<AskControls>
+<Hidden>true</Hidden>
+<Action>question</Action>
+</AskControls>
+<CaseName>DOD_ASB1_GenMADIO</CaseName>
+</Response>
+<Response id="asb3_mod4_1">
+<LeftRail>
+<Id>3hour</Id>
+<Hidden>false</Hidden>
+<ModuleSelected>4</ModuleSelected>
+</LeftRail>
+<VideoControls>
+<Hidden>false</Hidden>
+<PreviousId>asb3_mod3</PreviousId>
+<NextId>asb3_mod4_sp1intro</NextId>
+</VideoControls>
+<AskControls>
+<Hidden>true</Hidden>
+<Action>question</Action>
+</AskControls>
+<CaseName>DOD_ASB1_GenMADIO</CaseName>
+</Response>
+<Response id="asb3_mod4_sp1intro">
+<LeftRail>
+<Id>3hour</Id>
+<Hidden>false</Hidden>
+<ModuleSelected>4</ModuleSelected>
+</LeftRail>
+<VideoControls>
+<Hidden>false</Hidden>
+<PreviousId>asb3_mod4_1</PreviousId>
+<NextId>asb3_mod4_sp1s1</NextId>
+</VideoControls>
+<AskControls>
+<Hidden>true</Hidden>
+<Action>question</Action>
+</AskControls>
+<CaseName>DOD_ASB1_GenMADIO</CaseName>
+</Response>
+<Response id="asb3_mod4_sp1s1">
+<LeftRail>
+<Id>3hour</Id>
+<Hidden>false</Hidden>
+<ModuleSelected>4</ModuleSelected>
+<ResponseSelected>asb3_mod4_sp1intro</ResponseSelected>
+</LeftRail>
+<VideoControls>
+<Hidden>false</Hidden>
+<PreviousId>asb3_mod4_sp1intro</PreviousId>
+<DoneId>asb3_mod4_sp1s2</DoneId>
+<NextId />
+</VideoControls>
+<AskControls>
+<Hidden>false</Hidden>
+<Action>question</Action>
+</AskControls>
+<CaseName>DOD_ASB3_mod4_sp1</CaseName>
+<Answers>
+<Answer id="yes" case="DOD_ASB1_GenMADIO"></Answer>
+<Answer id="no">asb3_mod4_sp1s1n</Answer>
+<Answer id="motivational">asb3_mod4_sp1s1m</Answer>
+<Answer id="accusatory">asb3_mod4_sp1s1a</Answer>
+<Answer id="directive">asb3_mod4_sp1s1d</Answer>
+<Answer id="ineffectual">asb3_mod4_sp1s1i</Answer>
+<Answer id="offtopic">asb3_mod4_sp1s1o</Answer>
+<Answer id="nullrid">asb3_mod4_sp1s1o</Answer>
+<Answer id="shamerid">asb3_mod4_sp1s1o</Answer>
+</Answers>
+</Response>
+<Response id="asb3_mod4_sp1s1m" type="motivational">
+<LeftRail>
+<Id>3hour</Id>
+<Hidden>false</Hidden>
+<ModuleSelected>4</ModuleSelected>
+<ResponseSelected>asb3_mod4_sp1intro</ResponseSelected>
+</LeftRail>
+<VideoControls>
+<Hidden>false</Hidden>
+<PreviousId>asb3_mod4_sp1s1</PreviousId>
+<NextId>asb3_mod4_sp1s2</NextId>
+</VideoControls>
+<AskControls>
+<Hidden>true</Hidden>
+<Action>question</Action>
+</AskControls>
+<CaseName>DOD_ASB1_GenMADIO</CaseName>
+</Response>
+<Response id="asb3_mod4_sp1s1a" type="accusatory">
+<LeftRail>
+<Id>3hour</Id>
+<Hidden>false</Hidden>
+<ModuleSelected>4</ModuleSelected>
+<ResponseSelected>asb3_mod4_sp1intro</ResponseSelected>
+</LeftRail>
+<VideoControls>
+<Hidden>false</Hidden>
+<PreviousId>asb3_mod4_sp1s1</PreviousId>
+<NextId>asb3_mod4_sp1s2</NextId>
+</VideoControls>
+<AskControls>
+<Hidden>true</Hidden>
+<Action>question</Action>
+</AskControls>
+<CaseName>DOD_ASB1_GenMADIO</CaseName>
+</Response>
+<Response id="asb3_mod4_sp1s1d" type="directive">
+<LeftRail>
+<Id>3hour</Id>
+<Hidden>false</Hidden>
+<ModuleSelected>4</ModuleSelected>
+<ResponseSelected>asb3_mod4_sp1intro</ResponseSelected>
+</LeftRail>
+<VideoControls>
+<Hidden>false</Hidden>
+<PreviousId>asb3_mod4_sp1s1</PreviousId>
+<NextId>asb3_mod4_sp1s2</NextId>
+</VideoControls>
+<AskControls>
+<Hidden>true</Hidden>
+<Action>question</Action>
+</AskControls>
+<CaseName>DOD_ASB1_GenMADIO</CaseName>
+</Response>
+<Response id="asb3_mod4_sp1s1i" type="ineffectual">
+<LeftRail>
+<Id>3hour</Id>
+<Hidden>false</Hidden>
+<ModuleSelected>4</ModuleSelected>
+<ResponseSelected>asb3_mod4_sp1intro</ResponseSelected>
+</LeftRail>
+<VideoControls>
+<Hidden>false</Hidden>
+<PreviousId>asb3_mod4_sp1s1</PreviousId>
+<NextId>asb3_mod4_sp1s2</NextId>
+</VideoControls>
+<AskControls>
+<Hidden>true</Hidden>
+<Action>question</Action>
+</AskControls>
+<CaseName>DOD_ASB1_GenMADIO</CaseName>
+</Response>
+<Response id="asb3_mod4_sp1s1o" type="offtopic">
+<LeftRail>
+<Id>3hour</Id>
+<Hidden>false</Hidden>
+<ModuleSelected>4</ModuleSelected>
+<ResponseSelected>asb3_mod4_sp1intro</ResponseSelected>
+</LeftRail>
+<VideoControls>
+<Hidden>false</Hidden>
+<PreviousId>asb3_mod4_sp1s1</PreviousId>
+<NextId>asb3_mod4_sp1s2</NextId>
+</VideoControls>
+<AskControls>
+<Hidden>true</Hidden>
+<Action>question</Action>
+</AskControls>
+<CaseName>DOD_ASB1_GenMADIO</CaseName>
+</Response>
+<Response id="asb3_mod4_sp1s1n" type="custom">
+<LeftRail>
+<Id>3hour</Id>
+<Hidden>false</Hidden>
+<ModuleSelected>4</ModuleSelected>
+<ResponseSelected>asb3_mod4_sp1intro</ResponseSelected>
+</LeftRail>
+<VideoControls>
+<Hidden>false</Hidden>
+<PreviousId>asb3_mod4_sp1s1</PreviousId>
+<NextId>asb3_mod4_sp1s2</NextId>
+</VideoControls>
+<AskControls>
+<Hidden>true</Hidden>
+<Action>question</Action>
+</AskControls>
+<CaseName>DOD_ASB1_GenMADIO</CaseName>
+</Response>
+<Response id="asb3_mod4_sp1s2">
+<LeftRail>
+<Id>3hour</Id>
+<Hidden>false</Hidden>
+<ModuleSelected>4</ModuleSelected>
+<ResponseSelected>asb3_mod4_sp1intro</ResponseSelected>
+</LeftRail>
+<VideoControls>
+<Hidden>false</Hidden>
+<PreviousId>asb3_mod4_sp1s1</PreviousId>
+<DoneId>asb3_mod4_2</DoneId>
+<NextId />
+</VideoControls>
+<AskControls>
+<Hidden>false</Hidden>
+<Action>question</Action>
+</AskControls>
+<CaseName>DOD_ASB3_mod4_sp1</CaseName>
+<Answers>
+<Answer id="yes" case="DOD_ASB1_GenMADIO"></Answer>
+<Answer id="no">asb3_mod4_sp1s2n</Answer>
+<Answer id="motivational">asb3_mod4_sp1s2m</Answer>
+<Answer id="accusatory">asb3_mod4_sp1s2a</Answer>
+<Answer id="directive">asb3_mod4_sp1s2d</Answer>
+<Answer id="ineffectual">asb3_mod4_sp1s2i</Answer>
+<Answer id="offtopic">asb3_mod4_sp1s2o</Answer>
+<Answer id="nullrid">asb3_mod4_sp1s2o</Answer>
+<Answer id="shamerid">asb3_mod4_sp1s2o</Answer>
+</Answers>
+</Response>
+<Response id="asb3_mod4_sp1s2m" type="motivational">
+<LeftRail>
+<Id>3hour</Id>
+<Hidden>false</Hidden>
+<ModuleSelected>4</ModuleSelected>
+<ResponseSelected>asb3_mod4_sp1intro</ResponseSelected>
+</LeftRail>
+<VideoControls>
+<Hidden>false</Hidden>
+<PreviousId>asb3_mod4_sp1s2</PreviousId>
+<NextId>asb3_mod4_2</NextId>
+</VideoControls>
+<AskControls>
+<Hidden>true</Hidden>
+<Action>question</Action>
+</AskControls>
+<CaseName>DOD_ASB1_GenMADIO</CaseName>
+</Response>
+<Response id="asb3_mod4_sp1s2a" type="accusatory">
+<LeftRail>
+<Id>3hour</Id>
+<Hidden>false</Hidden>
+<ModuleSelected>4</ModuleSelected>
+<ResponseSelected>asb3_mod4_sp1intro</ResponseSelected>
+</LeftRail>
+<VideoControls>
+<Hidden>false</Hidden>
+<PreviousId>asb3_mod4_sp1s2</PreviousId>
+<NextId>asb3_mod4_2</NextId>
+</VideoControls>
+<AskControls>
+<Hidden>true</Hidden>
+<Action>question</Action>
+</AskControls>
+<CaseName>DOD_ASB1_GenMADIO</CaseName>
+</Response>
+<Response id="asb3_mod4_sp1s2d" type="directive">
+<LeftRail>
+<Id>3hour</Id>
+<Hidden>false</Hidden>
+<ModuleSelected>4</ModuleSelected>
+<ResponseSelected>asb3_mod4_sp1intro</ResponseSelected>
+</LeftRail>
+<VideoControls>
+<Hidden>false</Hidden>
+<PreviousId>asb3_mod4_sp1s2</PreviousId>
+<NextId>asb3_mod4_2</NextId>
+</VideoControls>
+<AskControls>
+<Hidden>true</Hidden>
+<Action>question</Action>
+</AskControls>
+<CaseName>DOD_ASB1_GenMADIO</CaseName>
+</Response>
+<Response id="asb3_mod4_sp1s2i" type="ineffectual">
+<LeftRail>
+<Id>3hour</Id>
+<Hidden>false</Hidden>
+<ModuleSelected>4</ModuleSelected>
+<ResponseSelected>asb3_mod4_sp1intro</ResponseSelected>
+</LeftRail>
+<VideoControls>
+<Hidden>false</Hidden>
+<PreviousId>asb3_mod4_sp1s2</PreviousId>
+<NextId>asb3_mod4_2</NextId>
+</VideoControls>
+<AskControls>
+<Hidden>true</Hidden>
+<Action>question</Action>
+</AskControls>
+<CaseName>DOD_ASB1_GenMADIO</CaseName>
+</Response>
+<Response id="asb3_mod4_sp1s2o" type="offtopic">
+<LeftRail>
+<Id>3hour</Id>
+<Hidden>false</Hidden>
+<ModuleSelected>4</ModuleSelected>
+<ResponseSelected>asb3_mod4_sp1intro</ResponseSelected>
+</LeftRail>
+<VideoControls>
+<Hidden>false</Hidden>
+<PreviousId>asb3_mod4_sp1s2</PreviousId>
+<NextId>asb3_mod4_2</NextId>
+</VideoControls>
+<AskControls>
+<Hidden>true</Hidden>
+<Action>question</Action>
+</AskControls>
+<CaseName>DOD_ASB1_GenMADIO</CaseName>
+</Response>
+<Response id="asb3_mod4_sp1s2n" type="custom">
+<LeftRail>
+<Id>3hour</Id>
+<Hidden>false</Hidden>
+<ModuleSelected>4</ModuleSelected>
+<ResponseSelected>asb3_mod4_sp1intro</ResponseSelected>
+</LeftRail>
+<VideoControls>
+<Hidden>false</Hidden>
+<PreviousId>asb3_mod4_sp1s2</PreviousId>
+<NextId>asb3_mod4_2</NextId>
+</VideoControls>
+<AskControls>
+<Hidden>true</Hidden>
+<Action>question</Action>
+</AskControls>
+<CaseName>DOD_ASB1_GenMADIO</CaseName>
+</Response>
+<Response id="asb3_mod4_2">
+<LeftRail>
+<Id>3hour</Id>
+<Hidden>false</Hidden>
+<ModuleSelected>4</ModuleSelected>
+</LeftRail>
+<VideoControls>
+<Hidden>false</Hidden>
+<PreviousId>asb3_mod4_sp1s2</PreviousId>
+<NextId>asb3_mod5_1</NextId>
+</VideoControls>
+<AskControls>
+<Hidden>true</Hidden>
+<Action>question</Action>
+</AskControls>
+<CaseName>DOD_ASB1_GenMADIO</CaseName>
+</Response>
+<Response id="asb3_mod5_1">
+<LeftRail>
+<Id>3hour</Id>
+<Hidden>false</Hidden>
+<ModuleSelected>5</ModuleSelected>
+</LeftRail>
+<VideoControls>
+<Hidden>false</Hidden>
+<PreviousId>asb3_mod4_2</PreviousId>
+<NextId>asb3_mod5_sp1intro</NextId>
+</VideoControls>
+<AskControls>
+<Hidden>true</Hidden>
+<Action>question</Action>
+</AskControls>
+<CaseName>DOD_ASB1_GenMADIO</CaseName>
+</Response>
+<Response id="asb3_mod5_sp1intro">
+<LeftRail>
+<Id>3hour</Id>
+<Hidden>false</Hidden>
+<ModuleSelected>5</ModuleSelected>
+</LeftRail>
+<VideoControls>
+<Hidden>false</Hidden>
+<PreviousId>asb3_mod5_1</PreviousId>
+<NextId>asb3_mod5_sp1s1</NextId>
+</VideoControls>
+<AskControls>
+<Hidden>true</Hidden>
+<Action>question</Action>
+</AskControls>
+<CaseName>DOD_ASB1_GenMADIO</CaseName>
+</Response>
+<Response id="asb3_mod5_sp1s1">
+<LeftRail>
+<Id>3hour</Id>
+<Hidden>false</Hidden>
+<ModuleSelected>5</ModuleSelected>
+<ResponseSelected>asb3_mod5_sp1intro</ResponseSelected>
+</LeftRail>
+<VideoControls>
+<Hidden>false</Hidden>
+<PreviousId>asb3_mod5_sp1intro</PreviousId>
+<DoneId>asb3_mod5_sp1s2intro</DoneId>
+<NextId />
+</VideoControls>
+<AskControls>
+<Hidden>false</Hidden>
+<Action>question</Action>
+</AskControls>
+<CaseName>DOD_ASB3_mod5_sp1</CaseName>
+<Answers>
+<Answer id="yes" case="DOD_ASB1_GenMADIO"></Answer>
+<Answer id="no">asb3_mod5_sp1s1o</Answer>
+<Answer id="motivational">asb3_mod5_sp1s1m</Answer>
+<Answer id="accusatory">asb3_mod5_sp1s1a</Answer>
+<Answer id="directive">asb3_mod5_sp1s1d</Answer>
+<Answer id="ineffectual">asb3_mod5_sp1s1i</Answer>
+<Answer id="offtopic">asb3_mod5_sp1s1o</Answer>
+<Answer id="nullrid">asb3_mod5_sp1s1o</Answer>
+<Answer id="shamerid">asb3_mod5_sp1s1o</Answer>
+</Answers>
+</Response>
+<Response id="asb3_mod5_sp1s1m" type="motivational">
+<LeftRail>
+<Id>3hour</Id>
+<Hidden>false</Hidden>
+<ModuleSelected>5</ModuleSelected>
+<ResponseSelected>asb3_mod5_sp1intro</ResponseSelected>
+</LeftRail>
+<VideoControls>
+<Hidden>false</Hidden>
+<PreviousId>asb3_mod5_sp1s1</PreviousId>
+<NextId>asb3_mod5_sp1s2intro</NextId>
+</VideoControls>
+<AskControls>
+<Hidden>true</Hidden>
+<Action>question</Action>
+</AskControls>
+<CaseName>DOD_ASB1_GenMADIO</CaseName>
+</Response>
+<Response id="asb3_mod5_sp1s1a" type="accusatory">
+<LeftRail>
+<Id>3hour</Id>
+<Hidden>false</Hidden>
+<ModuleSelected>5</ModuleSelected>
+<ResponseSelected>asb3_mod5_sp1intro</ResponseSelected>
+</LeftRail>
+<VideoControls>
+<Hidden>false</Hidden>
+<PreviousId>asb3_mod5_sp1s1</PreviousId>
+<NextId>asb3_mod5_sp1s2intro</NextId>
+</VideoControls>
+<AskControls>
+<Hidden>true</Hidden>
+<Action>question</Action>
+</AskControls>
+<CaseName>DOD_ASB1_GenMADIO</CaseName>
+</Response>
+<Response id="asb3_mod5_sp1s1d" type="directive">
+<LeftRail>
+<Id>3hour</Id>
+<Hidden>false</Hidden>
+<ModuleSelected>5</ModuleSelected>
+<ResponseSelected>asb3_mod5_sp1intro</ResponseSelected>
+</LeftRail>
+<VideoControls>
+<Hidden>false</Hidden>
+<PreviousId>asb3_mod5_sp1s1</PreviousId>
+<NextId>asb3_mod5_sp1s2intro</NextId>
+</VideoControls>
+<AskControls>
+<Hidden>true</Hidden>
+<Action>question</Action>
+</AskControls>
+<CaseName>DOD_ASB1_GenMADIO</CaseName>
+</Response>
+<Response id="asb3_mod5_sp1s1i" type="ineffectual">
+<LeftRail>
+<Id>3hour</Id>
+<Hidden>false</Hidden>
+<ModuleSelected>5</ModuleSelected>
+<ResponseSelected>asb3_mod5_sp1intro</ResponseSelected>
+</LeftRail>
+<VideoControls>
+<Hidden>false</Hidden>
+<PreviousId>asb3_mod5_sp1s1</PreviousId>
+<NextId>asb3_mod5_sp1s2intro</NextId>
+</VideoControls>
+<AskControls>
+<Hidden>true</Hidden>
+<Action>question</Action>
+</AskControls>
+<CaseName>DOD_ASB1_GenMADIO</CaseName>
+</Response>
+<Response id="asb3_mod5_sp1s1o" type="offtopic">
+<LeftRail>
+<Id>3hour</Id>
+<Hidden>false</Hidden>
+<ModuleSelected>5</ModuleSelected>
+<ResponseSelected>asb3_mod5_sp1intro</ResponseSelected>
+</LeftRail>
+<VideoControls>
+<Hidden>false</Hidden>
+<PreviousId>asb3_mod5_sp1s1</PreviousId>
+<NextId>asb3_mod5_sp1s2intro</NextId>
+</VideoControls>
+<AskControls>
+<Hidden>true</Hidden>
+<Action>question</Action>
+</AskControls>
+<CaseName>DOD_ASB1_GenMADIO</CaseName>
+</Response>
+<Response id="asb3_mod5_sp1s2intro">
+<LeftRail>
+<Id>3hour</Id>
+<Hidden>false</Hidden>
+<ModuleSelected>5</ModuleSelected>
+<ResponseSelected>asb3_mod5_sp1intro</ResponseSelected>
+</LeftRail>
+<VideoControls>
+<Hidden>false</Hidden>
+<PreviousId>asb3_mod5_sp1s1</PreviousId>
+<NextId>asb3_mod5_sp1s2</NextId>
+</VideoControls>
+<AskControls>
+<Hidden>true</Hidden>
+<Action>question</Action>
+</AskControls>
+<CaseName>DOD_ASB1_GenMADIO</CaseName>
+</Response>
+<Response id="asb3_mod5_sp1s2">
+<LeftRail>
+<Id>3hour</Id>
+<Hidden>false</Hidden>
+<ModuleSelected>5</ModuleSelected>
+<ResponseSelected>asb3_mod5_sp1intro</ResponseSelected>
+</LeftRail>
+<VideoControls>
+<Hidden>false</Hidden>
+<PreviousId>asb3_mod5_sp1s2intro</PreviousId>
+<DoneId>asb3_mod5_2</DoneId>
+<NextId />
+</VideoControls>
+<AskControls>
+<Hidden>false</Hidden>
+<Action>question</Action>
+</AskControls>
+<CaseName>DOD_ASB3_mod5_sp1</CaseName>
+<Answers>
+<Answer id="yes" case="DOD_ASB1_GenMADIO"></Answer>
+<Answer id="no">asb3_mod5_sp1s2o</Answer>
+<Answer id="motivational">asb3_mod5_sp1s2m</Answer>
+<Answer id="accusatory">asb3_mod5_sp1s2a</Answer>
+<Answer id="directive">asb3_mod5_sp1s2d</Answer>
+<Answer id="ineffectual">asb3_mod5_sp1s2i</Answer>
+<Answer id="offtopic">asb3_mod5_sp1s2o</Answer>
+<Answer id="nullrid">asb3_mod5_sp1s2o</Answer>
+<Answer id="shamerid">asb3_mod5_sp1s2o</Answer>
+</Answers>
+</Response>
+<Response id="asb3_mod5_sp1s2m" type="motivational">
+<LeftRail>
+<Id>3hour</Id>
+<Hidden>false</Hidden>
+<ModuleSelected>5</ModuleSelected>
+<ResponseSelected>asb3_mod5_sp1intro</ResponseSelected>
+</LeftRail>
+<VideoControls>
+<Hidden>false</Hidden>
+<PreviousId>asb3_mod5_sp1s2</PreviousId>
+<NextId>asb3_mod5_2</NextId>
+</VideoControls>
+<AskControls>
+<Hidden>true</Hidden>
+<Action>question</Action>
+</AskControls>
+<CaseName>DOD_ASB1_GenMADIO</CaseName>
+</Response>
+<Response id="asb3_mod5_sp1s2a" type="accusatory">
+<LeftRail>
+<Id>3hour</Id>
+<Hidden>false</Hidden>
+<ModuleSelected>5</ModuleSelected>
+<ResponseSelected>asb3_mod5_sp1intro</ResponseSelected>
+</LeftRail>
+<VideoControls>
+<Hidden>false</Hidden>
+<PreviousId>asb3_mod5_sp1s2</PreviousId>
+<NextId>asb3_mod5_2</NextId>
+</VideoControls>
+<AskControls>
+<Hidden>true</Hidden>
+<Action>question</Action>
+</AskControls>
+<CaseName>DOD_ASB1_GenMADIO</CaseName>
+</Response>
+<Response id="asb3_mod5_sp1s2d" type="directive">
+<LeftRail>
+<Id>3hour</Id>
+<Hidden>false</Hidden>
+<ModuleSelected>5</ModuleSelected>
+<ResponseSelected>asb3_mod5_sp1intro</ResponseSelected>
+</LeftRail>
+<VideoControls>
+<Hidden>false</Hidden>
+<PreviousId>asb3_mod5_sp1s2</PreviousId>
+<NextId>asb3_mod5_2</NextId>
+</VideoControls>
+<AskControls>
+<Hidden>true</Hidden>
+<Action>question</Action>
+</AskControls>
+<CaseName>DOD_ASB1_GenMADIO</CaseName>
+</Response>
+<Response id="asb3_mod5_sp1s2i" type="ineffectual">
+<LeftRail>
+<Id>3hour</Id>
+<Hidden>false</Hidden>
+<ModuleSelected>5</ModuleSelected>
+<ResponseSelected>asb3_mod5_sp1intro</ResponseSelected>
+</LeftRail>
+<VideoControls>
+<Hidden>false</Hidden>
+<PreviousId>asb3_mod5_sp1s2</PreviousId>
+<NextId>asb3_mod5_2</NextId>
+</VideoControls>
+<AskControls>
+<Hidden>true</Hidden>
+<Action>question</Action>
+</AskControls>
+<CaseName>DOD_ASB1_GenMADIO</CaseName>
+</Response>
+<Response id="asb3_mod5_sp1s2o" type="offtopic">
+<LeftRail>
+<Id>3hour</Id>
+<Hidden>false</Hidden>
+<ModuleSelected>5</ModuleSelected>
+<ResponseSelected>asb3_mod5_sp1intro</ResponseSelected>
+</LeftRail>
+<VideoControls>
+<Hidden>false</Hidden>
+<PreviousId>asb3_mod5_sp1s2</PreviousId>
+<NextId>asb3_mod5_2</NextId>
+</VideoControls>
+<AskControls>
+<Hidden>true</Hidden>
+<Action>question</Action>
+</AskControls>
+<CaseName>DOD_ASB1_GenMADIO</CaseName>
+</Response>
+<Response id="asb3_mod5_2">
+<LeftRail>
+<Id>3hour</Id>
+<Hidden>false</Hidden>
+<ModuleSelected>5</ModuleSelected>
+</LeftRail>
+<VideoControls>
+<Hidden>false</Hidden>
+<PreviousId>asb3_mod5_sp1s2</PreviousId>
+<NextId>asb3_mod6_1</NextId>
+</VideoControls>
+<AskControls>
+<Hidden>true</Hidden>
+<Action>question</Action>
+</AskControls>
+<CaseName>DOD_ASB1_GenMADIO</CaseName>
+</Response>
+<Response id="asb3_mod6_1">
+<LeftRail>
+<Id>3hour</Id>
+<Hidden>false</Hidden>
+<ModuleSelected>6</ModuleSelected>
+</LeftRail>
+<VideoControls>
+<Hidden>false</Hidden>
+<PreviousId>asb3_mod5_2</PreviousId>
+<NextId>asb3_mod6_sp1intro</NextId>
+</VideoControls>
+<AskControls>
+<Hidden>true</Hidden>
+<Action>question</Action>
+</AskControls>
+<CaseName>DOD_ASB1_GenMADIO</CaseName>
+</Response>
+<Response id="asb3_mod6_sp1intro">
+<LeftRail>
+<Id>3hour</Id>
+<Hidden>false</Hidden>
+<ModuleSelected>6</ModuleSelected>
+</LeftRail>
+<VideoControls>
+<Hidden>false</Hidden>
+<PreviousId />
+<NextId>asb3_mod6_sp1s1</NextId>
+</VideoControls>
+<AskControls>
+<Hidden>true</Hidden>
+<Action>question</Action>
+</AskControls>
+<CaseName>DOD_ASB1_GenMADIO</CaseName>
+</Response>
+<Response id="asb3_mod6_sp1s1">
+<LeftRail>
+<Id>3hour</Id>
+<Hidden>false</Hidden>
+<ModuleSelected>6</ModuleSelected>
+<ResponseSelected>asb3_mod6_sp1intro</ResponseSelected>
+</LeftRail>
+<VideoControls>
+<Hidden>false</Hidden>
+<PreviousId>asb3_mod6_sp1intro</PreviousId>
+<DoneId>asb3_mod6_sp1s2</DoneId>
+<NextId />
+</VideoControls>
+<AskControls>
+<Hidden>false</Hidden>
+<Action>question</Action>
+</AskControls>
+<CaseName>filter_open_ended</CaseName>
+<Answers>
+<Answer id="yes" case="DOD_ASB1_GenMADIO"></Answer>
+<Answer id="no">asb3_mod6_sp1s1n</Answer>
+<Answer id="motivational">asb3_mod6_sp1s1m</Answer>
+<Answer id="accusatory">asb3_mod6_sp1s1a</Answer>
+<Answer id="directive">asb3_mod6_sp1s1d</Answer>
+<Answer id="ineffectual">asb3_mod6_sp1s1i</Answer>
+<Answer id="offtopic">asb3_mod6_sp1s1o</Answer>
+<Answer id="nullrid">asb3_mod6_sp1s1o</Answer>
+<Answer id="shamerid">asb3_mod6_sp1s1o</Answer>
+</Answers>
+</Response>
+<Response id="asb3_mod6_sp1s1m" type="motivational">
+<LeftRail>
+<Id>3hour</Id>
+<Hidden>false</Hidden>
+<ModuleSelected>6</ModuleSelected>
+<ResponseSelected>asb3_mod6_sp1intro</ResponseSelected>
+</LeftRail>
+<VideoControls>
+<Hidden>false</Hidden>
+<PreviousId>asb3_mod6_sp1s1</PreviousId>
+<NextId>asb3_mod6_sp1s2</NextId>
+</VideoControls>
+<AskControls>
+<Hidden>true</Hidden>
+<Action>question</Action>
+</AskControls>
+<CaseName>DOD_ASB1_GenMADIO</CaseName>
+</Response>
+<Response id="asb3_mod6_sp1s1a" type="accusatory">
+<LeftRail>
+<Id>3hour</Id>
+<Hidden>false</Hidden>
+<ModuleSelected>6</ModuleSelected>
+<ResponseSelected>asb3_mod6_sp1intro</ResponseSelected>
+</LeftRail>
+<VideoControls>
+<Hidden>false</Hidden>
+<PreviousId>asb3_mod6_sp1s1</PreviousId>
+<NextId>asb3_mod6_sp1s2</NextId>
+</VideoControls>
+<AskControls>
+<Hidden>true</Hidden>
+<Action>question</Action>
+</AskControls>
+<CaseName>DOD_ASB1_GenMADIO</CaseName>
+</Response>
+<Response id="asb3_mod6_sp1s1d" type="directive">
+<LeftRail>
+<Id>3hour</Id>
+<Hidden>false</Hidden>
+<ModuleSelected>6</ModuleSelected>
+<ResponseSelected>asb3_mod6_sp1intro</ResponseSelected>
+</LeftRail>
+<VideoControls>
+<Hidden>false</Hidden>
+<PreviousId>asb3_mod6_sp1s1</PreviousId>
+<NextId>asb3_mod6_sp1s2</NextId>
+</VideoControls>
+<AskControls>
+<Hidden>true</Hidden>
+<Action>question</Action>
+</AskControls>
+<CaseName>DOD_ASB1_GenMADIO</CaseName>
+</Response>
+<Response id="asb3_mod6_sp1s1i" type="ineffectual">
+<LeftRail>
+<Id>3hour</Id>
+<Hidden>false</Hidden>
+<ModuleSelected>6</ModuleSelected>
+<ResponseSelected>asb3_mod6_sp1intro</ResponseSelected>
+</LeftRail>
+<VideoControls>
+<Hidden>false</Hidden>
+<PreviousId>asb3_mod6_sp1s1</PreviousId>
+<NextId>asb3_mod6_sp1s2</NextId>
+</VideoControls>
+<AskControls>
+<Hidden>true</Hidden>
+<Action>question</Action>
+</AskControls>
+<CaseName>DOD_ASB1_GenMADIO</CaseName>
+</Response>
+<Response id="asb3_mod6_sp1s1o" type="offtopic">
+<LeftRail>
+<Id>3hour</Id>
+<Hidden>false</Hidden>
+<ModuleSelected>6</ModuleSelected>
+<ResponseSelected>asb3_mod6_sp1intro</ResponseSelected>
+</LeftRail>
+<VideoControls>
+<Hidden>false</Hidden>
+<PreviousId>asb3_mod6_sp1s1</PreviousId>
+<NextId>asb3_mod6_sp1s2</NextId>
+</VideoControls>
+<AskControls>
+<Hidden>true</Hidden>
+<Action>question</Action>
+</AskControls>
+<CaseName>DOD_ASB1_GenMADIO</CaseName>
+</Response>
+<Response id="asb3_mod6_sp1s1n" type="custom">
+<LeftRail>
+<Id>3hour</Id>
+<Hidden>false</Hidden>
+<ModuleSelected>6</ModuleSelected>
+<ResponseSelected>asb3_mod6_sp1intro</ResponseSelected>
+</LeftRail>
+<VideoControls>
+<Hidden>false</Hidden>
+<PreviousId>asb3_mod6_sp1s1</PreviousId>
+<NextId>asb3_mod6_sp1s2</NextId>
+</VideoControls>
+<AskControls>
+<Hidden>true</Hidden>
+<Action>question</Action>
+</AskControls>
+<CaseName>DOD_ASB1_GenMADIO</CaseName>
+</Response>
+<Response id="asb3_mod6_sp1s2">
+<LeftRail>
+<Id>3hour</Id>
+<Hidden>false</Hidden>
+<ModuleSelected>6</ModuleSelected>
+<ResponseSelected>asb3_mod6_sp1intro</ResponseSelected>
+</LeftRail>
+<VideoControls>
+<Hidden>false</Hidden>
+<PreviousId>asb3_mod6_sp1intro</PreviousId>
+<DoneId>asb3_mod6_2</DoneId>
+<NextId />
+</VideoControls>
+<AskControls>
+<Hidden>false</Hidden>
+<Action>question</Action>
+</AskControls>
+<CaseName>filter_open_ended</CaseName>
+<Answers>
+<Answer id="yes" case="DOD_ASB1_GenMADIO"></Answer>
+<Answer id="no">asb3_mod6_sp1s2n</Answer>
+<Answer id="motivational">asb3_mod6_sp1s2m</Answer>
+<Answer id="accusatory">asb3_mod6_sp1s2a</Answer>
+<Answer id="directive">asb3_mod6_sp1s2d</Answer>
+<Answer id="ineffectual">asb3_mod6_sp1s2i</Answer>
+<Answer id="offtopic">asb3_mod6_sp1s2o</Answer>
+<Answer id="nullrid">asb3_mod6_sp1s2o</Answer>
+<Answer id="shamerid">asb3_mod6_sp1s2o</Answer>
+</Answers>
+</Response>
+<Response id="asb3_mod6_sp1s2m" type="motivational">
+<LeftRail>
+<Id>3hour</Id>
+<Hidden>false</Hidden>
+<ModuleSelected>6</ModuleSelected>
+<ResponseSelected>asb3_mod6_sp1intro</ResponseSelected>
+</LeftRail>
+<VideoControls>
+<Hidden>false</Hidden>
+<PreviousId>asb3_mod6_sp1s2</PreviousId>
+<NextId />
+</VideoControls>
+<AskControls>
+<Hidden>true</Hidden>
+<Action>question</Action>
+</AskControls>
+<CaseName>DOD_ASB1_GenMADIO</CaseName>
+</Response>
+<Response id="asb3_mod6_sp1s2a" type="accusatory">
+<LeftRail>
+<Id>3hour</Id>
+<Hidden>false</Hidden>
+<ModuleSelected>6</ModuleSelected>
+<ResponseSelected>asb3_mod6_sp1intro</ResponseSelected>
+</LeftRail>
+<VideoControls>
+<Hidden>false</Hidden>
+<PreviousId>asb3_mod6_sp1s2</PreviousId>
+<NextId />
+</VideoControls>
+<AskControls>
+<Hidden>true</Hidden>
+<Action>question</Action>
+</AskControls>
+<CaseName>DOD_ASB1_GenMADIO</CaseName>
+</Response>
+<Response id="asb3_mod6_sp1s2d" type="directive">
+<LeftRail>
+<Id>3hour</Id>
+<Hidden>false</Hidden>
+<ModuleSelected>6</ModuleSelected>
+<ResponseSelected>asb3_mod6_sp1intro</ResponseSelected>
+</LeftRail>
+<VideoControls>
+<Hidden>false</Hidden>
+<PreviousId>asb3_mod6_sp1s2</PreviousId>
+<NextId />
+</VideoControls>
+<AskControls>
+<Hidden>true</Hidden>
+<Action>question</Action>
+</AskControls>
+<CaseName>DOD_ASB1_GenMADIO</CaseName>
+</Response>
+<Response id="asb3_mod6_sp1s2i" type="ineffectual">
+<LeftRail>
+<Id>3hour</Id>
+<Hidden>false</Hidden>
+<ModuleSelected>6</ModuleSelected>
+<ResponseSelected>asb3_mod6_sp1intro</ResponseSelected>
+</LeftRail>
+<VideoControls>
+<Hidden>false</Hidden>
+<PreviousId>asb3_mod6_sp1s2</PreviousId>
+<NextId />
+</VideoControls>
+<AskControls>
+<Hidden>true</Hidden>
+<Action>question</Action>
+</AskControls>
+<CaseName>DOD_ASB1_GenMADIO</CaseName>
+</Response>
+<Response id="asb3_mod6_sp1s2o" type="offtopic">
+<LeftRail>
+<Id>3hour</Id>
+<Hidden>false</Hidden>
+<ModuleSelected>6</ModuleSelected>
+<ResponseSelected>asb3_mod6_sp1intro</ResponseSelected>
+</LeftRail>
+<VideoControls>
+<Hidden>false</Hidden>
+<PreviousId>asb3_mod6_sp1s2</PreviousId>
+<NextId />
+</VideoControls>
+<AskControls>
+<Hidden>true</Hidden>
+<Action>question</Action>
+</AskControls>
+<CaseName>DOD_ASB1_GenMADIO</CaseName>
+</Response>
+<Response id="asb3_mod6_sp1s2n" type="custom">
+<LeftRail>
+<Id>3hour</Id>
+<Hidden>false</Hidden>
+<ModuleSelected>6</ModuleSelected>
+<ResponseSelected>asb3_mod6_sp1intro</ResponseSelected>
+</LeftRail>
+<VideoControls>
+<Hidden>false</Hidden>
+<PreviousId>asb3_mod6_sp1s2</PreviousId>
+<NextId />
+</VideoControls>
+<AskControls>
+<Hidden>true</Hidden>
+<Action>question</Action>
+</AskControls>
+<CaseName>DOD_ASB1_GenMADIO</CaseName>
+</Response>
+<Response id="asb3_mod6_2">
+<LeftRail>
+<Id>3hour</Id>
+<Hidden>false</Hidden>
+<ModuleSelected>6</ModuleSelected>
+</LeftRail>
+<VideoControls>
+<Hidden>false</Hidden>
+<PreviousId>asb3_mod6_sp1s2</PreviousId>
+<NextId>asb3_mod6_sp2intro</NextId>
+</VideoControls>
+<AskControls>
+<Hidden>true</Hidden>
+<Action>question</Action>
+</AskControls>
+<CaseName>DOD_ASB1_GenMADIO</CaseName>
+</Response>
+<Response id="asb3_mod6_sp2intro">
+<LeftRail>
+<Id>3hour</Id>
+<Hidden>false</Hidden>
+<ModuleSelected>6</ModuleSelected>
+</LeftRail>
+<VideoControls>
+<Hidden>false</Hidden>
+<PreviousId>asb3_mod6_2</PreviousId>
+<NextId>asb3_mod6_sp2s1</NextId>
+</VideoControls>
+<AskControls>
+<Hidden>true</Hidden>
+<Action>question</Action>
+</AskControls>
+<CaseName>DOD_ASB1_GenMADIO</CaseName>
+</Response>
+<Response id="asb3_mod6_sp2s1">
+<LeftRail>
+<Id>3hour</Id>
+<Hidden>false</Hidden>
+<ModuleSelected>6</ModuleSelected>
+<ResponseSelected>asb3_mod6_sp2intro</ResponseSelected>
+</LeftRail>
+<VideoControls>
+<Hidden>false</Hidden>
+<PreviousId>asb3_mod6_sp2intro</PreviousId>
+<DoneId>asb3_mod6_sp2s2intro</DoneId>
+<NextId />
+</VideoControls>
+<AskControls>
+<Hidden>false</Hidden>
+<Action>question</Action>
+</AskControls>
+<CaseName>DOD_ASB3_mod6_sp2</CaseName>
+<Answers>
+<Answer id="yes" case="DOD_ASB1_GenMADIO"></Answer>
+<Answer id="no">asb3_mod6_sp2s1o</Answer>
+<Answer id="motivational">asb3_mod6_sp2s1m</Answer>
+<Answer id="accusatory">asb3_mod6_sp2s1a</Answer>
+<Answer id="directive">asb3_mod6_sp2s1d</Answer>
+<Answer id="ineffectual">asb3_mod6_sp2s1i</Answer>
+<Answer id="offtopic">asb3_mod6_sp2s1o</Answer>
+<Answer id="nullrid">asb3_mod6_sp2s1o</Answer>
+<Answer id="shamerid">asb3_mod6_sp2s1o</Answer>
+</Answers>
+</Response>
+<Response id="asb3_mod6_sp2s1m" type="motivational">
+<LeftRail>
+<Id>3hour</Id>
+<Hidden>false</Hidden>
+<ModuleSelected>6</ModuleSelected>
+<ResponseSelected>asb3_mod6_sp2intro</ResponseSelected>
+</LeftRail>
+<VideoControls>
+<Hidden>false</Hidden>
+<PreviousId>asb3_mod6_sp2s1</PreviousId>
+<NextId>asb3_mod6_sp2s2intro</NextId>
+</VideoControls>
+<AskControls>
+<Hidden>true</Hidden>
+<Action>question</Action>
+</AskControls>
+<CaseName>DOD_ASB1_GenMADIO</CaseName>
+</Response>
+<Response id="asb3_mod6_sp2s1a" type="accusatory">
+<LeftRail>
+<Id>3hour</Id>
+<Hidden>false</Hidden>
+<ModuleSelected>6</ModuleSelected>
+<ResponseSelected>asb3_mod6_sp2intro</ResponseSelected>
+</LeftRail>
+<VideoControls>
+<Hidden>false</Hidden>
+<PreviousId>asb3_mod6_sp2s1</PreviousId>
+<NextId>asb3_mod6_sp2s2intro</NextId>
+</VideoControls>
+<AskControls>
+<Hidden>true</Hidden>
+<Action>question</Action>
+</AskControls>
+<CaseName>DOD_ASB1_GenMADIO</CaseName>
+</Response>
+<Response id="asb3_mod6_sp2s1d" type="directive">
+<LeftRail>
+<Id>3hour</Id>
+<Hidden>false</Hidden>
+<ModuleSelected>6</ModuleSelected>
+<ResponseSelected>asb3_mod6_sp2intro</ResponseSelected>
+</LeftRail>
+<VideoControls>
+<Hidden>false</Hidden>
+<PreviousId>asb3_mod6_sp2s1</PreviousId>
+<NextId>asb3_mod6_sp2s2intro</NextId>
+</VideoControls>
+<AskControls>
+<Hidden>true</Hidden>
+<Action>question</Action>
+</AskControls>
+<CaseName>DOD_ASB1_GenMADIO</CaseName>
+</Response>
+<Response id="asb3_mod6_sp2s1i" type="ineffectual">
+<LeftRail>
+<Id>3hour</Id>
+<Hidden>false</Hidden>
+<ModuleSelected>6</ModuleSelected>
+<ResponseSelected>asb3_mod6_sp2intro</ResponseSelected>
+</LeftRail>
+<VideoControls>
+<Hidden>false</Hidden>
+<PreviousId>asb3_mod6_sp2s1</PreviousId>
+<NextId>asb3_mod6_sp2s2intro</NextId>
+</VideoControls>
+<AskControls>
+<Hidden>true</Hidden>
+<Action>question</Action>
+</AskControls>
+<CaseName>DOD_ASB1_GenMADIO</CaseName>
+</Response>
+<Response id="asb3_mod6_sp2s1o" type="offtopic">
+<LeftRail>
+<Id>3hour</Id>
+<Hidden>false</Hidden>
+<ModuleSelected>6</ModuleSelected>
+<ResponseSelected>asb3_mod6_sp2intro</ResponseSelected>
+</LeftRail>
+<VideoControls>
+<Hidden>false</Hidden>
+<PreviousId>asb3_mod6_sp2s1</PreviousId>
+<NextId>asb3_mod6_sp2s2intro</NextId>
+</VideoControls>
+<AskControls>
+<Hidden>true</Hidden>
+<Action>question</Action>
+</AskControls>
+<CaseName>DOD_ASB1_GenMADIO</CaseName>
+</Response>
+<Response id="asb3_mod6_sp2s2intro">
+<LeftRail>
+<Id>3hour</Id>
+<Hidden>false</Hidden>
+<ModuleSelected>6</ModuleSelected>
+<ResponseSelected>asb3_mod6_sp2intro</ResponseSelected>
+</LeftRail>
+<VideoControls>
+<Hidden>false</Hidden>
+<PreviousId>asb3_mod6_sp2s1</PreviousId>
+<NextId>asb3_mod6_sp2s2</NextId>
+</VideoControls>
+<AskControls>
+<Hidden>true</Hidden>
+<Action>question</Action>
+</AskControls>
+<CaseName>DOD_ASB1_GenMADIO</CaseName>
+</Response>
+<Response id="asb3_mod6_sp2s2">
+<LeftRail>
+<Id>3hour</Id>
+<Hidden>false</Hidden>
+<ModuleSelected>6</ModuleSelected>
+<ResponseSelected>asb3_mod6_sp2intro</ResponseSelected>
+</LeftRail>
+<VideoControls>
+<Hidden>false</Hidden>
+<PreviousId>asb3_mod6_sp2s2intro</PreviousId>
+<DoneId>asb3_mod6_3</DoneId>
+<NextId />
+</VideoControls>
+<AskControls>
+<Hidden>false</Hidden>
+<Action>question</Action>
+</AskControls>
+<CaseName>DOD_ASB3_mod6_sp2</CaseName>
+<Answers>
+<Answer id="yes" case="DOD_ASB1_GenMADIO"></Answer>
+<Answer id="no">asb3_mod6_sp2s2o</Answer>
+<Answer id="motivational">asb3_mod6_sp2s2m</Answer>
+<Answer id="accusatory">asb3_mod6_sp2s2a</Answer>
+<Answer id="directive">asb3_mod6_sp2s2d</Answer>
+<Answer id="ineffectual">asb3_mod6_sp2s2i</Answer>
+<Answer id="offtopic">asb3_mod6_sp2s2o</Answer>
+<Answer id="nullrid">asb3_mod6_sp2s2o</Answer>
+<Answer id="shamerid">asb3_mod6_sp2s2o</Answer>
+</Answers>
+</Response>
+<Response id="asb3_mod6_sp2s2m" type="motivational">
+<LeftRail>
+<Id>3hour</Id>
+<Hidden>false</Hidden>
+<ModuleSelected>6</ModuleSelected>
+<ResponseSelected>asb3_mod6_sp2intro</ResponseSelected>
+</LeftRail>
+<VideoControls>
+<Hidden>false</Hidden>
+<PreviousId>asb3_mod6_sp2s2</PreviousId>
+<NextId>asb3_mod6_3</NextId>
+</VideoControls>
+<AskControls>
+<Hidden>true</Hidden>
+<Action>question</Action>
+</AskControls>
+<CaseName>DOD_ASB1_GenMADIO</CaseName>
+</Response>
+<Response id="asb3_mod6_sp2s2a" type="accusatory">
+<LeftRail>
+<Id>3hour</Id>
+<Hidden>false</Hidden>
+<ModuleSelected>6</ModuleSelected>
+<ResponseSelected>asb3_mod6_sp2intro</ResponseSelected>
+</LeftRail>
+<VideoControls>
+<Hidden>false</Hidden>
+<PreviousId>asb3_mod6_sp2s2</PreviousId>
+<NextId>asb3_mod6_3</NextId>
+</VideoControls>
+<AskControls>
+<Hidden>true</Hidden>
+<Action>question</Action>
+</AskControls>
+<CaseName>DOD_ASB1_GenMADIO</CaseName>
+</Response>
+<Response id="asb3_mod6_sp2s2d" type="directive">
+<LeftRail>
+<Id>3hour</Id>
+<Hidden>false</Hidden>
+<ModuleSelected>6</ModuleSelected>
+<ResponseSelected>asb3_mod6_sp2intro</ResponseSelected>
+</LeftRail>
+<VideoControls>
+<Hidden>false</Hidden>
+<PreviousId>asb3_mod6_sp2s2</PreviousId>
+<NextId>asb3_mod6_3</NextId>
+</VideoControls>
+<AskControls>
+<Hidden>true</Hidden>
+<Action>question</Action>
+</AskControls>
+<CaseName>DOD_ASB1_GenMADIO</CaseName>
+</Response>
+<Response id="asb3_mod6_sp2s2i" type="ineffectual">
+<LeftRail>
+<Id>3hour</Id>
+<Hidden>false</Hidden>
+<ModuleSelected>6</ModuleSelected>
+<ResponseSelected>asb3_mod6_sp2intro</ResponseSelected>
+</LeftRail>
+<VideoControls>
+<Hidden>false</Hidden>
+<PreviousId>asb3_mod6_sp2s2</PreviousId>
+<NextId>asb3_mod6_3</NextId>
+</VideoControls>
+<AskControls>
+<Hidden>true</Hidden>
+<Action>question</Action>
+</AskControls>
+<CaseName>DOD_ASB1_GenMADIO</CaseName>
+</Response>
+<Response id="asb3_mod6_sp2s2o" type="offtopic">
+<LeftRail>
+<Id>3hour</Id>
+<Hidden>false</Hidden>
+<ModuleSelected>6</ModuleSelected>
+<ResponseSelected>asb3_mod6_sp2intro</ResponseSelected>
+</LeftRail>
+<VideoControls>
+<Hidden>false</Hidden>
+<PreviousId>asb3_mod6_sp2s2</PreviousId>
+<NextId>asb3_mod6_3</NextId>
+</VideoControls>
+<AskControls>
+<Hidden>true</Hidden>
+<Action>question</Action>
+</AskControls>
+<CaseName>DOD_ASB1_GenMADIO</CaseName>
+</Response>
+<Response id="asb3_mod6_3">
+<LeftRail>
+<Id>3hour</Id>
+<Hidden>false</Hidden>
+<ModuleSelected>6</ModuleSelected>
+</LeftRail>
+<VideoControls>
+<Hidden>false</Hidden>
+<PreviousId>asb3_mod6_sp2s2</PreviousId>
+<NextId />
+</VideoControls>
+<AskControls>
+<Hidden>true</Hidden>
+<Action>question</Action>
+</AskControls>
+<CaseName>DOD_ASB1_GenMADIO</CaseName>
+</Response>
+<Response id="asb3_mod7">
+<LeftRail>
+<Id>3hour</Id>
+<Hidden>false</Hidden>
+<ModuleSelected>7</ModuleSelected>
+</LeftRail>
+<VideoControls>
+<Hidden>false</Hidden>
+<PreviousId>asb3_mod6_3</PreviousId>
+<NextId>asb3_mod7_sp1intro</NextId>
+</VideoControls>
+<AskControls>
+<Hidden>true</Hidden>
+<Action>question</Action>
+</AskControls>
+<CaseName>DOD_ASB1_GenMADIO</CaseName>
+</Response>
+<Response id="asb3_mod7_sp1intro">
+<LeftRail>
+<Id>3hour</Id>
+<Hidden>false</Hidden>
+<ModuleSelected>7</ModuleSelected>
+</LeftRail>
+<VideoControls>
+<Hidden>false</Hidden>
+<PreviousId>asb3_mod7</PreviousId>
+<NextId>asb3_mod7_sp1s1</NextId>
+</VideoControls>
+<AskControls>
+<Hidden>true</Hidden>
+<Action>question</Action>
+</AskControls>
+<CaseName>DOD_ASB1_GenMADIO</CaseName>
+</Response>
+<Response id="asb3_mod7_sp1s1">
+<LeftRail>
+<Id>3hour</Id>
+<Hidden>false</Hidden>
+<ModuleSelected>7</ModuleSelected>
+<ResponseSelected>asb3_mod7_sp1intro</ResponseSelected>
+</LeftRail>
+<VideoControls>
+<Hidden>false</Hidden>
+<PreviousId>asb3_mod7_sp1intro</PreviousId>
+<DoneId>asb3_mod7_sp1s2</DoneId>
+<NextId />
+</VideoControls>
+<AskControls>
+<Hidden>false</Hidden>
+<Action>question</Action>
+</AskControls>
+<CaseName>DOD_ASB3_mod7_sp1</CaseName>
+<Answers>
+<Answer id="yes" case="DOD_ASB1_GenMADIO"></Answer>
+<Answer id="no">asb3_mod7_sp1s1o</Answer>
+<Answer id="motivational">asb3_mod7_sp1s1m</Answer>
+<Answer id="accusatory">asb3_mod7_sp1s1a</Answer>
+<Answer id="directive">asb3_mod7_sp1s1d</Answer>
+<Answer id="ineffectual">asb3_mod7_sp1s1i</Answer>
+<Answer id="offtopic">asb3_mod7_sp1s1o</Answer>
+<Answer id="nullrid">asb3_mod7_sp1s1o</Answer>
+<Answer id="shamerid">asb3_mod7_sp1s1o</Answer>
+</Answers>
+</Response>
+<Response id="asb3_mod7_sp1s1m" type="motivational">
+<LeftRail>
+<Id>3hour</Id>
+<Hidden>false</Hidden>
+<ModuleSelected>7</ModuleSelected>
+<ResponseSelected>asb3_mod7_sp1intro</ResponseSelected>
+</LeftRail>
+<VideoControls>
+<Hidden>false</Hidden>
+<PreviousId>asb3_mod7_sp1s1</PreviousId>
+<NextId>asb3_mod7_sp1s2</NextId>
+</VideoControls>
+<AskControls>
+<Hidden>true</Hidden>
+<Action>question</Action>
+</AskControls>
+<CaseName>DOD_ASB1_GenMADIO</CaseName>
+</Response>
+<Response id="asb3_mod7_sp1s1a" type="accusatory">
+<LeftRail>
+<Id>3hour</Id>
+<Hidden>false</Hidden>
+<ModuleSelected>7</ModuleSelected>
+<ResponseSelected>asb3_mod7_sp1intro</ResponseSelected>
+</LeftRail>
+<VideoControls>
+<Hidden>false</Hidden>
+<PreviousId>asb3_mod7_sp1s1</PreviousId>
+<NextId>asb3_mod7_sp1s2</NextId>
+</VideoControls>
+<AskControls>
+<Hidden>true</Hidden>
+<Action>question</Action>
+</AskControls>
+<CaseName>DOD_ASB1_GenMADIO</CaseName>
+</Response>
+<Response id="asb3_mod7_sp1s1d" type="directive">
+<LeftRail>
+<Id>3hour</Id>
+<Hidden>false</Hidden>
+<ModuleSelected>7</ModuleSelected>
+<ResponseSelected>asb3_mod7_sp1intro</ResponseSelected>
+</LeftRail>
+<VideoControls>
+<Hidden>false</Hidden>
+<PreviousId>asb3_mod7_sp1s1</PreviousId>
+<NextId>asb3_mod7_sp1s2</NextId>
+</VideoControls>
+<AskControls>
+<Hidden>true</Hidden>
+<Action>question</Action>
+</AskControls>
+<CaseName>DOD_ASB1_GenMADIO</CaseName>
+</Response>
+<Response id="asb3_mod7_sp1s1i" type="ineffectual">
+<LeftRail>
+<Id>3hour</Id>
+<Hidden>false</Hidden>
+<ModuleSelected>7</ModuleSelected>
+<ResponseSelected>asb3_mod7_sp1intro</ResponseSelected>
+</LeftRail>
+<VideoControls>
+<Hidden>false</Hidden>
+<PreviousId>asb3_mod7_sp1s1</PreviousId>
+<NextId>asb3_mod7_sp1s2</NextId>
+</VideoControls>
+<AskControls>
+<Hidden>true</Hidden>
+<Action>question</Action>
+</AskControls>
+<CaseName>DOD_ASB1_GenMADIO</CaseName>
+</Response>
+<Response id="asb3_mod7_sp1s1o" type="offtopic">
+<LeftRail>
+<Id>3hour</Id>
+<Hidden>false</Hidden>
+<ModuleSelected>7</ModuleSelected>
+<ResponseSelected>asb3_mod7_sp1intro</ResponseSelected>
+</LeftRail>
+<VideoControls>
+<Hidden>false</Hidden>
+<PreviousId>asb3_mod7_sp1s1</PreviousId>
+<NextId>asb3_mod7_sp1s2</NextId>
+</VideoControls>
+<AskControls>
+<Hidden>true</Hidden>
+<Action>question</Action>
+</AskControls>
+<CaseName>DOD_ASB1_GenMADIO</CaseName>
+</Response>
+<Response id="asb3_mod7_sp1s2">
+<LeftRail>
+<Id>3hour</Id>
+<Hidden>false</Hidden>
+<ModuleSelected>7</ModuleSelected>
+<ResponseSelected>asb3_mod7_sp1intro</ResponseSelected>
+</LeftRail>
+<VideoControls>
+<Hidden>false</Hidden>
+<PreviousId>asb3_mod7_sp1intro</PreviousId>
+<DoneId>asb3_mod8</DoneId>
+<NextId />
+</VideoControls>
+<AskControls>
+<Hidden>false</Hidden>
+<Action>question</Action>
+</AskControls>
+<CaseName>DOD_ASB3_mod7_sp1</CaseName>
+<Answers>
+<Answer id="yes" case="DOD_ASB1_GenMADIO"></Answer>
+<Answer id="no">asb3_mod7_sp1s2o</Answer>
+<Answer id="motivational">asb3_mod7_sp1s2m</Answer>
+<Answer id="accusatory">asb3_mod7_sp1s2a</Answer>
+<Answer id="directive">asb3_mod7_sp1s2d</Answer>
+<Answer id="ineffectual">asb3_mod7_sp1s2i</Answer>
+<Answer id="offtopic">asb3_mod7_sp1s2o</Answer>
+<Answer id="nullrid">asb3_mod7_sp1s2o</Answer>
+<Answer id="shamerid">asb3_mod7_sp1s2o</Answer>
+</Answers>
+</Response>
+<Response id="asb3_mod7_sp1s2m" type="motivational">
+<LeftRail>
+<Id>3hour</Id>
+<Hidden>false</Hidden>
+<ModuleSelected>7</ModuleSelected>
+<ResponseSelected>asb3_mod7_sp1intro</ResponseSelected>
+</LeftRail>
+<VideoControls>
+<Hidden>false</Hidden>
+<PreviousId>asb3_mod7_sp1s2</PreviousId>
+<NextId>asb3_mod8</NextId>
+</VideoControls>
+<AskControls>
+<Hidden>true</Hidden>
+<Action>question</Action>
+</AskControls>
+<CaseName>DOD_ASB1_GenMADIO</CaseName>
+</Response>
+<Response id="asb3_mod7_sp1s2a" type="accusatory">
+<LeftRail>
+<Id>3hour</Id>
+<Hidden>false</Hidden>
+<ModuleSelected>7</ModuleSelected>
+<ResponseSelected>asb3_mod7_sp1intro</ResponseSelected>
+</LeftRail>
+<VideoControls>
+<Hidden>false</Hidden>
+<PreviousId>asb3_mod7_sp1s2</PreviousId>
+<NextId>asb3_mod8</NextId>
+</VideoControls>
+<AskControls>
+<Hidden>true</Hidden>
+<Action>question</Action>
+</AskControls>
+<CaseName>DOD_ASB1_GenMADIO</CaseName>
+</Response>
+<Response id="asb3_mod7_sp1s2d" type="directive">
+<LeftRail>
+<Id>3hour</Id>
+<Hidden>false</Hidden>
+<ModuleSelected>7</ModuleSelected>
+<ResponseSelected>asb3_mod7_sp1intro</ResponseSelected>
+</LeftRail>
+<VideoControls>
+<Hidden>false</Hidden>
+<PreviousId>asb3_mod7_sp1s2</PreviousId>
+<NextId>asb3_mod8</NextId>
+</VideoControls>
+<AskControls>
+<Hidden>true</Hidden>
+<Action>question</Action>
+</AskControls>
+<CaseName>DOD_ASB1_GenMADIO</CaseName>
+</Response>
+<Response id="asb3_mod7_sp1s2i" type="ineffectual">
+<LeftRail>
+<Id>3hour</Id>
+<Hidden>false</Hidden>
+<ModuleSelected>7</ModuleSelected>
+<ResponseSelected>asb3_mod7_sp1intro</ResponseSelected>
+</LeftRail>
+<VideoControls>
+<Hidden>false</Hidden>
+<PreviousId>asb3_mod7_sp1s2</PreviousId>
+<NextId>asb3_mod8</NextId>
+</VideoControls>
+<AskControls>
+<Hidden>true</Hidden>
+<Action>question</Action>
+</AskControls>
+<CaseName>DOD_ASB1_GenMADIO</CaseName>
+</Response>
+<Response id="asb3_mod7_sp1s2o" type="offtopic">
+<LeftRail>
+<Id>3hour</Id>
+<Hidden>false</Hidden>
+<ModuleSelected>7</ModuleSelected>
+<ResponseSelected>asb3_mod7_sp1intro</ResponseSelected>
+</LeftRail>
+<VideoControls>
+<Hidden>false</Hidden>
+<PreviousId>asb3_mod7_sp1s2</PreviousId>
+<NextId>asb3_mod8</NextId>
+</VideoControls>
+<AskControls>
+<Hidden>true</Hidden>
+<Action>question</Action>
+</AskControls>
+<CaseName>DOD_ASB1_GenMADIO</CaseName>
+</Response>
+<Response id="asb3_mod8">
+<LeftRail>
+<Id>3hour</Id>
+<Hidden>false</Hidden>
+<ModuleSelected>8</ModuleSelected>
+</LeftRail>
+<VideoControls>
+<Hidden>false</Hidden>
+<PreviousId>asb3_mod7_sp1s2</PreviousId>
+<NextId>asb3_mod9_1</NextId>
+</VideoControls>
+<AskControls>
+<Hidden>true</Hidden>
+<Action>question</Action>
+</AskControls>
+<CaseName>DOD_ASB1_GenMADIO</CaseName>
+</Response>
+<Response id="asb3_mod9_1">
+<LeftRail>
+<Id>3hour</Id>
+<Hidden>false</Hidden>
+<ModuleSelected>9</ModuleSelected>
+</LeftRail>
+<VideoControls>
+<Hidden>false</Hidden>
+<PreviousId>asb3_mod8</PreviousId>
+<NextId>asb3_mod9_sp1intro</NextId>
+</VideoControls>
+<AskControls>
+<Hidden>true</Hidden>
+<Action>question</Action>
+</AskControls>
+<CaseName>DOD_ASB1_GenMADIO</CaseName>
+</Response>
+<Response id="asb3_mod9_sp1intro">
+<LeftRail>
+<Id>3hour</Id>
+<Hidden>false</Hidden>
+<ModuleSelected>9</ModuleSelected>
+</LeftRail>
+<VideoControls>
+<Hidden>false</Hidden>
+<PreviousId>asb3_did051</PreviousId>
+<NextId>asb3_mod9_sp1s1</NextId>
+</VideoControls>
+<AskControls>
+<Hidden>true</Hidden>
+<Action>question</Action>
+</AskControls>
+<CaseName>DOD_ASB1_GenMADIO</CaseName>
+</Response>
+<Response id="asb3_mod9_sp1s1">
+<LeftRail>
+<Id>3hour</Id>
+<Hidden>false</Hidden>
+<ModuleSelected>9</ModuleSelected>
+<ResponseSelected>asb3_mod9_sp1intro</ResponseSelected>
+</LeftRail>
+<VideoControls>
+<Hidden>false</Hidden>
+<PreviousId>asb3_mod9_sp1intro</PreviousId>
+<DoneId>asb3_mod9_sp1s2</DoneId>
+<NextId />
+</VideoControls>
+<AskControls>
+<Hidden>false</Hidden>
+<Action>question</Action>
+</AskControls>
+<CaseName>DOD_ASB3_mod9_sp1</CaseName>
+<Answers>
+<Answer id="yes" case="DOD_ASB1_GenMADIO"></Answer>
+<Answer id="no">asb3_mod9_sp1s1o</Answer>
+<Answer id="motivational">asb3_mod9_sp1s1m</Answer>
+<Answer id="accusatory">asb3_mod9_sp1s1a</Answer>
+<Answer id="directive">asb3_mod9_sp1s1d</Answer>
+<Answer id="ineffectual">asb3_mod9_sp1s1i</Answer>
+<Answer id="offtopic">asb3_mod9_sp1s1o</Answer>
+<Answer id="nullrid">asb3_mod9_sp1s1o</Answer>
+<Answer id="shamerid">asb3_mod9_sp1s1o</Answer>
+</Answers>
+</Response>
+<Response id="asb3_mod9_sp1s1m" type="motivational">
+<LeftRail>
+<Id>3hour</Id>
+<Hidden>false</Hidden>
+<ModuleSelected>9</ModuleSelected>
+<ResponseSelected>asb3_mod9_sp1intro</ResponseSelected>
+</LeftRail>
+<VideoControls>
+<Hidden>false</Hidden>
+<PreviousId>asb3_mod9_sp1s1</PreviousId>
+<NextId>asb3_mod9_sp1s2</NextId>
+</VideoControls>
+<AskControls>
+<Hidden>true</Hidden>
+<Action>question</Action>
+</AskControls>
+<CaseName>DOD_ASB1_GenMADIO</CaseName>
+</Response>
+<Response id="asb3_mod9_sp1s1a" type="accusatory">
+<LeftRail>
+<Id>3hour</Id>
+<Hidden>false</Hidden>
+<ModuleSelected>9</ModuleSelected>
+<ResponseSelected>asb3_mod9_sp1intro</ResponseSelected>
+</LeftRail>
+<VideoControls>
+<Hidden>false</Hidden>
+<PreviousId>asb3_mod9_sp1s1</PreviousId>
+<NextId>asb3_mod9_sp1s2</NextId>
+</VideoControls>
+<AskControls>
+<Hidden>true</Hidden>
+<Action>question</Action>
+</AskControls>
+<CaseName>DOD_ASB1_GenMADIO</CaseName>
+</Response>
+<Response id="asb3_mod9_sp1s1d" type="directive">
+<LeftRail>
+<Id>3hour</Id>
+<Hidden>false</Hidden>
+<ModuleSelected>9</ModuleSelected>
+<ResponseSelected>asb3_mod9_sp1intro</ResponseSelected>
+</LeftRail>
+<VideoControls>
+<Hidden>false</Hidden>
+<PreviousId>asb3_mod9_sp1s1</PreviousId>
+<NextId>asb3_mod9_sp1s2</NextId>
+</VideoControls>
+<AskControls>
+<Hidden>true</Hidden>
+<Action>question</Action>
+</AskControls>
+<CaseName>DOD_ASB1_GenMADIO</CaseName>
+</Response>
+<Response id="asb3_mod9_sp1s1i" type="ineffectual">
+<LeftRail>
+<Id>3hour</Id>
+<Hidden>false</Hidden>
+<ModuleSelected>9</ModuleSelected>
+<ResponseSelected>asb3_mod9_sp1intro</ResponseSelected>
+</LeftRail>
+<VideoControls>
+<Hidden>false</Hidden>
+<PreviousId>asb3_mod9_sp1s1</PreviousId>
+<NextId>asb3_mod9_sp1s2</NextId>
+</VideoControls>
+<AskControls>
+<Hidden>true</Hidden>
+<Action>question</Action>
+</AskControls>
+<CaseName>DOD_ASB1_GenMADIO</CaseName>
+</Response>
+<Response id="asb3_mod9_sp1s1o" type="offtopic">
+<LeftRail>
+<Id>3hour</Id>
+<Hidden>false</Hidden>
+<ModuleSelected>9</ModuleSelected>
+<ResponseSelected>asb3_mod9_sp1intro</ResponseSelected>
+</LeftRail>
+<VideoControls>
+<Hidden>false</Hidden>
+<PreviousId>asb3_mod9_sp1s1</PreviousId>
+<NextId>asb3_mod9_sp1s2</NextId>
+</VideoControls>
+<AskControls>
+<Hidden>true</Hidden>
+<Action>question</Action>
+</AskControls>
+<CaseName>DOD_ASB1_GenMADIO</CaseName>
+</Response>
+<Response id="asb3_mod9_sp1s2">
+<LeftRail>
+<Id>3hour</Id>
+<Hidden>false</Hidden>
+<ModuleSelected>9</ModuleSelected>
+<ResponseSelected>asb3_mod9_sp1intro</ResponseSelected>
+</LeftRail>
+<VideoControls>
+<Hidden>false</Hidden>
+<PreviousId>asb3_mod9_sp1intro</PreviousId>
+<DoneId>asb3_mod9_2</DoneId>
+<NextId />
+</VideoControls>
+<AskControls>
+<Hidden>false</Hidden>
+<Action>question</Action>
+</AskControls>
+<CaseName>DOD_ASB3_mod9_sp1</CaseName>
+<Answers>
+<Answer id="yes" case="DOD_ASB1_GenMADIO"></Answer>
+<Answer id="no">asb3_mod9_sp1s2o</Answer>
+<Answer id="motivational">asb3_mod9_sp1s2m</Answer>
+<Answer id="accusatory">asb3_mod9_sp1s2a</Answer>
+<Answer id="directive">asb3_mod9_sp1s2d</Answer>
+<Answer id="ineffectual">asb3_mod9_sp1s2i</Answer>
+<Answer id="offtopic">asb3_mod9_sp1s2o</Answer>
+<Answer id="nullrid">asb3_mod9_sp1s2o</Answer>
+<Answer id="shamerid">asb3_mod9_sp1s2o</Answer>
+</Answers>
+</Response>
+<Response id="asb3_mod9_sp1s2m" type="motivational">
+<LeftRail>
+<Id>3hour</Id>
+<Hidden>false</Hidden>
+<ModuleSelected>9</ModuleSelected>
+<ResponseSelected>asb3_mod9_sp1intro</ResponseSelected>
+</LeftRail>
+<VideoControls>
+<Hidden>false</Hidden>
+<PreviousId>asb3_mod9_sp1s2</PreviousId>
+<NextId>asb3_mod9_2</NextId>
+</VideoControls>
+<AskControls>
+<Hidden>true</Hidden>
+<Action>question</Action>
+</AskControls>
+<CaseName>DOD_ASB1_GenMADIO</CaseName>
+</Response>
+<Response id="asb3_mod9_sp1s2a" type="accusatory">
+<LeftRail>
+<Id>3hour</Id>
+<Hidden>false</Hidden>
+<ModuleSelected>9</ModuleSelected>
+<ResponseSelected>asb3_mod9_sp1intro</ResponseSelected>
+</LeftRail>
+<VideoControls>
+<Hidden>false</Hidden>
+<PreviousId>asb3_mod9_sp1s2</PreviousId>
+<NextId>asb3_mod9_2</NextId>
+</VideoControls>
+<AskControls>
+<Hidden>true</Hidden>
+<Action>question</Action>
+</AskControls>
+<CaseName>DOD_ASB1_GenMADIO</CaseName>
+</Response>
+<Response id="asb3_mod9_sp1s2d" type="directive">
+<LeftRail>
+<Id>3hour</Id>
+<Hidden>false</Hidden>
+<ModuleSelected>9</ModuleSelected>
+<ResponseSelected>asb3_mod9_sp1intro</ResponseSelected>
+</LeftRail>
+<VideoControls>
+<Hidden>false</Hidden>
+<PreviousId>asb3_mod9_sp1s2</PreviousId>
+<NextId>asb3_mod9_2</NextId>
+</VideoControls>
+<AskControls>
+<Hidden>true</Hidden>
+<Action>question</Action>
+</AskControls>
+<CaseName>DOD_ASB1_GenMADIO</CaseName>
+</Response>
+<Response id="asb3_mod9_sp1s2i" type="ineffectual">
+<LeftRail>
+<Id>3hour</Id>
+<Hidden>false</Hidden>
+<ModuleSelected>9</ModuleSelected>
+<ResponseSelected>asb3_mod9_sp1intro</ResponseSelected>
+</LeftRail>
+<VideoControls>
+<Hidden>false</Hidden>
+<PreviousId>asb3_mod9_sp1s2</PreviousId>
+<NextId>asb3_mod9_2</NextId>
+</VideoControls>
+<AskControls>
+<Hidden>true</Hidden>
+<Action>question</Action>
+</AskControls>
+<CaseName>DOD_ASB1_GenMADIO</CaseName>
+</Response>
+<Response id="asb3_mod9_sp1s2o" type="offtopic">
+<LeftRail>
+<Id>3hour</Id>
+<Hidden>false</Hidden>
+<ModuleSelected>9</ModuleSelected>
+<ResponseSelected>asb3_mod9_sp1intro</ResponseSelected>
+</LeftRail>
+<VideoControls>
+<Hidden>false</Hidden>
+<PreviousId>asb3_mod9_sp1s2</PreviousId>
+<NextId>asb3_mod9_2</NextId>
+</VideoControls>
+<AskControls>
+<Hidden>true</Hidden>
+<Action>question</Action>
+</AskControls>
+<CaseName>DOD_ASB1_GenMADIO</CaseName>
+</Response>
+<Response id="asb3_mod9_2">
+<LeftRail>
+<Id>3hour</Id>
+<Hidden>false</Hidden>
+<ModuleSelected>9</ModuleSelected>
+</LeftRail>
+<VideoControls>
+<Hidden>false</Hidden>
+<PreviousId>asb3_mod9_sp1s2</PreviousId>
+<NextId>asb3_mod10</NextId>
+</VideoControls>
+<AskControls>
+<Hidden>true</Hidden>
+<Action>question</Action>
+</AskControls>
+<CaseName>DOD_ASB1_GenMADIO</CaseName>
+</Response>
+<Response id="asb3_mod10">
+<LeftRail>
+<Id>3hour</Id>
+<Hidden>false</Hidden>
+<ModuleSelected>10</ModuleSelected>
+</LeftRail>
+<VideoControls>
+<Hidden>false</Hidden>
+<PreviousId>asb3_mod9_2</PreviousId>
+<NextId>asb3_mod11_1</NextId>
+</VideoControls>
+<AskControls>
+<Hidden>true</Hidden>
+<Action>question</Action>
+</AskControls>
+<CaseName>DOD_ASB1_GenMADIO</CaseName>
+</Response>
+<Response id="asb3_mod11_1">
+<LeftRail>
+<Id>3hour</Id>
+<Hidden>false</Hidden>
+<ModuleSelected>11</ModuleSelected>
+</LeftRail>
+<VideoControls>
+<Hidden>false</Hidden>
+<PreviousId>asb3_mod10</PreviousId>
+<NextId>asb3_mod11_ps1intro</NextId>
+</VideoControls>
+<AskControls>
+<Hidden>true</Hidden>
+<Action>question</Action>
+</AskControls>
+<CaseName>DOD_ASB1_GenMADIO</CaseName>
+</Response>
+<Response id="asb3_mod11_ps1intro">
+<LeftRail>
+<Id>3hour</Id>
+<Hidden>false</Hidden>
+<ModuleSelected>11</ModuleSelected>
+<ResponseSelected>asb1_did038</ResponseSelected>
+</LeftRail>
+<VideoControls>
+<Hidden>false</Hidden>
+<PreviousId>asb3_mod11_1</PreviousId>
+<NextId>asb3_mod11_ps1s1</NextId>
+</VideoControls>
+<AskControls>
+<Hidden>true</Hidden>
+<Action>question</Action>
+</AskControls>
+<CaseName>DOD_ASB1_GenMADIO</CaseName>
+</Response>
+<Response id="asb3_mod11_ps1s1">
+<LeftRail>
+<Id>3hour</Id>
+<Hidden>false</Hidden>
+<ModuleSelected>11</ModuleSelected>
+</LeftRail>
+<VideoControls>
+<Hidden>false</Hidden>
+<PreviousId>asb3_mod11_ps1intro</PreviousId>
+<NextId />
+<DoneId>asb3_mod11_ps1s2</DoneId>
+</VideoControls>
+<AskControls>
+<Hidden>false</Hidden>
+<Action>question</Action>
+</AskControls>
+<CaseName>DOD_ASB3_mod11_ps1s1</CaseName>
+<Answers>
+<Answer id="yes" case="DOD_ASB1_GenMADIO"></Answer>
+<Answer id="no">asb3_mod11_ps1s1o</Answer>
+<Answer id="motivational">asb3_mod11_ps1s1m</Answer>
+<Answer id="accusatory">asb3_mod11_ps1s1a</Answer>
+<Answer id="directive">asb3_mod11_ps1s1d</Answer>
+<Answer id="ineffectual">asb3_mod11_ps1s1i</Answer>
+<Answer id="offtopic">asb3_mod11_ps1s1o</Answer>
+<Answer id="nullrid">asb3_mod11_ps1s1o</Answer>
+<Answer id="shamerid">asb3_mod11_ps1s1o</Answer>
+</Answers>
+</Response>
+<Response id="asb3_mod11_ps1s1m" type="motivational">
+<LeftRail>
+<Id>3hour</Id>
+<Hidden>false</Hidden>
+<ModuleSelected>11</ModuleSelected>
+<ResponseSelected>asb3_mod11_ps1s1</ResponseSelected>
+</LeftRail>
+<VideoControls>
+<Hidden>false</Hidden>
+<PreviousId>asb3_mod11_ps1s1</PreviousId>
+<NextId>asb3_mod11_ps1s2</NextId>
+</VideoControls>
+<AskControls>
+<Hidden>true</Hidden>
+<Action>question</Action>
+</AskControls>
+<CaseName>DOD_ASB1_GenMADIO</CaseName>
+</Response>
+<Response id="asb3_mod11_ps1s1a" type="accusatory">
+<LeftRail>
+<Id>3hour</Id>
+<Hidden>false</Hidden>
+<ModuleSelected>11</ModuleSelected>
+<ResponseSelected>asb3_mod11_ps1s1</ResponseSelected>
+</LeftRail>
+<VideoControls>
+<Hidden>false</Hidden>
+<PreviousId>asb3_mod11_ps1s1</PreviousId>
+<NextId>asb3_mod11_ps1s2</NextId>
+</VideoControls>
+<AskControls>
+<Hidden>true</Hidden>
+<Action>question</Action>
+</AskControls>
+<CaseName>DOD_ASB1_GenMADIO</CaseName>
+</Response>
+<Response id="asb3_mod11_ps1s1d" type="directive">
+<LeftRail>
+<Id>3hour</Id>
+<Hidden>false</Hidden>
+<ModuleSelected>11</ModuleSelected>
+<ResponseSelected>asb3_mod11_ps1s1</ResponseSelected>
+</LeftRail>
+<VideoControls>
+<Hidden>false</Hidden>
+<PreviousId>asb3_mod11_ps1s1</PreviousId>
+<NextId>asb3_mod11_ps1s2</NextId>
+</VideoControls>
+<AskControls>
+<Hidden>true</Hidden>
+<Action>question</Action>
+</AskControls>
+<CaseName>DOD_ASB1_GenMADIO</CaseName>
+</Response>
+<Response id="asb3_mod11_ps1s1i" type="ineffectual">
+<LeftRail>
+<Id>3hour</Id>
+<Hidden>false</Hidden>
+<ModuleSelected>11</ModuleSelected>
+<ResponseSelected>asb3_mod11_ps1s1</ResponseSelected>
+</LeftRail>
+<VideoControls>
+<Hidden>false</Hidden>
+<PreviousId>asb3_mod11_ps1s1</PreviousId>
+<NextId>asb3_mod11_ps1s2</NextId>
+</VideoControls>
+<AskControls>
+<Hidden>true</Hidden>
+<Action>question</Action>
+</AskControls>
+<CaseName>DOD_ASB1_GenMADIO</CaseName>
+</Response>
+<Response id="asb3_mod11_ps1s1o" type="offtopic">
+<LeftRail>
+<Id>3hour</Id>
+<Hidden>false</Hidden>
+<ModuleSelected>11</ModuleSelected>
+<ResponseSelected>asb3_mod11_ps1s1</ResponseSelected>
+</LeftRail>
+<VideoControls>
+<Hidden>false</Hidden>
+<PreviousId>asb3_mod11_ps1s1</PreviousId>
+<NextId>asb3_mod11_ps1s2</NextId>
+</VideoControls>
+<AskControls>
+<Hidden>true</Hidden>
+<Action>question</Action>
+</AskControls>
+<CaseName>DOD_ASB1_GenMADIO</CaseName>
+</Response>
+<Response id="asb3_mod11_ps1s2">
+<LeftRail>
+<Id>3hour</Id>
+<Hidden>false</Hidden>
+<ModuleSelected>11</ModuleSelected>
+</LeftRail>
+<VideoControls>
+<Hidden>false</Hidden>
+<PreviousId>asb3_mod11_ps1s1</PreviousId>
+<NextId />
+<DoneId>asb3_mod11_ps1s3</DoneId>
+</VideoControls>
+<AskControls>
+<Hidden>false</Hidden>
+<Action>question</Action>
+</AskControls>
+<CaseName>DOD_ASB3_mod11_ps1s2</CaseName>
+<Answers>
+<Answer id="yes" case="DOD_ASB1_GenMADIO"></Answer>
+<Answer id="no">asb3_mod11_ps1s2o</Answer>
+<Answer id="motivational">asb3_mod11_ps1s2m</Answer>
+<Answer id="accusatory">asb3_mod11_ps1s2a</Answer>
+<Answer id="directive">asb3_mod11_ps1s2d</Answer>
+<Answer id="ineffectual">asb3_mod11_ps1s2i</Answer>
+<Answer id="offtopic">asb3_mod11_ps1s2o</Answer>
+<Answer id="nullrid">asb3_mod11_ps1s2o</Answer>
+<Answer id="shamerid">asb3_mod11_ps1s2o</Answer>
+</Answers>
+</Response>
+<Response id="asb3_mod11_ps1s2m" type="motivational">
+<LeftRail>
+<Id>3hour</Id>
+<Hidden>false</Hidden>
+<ModuleSelected>11</ModuleSelected>
+<ResponseSelected>asb3_mod11_ps1s2</ResponseSelected>
+</LeftRail>
+<VideoControls>
+<Hidden>false</Hidden>
+<PreviousId>asb3_mod11_ps1s2</PreviousId>
+<NextId>asb3_mod11_ps1s3</NextId>
+</VideoControls>
+<AskControls>
+<Hidden>true</Hidden>
+<Action>question</Action>
+</AskControls>
+<CaseName>DOD_ASB1_GenMADIO</CaseName>
+</Response>
+<Response id="asb3_mod11_ps1s2a" type="accusatory">
+<LeftRail>
+<Id>3hour</Id>
+<Hidden>false</Hidden>
+<ModuleSelected>11</ModuleSelected>
+<ResponseSelected>asb3_mod11_ps1s2</ResponseSelected>
+</LeftRail>
+<VideoControls>
+<Hidden>false</Hidden>
+<PreviousId>asb3_mod11_ps1s2</PreviousId>
+<NextId>asb3_mod11_ps1s3</NextId>
+</VideoControls>
+<AskControls>
+<Hidden>true</Hidden>
+<Action>question</Action>
+</AskControls>
+<CaseName>DOD_ASB1_GenMADIO</CaseName>
+</Response>
+<Response id="asb3_mod11_ps1s2d" type="directive">
+<LeftRail>
+<Id>3hour</Id>
+<Hidden>false</Hidden>
+<ModuleSelected>11</ModuleSelected>
+<ResponseSelected>asb3_mod11_ps1s2</ResponseSelected>
+</LeftRail>
+<VideoControls>
+<Hidden>false</Hidden>
+<PreviousId>asb3_mod11_ps1s2</PreviousId>
+<NextId>asb3_mod11_ps1s3</NextId>
+</VideoControls>
+<AskControls>
+<Hidden>true</Hidden>
+<Action>question</Action>
+</AskControls>
+<CaseName>DOD_ASB1_GenMADIO</CaseName>
+</Response>
+<Response id="asb3_mod11_ps1s2i" type="ineffectual">
+<LeftRail>
+<Id>3hour</Id>
+<Hidden>false</Hidden>
+<ModuleSelected>11</ModuleSelected>
+<ResponseSelected>asb3_mod11_ps1s2</ResponseSelected>
+</LeftRail>
+<VideoControls>
+<Hidden>false</Hidden>
+<PreviousId>asb3_mod11_ps1s2</PreviousId>
+<NextId>asb3_mod11_ps1s3</NextId>
+</VideoControls>
+<AskControls>
+<Hidden>true</Hidden>
+<Action>question</Action>
+</AskControls>
+<CaseName>DOD_ASB1_GenMADIO</CaseName>
+</Response>
+<Response id="asb3_mod11_ps1s2o" type="offtopic">
+<LeftRail>
+<Id>3hour</Id>
+<Hidden>false</Hidden>
+<ModuleSelected>11</ModuleSelected>
+<ResponseSelected>asb3_mod11_ps1s2</ResponseSelected>
+</LeftRail>
+<VideoControls>
+<Hidden>false</Hidden>
+<PreviousId>asb3_mod11_ps1s2</PreviousId>
+<NextId>asb3_mod11_ps1s3</NextId>
+</VideoControls>
+<AskControls>
+<Hidden>true</Hidden>
+<Action>question</Action>
+</AskControls>
+<CaseName>DOD_ASB1_GenMADIO</CaseName>
+</Response>
+<Response id="asb3_mod11_ps1s3">
+<LeftRail>
+<Id>3hour</Id>
+<Hidden>false</Hidden>
+<ModuleSelected>11</ModuleSelected>
+</LeftRail>
+<VideoControls>
+<Hidden>false</Hidden>
+<PreviousId>asb3_mod11_ps1s2</PreviousId>
+<NextId />
+<DoneId>asb3_mod11_ps1s4intro</DoneId>
+</VideoControls>
+<AskControls>
+<Hidden>false</Hidden>
+<Action>question</Action>
+</AskControls>
+<CaseName>DOD_ASB3_mod11_ps1s3</CaseName>
+<Answers>
+<Answer id="yes" case="DOD_ASB1_GenMADIO"></Answer>
+<Answer id="no">asb3_mod11_ps1s3o</Answer>
+<Answer id="motivational">asb3_mod11_ps1s3m</Answer>
+<Answer id="accusatory">asb3_mod11_ps1s3a</Answer>
+<Answer id="directive">asb3_mod11_ps1s3d</Answer>
+<Answer id="ineffectual">asb3_mod11_ps1s3i</Answer>
+<Answer id="offtopic">asb3_mod11_ps1s3o</Answer>
+<Answer id="nullrid">asb3_mod11_ps1s3o</Answer>
+<Answer id="shamerid">asb3_mod11_ps1s3o</Answer>
+</Answers>
+</Response>
+<Response id="asb3_mod11_ps1s3m" type="motivational">
+<LeftRail>
+<Id>3hour</Id>
+<Hidden>false</Hidden>
+<ModuleSelected>11</ModuleSelected>
+<ResponseSelected>asb3_mod11_ps1s3</ResponseSelected>
+</LeftRail>
+<VideoControls>
+<Hidden>false</Hidden>
+<PreviousId>asb3_mod11_ps1s3</PreviousId>
+<NextId>asb3_mod11_ps1s4intro</NextId>
+</VideoControls>
+<AskControls>
+<Hidden>true</Hidden>
+<Action>question</Action>
+</AskControls>
+<CaseName>DOD_ASB1_GenMADIO</CaseName>
+</Response>
+<Response id="asb3_mod11_ps1s3a" type="accusatory">
+<LeftRail>
+<Id>3hour</Id>
+<Hidden>false</Hidden>
+<ModuleSelected>11</ModuleSelected>
+<ResponseSelected>asb3_mod11_ps1s3</ResponseSelected>
+</LeftRail>
+<VideoControls>
+<Hidden>false</Hidden>
+<PreviousId>asb3_mod11_ps1s3</PreviousId>
+<NextId>asb3_mod11_ps1s4intro</NextId>
+</VideoControls>
+<AskControls>
+<Hidden>true</Hidden>
+<Action>question</Action>
+</AskControls>
+<CaseName>DOD_ASB1_GenMADIO</CaseName>
+</Response>
+<Response id="asb3_mod11_ps1s3d" type="directive">
+<LeftRail>
+<Id>3hour</Id>
+<Hidden>false</Hidden>
+<ModuleSelected>11</ModuleSelected>
+<ResponseSelected>asb3_mod11_ps1s3</ResponseSelected>
+</LeftRail>
+<VideoControls>
+<Hidden>false</Hidden>
+<PreviousId>asb3_mod11_ps1s3</PreviousId>
+<NextId>asb3_mod11_ps1s4intro</NextId>
+</VideoControls>
+<AskControls>
+<Hidden>true</Hidden>
+<Action>question</Action>
+</AskControls>
+<CaseName>DOD_ASB1_GenMADIO</CaseName>
+</Response>
+<Response id="asb3_mod11_ps1s3i" type="ineffectual">
+<LeftRail>
+<Id>3hour</Id>
+<Hidden>false</Hidden>
+<ModuleSelected>11</ModuleSelected>
+<ResponseSelected>asb3_mod11_ps1s3</ResponseSelected>
+</LeftRail>
+<VideoControls>
+<Hidden>false</Hidden>
+<PreviousId>asb3_mod11_ps1s3</PreviousId>
+<NextId>asb3_mod11_ps1s4intro</NextId>
+</VideoControls>
+<AskControls>
+<Hidden>true</Hidden>
+<Action>question</Action>
+</AskControls>
+<CaseName>DOD_ASB1_GenMADIO</CaseName>
+</Response>
+<Response id="asb3_mod11_ps1s3o" type="offtopic">
+<LeftRail>
+<Id>3hour</Id>
+<Hidden>false</Hidden>
+<ModuleSelected>11</ModuleSelected>
+<ResponseSelected>asb3_mod11_ps1s3</ResponseSelected>
+</LeftRail>
+<VideoControls>
+<Hidden>false</Hidden>
+<PreviousId>asb3_mod11_ps1s3</PreviousId>
+<NextId>asb3_mod11_ps1s4intro</NextId>
+</VideoControls>
+<AskControls>
+<Hidden>true</Hidden>
+<Action>question</Action>
+</AskControls>
+<CaseName>DOD_ASB1_GenMADIO</CaseName>
+</Response>
+<Response id="asb3_mod11_ps1s4intro">
+<LeftRail>
+<Id>3hour</Id>
+<Hidden>false</Hidden>
+<ModuleSelected>11</ModuleSelected>
+<ResponseSelected>asb3_mod11_ps1s4intro</ResponseSelected>
+</LeftRail>
+<VideoControls>
+<Hidden>false</Hidden>
+<PreviousId>asb3_mod11_ps1s3</PreviousId>
+<NextId>asb3_mod11_ps1s4q4</NextId>
+</VideoControls>
+<AskControls>
+<Hidden>true</Hidden>
+<Action>question</Action>
+</AskControls>
+<CaseName>DOD_ASB1_GenMADIO</CaseName>
+</Response>
+<Response id="asb3_mod11_ps1s4q4">
+<LeftRail>
+<Id>3hour</Id>
+<Hidden>false</Hidden>
+<ModuleSelected>11</ModuleSelected>
+<ResponseSelected>asb3_mod11_ps1s4intro</ResponseSelected>
+</LeftRail>
+<VideoControls>
+<Hidden>true</Hidden>
+<PreviousId>asb3_mod11_ps1s4intro</PreviousId>
+<NextId>asb3_mod11_ps1s4q5</NextId>
+</VideoControls>
+<AskControls>
+<Hidden>false</Hidden>
+<Action>answer</Action>
+</AskControls>
+<CaseName>DOD_ASB3_mod11_ps1s4</CaseName>
+</Response>
+<Response id="asb3_mod11_ps1s4q5">
+<LeftRail>
+<Id>3hour</Id>
+<Hidden>false</Hidden>
+<ModuleSelected>11</ModuleSelected>
+<ResponseSelected>asb3_mod11_ps1s4intro</ResponseSelected>
+</LeftRail>
+<VideoControls>
+<Hidden>true</Hidden>
+<PreviousId>asb3_mod11_ps1s4q4</PreviousId>
+<NextId>asb3_mod11_ps1s4q6</NextId>
+</VideoControls>
+<AskControls>
+<Hidden>false</Hidden>
+<Action>answer</Action>
+</AskControls>
+<CaseName>DOD_ASB3_mod11_ps1s4</CaseName>
+</Response>
+<Response id="asb3_mod11_ps1s4q6">
+<LeftRail>
+<Id>3hour</Id>
+<Hidden>false</Hidden>
+<ModuleSelected>11</ModuleSelected>
+<ResponseSelected>asb3_mod11_ps1s4intro</ResponseSelected>
+</LeftRail>
+<VideoControls>
+<Hidden>true</Hidden>
+<PreviousId>asb3_mod11_ps1s4q5</PreviousId>
+<NextId>asb3_mod11_ps1s4q7</NextId>
+</VideoControls>
+<AskControls>
+<Hidden>false</Hidden>
+<Action>answer</Action>
+</AskControls>
+<CaseName>DOD_ASB3_mod11_ps1s4</CaseName>
+</Response>
+<Response id="asb3_mod11_ps1s4q7">
+<LeftRail>
+<Id>3hour</Id>
+<Hidden>false</Hidden>
+<ModuleSelected>11</ModuleSelected>
+<ResponseSelected>asb3_mod11_ps1s4intro</ResponseSelected>
+</LeftRail>
+<VideoControls>
+<Hidden>true</Hidden>
+<PreviousId>asb3_mod11_ps1s4q6</PreviousId>
+<NextId>asb3_mod11_ps1s4q8</NextId>
+</VideoControls>
+<AskControls>
+<Hidden>false</Hidden>
+<Action>answer</Action>
+</AskControls>
+<CaseName>DOD_ASB3_mod11_ps1s4</CaseName>
+</Response>
+<Response id="asb3_mod11_ps1s4q8">
+<LeftRail>
+<Id>3hour</Id>
+<Hidden>false</Hidden>
+<ModuleSelected>11</ModuleSelected>
+<ResponseSelected>asb3_mod11_ps1s4intro</ResponseSelected>
+</LeftRail>
+<VideoControls>
+<Hidden>true</Hidden>
+<PreviousId>asb3_mod11_ps1s4q7</PreviousId>
+<NextId>asb3_mod11_ps1s4q9</NextId>
+</VideoControls>
+<AskControls>
+<Hidden>false</Hidden>
+<Action>answer</Action>
+</AskControls>
+<CaseName>DOD_ASB3_mod11_ps1s4</CaseName>
+</Response>
+<Response id="asb3_mod11_ps1s4q9">
+<LeftRail>
+<Id>3hour</Id>
+<Hidden>false</Hidden>
+<ModuleSelected>11</ModuleSelected>
+<ResponseSelected>asb3_mod11_ps1s4intro</ResponseSelected>
+</LeftRail>
+<VideoControls>
+<Hidden>true</Hidden>
+<PreviousId>asb3_mod11_ps1s4q8</PreviousId>
+<NextId>asb3_mod11_ps1s4q10</NextId>
+</VideoControls>
+<AskControls>
+<Hidden>false</Hidden>
+<Action>answer</Action>
+</AskControls>
+<CaseName>DOD_ASB3_mod11_ps1s4</CaseName>
+</Response>
+<Response id="asb3_mod11_ps1s4q10">
+<LeftRail>
+<Id>3hour</Id>
+<Hidden>false</Hidden>
+<ModuleSelected>11</ModuleSelected>
+<ResponseSelected>asb3_mod11_ps1s4intro</ResponseSelected>
+</LeftRail>
+<VideoControls>
+<Hidden>true</Hidden>
+<PreviousId>asb3_mod11_ps1s4q9</PreviousId>
+<NextId>asb3_mod11_ps1s4</NextId>
+</VideoControls>
+<AskControls>
+<Hidden>false</Hidden>
+<Action>answer</Action>
+</AskControls>
+<CaseName>DOD_ASB3_mod11_ps1s4</CaseName>
+</Response>
+<Response id="asb3_mod11_ps1s4">
+<LeftRail>
+<Id>3hour</Id>
+<Hidden>false</Hidden>
+<ModuleSelected>11</ModuleSelected>
+<ResponseSelected>asb3_mod11_ps1s4intro</ResponseSelected>
+</LeftRail>
+<VideoControls>
+<Hidden>false</Hidden>
+<PreviousId>asb3_mod11_ps1s4intro</PreviousId>
+<NextId />
+<DoneId>asb3_mod11_ps1s5</DoneId>
+</VideoControls>
+<AskControls>
+<Hidden>false</Hidden>
+<Action>question</Action>
+</AskControls>
+<CaseName>DOD_ASB3_mod11_ps1s4</CaseName>
+<Answers>
+<Answer id="yes" case="DOD_ASB1_GenMADIO"></Answer>
+<Answer id="no">asb3_mod11_ps1s4n</Answer>
+<Answer id="motivational">asb3_mod11_ps1s4m</Answer>
+<Answer id="accusatory">asb3_mod11_ps1s4a</Answer>
+<Answer id="directive">asb3_mod11_ps1s4d</Answer>
+<Answer id="ineffectual">asb3_mod11_ps1s4i</Answer>
+<Answer id="offtopic">asb3_mod11_ps1s4o</Answer>
+<Answer id="nullrid">asb3_mod11_ps1s4o</Answer>
+<Answer id="shamerid">asb3_mod11_ps1s4o</Answer>
+</Answers>
+</Response>
+<Response id="asb3_mod11_ps1s4m" type="motivational">
+<LeftRail>
+<Id>3hour</Id>
+<Hidden>false</Hidden>
+<ModuleSelected>11</ModuleSelected>
+<ResponseSelected>asb3_mod11_ps1s4intro</ResponseSelected>
+</LeftRail>
+<VideoControls>
+<Hidden>false</Hidden>
+<PreviousId>asb3_mod11_ps1s4</PreviousId>
+<NextId>asb3_mod11_ps1s5</NextId>
+</VideoControls>
+<AskControls>
+<Hidden>true</Hidden>
+<Action>question</Action>
+</AskControls>
+<CaseName>DOD_ASB1_GenMADIO</CaseName>
+</Response>
+<Response id="asb3_mod11_ps1s4a" type="accusatory">
+<LeftRail>
+<Id>3hour</Id>
+<Hidden>false</Hidden>
+<ModuleSelected>11</ModuleSelected>
+<ResponseSelected>asb3_mod11_ps1s4intro</ResponseSelected>
+</LeftRail>
+<VideoControls>
+<Hidden>false</Hidden>
+<PreviousId>asb3_mod11_ps1s4</PreviousId>
+<NextId>asb3_mod11_ps1s5</NextId>
+</VideoControls>
+<AskControls>
+<Hidden>true</Hidden>
+<Action>question</Action>
+</AskControls>
+<CaseName>DOD_ASB1_GenMADIO</CaseName>
+</Response>
+<Response id="asb3_mod11_ps1s4d" type="directive">
+<LeftRail>
+<Id>3hour</Id>
+<Hidden>false</Hidden>
+<ModuleSelected>11</ModuleSelected>
+<ResponseSelected>asb3_mod11_ps1s4intro</ResponseSelected>
+</LeftRail>
+<VideoControls>
+<Hidden>false</Hidden>
+<PreviousId>asb3_mod11_ps1s4</PreviousId>
+<NextId>asb3_mod11_ps1s5</NextId>
+</VideoControls>
+<AskControls>
+<Hidden>true</Hidden>
+<Action>question</Action>
+</AskControls>
+<CaseName>DOD_ASB1_GenMADIO</CaseName>
+</Response>
+<Response id="asb3_mod11_ps1s4i" type="ineffectual">
+<LeftRail>
+<Id>3hour</Id>
+<Hidden>false</Hidden>
+<ModuleSelected>11</ModuleSelected>
+<ResponseSelected>asb3_mod11_ps1s4intro</ResponseSelected>
+</LeftRail>
+<VideoControls>
+<Hidden>false</Hidden>
+<PreviousId>asb3_mod11_ps1s4</PreviousId>
+<NextId>asb3_mod11_ps1s5</NextId>
+</VideoControls>
+<AskControls>
+<Hidden>true</Hidden>
+<Action>question</Action>
+</AskControls>
+<CaseName>DOD_ASB1_GenMADIO</CaseName>
+</Response>
+<Response id="asb3_mod11_ps1s4o" type="offtopic">
+<LeftRail>
+<Id>3hour</Id>
+<Hidden>false</Hidden>
+<ModuleSelected>11</ModuleSelected>
+<ResponseSelected>asb3_mod11_ps1s4intro</ResponseSelected>
+</LeftRail>
+<VideoControls>
+<Hidden>false</Hidden>
+<PreviousId>asb3_mod11_ps1s4</PreviousId>
+<NextId>asb3_mod11_ps1s5</NextId>
+</VideoControls>
+<AskControls>
+<Hidden>true</Hidden>
+<Action>question</Action>
+</AskControls>
+<CaseName>DOD_ASB1_GenMADIO</CaseName>
+</Response>
+<Response id="asb3_mod11_ps1s4n" type="custom">
+<LeftRail>
+<Id>3hour</Id>
+<Hidden>false</Hidden>
+<ModuleSelected>11</ModuleSelected>
+<ResponseSelected>asb3_mod11_ps1s4intro</ResponseSelected>
+</LeftRail>
+<VideoControls>
+<Hidden>false</Hidden>
+<PreviousId>asb3_mod11_ps1s4</PreviousId>
+<NextId>asb3_mod11_ps1s5</NextId>
+</VideoControls>
+<AskControls>
+<Hidden>true</Hidden>
+<Action>question</Action>
+</AskControls>
+<CaseName>DOD_ASB1_GenMADIO</CaseName>
+</Response>
+<Response id="asb3_mod11_ps1s5">
+<LeftRail>
+<Id>3hour</Id>
+<Hidden>false</Hidden>
+<ModuleSelected>11</ModuleSelected>
+</LeftRail>
+<VideoControls>
+<Hidden>false</Hidden>
+<PreviousId>asb3_mod11_ps1s4</PreviousId>
+<NextId />
+<DoneId>asb3_mod11_ps1s5model</DoneId>
+</VideoControls>
+<AskControls>
+<Hidden>false</Hidden>
+<Action>question</Action>
+</AskControls>
+<CaseName>DOD_ASB3_mod11_ps1s5</CaseName>
+<Answers>
+<Answer id="yes" case="DOD_ASB1_GenMADIO"></Answer>
+<Answer id="no">asb3_mod11_ps1s5o</Answer>
+<Answer id="motivational">asb3_mod11_ps1s5m</Answer>
+<Answer id="accusatory">asb3_mod11_ps1s5a</Answer>
+<Answer id="directive">asb3_mod11_ps1s5d</Answer>
+<Answer id="ineffectual">asb3_mod11_ps1s5i</Answer>
+<Answer id="offtopic">asb3_mod11_ps1s5o</Answer>
+<Answer id="nullrid">asb3_mod11_ps1s5o</Answer>
+<Answer id="shamerid">asb3_mod11_ps1s5o</Answer>
+</Answers>
+</Response>
+<Response id="asb3_mod11_ps1s5m" type="motivational">
+<LeftRail>
+<Id>3hour</Id>
+<Hidden>false</Hidden>
+<ModuleSelected>11</ModuleSelected>
+<ResponseSelected>asb3_mod11_ps1s5</ResponseSelected>
+</LeftRail>
+<VideoControls>
+<Hidden>false</Hidden>
+<PreviousId>asb3_mod11_ps1s5</PreviousId>
+<NextId>asb3_mod11_ps1s6</NextId>
+</VideoControls>
+<AskControls>
+<Hidden>true</Hidden>
+<Action>question</Action>
+</AskControls>
+<CaseName>DOD_ASB1_GenMADIO</CaseName>
+</Response>
+<Response id="asb3_mod11_ps1s5a" type="accusatory">
+<LeftRail>
+<Id>3hour</Id>
+<Hidden>false</Hidden>
+<ModuleSelected>11</ModuleSelected>
+<ResponseSelected>asb3_mod11_ps1s5</ResponseSelected>
+</LeftRail>
+<VideoControls>
+<Hidden>false</Hidden>
+<PreviousId>asb3_mod11_ps1s5</PreviousId>
+<NextId>asb3_mod11_ps1s5model</NextId>
+</VideoControls>
+<AskControls>
+<Hidden>true</Hidden>
+<Action>question</Action>
+</AskControls>
+<CaseName>DOD_ASB1_GenMADIO</CaseName>
+</Response>
+<Response id="asb3_mod11_ps1s5d" type="directive">
+<LeftRail>
+<Id>3hour</Id>
+<Hidden>false</Hidden>
+<ModuleSelected>11</ModuleSelected>
+<ResponseSelected>asb3_mod11_ps1s5</ResponseSelected>
+</LeftRail>
+<VideoControls>
+<Hidden>false</Hidden>
+<PreviousId>asb3_mod11_ps1s5</PreviousId>
+<NextId>asb3_mod11_ps1s5model</NextId>
+</VideoControls>
+<AskControls>
+<Hidden>true</Hidden>
+<Action>question</Action>
+</AskControls>
+<CaseName>DOD_ASB1_GenMADIO</CaseName>
+</Response>
+<Response id="asb3_mod11_ps1s5i" type="ineffectual">
+<LeftRail>
+<Id>3hour</Id>
+<Hidden>false</Hidden>
+<ModuleSelected>11</ModuleSelected>
+<ResponseSelected>asb3_mod11_ps1s5</ResponseSelected>
+</LeftRail>
+<VideoControls>
+<Hidden>false</Hidden>
+<PreviousId>asb3_mod11_ps1s5</PreviousId>
+<NextId>asb3_mod11_ps1s5model</NextId>
+</VideoControls>
+<AskControls>
+<Hidden>true</Hidden>
+<Action>question</Action>
+</AskControls>
+<CaseName>DOD_ASB1_GenMADIO</CaseName>
+</Response>
+<Response id="asb3_mod11_ps1s5o" type="offtopic">
+<LeftRail>
+<Id>3hour</Id>
+<Hidden>false</Hidden>
+<ModuleSelected>11</ModuleSelected>
+<ResponseSelected>asb3_mod11_ps1s5</ResponseSelected>
+</LeftRail>
+<VideoControls>
+<Hidden>false</Hidden>
+<PreviousId>asb3_mod11_ps1s5</PreviousId>
+<NextId>asb3_mod11_ps1s5model</NextId>
+</VideoControls>
+<AskControls>
+<Hidden>true</Hidden>
+<Action>question</Action>
+</AskControls>
+<CaseName>DOD_ASB1_GenMADIO</CaseName>
+</Response>
+<Response id="asb3_mod11_ps1s5model" type="model">
+<LeftRail>
+<Id>3hour</Id>
+<Hidden>false</Hidden>
+<ModuleSelected>11</ModuleSelected>
+<ResponseSelected>asb3_mod11_ps1s5</ResponseSelected>
+</LeftRail>
+<VideoControls>
+<Hidden>false</Hidden>
+<PreviousId>asb3_mod11_ps1s5</PreviousId>
+<NextId>asb3_mod11_ps1s6</NextId>
+</VideoControls>
+<AskControls>
+<Hidden>true</Hidden>
+<Action>question</Action>
+</AskControls>
+<CaseName>DOD_ASB1_GenMADIO</CaseName>
+</Response>
+<Response id="asb3_mod11_ps1s6">
+<LeftRail>
+<Id>3hour</Id>
+<Hidden>false</Hidden>
+<ModuleSelected>11</ModuleSelected>
+</LeftRail>
+<VideoControls>
+<Hidden>false</Hidden>
+<PreviousId>asb3_mod11_ps1s5</PreviousId>
+<NextId />
+<DoneId>asb3_mod11_ps1s7</DoneId>
+</VideoControls>
+<AskControls>
+<Hidden>false</Hidden>
+<Action>question</Action>
+</AskControls>
+<CaseName>filter_open_ended</CaseName>
+<Answers>
+<Answer id="yes" case="DOD_ASB1_GenMADIO"></Answer>
+<Answer id="no">asb3_mod11_ps1s6n</Answer>
+<Answer id="motivational">asb3_mod11_ps1s6m</Answer>
+<Answer id="accusatory">asb3_mod11_ps1s6a</Answer>
+<Answer id="directive">asb3_mod11_ps1s6d</Answer>
+<Answer id="ineffectual">asb3_mod11_ps1s6i</Answer>
+<Answer id="offtopic">asb3_mod11_ps1s6o</Answer>
+<Answer id="nullrid">asb3_mod11_ps1s6o</Answer>
+<Answer id="shamerid">asb3_mod11_ps1s6o</Answer>
+</Answers>
+</Response>
+<Response id="asb3_mod11_ps1s6m" type="motivational">
+<LeftRail>
+<Id>3hour</Id>
+<Hidden>false</Hidden>
+<ModuleSelected>11</ModuleSelected>
+<ResponseSelected>asb3_mod11_ps1s6</ResponseSelected>
+</LeftRail>
+<VideoControls>
+<Hidden>false</Hidden>
+<PreviousId>asb3_mod11_ps1s6</PreviousId>
+<NextId>asb3_mod11_ps1s7</NextId>
+</VideoControls>
+<AskControls>
+<Hidden>true</Hidden>
+<Action>question</Action>
+</AskControls>
+<CaseName>DOD_ASB1_GenMADIO</CaseName>
+</Response>
+<Response id="asb3_mod11_ps1s6a" type="accusatory">
+<LeftRail>
+<Id>3hour</Id>
+<Hidden>false</Hidden>
+<ModuleSelected>11</ModuleSelected>
+<ResponseSelected>asb3_mod11_ps1s6</ResponseSelected>
+</LeftRail>
+<VideoControls>
+<Hidden>false</Hidden>
+<PreviousId>asb3_mod11_ps1s6</PreviousId>
+<NextId>asb3_mod11_ps1s7</NextId>
+</VideoControls>
+<AskControls>
+<Hidden>true</Hidden>
+<Action>question</Action>
+</AskControls>
+<CaseName>DOD_ASB1_GenMADIO</CaseName>
+</Response>
+<Response id="asb3_mod11_ps1s6d" type="directive">
+<LeftRail>
+<Id>3hour</Id>
+<Hidden>false</Hidden>
+<ModuleSelected>11</ModuleSelected>
+<ResponseSelected>asb3_mod11_ps1s6</ResponseSelected>
+</LeftRail>
+<VideoControls>
+<Hidden>false</Hidden>
+<PreviousId>asb3_mod11_ps1s6</PreviousId>
+<NextId>asb3_mod11_ps1s7</NextId>
+</VideoControls>
+<AskControls>
+<Hidden>true</Hidden>
+<Action>question</Action>
+</AskControls>
+<CaseName>DOD_ASB1_GenMADIO</CaseName>
+</Response>
+<Response id="asb3_mod11_ps1s6i" type="ineffectual">
+<LeftRail>
+<Id>3hour</Id>
+<Hidden>false</Hidden>
+<ModuleSelected>11</ModuleSelected>
+<ResponseSelected>asb3_mod11_ps1s6</ResponseSelected>
+</LeftRail>
+<VideoControls>
+<Hidden>false</Hidden>
+<PreviousId>asb3_mod11_ps1s6</PreviousId>
+<NextId>asb3_mod11_ps1s7</NextId>
+</VideoControls>
+<AskControls>
+<Hidden>true</Hidden>
+<Action>question</Action>
+</AskControls>
+<CaseName>DOD_ASB1_GenMADIO</CaseName>
+</Response>
+<Response id="asb3_mod11_ps1s6o" type="offtopic">
+<LeftRail>
+<Id>3hour</Id>
+<Hidden>false</Hidden>
+<ModuleSelected>11</ModuleSelected>
+<ResponseSelected>asb3_mod11_ps1s6</ResponseSelected>
+</LeftRail>
+<VideoControls>
+<Hidden>false</Hidden>
+<PreviousId>asb3_mod11_ps1s6</PreviousId>
+<NextId>asb3_mod11_ps1s7</NextId>
+</VideoControls>
+<AskControls>
+<Hidden>true</Hidden>
+<Action>question</Action>
+</AskControls>
+<CaseName>DOD_ASB1_GenMADIO</CaseName>
+</Response>
+<Response id="asb3_mod11_ps1s6n" type="custom">
+<LeftRail>
+<Id>3hour</Id>
+<Hidden>false</Hidden>
+<ModuleSelected>11</ModuleSelected>
+<ResponseSelected>asb3_mod11_ps1s6</ResponseSelected>
+</LeftRail>
+<VideoControls>
+<Hidden>false</Hidden>
+<PreviousId>asb3_mod11_ps1s6</PreviousId>
+<NextId>asb3_mod11_ps1s7</NextId>
+</VideoControls>
+<AskControls>
+<Hidden>true</Hidden>
+<Action>question</Action>
+</AskControls>
+<CaseName>DOD_ASB1_GenMADIO</CaseName>
+</Response>
+<Response id="asb3_mod11_ps1s7">
+<LeftRail>
+<Id>3hour</Id>
+<Hidden>false</Hidden>
+<ModuleSelected>11</ModuleSelected>
+</LeftRail>
+<VideoControls>
+<Hidden>false</Hidden>
+<PreviousId>asb3_mod11_ps1s6</PreviousId>
+<NextId />
+<DoneId>asb3_mod11_ps1s7model</DoneId>
+</VideoControls>
+<AskControls>
+<Hidden>false</Hidden>
+<Action>question</Action>
+</AskControls>
+<CaseName>DOD_ASB3_mod11_ps1s7</CaseName>
+<Answers>
+<Answer id="yes" case="DOD_ASB1_GenMADIO"></Answer>
+<Answer id="no">asb3_mod11_ps1s7o</Answer>
+<Answer id="motivational">asb3_mod11_ps1s7m</Answer>
+<Answer id="accusatory">asb3_mod11_ps1s7a</Answer>
+<Answer id="directive">asb3_mod11_ps1s7d</Answer>
+<Answer id="ineffectual">asb3_mod11_ps1s7i</Answer>
+<Answer id="offtopic">asb3_mod11_ps1s7o</Answer>
+<Answer id="nullrid">asb3_mod11_ps1s7o</Answer>
+<Answer id="shamerid">asb3_mod11_ps1s7o</Answer>
+</Answers>
+</Response>
+<Response id="asb3_mod11_ps1s7m" type="motivational">
+<LeftRail>
+<Id>3hour</Id>
+<Hidden>false</Hidden>
+<ModuleSelected>11</ModuleSelected>
+<ResponseSelected>asb3_mod11_ps1s7</ResponseSelected>
+</LeftRail>
+<VideoControls>
+<Hidden>false</Hidden>
+<PreviousId>asb3_mod11_ps1s7</PreviousId>
+<NextId>asb3_mod11_ps1s8</NextId>
+</VideoControls>
+<AskControls>
+<Hidden>true</Hidden>
+<Action>question</Action>
+</AskControls>
+<CaseName>DOD_ASB1_GenMADIO</CaseName>
+</Response>
+<Response id="asb3_mod11_ps1s7a" type="accusatory">
+<LeftRail>
+<Id>3hour</Id>
+<Hidden>false</Hidden>
+<ModuleSelected>11</ModuleSelected>
+<ResponseSelected>asb3_mod11_ps1s7</ResponseSelected>
+</LeftRail>
+<VideoControls>
+<Hidden>false</Hidden>
+<PreviousId>asb3_mod11_ps1s7</PreviousId>
+<NextId>asb3_mod11_ps1s7model</NextId>
+</VideoControls>
+<AskControls>
+<Hidden>true</Hidden>
+<Action>question</Action>
+</AskControls>
+<CaseName>DOD_ASB1_GenMADIO</CaseName>
+</Response>
+<Response id="asb3_mod11_ps1s7d" type="directive">
+<LeftRail>
+<Id>3hour</Id>
+<Hidden>false</Hidden>
+<ModuleSelected>11</ModuleSelected>
+<ResponseSelected>asb3_mod11_ps1s7</ResponseSelected>
+</LeftRail>
+<VideoControls>
+<Hidden>false</Hidden>
+<PreviousId>asb3_mod11_ps1s7</PreviousId>
+<NextId>asb3_mod11_ps1s7model</NextId>
+</VideoControls>
+<AskControls>
+<Hidden>true</Hidden>
+<Action>question</Action>
+</AskControls>
+<CaseName>DOD_ASB1_GenMADIO</CaseName>
+</Response>
+<Response id="asb3_mod11_ps1s7i" type="ineffectual">
+<LeftRail>
+<Id>3hour</Id>
+<Hidden>false</Hidden>
+<ModuleSelected>11</ModuleSelected>
+<ResponseSelected>asb3_mod11_ps1s7</ResponseSelected>
+</LeftRail>
+<VideoControls>
+<Hidden>false</Hidden>
+<PreviousId>asb3_mod11_ps1s7</PreviousId>
+<NextId>asb3_mod11_ps1s7model</NextId>
+</VideoControls>
+<AskControls>
+<Hidden>true</Hidden>
+<Action>question</Action>
+</AskControls>
+<CaseName>DOD_ASB1_GenMADIO</CaseName>
+</Response>
+<Response id="asb3_mod11_ps1s7o" type="offtopic">
+<LeftRail>
+<Id>3hour</Id>
+<Hidden>false</Hidden>
+<ModuleSelected>11</ModuleSelected>
+<ResponseSelected>asb3_mod11_ps1s7</ResponseSelected>
+</LeftRail>
+<VideoControls>
+<Hidden>false</Hidden>
+<PreviousId>asb3_mod11_ps1s7</PreviousId>
+<NextId>asb3_mod11_ps1s7model</NextId>
+</VideoControls>
+<AskControls>
+<Hidden>true</Hidden>
+<Action>question</Action>
+</AskControls>
+<CaseName>DOD_ASB1_GenMADIO</CaseName>
+</Response>
+<Response id="asb3_mod11_ps1s7model" type="model">
+<LeftRail>
+<Id>3hour</Id>
+<Hidden>false</Hidden>
+<ModuleSelected>11</ModuleSelected>
+<ResponseSelected>asb3_mod11_ps1s7</ResponseSelected>
+</LeftRail>
+<VideoControls>
+<Hidden>false</Hidden>
+<PreviousId>asb3_mod11_ps1s7</PreviousId>
+<NextId>asb3_mod11_ps1s8</NextId>
+</VideoControls>
+<AskControls>
+<Hidden>true</Hidden>
+<Action>question</Action>
+</AskControls>
+<CaseName>DOD_ASB1_GenMADIO</CaseName>
+</Response>
+<Response id="asb3_mod11_ps1s8">
+<LeftRail>
+<Id>3hour</Id>
+<Hidden>false</Hidden>
+<ModuleSelected>11</ModuleSelected>
+</LeftRail>
+<VideoControls>
+<Hidden>false</Hidden>
+<PreviousId>asb3_mod11_ps1s7</PreviousId>
+<NextId />
+<DoneId>asb3_mod11_ps1s8model</DoneId>
+</VideoControls>
+<AskControls>
+<Hidden>false</Hidden>
+<Action>question</Action>
+</AskControls>
+<CaseName>DOD_ASB3_mod11_ps1s8</CaseName>
+<Answers>
+<Answer id="yes" case="DOD_ASB1_GenMADIO"></Answer>
+<Answer id="no">asb3_mod11_ps1s8o</Answer>
+<Answer id="motivational">asb3_mod11_ps1s8m</Answer>
+<Answer id="accusatory">asb3_mod11_ps1s8a</Answer>
+<Answer id="directive">asb3_mod11_ps1s8d</Answer>
+<Answer id="ineffectual">asb3_mod11_ps1s8i</Answer>
+<Answer id="offtopic">asb3_mod11_ps1s8o</Answer>
+<Answer id="nullrid">asb3_mod11_ps1s8o</Answer>
+<Answer id="shamerid">asb3_mod11_ps1s8o</Answer>
+</Answers>
+</Response>
+<Response id="asb3_mod11_ps1s8m" type="motivational">
+<LeftRail>
+<Id>3hour</Id>
+<Hidden>false</Hidden>
+<ModuleSelected>11</ModuleSelected>
+<ResponseSelected>asb3_mod11_ps1s8</ResponseSelected>
+</LeftRail>
+<VideoControls>
+<Hidden>false</Hidden>
+<PreviousId>asb3_mod11_ps1s8</PreviousId>
+<NextId>asb3_mod11_2</NextId>
+</VideoControls>
+<AskControls>
+<Hidden>true</Hidden>
+<Action>question</Action>
+</AskControls>
+<CaseName>DOD_ASB1_GenMADIO</CaseName>
+</Response>
+<Response id="asb3_mod11_ps1s8a" type="accusatory">
+<LeftRail>
+<Id>3hour</Id>
+<Hidden>false</Hidden>
+<ModuleSelected>11</ModuleSelected>
+<ResponseSelected>asb3_mod11_ps1s8</ResponseSelected>
+</LeftRail>
+<VideoControls>
+<Hidden>false</Hidden>
+<PreviousId>asb3_mod11_ps1s8</PreviousId>
+<NextId>asb3_mod11_ps1s8model</NextId>
+</VideoControls>
+<AskControls>
+<Hidden>true</Hidden>
+<Action>question</Action>
+</AskControls>
+<CaseName>DOD_ASB1_GenMADIO</CaseName>
+</Response>
+<Response id="asb3_mod11_ps1s8d" type="directive">
+<LeftRail>
+<Id>3hour</Id>
+<Hidden>false</Hidden>
+<ModuleSelected>11</ModuleSelected>
+<ResponseSelected>asb3_mod11_ps1s8</ResponseSelected>
+</LeftRail>
+<VideoControls>
+<Hidden>false</Hidden>
+<PreviousId>asb3_mod11_ps1s8</PreviousId>
+<NextId>asb3_mod11_ps1s8model</NextId>
+</VideoControls>
+<AskControls>
+<Hidden>true</Hidden>
+<Action>question</Action>
+</AskControls>
+<CaseName>DOD_ASB1_GenMADIO</CaseName>
+</Response>
+<Response id="asb3_mod11_ps1s8i" type="ineffectual">
+<LeftRail>
+<Id>3hour</Id>
+<Hidden>false</Hidden>
+<ModuleSelected>11</ModuleSelected>
+<ResponseSelected>asb3_mod11_ps1s8</ResponseSelected>
+</LeftRail>
+<VideoControls>
+<Hidden>false</Hidden>
+<PreviousId>asb3_mod11_ps1s8</PreviousId>
+<NextId>asb3_mod11_ps1s8model</NextId>
+</VideoControls>
+<AskControls>
+<Hidden>true</Hidden>
+<Action>question</Action>
+</AskControls>
+<CaseName>DOD_ASB1_GenMADIO</CaseName>
+</Response>
+<Response id="asb3_mod11_ps1s8o" type="offtopic">
+<LeftRail>
+<Id>3hour</Id>
+<Hidden>false</Hidden>
+<ModuleSelected>11</ModuleSelected>
+<ResponseSelected>asb3_mod11_ps1s8</ResponseSelected>
+</LeftRail>
+<VideoControls>
+<Hidden>false</Hidden>
+<PreviousId>asb3_mod11_ps1s8</PreviousId>
+<NextId>asb3_mod11_ps1s8model</NextId>
+</VideoControls>
+<AskControls>
+<Hidden>true</Hidden>
+<Action>question</Action>
+</AskControls>
+<CaseName>DOD_ASB1_GenMADIO</CaseName>
+</Response>
+<Response id="asb3_mod11_ps1s8model" type="model">
+<LeftRail>
+<Id>3hour</Id>
+<Hidden>false</Hidden>
+<ModuleSelected>11</ModuleSelected>
+<ResponseSelected>asb3_mod11_ps1s8</ResponseSelected>
+</LeftRail>
+<VideoControls>
+<Hidden>false</Hidden>
+<PreviousId>asb3_mod11_ps1s8</PreviousId>
+<NextId>asb3_mod11_2</NextId>
+</VideoControls>
+<AskControls>
+<Hidden>true</Hidden>
+<Action>question</Action>
+</AskControls>
+<CaseName>DOD_ASB1_GenMADIO</CaseName>
+</Response>
+<Response id="asb3_mod11_2">
+<LeftRail>
+<Id>3hour</Id>
+<Hidden>false</Hidden>
+<ModuleSelected>11</ModuleSelected>
+</LeftRail>
+<VideoControls>
+<Hidden>false</Hidden>
+<PreviousId>asb3_mod11_ps1s8</PreviousId>
+<NextId>dod_3hr_post_test_content</NextId>
+</VideoControls>
+<AskControls>
+<Hidden>true</Hidden>
+<Action>question</Action>
+</AskControls>
+<CaseName>DOD_ASB1_GenMADIO</CaseName>
+</Response>
+<Response id="dod_3hr_post_test_content" type="test">
+<LeftRail>
+<Id>3hour</Id>
+<Hidden>false</Hidden>
+<ModuleSelected>11</ModuleSelected>
+</LeftRail>
+<VideoControls>
+<Hidden>false</Hidden>
+<PreviousId>asb3_mod11_2</PreviousId>
+<NextId>dod_3hr_post_test_satisfaction</NextId>
+</VideoControls>
+<AskControls>
+<Hidden>true</Hidden>
+<Action>test</Action>
+</AskControls>
+<CaseName>DOD_ASB1_GenMADIO</CaseName>
+</Response>
+<Response id="dod_3hr_post_test_satisfaction" type="test">
+<LeftRail>
+<Id>3hour</Id>
+<Hidden>false</Hidden>
+<ModuleSelected>11</ModuleSelected>
+</LeftRail>
+<VideoControls>
+<Hidden>false</Hidden>
+<PreviousId>dod_3hr_post_test_content</PreviousId>
+<NextId>dod_3hr_post_test_competence</NextId>
+</VideoControls>
+<AskControls>
+<Hidden>true</Hidden>
+<Action>test</Action>
+</AskControls>
+<CaseName>DOD_ASB1_GenMADIO</CaseName>
+</Response>
+<Response id="dod_3hr_post_test_competence" type="test">
+<LeftRail>
+<Id>3hour</Id>
+<Hidden>false</Hidden>
+<ModuleSelected>11</ModuleSelected>
+</LeftRail>
+<VideoControls>
+<Hidden>false</Hidden>
+<PreviousId>dod_3hr_post_test_satisfaction</PreviousId>
+<NextId>dod_3hr_practice</NextId>
+</VideoControls>
+<AskControls>
+<Hidden>true</Hidden>
+<Action>test</Action>
+</AskControls>
+<CaseName>DOD_ASB1_GenMADIO</CaseName>
+</Response>
+<Response id="dod_3hr_practice" type="test">
+<LeftRail>
+<Id>3hour</Id>
+<Hidden>false</Hidden>
+<ModuleSelected>11</ModuleSelected>
+</LeftRail>
+<VideoControls>
+<Hidden>false</Hidden>
+<PreviousId>dod_3hr_post_test_competence</PreviousId>
+<NextId>asb3_mod1</NextId>
+</VideoControls>
+<AskControls>
+<Hidden>true</Hidden>
+<Action>test</Action>
+</AskControls>
+<CaseName>DOD_ASB1_GenMADIO</CaseName>
+</Response>
+</xml>

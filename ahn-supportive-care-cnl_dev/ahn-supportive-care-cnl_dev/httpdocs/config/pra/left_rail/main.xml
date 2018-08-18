@@ -1,0 +1,46 @@
+<xml>
+  <Module id='0'>
+    <Heading>
+      Introduction to Clinical Trials
+    </Heading>
+    <ResponseID>pra101</ResponseID>
+    <ResponseID>pra102</ResponseID>
+    <ResponseID>pra103</ResponseID>
+    <ResponseID>pra104</ResponseID>
+    <ResponseID>pra204</ResponseID>
+  </Module>
+  <Module id='1'>
+    <Heading>
+      Participating in a Clinical Trial
+    </Heading>
+    <ResponseID>pra112</ResponseID>
+    <ResponseID>pra113</ResponseID>
+    <ResponseID>pra114</ResponseID>
+    <ResponseID>pra116</ResponseID>
+  </Module>
+  <Module id='2'>
+    <Heading>
+      Patient Rights and Responsibilities
+    </Heading>
+    <ResponseID>pra127</ResponseID>
+    <ResponseID>pra124</ResponseID>
+    <ResponseID>pra126</ResponseID>
+    <ResponseID>pra111</ResponseID>
+  </Module>
+  <Module id='3'>
+    <Heading>
+      Ethics and Privacy
+    </Heading>
+    <ResponseID>pra138</ResponseID>
+    <ResponseID>pra205</ResponseID>
+    <ResponseID>pra110</ResponseID>
+    <ResponseID>pra129</ResponseID>
+  </Module>
+  <Module id='4'>
+    <Heading>
+      Risks and Benefits
+    </Heading>
+    <ResponseID>pra117</ResponseID>
+    <ResponseID>pra206</ResponseID>
+  </Module>
+</xml>

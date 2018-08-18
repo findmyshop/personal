@@ -1,0 +1,88 @@
+@media (max-width: 1200px) {
+  .container {
+    width: 100%;
+  }
+}
+@media (max-width: 650px){
+  #mr-header{
+    .navbar-brand{
+      display:none;
+    }
+  }
+  body.ct{
+    .ct-login-col{
+      position:relative;
+      width:100%!important;
+      display:block!important;
+      height:auto!important;
+      .col-xs-3, .col-xs-2{
+        width:32%!important;
+      }
+    }
+    .ct-step{
+      display:none;
+    }
+    .portrait{
+      height:194px!important;
+    }
+    h4{
+      padding:0!important;
+    }
+    #agreement-text{
+      margin:0!important;
+      height:140px!important;
+    }
+  }
+}
+@media (max-width: 900px){
+  .navbar-brand{
+    font-size:18px!important;
+    letter-spacing:0px!important;
+  }
+}
+@media (min-width: 768px){
+  .modal-dialog {
+    width:768px;
+  }
+}
+body.mobile{
+  .mr-is-wrapper:after{
+    display:none!important;
+  }
+  &.apple-iphone, &.apple-ipad{
+    #mr-player .video-js{
+      background-image: url('../../video-js/img/play-small.png')!important;
+      background-position:center center!important;
+      background-repeat:no-repeat!important;
+    }
+    #mr-video-controls{
+      display:none!important;
+    }
+    #mr-video video{
+      visibility: hidden;
+    }
+  }
+  .ask-button{
+    padding-left:15px!important;
+    padding-right:15px!important;
+  }
+  .container{
+    padding:0;
+  }
+  .well{
+    padding:0;
+  }
+  .col-xs-1, .col-sm-1, .col-md-1, .col-lg-1, .col-xs-2, .col-sm-2, .col-md-2, .col-lg-2, .col-xs-3, .col-sm-3, .col-md-3, .col-lg-3, .col-xs-4, .col-sm-4, .col-md-4, .col-lg-4, .col-xs-5, .col-sm-5, .col-md-5, .col-lg-5, .col-xs-6, .col-sm-6, .col-md-6, .col-lg-6, .col-xs-7, .col-sm-7, .col-md-7, .col-lg-7, .col-xs-8, .col-sm-8, .col-md-8, .col-lg-8, .col-xs-9, .col-sm-9, .col-md-9, .col-lg-9, .col-xs-10, .col-sm-10, .col-md-10, .col-lg-10, .col-xs-11, .col-sm-11, .col-md-11, .col-lg-11, .col-xs-12, .col-sm-12, .col-md-12, .col-lg-12 {
+    padding:0px;
+  }
+  .form-horizontal .form-group{
+    margin:0;
+  }
+}
+@media (max-width: 768px){
+  body.rid{
+    #base_controller {
+      width: 100%;
+    }
+  }
+}

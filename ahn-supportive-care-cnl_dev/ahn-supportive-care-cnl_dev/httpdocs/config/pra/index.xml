@@ -1,0 +1,756 @@
+<!--* Index Resource* PRA_E5-->
+<xml>
+<Response id="mapra995">
+<ResponseID id="0">mapra995</ResponseID>
+<BaseQuestion id="0">Multiple Answers Possible</BaseQuestion>
+<Content id="0">How is it different?</Content>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">pra104</ResponseID>
+<BaseQuestion id="1">What are the types of clinical trials?</BaseQuestion>
+</RQ>
+<RQ id="1">
+<ResponseID id="2">pra103</ResponseID>
+<BaseQuestion id="2">What are the phases of a clinical trial?</BaseQuestion>
+</RQ>
+<RQ id="2">
+<ResponseID id="3">pra116</ResponseID>
+<BaseQuestion id="3">What is meant by standard of care treatment?</BaseQuestion>
+</RQ>
+<RQ id="3">
+<ResponseID id="4">pra005</ResponseID>
+<BaseQuestion id="4">Introduction to the program</BaseQuestion>
+</RQ>
+</RQs>
+</Response>
+<Response id="mapra996">
+<ResponseID id="0">mapra996</ResponseID>
+<BaseQuestion id="0">Multiple Answers Possible</BaseQuestion>
+<Content id="0">Why do clinical trials?</Content>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">pra117</ResponseID>
+<BaseQuestion id="1">What are the benefits of participating in a clinical study?</BaseQuestion>
+</RQ>
+<RQ id="1">
+<ResponseID id="2">pra101</ResponseID>
+<BaseQuestion id="2">What is a clinical study?</BaseQuestion>
+</RQ>
+<RQ id="2">
+<ResponseID id="3">pra133</ResponseID>
+<BaseQuestion id="3">What will be the impact on the study if I decide not to participate? Will the study staff still proceed if I decide not to enroll?</BaseQuestion>
+</RQ>
+</RQs>
+</Response>
+<Response id="pra001">
+<ResponseID id="0">pra001</ResponseID>
+<BaseQuestion id="0">Response to off topic questions (i.e., Why is the sky blue?)</BaseQuestion>
+<Content id="0">I don't have an answer to that question, please ask a new question. If you are looking for information about specific clinical studies being conducted by Pfizer, please visit 
+<![CDATA[<a href="http://www.pfizer.com/research/clinical_trials" target="_blank">http://www.pfizer.com/research/clinical_trials</a>]]>
+.</Content>
+</Response>
+<Response id="pra002">
+<ResponseID id="0">pra002</ResponseID>
+<BaseQuestion id="0">Response to profanity</BaseQuestion>
+<Content id="0">Please keep your questions and comments respectful and on topic. Thank you!</Content>
+</Response>
+<Response id="pra003">
+<ResponseID id="0">pra003</ResponseID>
+<BaseQuestion id="0">Multiple Answers</BaseQuestion>
+<Content id="0">I can think of more than one answer for your question. Which would you like to hear first? Select a question from the list on the right-hand side of your screen.</Content>
+</Response>
+<Response id="pra004">
+<ResponseID id="0">pra004</ResponseID>
+<BaseQuestion id="0">Word count</BaseQuestion>
+<Content id="0">Please limit your questions to 50 words or less.</Content>
+</Response>
+<Response id="pra005">
+<ResponseID id="0">pra005</ResponseID>
+<BaseQuestion id="0">Introduction to the program</BaseQuestion>
+<Content id="0">The goal of this site is to give you more information about what it is like to take part in a clinical trial, which is also known as a research study.I invite you to explore the site. If you have a question, type it into the box below and we will provide the closest available pre-recorded response or tell you that we do not have a response to certain questions. This site is not intended to provide medical advice or to replace a conversation with your physician or study doctor. If you have unanswered questions after exploring the site, you should take them to your physician. Questions specific to your diagnosis or other medical advice cannot be provided here.This website is not intended for reporting adverse events or product complaints.If you live in the United States, you may report an adverse event related to Pfizer products by calling 1-800-438-1985. If you prefer, you may contact the U.S. Food and Drug Administration directly. The FDA has established a reporting service known as MedWatch. Through MedWatch health care professionals and consumers can report serious problems they suspect may be associated with the drugs and medical devices they prescribe, dispense, or use. Visit 
+<![CDATA[<a href="http://www.fda.gov/medwatch" target="_blank">http://www.fda.gov/medwatch</a>]]>
+or call 1-800-FDA-1088.</Content>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">pra006</ResponseID>
+<BaseQuestion id="1">Instructions for how to use the site</BaseQuestion>
+</RQ>
+<RQ id="1">
+<ResponseID id="2">pra008</ResponseID>
+<BaseQuestion id="2">Contact information</BaseQuestion>
+</RQ>
+<RQ id="2">
+<ResponseID id="3">pra101</ResponseID>
+<BaseQuestion id="3">What is a clinical study?</BaseQuestion>
+</RQ>
+</RQs>
+</Response>
+<Response id="pra006">
+<ResponseID id="0">pra006</ResponseID>
+<BaseQuestion id="0">Instructions for how to use the site</BaseQuestion>
+<Content id="0">Let me tell you how the program works. You can explore the program by typing questions of your own into the text box or by clicking on a related or frequently asked question. You can also select topics from the menu to your left. If you need assistance, click on the help button.</Content>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">pra005</ResponseID>
+<BaseQuestion id="1">Introduction to the program</BaseQuestion>
+</RQ>
+<RQ id="1">
+<ResponseID id="2">pra008</ResponseID>
+<BaseQuestion id="2">Contact information</BaseQuestion>
+</RQ>
+</RQs>
+</Response>
+<Response id="pra007">
+<ResponseID id="0">pra007</ResponseID>
+<BaseQuestion id="0">Who are you?</BaseQuestion>
+<Content id="0">Thank you for asking, but I'm here to talk about clinical studies and study participation.</Content>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">pra008</ResponseID>
+<BaseQuestion id="1">Contact information</BaseQuestion>
+</RQ>
+<RQ id="1">
+<ResponseID id="2">pra006</ResponseID>
+<BaseQuestion id="2">Instructions for how to use the site</BaseQuestion>
+</RQ>
+</RQs>
+</Response>
+<Response id="pra008">
+<ResponseID id="0">pra008</ResponseID>
+<BaseQuestion id="0">Contact information</BaseQuestion>
+<Content id="0">If you are looking for contact information for Pfizer clinical studies, please click on the link below and search for a study in your area of interest 
+<![CDATA[<a href="http://www.pfizer.com/research/clinical_trials" target="_blank">http://www.pfizer.com/research/clinical_trials</a>]]>
+.</Content>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">pra005</ResponseID>
+<BaseQuestion id="1">Introduction to the program</BaseQuestion>
+</RQ>
+<RQ id="1">
+<ResponseID id="2">pra006</ResponseID>
+<BaseQuestion id="2">Instructions for how to use the site</BaseQuestion>
+</RQ>
+</RQs>
+</Response>
+<Response id="pra101">
+<ResponseID id="0">pra101</ResponseID>
+<BaseQuestion id="0">What is a clinical study?</BaseQuestion>
+<Content id="0">Clinical research studies are often conducted by means of a clinical study. The United States National Institutes of Health defines a clinical study as “one type of clinical research that follows a pre-defined plan or protocol.” A clinical study is a scientifically controlled study of the safety and effectiveness of investigational drugs and devices for various diseases and conditions. These studies determine if these investigational drugs or devices are safe to use and will improve the health of people. Before a medication, therapy, or medical device can be made available to the general public, it has to go through several phases of clinical research.</Content>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">pra005</ResponseID>
+<BaseQuestion id="1">Introduction to the program</BaseQuestion>
+</RQ>
+<RQ id="1">
+<ResponseID id="2">pra103</ResponseID>
+<BaseQuestion id="2">What are the phases of a clinical trial?</BaseQuestion>
+</RQ>
+<RQ id="2">
+<ResponseID id="3">pra104</ResponseID>
+<BaseQuestion id="3">What are the types of clinical trials?</BaseQuestion>
+</RQ>
+<RQ id="3">
+<ResponseID id="4">pra108</ResponseID>
+<BaseQuestion id="4">What is a clinical trial protocol?</BaseQuestion>
+</RQ>
+</RQs>
+</Response>
+<Response id="pra102">
+<ResponseID id="0">pra102</ResponseID>
+<BaseQuestion id="0">What agency regulates clinical trials?</BaseQuestion>
+<Content id="0">Clinical studies in the United States are regulated by the U.S. Food and Drug Administration, often referred to as the FDA.The FDA is responsible for protecting and promoting public health through the regulation and supervision of medications, foods, medical devices, and other products. One role of the FDA is to ensure adherence to laws that are consistent with principles known as good clinical practices, or GCPs.These principles are designed to enhance the quality of clinical study data, as well as to ensure the protection of study participants like you.</Content>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">pra106</ResponseID>
+<BaseQuestion id="1">What is a Data Safety and Monitoring Committee?</BaseQuestion>
+</RQ>
+<RQ id="1">
+<ResponseID id="2">pra107</ResponseID>
+<BaseQuestion id="2">What is an Institutional Review Board / IRB / Ethics Committee (EC)?</BaseQuestion>
+</RQ>
+<RQ id="2">
+<ResponseID id="3">pra114</ResponseID>
+<BaseQuestion id="3">If I participate in this study, will I be told what other options I have?</BaseQuestion>
+</RQ>
+<RQ id="3">
+<ResponseID id="4">pra124</ResponseID>
+<BaseQuestion id="4">What is informed consent?</BaseQuestion>
+</RQ>
+</RQs>
+</Response>
+<Response id="pra103">
+<ResponseID id="0">pra103</ResponseID>
+<BaseQuestion id="0">What are the phases of a clinical trial?</BaseQuestion>
+<Content id="0">Clinical studies are typically performed in “phases.” These phases are designed to build evidence that an investigational drug or device will be beneficial to patients with a particular disease or condition. Before a medication can be tested in human subjects, pre-clinical testing occurs in a lab environment that may involve animals. The goal is to gather data on whether the investigational drug or device has the potential to work in treating the disease.Before a medication moves to testing in humans, the Food and Drug Administration, or FDA, reviews pre-clinical testing results to determine if the investigational compound can further be studied in humans. If the investigational compound can be studied in humans, that research is divided into different phases. In Phase I, researchers test an investigational medication in a small group of people to evaluate its safety and identify side effects. Often, healthy volunteers are used as participants.In Phase II, the investigational medication is given to a larger group of people to see if it is effective, determine optimal dosage, and to further evaluate safety.In Phase III, the investigational medication is given to a large group of people to confirm effectiveness, monitor side effects, and compare it to existing treatments.In Phase IV studies, the medication is further studied after it has been approved for sale by relevant regulatory authorities. Further information is gathered on the medication’s effect on different populations and its long-term side effects.</Content>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">pra101</ResponseID>
+<BaseQuestion id="1">What is a clinical study?</BaseQuestion>
+</RQ>
+<RQ id="1">
+<ResponseID id="2">pra104</ResponseID>
+<BaseQuestion id="2">What are the types of clinical trials?</BaseQuestion>
+</RQ>
+<RQ id="2">
+<ResponseID id="3">pra108</ResponseID>
+<BaseQuestion id="3">What is a clinical trial protocol?</BaseQuestion>
+</RQ>
+</RQs>
+</Response>
+<Response id="pra104">
+<ResponseID id="0">pra104</ResponseID>
+<BaseQuestion id="0">What are the types of clinical trials?</BaseQuestion>
+<Content id="0">There are two main types of clinical studies: Placebo-controlled and head-to-head studies. A placebo-controlled study means that one group of patients will receive the investigational drug to be evaluated, while a second group, often known as the control group, will receive a placebo. The placebo often looks just like the experimental drug but is designed to have no effect on patients.Placebos are often used in blinded studies, which are studies where the patients do not know whether the are receiving the experimental drug or placebo. Blinding is used to help eliminate the "placebo effect," which is bias introduced into the study. Bias may result from a patient's belief that he or she is receiving a certain treatment or the researcher's belief that a certain result will occur.In a head-to-head or comparative effectiveness study, one group of patients receives the investigational drug to be evaluated, while a second group of patients receives a different therapy. This allows researchers to see how the experimental treatment performs in comparison to other therapies. In a head-to-head study there is no placebo, and the patient has a chance of receiving either the investigational drug or another treatment. In most cases, the other treatment, also called a comparator or reference treatment is already commonly prescribed by doctors for patients with the disease that is being investigated in the study. The reference treatment is often referred to as the "standard of care."</Content>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">pra101</ResponseID>
+<BaseQuestion id="1">What is a clinical study?</BaseQuestion>
+</RQ>
+<RQ id="1">
+<ResponseID id="2">pra103</ResponseID>
+<BaseQuestion id="2">What are the phases of a clinical trial?</BaseQuestion>
+</RQ>
+<RQ id="2">
+<ResponseID id="3">pra112</ResponseID>
+<BaseQuestion id="3">What is a placebo?/When is a placebo used?/Are placebos ethical?</BaseQuestion>
+</RQ>
+<RQ id="3">
+<ResponseID id="4">pra117</ResponseID>
+<BaseQuestion id="4">What are the benefits of participating in a clinical study?</BaseQuestion>
+</RQ>
+<RQ id="4">
+<ResponseID id="5">pra119</ResponseID>
+<BaseQuestion id="5">What is randomization?/Why is a study randomized?</BaseQuestion>
+</RQ>
+<RQ id="5">
+<ResponseID id="6">pra204</ResponseID>
+<BaseQuestion id="6">What are single-blind and double-blind studies?</BaseQuestion>
+</RQ>
+</RQs>
+</Response>
+<Response id="pra106">
+<ResponseID id="0">pra106</ResponseID>
+<BaseQuestion id="0">What is a Data Safety and Monitoring Committee?</BaseQuestion>
+<Content id="0">A Data Safety and Monitoring Committee, sometimes known as a Data and Safety Monitoring Board, is an independent group of experts who monitor patient safety and treatment effectiveness data during the course of a clinical study.This group typically includes 3 to 10 members and is authorized to recommend that a study be stopped due to safety concerns. This may occur after the group reviews a subset of the data from the study that shows the study treatment is not effective or if the investigational treatment is so beneficial that it should urgently be considered for approval by the regulatory authorities.Members of the Data Safety and Monitoring Committee are independent from anyone involved in the study.The committee is usually made up of expert clinicians with knowledge of the disease or condition being treated, statisticians, and sometimes a patient advocacy representative.</Content>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">pra102</ResponseID>
+<BaseQuestion id="1">What agency regulates clinical trials?</BaseQuestion>
+</RQ>
+<RQ id="1">
+<ResponseID id="2">pra107</ResponseID>
+<BaseQuestion id="2">What is an Institutional Review Board / IRB / Ethics Committee (EC)?</BaseQuestion>
+</RQ>
+<RQ id="2">
+<ResponseID id="3">pra110</ResponseID>
+<BaseQuestion id="3">How are my rights protected while participating in a study?</BaseQuestion>
+</RQ>
+<RQ id="3">
+<ResponseID id="4">pra113</ResponseID>
+<BaseQuestion id="4">What information will the study doctor be able to share with me?</BaseQuestion>
+</RQ>
+<RQ id="4">
+<ResponseID id="5">pra114</ResponseID>
+<BaseQuestion id="5">If I participate in this study, will I be told what other options I have?</BaseQuestion>
+</RQ>
+</RQs>
+</Response>
+<Response id="pra107">
+<ResponseID id="0">pra107</ResponseID>
+<BaseQuestion id="0">What is an Institutional Review Board / IRB / Ethics Committee (EC)?</BaseQuestion>
+<Content id="0">An Institutional Review Board, or Ethical Review Board, is a committee charged with approving, monitoring, and reviewing clinical research involving humans.The main goal of the committee is to make sure the study is ethical and the rights and welfare of participants are protected. Among other things, this includes making sure that research risks are minimized and are reasonable in relation to any potential benefits.Prior to the start of the clinical study, this committee will conduct a risk-benefit analysis to determine whether the research should be performed.</Content>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">pra102</ResponseID>
+<BaseQuestion id="1">What agency regulates clinical trials?</BaseQuestion>
+</RQ>
+<RQ id="1">
+<ResponseID id="2">pra106</ResponseID>
+<BaseQuestion id="2">What is a Data Safety and Monitoring Committee?</BaseQuestion>
+</RQ>
+<RQ id="2">
+<ResponseID id="3">pra110</ResponseID>
+<BaseQuestion id="3">How are my rights protected while participating in a study?</BaseQuestion>
+</RQ>
+<RQ id="3">
+<ResponseID id="4">pra111</ResponseID>
+<BaseQuestion id="4">How can I be sure that the study tests are appropriate?</BaseQuestion>
+</RQ>
+<RQ id="4">
+<ResponseID id="5">pra113</ResponseID>
+<BaseQuestion id="5">What information will the study doctor be able to share with me?</BaseQuestion>
+</RQ>
+<RQ id="5">
+<ResponseID id="6">pra127</ResponseID>
+<BaseQuestion id="6">What rights do I have if I participate in a clinical study?/Can I quit the clinical study at any time?/Will the risks/side effects be explained to me?</BaseQuestion>
+</RQ>
+</RQs>
+</Response>
+<Response id="pra108">
+<ResponseID id="0">pra108</ResponseID>
+<BaseQuestion id="0">What is a clinical trial protocol?</BaseQuestion>
+<Content id="0">A protocol is a written document detailing the study research plan. A clinical study protocol is designed to answer specific research questions, as well as safeguard the health of participants. In general, a protocol describes an overview of the study's objectives; what types of people may participate; the number of participants needed for the studies; the schedule of tests, procedures, medications, and dosages; the length of the studies; and what information will be gathered about participants.</Content>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">pra101</ResponseID>
+<BaseQuestion id="1">What is a clinical study?</BaseQuestion>
+</RQ>
+<RQ id="1">
+<ResponseID id="2">pra103</ResponseID>
+<BaseQuestion id="2">What are the phases of a clinical trial?</BaseQuestion>
+</RQ>
+</RQs>
+</Response>
+<Response id="pra110">
+<ResponseID id="0">pra110</ResponseID>
+<BaseQuestion id="0">How are my rights protected while participating in a study?</BaseQuestion>
+<Content id="0">In order to conduct a clinical study, the research team must agree to comply with ethical guidelines and laws designed to protect patient volunteers, as well as to preserve the integrity of the research. One of the main points of the ethical guidelines is that individuals should be treated with respect from the time they are approached for possible participation in the study, throughout their participation, and after their participation ends. This includes, but is not limited to, your right to privacy and respecting your right to change your mind about being in the study at any point.</Content>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">pra106</ResponseID>
+<BaseQuestion id="1">What is a Data Safety and Monitoring Committee?</BaseQuestion>
+</RQ>
+<RQ id="1">
+<ResponseID id="2">pra107</ResponseID>
+<BaseQuestion id="2">What is an Institutional Review Board / IRB / Ethics Committee (EC)?</BaseQuestion>
+</RQ>
+<RQ id="2">
+<ResponseID id="3">pra111</ResponseID>
+<BaseQuestion id="3">How can I be sure that the study tests are appropriate?</BaseQuestion>
+</RQ>
+<RQ id="3">
+<ResponseID id="4">pra113</ResponseID>
+<BaseQuestion id="4">What information will the study doctor be able to share with me?</BaseQuestion>
+</RQ>
+<RQ id="4">
+<ResponseID id="5">pra124</ResponseID>
+<BaseQuestion id="5">What is informed consent?</BaseQuestion>
+</RQ>
+<RQ id="5">
+<ResponseID id="6">pra127</ResponseID>
+<BaseQuestion id="6">What rights do I have if I participate in a clinical study?/Can I quit the clinical study at any time?/Will the risks/side effects be explained to me?</BaseQuestion>
+</RQ>
+</RQs>
+</Response>
+<Response id="pra111">
+<ResponseID id="0">pra111</ResponseID>
+<BaseQuestion id="0">How can I be sure that the study tests are appropriate?</BaseQuestion>
+<Content id="0">The nature of participating in a clinical study means that you may receive an investigational drug or device. However, all procedures and tests performed prior to, during, and after participation ends are clearly outlined in the clinical study protocol and are subject to ethical guidelines and laws. These procedures and guidelines are applied to all participants in the study. Therefore, unnecessary experiments or those that are not stated in the study protocol and are not aimed at answering the pre-determined scientific questions cannot be performed.</Content>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">pra107</ResponseID>
+<BaseQuestion id="1">What is an Institutional Review Board / IRB / Ethics Committee (EC)?</BaseQuestion>
+</RQ>
+<RQ id="1">
+<ResponseID id="2">pra110</ResponseID>
+<BaseQuestion id="2">How are my rights protected while participating in a study?</BaseQuestion>
+</RQ>
+</RQs>
+</Response>
+<Response id="pra112">
+<ResponseID id="0">pra112</ResponseID>
+<BaseQuestion id="0">What is a placebo?/When is a placebo used?/Are placebos ethical?</BaseQuestion>
+<Content id="0">Patients participating in a placebo-controlled clinical study are told during the informed consent process that there is a chance that they could receive the investigational drug or device or an inactive substance, also called placebo, while participating in the study. A placebo often looks like the investigational medication, but it has no active ingredient in it. Placebos are used in clinical research to help evaluate the safety and effectiveness of an investigational medication.However, in some studies, such as head-to-head comparative studies, a placebo is not used, and a patient has a chance of receiving the investigational drug or another treatment.</Content>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">pra104</ResponseID>
+<BaseQuestion id="1">What are the types of clinical trials?</BaseQuestion>
+</RQ>
+<RQ id="1">
+<ResponseID id="2">pra119</ResponseID>
+<BaseQuestion id="2">What is randomization?/Why is a study randomized?</BaseQuestion>
+</RQ>
+</RQs>
+</Response>
+<Response id="pra113">
+<ResponseID id="0">pra113</ResponseID>
+<BaseQuestion id="0">What information will the study doctor be able to share with me?</BaseQuestion>
+<Content id="0">Under the terms of the ethical guidelines and laws that govern clinical studies, all researchers must inform participants of the potential risks, benefits, and available alternatives associated with participation in a clinical study. However, it should be noted that in blinded studies, researchers will not be able to tell you which study treatment you are receiving because they need to preserve the scientific integrity of the study. However, this information is available in case of emergency.</Content>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">pra106</ResponseID>
+<BaseQuestion id="1">What is a Data Safety and Monitoring Committee?</BaseQuestion>
+</RQ>
+<RQ id="1">
+<ResponseID id="2">pra107</ResponseID>
+<BaseQuestion id="2">What is an Institutional Review Board / IRB / Ethics Committee (EC)?</BaseQuestion>
+</RQ>
+<RQ id="2">
+<ResponseID id="3">pra110</ResponseID>
+<BaseQuestion id="3">How are my rights protected while participating in a study?</BaseQuestion>
+</RQ>
+<RQ id="3">
+<ResponseID id="4">pra114</ResponseID>
+<BaseQuestion id="4">If I participate in this study, will I be told what other options I have?</BaseQuestion>
+</RQ>
+<RQ id="4">
+<ResponseID id="5">pra127</ResponseID>
+<BaseQuestion id="5">What rights do I have if I participate in a clinical study?/Can I quit the clinical study at any time?/Will the risks/side effects be explained to me?</BaseQuestion>
+</RQ>
+<RQ id="5">
+<ResponseID id="6">pra129</ResponseID>
+<BaseQuestion id="6">Can I get a second opinion before I decide to participate?</BaseQuestion>
+</RQ>
+</RQs>
+</Response>
+<Response id="pra114">
+<ResponseID id="0">pra114</ResponseID>
+<BaseQuestion id="0">If I participate in this study, will I be told what other options I have?</BaseQuestion>
+<Content id="0">When you sign up to participate in a clinical study, the researchers must inform you of the available alternatives to joining the clinical study. Under the terms of the ethical guidelines that govern clinical studies if you join a study, the research team must inform you of new information that might emerge over the course of the research, particularly data that might change their assessment of the risks and benefits of participating in the clinical study.</Content>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">pra102</ResponseID>
+<BaseQuestion id="1">What agency regulates clinical trials?</BaseQuestion>
+</RQ>
+<RQ id="1">
+<ResponseID id="2">pra106</ResponseID>
+<BaseQuestion id="2">What is a Data Safety and Monitoring Committee?</BaseQuestion>
+</RQ>
+<RQ id="2">
+<ResponseID id="3">pra113</ResponseID>
+<BaseQuestion id="3">What information will the study doctor be able to share with me?</BaseQuestion>
+</RQ>
+</RQs>
+</Response>
+<Response id="pra116">
+<ResponseID id="0">pra116</ResponseID>
+<BaseQuestion id="0">What is meant by standard of care treatment?</BaseQuestion>
+<Content id="0">In a clinical study, the standard of care treatment refers to any therapy that is accepted by medical professionals as an approved treatment for a certain type of disease and one that is typically used by health care professionals. Standard of care treatment can also be known as best practice, standard medical care, or standard of care.</Content>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">pra104</ResponseID>
+<BaseQuestion id="1">What are the types of clinical trials?</BaseQuestion>
+</RQ>
+<RQ id="1">
+<ResponseID id="2">pra117</ResponseID>
+<BaseQuestion id="2">What are the benefits of participating in a clinical study?</BaseQuestion>
+</RQ>
+</RQs>
+</Response>
+<Response id="pra117">
+<ResponseID id="0">pra117</ResponseID>
+<BaseQuestion id="0">What are the benefits of participating in a clinical study?</BaseQuestion>
+<Content id="0">There is no guarantee that you will benefit in any way. Although there are precautions in place to protect participants, your condition or health could remain the same, improve, or get worse. Participating in a study may help researchers learn more about your disease or condition and may help in the development of improved treatments that may benefit others with your condition in the future.</Content>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">pra104</ResponseID>
+<BaseQuestion id="1">What are the types of clinical trials?</BaseQuestion>
+</RQ>
+<RQ id="1">
+<ResponseID id="2">pra116</ResponseID>
+<BaseQuestion id="2">What is meant by standard of care treatment?</BaseQuestion>
+</RQ>
+</RQs>
+</Response>
+<Response id="pra119">
+<ResponseID id="0">pra119</ResponseID>
+<BaseQuestion id="0">What is randomization?/Why is a study randomized?</BaseQuestion>
+<Content id="0">Randomization in a clinical study is when participants are assigned to a particular group and the different groups receive different study treatments. Clinical studies are randomized so that the researchers can compare the safety and effectiveness of different study treatments. Sometimes, investigational medications are compared to a placebo, which looks like the investigational medication but contains no active ingredients.</Content>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">pra104</ResponseID>
+<BaseQuestion id="1">What are the types of clinical trials?</BaseQuestion>
+</RQ>
+<RQ id="1">
+<ResponseID id="2">pra112</ResponseID>
+<BaseQuestion id="2">What is a placebo?/When is a placebo used?/Are placebos ethical?</BaseQuestion>
+</RQ>
+</RQs>
+</Response>
+<Response id="pra124">
+<ResponseID id="0">pra124</ResponseID>
+<BaseQuestion id="0">What is informed consent?</BaseQuestion>
+<Content id="0">Laws and ethical guidelines governing clinical research in many countries around the world require that potential study participants be given certain information about the planned study through a process known as "informed consent." This process is designed to accurately inform individuals of the purpose, risks, benefits, and alternatives to the clinical study. The informed consent process also ensures that participants understand information about the study and how it relates to their own health or interests. It also provides an opportunity for an individual to make a voluntary decision about whether to participate in the study.Once you have had enough time to read and understand the informed consent form and had time to discuss it with the study doctor, you can determine if you wish to participate in the study. If you choose to participate, you will sign the informed consent form. Even if you sign the form, you can still withdraw from the study at any time, for any reason.</Content>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">pra102</ResponseID>
+<BaseQuestion id="1">What agency regulates clinical trials?</BaseQuestion>
+</RQ>
+<RQ id="1">
+<ResponseID id="2">pra110</ResponseID>
+<BaseQuestion id="2">How are my rights protected while participating in a study?</BaseQuestion>
+</RQ>
+<RQ id="2">
+<ResponseID id="3">pra126</ResponseID>
+<BaseQuestion id="3">What if I do not understand the Informed Consent form? Who can help me understand the Informed Consent form?</BaseQuestion>
+</RQ>
+<RQ id="3">
+<ResponseID id="4">pra127</ResponseID>
+<BaseQuestion id="4">What rights do I have if I participate in a clinical study?/Can I quit the clinical study at any time?/Will the risks/side effects be explained to me?</BaseQuestion>
+</RQ>
+<RQ id="4">
+<ResponseID id="5">pra130</ResponseID>
+<BaseQuestion id="5">If I say no to a trial now, can I change my mind later?</BaseQuestion>
+</RQ>
+</RQs>
+</Response>
+<Response id="pra126">
+<ResponseID id="0">pra126</ResponseID>
+<BaseQuestion id="0">What if I do not understand the Informed Consent form? Who can help me understand the Informed Consent form?</BaseQuestion>
+<Content id="0">The consent form may contain words that you or your loved ones do not understand. Please ask the study doctor or other members of the clinical research team to explain any words or information that you do not clearly understand. Before you make a decision to participate in the study, it is important that you understand the information in this form. You should not sign this form if you have any questions that have not been fully answered by the study staff or if you are not comfortable with the answers.</Content>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">pra124</ResponseID>
+<BaseQuestion id="1">What is informed consent?</BaseQuestion>
+</RQ>
+<RQ id="1">
+<ResponseID id="2">pra127</ResponseID>
+<BaseQuestion id="2">What rights do I have if I participate in a clinical study?/Can I quit the clinical study at any time?/Will the risks/side effects be explained to me?</BaseQuestion>
+</RQ>
+</RQs>
+</Response>
+<Response id="pra127">
+<ResponseID id="0">pra127</ResponseID>
+<BaseQuestion id="0">What rights do I have if I participate in a clinical study?/Can I quit the clinical study at any time?/Will the risks/side effects be explained to me?</BaseQuestion>
+<Content id="0">Taking part in a clinical study is your decision, and you keep all of your rights. For example, you are to be given enough time to decide whether to participate and to make that decision without any pressure from the people who are doing the clinical research. You can also refuse to participate in the study or stop participating at any time. Your decision not to participate will not affect your right to your usual care that is unrelated to the research study. In addition, you have the right to be told why the clinical study is being done, what will happen, and what you will be asked to do if you are in the study. You have the right to have your questions answered by the clinical research team at any time and receive a copy of your signed informed consent form. You have the right to have your questions answered by the clinical research team at any time and receive a copy of your signed informed consent form.</Content>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">pra110</ResponseID>
+<BaseQuestion id="1">How are my rights protected while participating in a study?</BaseQuestion>
+</RQ>
+<RQ id="1">
+<ResponseID id="2">pra113</ResponseID>
+<BaseQuestion id="2">What information will the study doctor be able to share with me?</BaseQuestion>
+</RQ>
+<RQ id="2">
+<ResponseID id="3">pra124</ResponseID>
+<BaseQuestion id="3">What is informed consent?</BaseQuestion>
+</RQ>
+<RQ id="3">
+<ResponseID id="4">pra129</ResponseID>
+<BaseQuestion id="4">Can I get a second opinion before I decide to participate?</BaseQuestion>
+</RQ>
+<RQ id="4">
+<ResponseID id="5">pra130</ResponseID>
+<BaseQuestion id="5">If I say no to a trial now, can I change my mind later?</BaseQuestion>
+</RQ>
+<RQ id="5">
+<ResponseID id="6">pra132</ResponseID>
+<BaseQuestion id="6">How long do I have to make my decision?/How soon do I have to make my decision?</BaseQuestion>
+</RQ>
+</RQs>
+</Response>
+<Response id="pra129">
+<ResponseID id="0">pra129</ResponseID>
+<BaseQuestion id="0">Can I get a second opinion before I decide to participate?</BaseQuestion>
+<Content id="0">You are free to get as many opinions as you feel you need before you decide to participate in a clinical study. A second-opinion can help you better understand the existing treatments available to you and help you determine if participation in the study is a good option for you both personally and medically.</Content>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">pra113</ResponseID>
+<BaseQuestion id="1">What information will the study doctor be able to share with me?</BaseQuestion>
+</RQ>
+<RQ id="1">
+<ResponseID id="2">pra127</ResponseID>
+<BaseQuestion id="2">What rights do I have if I participate in a clinical study?/Can I quit the clinical study at any time?/Will the risks/side effects be explained to me?</BaseQuestion>
+</RQ>
+<RQ id="2">
+<ResponseID id="3">pra130</ResponseID>
+<BaseQuestion id="3">If I say no to a trial now, can I change my mind later?</BaseQuestion>
+</RQ>
+<RQ id="3">
+<ResponseID id="4">pra132</ResponseID>
+<BaseQuestion id="4">How long do I have to make my decision?/How soon do I have to make my decision?</BaseQuestion>
+</RQ>
+</RQs>
+</Response>
+<Response id="pra130">
+<ResponseID id="0">pra130</ResponseID>
+<BaseQuestion id="0">If I say no to a trial now, can I change my mind later?</BaseQuestion>
+<Content id="0">If you decline to participate in a clinical study, you can change your mind later as long as the study is still accepting new patients. During the informed consent process, it is recommended that you discuss any concerns that you may have about the study with the clinical research team. You should also ask how long they plan to enroll study participants and if there will be an additional enrollment period at a later date. At no point should you feel pressured by the clinical research team to join the study. It should also be noted that if you enroll in the study and decide that you no longer wish to participate, you can withdraw at any time without penalty.</Content>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">pra124</ResponseID>
+<BaseQuestion id="1">What is informed consent?</BaseQuestion>
+</RQ>
+<RQ id="1">
+<ResponseID id="2">pra127</ResponseID>
+<BaseQuestion id="2">What rights do I have if I participate in a clinical study?/Can I quit the clinical study at any time?/Will the risks/side effects be explained to me?</BaseQuestion>
+</RQ>
+<RQ id="2">
+<ResponseID id="3">pra129</ResponseID>
+<BaseQuestion id="3">Can I get a second opinion before I decide to participate?</BaseQuestion>
+</RQ>
+<RQ id="3">
+<ResponseID id="4">pra131</ResponseID>
+<BaseQuestion id="4">Will there be other opportunities to participate in a clinical trial?/Where can I find out about studies for my condition?</BaseQuestion>
+</RQ>
+<RQ id="4">
+<ResponseID id="5">pra132</ResponseID>
+<BaseQuestion id="5">How long do I have to make my decision?/How soon do I have to make my decision?</BaseQuestion>
+</RQ>
+<RQ id="5">
+<ResponseID id="6">pra133</ResponseID>
+<BaseQuestion id="6">What will be the impact on the study if I decide not to participate? Will the study staff still proceed if I decide not to enroll?</BaseQuestion>
+</RQ>
+</RQs>
+</Response>
+<Response id="pra131">
+<ResponseID id="0">pra131</ResponseID>
+<BaseQuestion id="0">Will there be other opportunities to participate in a clinical trial?/Where can I find out about studies for my condition?</BaseQuestion>
+<Content id="0">It is difficult to say whether there will be other opportunities to participate in future clinical studies. Although new investigational drugs and devices are constantly moving through the clinical research process, there is no guarantee that you will be a good candidate for these studies. Clinical trials for many conditions are listed on ClinicalTrials.gov, a website sponsored by the U.S. National Institutes of Health.</Content>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">pra130</ResponseID>
+<BaseQuestion id="1">If I say no to a trial now, can I change my mind later?</BaseQuestion>
+</RQ>
+<RQ id="1">
+<ResponseID id="2">pra132</ResponseID>
+<BaseQuestion id="2">How long do I have to make my decision?/How soon do I have to make my decision?</BaseQuestion>
+</RQ>
+<RQ id="2">
+<ResponseID id="3">pra133</ResponseID>
+<BaseQuestion id="3">What will be the impact on the study if I decide not to participate? Will the study staff still proceed if I decide not to enroll?</BaseQuestion>
+</RQ>
+</RQs>
+</Response>
+<Response id="pra132">
+<ResponseID id="0">pra132</ResponseID>
+<BaseQuestion id="0">How long do I have to make my decision?/How soon do I have to make my decision?</BaseQuestion>
+<Content id="0">When you meet with your clinical research team, ask them how long you have to make a decision on whether or not to participate in the clinical study. In general, you can decide to participate at any time during the enrollment period, which for some studies is only a few months, but for others, can be years. At no point should you feel pressured by the research team to join the study.</Content>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">pra127</ResponseID>
+<BaseQuestion id="1">What rights do I have if I participate in a clinical study?/Can I quit the clinical study at any time?/Will the risks/side effects be explained to me?</BaseQuestion>
+</RQ>
+<RQ id="1">
+<ResponseID id="2">pra129</ResponseID>
+<BaseQuestion id="2">Can I get a second opinion before I decide to participate?</BaseQuestion>
+</RQ>
+<RQ id="2">
+<ResponseID id="3">pra130</ResponseID>
+<BaseQuestion id="3">If I say no to a trial now, can I change my mind later?</BaseQuestion>
+</RQ>
+<RQ id="3">
+<ResponseID id="4">pra131</ResponseID>
+<BaseQuestion id="4">Will there be other opportunities to participate in a clinical trial?/Where can I find out about studies for my condition?</BaseQuestion>
+</RQ>
+<RQ id="4">
+<ResponseID id="5">pra133</ResponseID>
+<BaseQuestion id="5">What will be the impact on the study if I decide not to participate? Will the study staff still proceed if I decide not to enroll?</BaseQuestion>
+</RQ>
+</RQs>
+</Response>
+<Response id="pra133">
+<ResponseID id="0">pra133</ResponseID>
+<BaseQuestion id="0">What will be the impact on the study if I decide not to participate? Will the study staff still proceed if I decide not to enroll?</BaseQuestion>
+<Content id="0">If you choose not to participate in the study, the study will still continue as planned.</Content>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">pra130</ResponseID>
+<BaseQuestion id="1">If I say no to a trial now, can I change my mind later?</BaseQuestion>
+</RQ>
+<RQ id="1">
+<ResponseID id="2">pra131</ResponseID>
+<BaseQuestion id="2">Will there be other opportunities to participate in a clinical trial?/Where can I find out about studies for my condition?</BaseQuestion>
+</RQ>
+<RQ id="2">
+<ResponseID id="3">pra132</ResponseID>
+<BaseQuestion id="3">How long do I have to make my decision?/How soon do I have to make my decision?</BaseQuestion>
+</RQ>
+</RQs>
+</Response>
+<Response id="pra138">
+<ResponseID id="0">pra138</ResponseID>
+<BaseQuestion id="0">Do my family/friends need to know that I'm participating in a clinical study?</BaseQuestion>
+<Content id="0">If you choose to participate in a clinical study, it is up to you if you would like to let your family and friends know of your decision. It can often be helpful to inform family or friends if you will need assistance during the study, such as obtaining transportation to and from clinical site visits or sticking to the treatment plan outlined in the study. You may wish to discuss this study with your family, friends, or your doctor before making your decision to participate.</Content>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">pra107</ResponseID>
+<BaseQuestion id="1">What is an Institutional Review Board / IRB / Ethics Committee (EC)?</BaseQuestion>
+</RQ>
+<RQ id="1">
+<ResponseID id="2">pra110</ResponseID>
+<BaseQuestion id="2">How are my rights protected while participating in a study?</BaseQuestion>
+</RQ>
+</RQs>
+</Response>
+<Response id="pra204">
+<ResponseID id="0">pra204</ResponseID>
+<BaseQuestion id="0">What are single-blind and double-blind studies?</BaseQuestion>
+<Content id="0">When discussing clinical studies, you might notice that they can also be referred to as "single-blind" or "double-blind."A single-blind study means that the investigators involved in the studies know whether the patient is getting the investigational drug, but the patient is not aware of what study treatment he or she is getting.In a double-blind study, neither the investigator nor the patient knows who is receiving the investigational drug."Blinding" the studies helps reduce the possibility that any intentional or unintentional biases are introduced into the study.</Content>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">pra104</ResponseID>
+<BaseQuestion id="1">What are the types of clinical trials?</BaseQuestion>
+</RQ>
+<RQ id="1">
+<ResponseID id="2">pra205</ResponseID>
+<BaseQuestion id="2">What is blinding?/Why is a study blinded?</BaseQuestion>
+</RQ>
+</RQs>
+</Response>
+<Response id="pra205">
+<ResponseID id="0">pra205</ResponseID>
+<BaseQuestion id="0">What is blinding?/Why is a study blinded?</BaseQuestion>
+<Content id="0">Often, clinical studies involve something called blinding, which means that the study participants, doctors, and researchers do not know which study treatment a study participant is receiving and therefore cannot affect the study results by introducing their bias about what study results will show.</Content>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">pra104</ResponseID>
+<BaseQuestion id="1">What are the types of clinical trials?</BaseQuestion>
+</RQ>
+<RQ id="1">
+<ResponseID id="2">pra204</ResponseID>
+<BaseQuestion id="2">What are single-blind and double-blind studies?</BaseQuestion>
+</RQ>
+</RQs>
+</Response>
+<Response id="pra206">
+<ResponseID id="0">pra206</ResponseID>
+<BaseQuestion id="0">What are the risks of my participation in a clinical study?</BaseQuestion>
+<Content id="0">All clinical studies have risks. The risks may include things that could make you sick, make you feel uncomfortable, or harm you. Any known risks will be discussed during the consent process, but there is always a possibility of unknown risks. You might experience negative effects related to the study medication while you are participating in the study. All participants will be monitored carefully by the study team for any negative effects.</Content>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">pra117</ResponseID>
+<BaseQuestion id="1">What are the benefits of participating in a clinical study?</BaseQuestion>
+</RQ>
+<RQ id="1">
+<ResponseID id="2">pra127</ResponseID>
+<BaseQuestion id="2">What rights do I have if I participate in a clinical study?/Can I quit the clinical study at any time?/Will the risks/side effects be explained to me?</BaseQuestion>
+</RQ>
+</RQs>
+</Response>
+<Response id="pra207">
+<ResponseID id="0">pra207</ResponseID>
+<BaseQuestion id="0">How can I find clinical trials?</BaseQuestion>
+<Content id="0">To find Pfizer clinical trials that are seeking participants, please visit 
+<![CDATA[<a href="http://www.pfizer.com/research/clinical_trials" target="_blank">http://www.pfizer.com/research/clinical_trials</a>]]>
+. In addition, clinical trials for many conditions are listed on 
+<![CDATA[<a href="http://ClinicalTrials.gov" target="_blank">http://ClinicalTrials.gov</a>]]>
+, a website sponsored by the U.S. National Institutes of Health.</Content>
+<RQs>
+<RQ id="0">
+<ResponseID id="1">pra005</ResponseID>
+<BaseQuestion id="1">Introduction to the program</BaseQuestion>
+</RQ>
+<RQ id="1">
+<ResponseID id="2">pra008</ResponseID>
+<BaseQuestion id="2">Contact information</BaseQuestion>
+</RQ>
+</RQs>
+</Response>
+<Response id="no">
+<ResponseID id="0">no</ResponseID>
+<BaseQuestion id="0">No (this should NOT be sent to PRA)</BaseQuestion>
+<Content id="0"></Content>
+</Response>
+<Response id="prao001">
+<ResponseID id="0">prao001</ResponseID>
+<BaseQuestion id="0">Offtopic (NULL) response (this should be sent to PRA)</BaseQuestion>
+<Content id="0"></Content>
+</Response>
+<Response id="prao002">
+<ResponseID id="0">prao002</ResponseID>
+<BaseQuestion id="0">Shame response</BaseQuestion>
+<Content id="0"></Content>
+</Response>
+<Response id="prao003">
+<ResponseID id="0">prao003</ResponseID>
+<BaseQuestion id="0">Multianswer response</BaseQuestion>
+<Content id="0"></Content>
+</Response>
+<Response id="prao004">
+<ResponseID id="0">prao004</ResponseID>
+<BaseQuestion id="0">Word count response</BaseQuestion>
+<Content id="0"></Content>
+</Response>
+</xml>
